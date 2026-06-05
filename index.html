@@ -211,9 +211,10 @@ const GITHUB_FILE        = 'assignments.json';
 const SAVE_PASSWORD = 'TagTacticaltrophy2026@!';
 
 // ── State ──
-const colTagMap  = {};   // tag_value → [col_handle, ...]
-const assignments = {};  // product_handle → Set(col_handle)
-const flagged    = new Set();  // product_handle → gemarkeerd voor review
+const colTagMap      = {};   // tag_value → [col_handle, ...]
+const assignments    = {};   // product_handle → Set(col_handle)
+const flagged        = new Set();  // gemarkeerde product_handles
+const _handleVersions = {};  // product_handle → timestamp laatste lokale wijziging
 let selectedHandle  = null;
 let productFilter   = '';
 let supplierFilter  = '';
@@ -231,8 +232,12 @@ function init() {
     }
   }
 
-  // Load flagged handles from localStorage
+  // Load flagged handles en handle-versies uit localStorage
   loadFlagsLocal();
+  try {
+    const hv = JSON.parse(localStorage.getItem('tt-hv-v1') || '{}');
+    Object.assign(_handleVersions, hv);
+  } catch(e) {}
 
   // Load saved state from localStorage, fall back to existing CSV tags
   const saved = loadSaved();
@@ -490,6 +495,8 @@ function toggleCol(colHandle) {
   if (!selectedHandle) return;
   const set = assignments[selectedHandle];
   set.has(colHandle) ? set.delete(colHandle) : set.add(colHandle);
+  _handleVersions[selectedHandle] = Date.now();
+  saveHandleVersions();
   save();
   renderStats();
   renderList();
@@ -499,6 +506,8 @@ function toggleCol(colHandle) {
 function clearSelection() {
   if (!selectedHandle) return;
   assignments[selectedHandle].clear();
+  _handleVersions[selectedHandle] = Date.now();
+  saveHandleVersions();
   save();
   renderStats();
   renderList();
@@ -563,15 +572,11 @@ function toggleFlag(handle, e) {
 
 // ── Persist ──
 function save() {
-  const v = Date.now();
   const data = {};
   for (const [h, set] of Object.entries(assignments)) {
     if (set.size > 0) data[h] = [...set];
   }
-  try {
-    localStorage.setItem('tt-tag-v1', JSON.stringify(data));
-    localStorage.setItem('tt-ver-v1', String(v));
-  } catch(e) {}
+  try { localStorage.setItem('tt-tag-v1', JSON.stringify(data)); } catch(e) {}
   scheduleGitHubSave();
 }
 
@@ -579,8 +584,8 @@ function loadSaved() {
   try { return JSON.parse(localStorage.getItem('tt-tag-v1') || '{}'); } catch { return {}; }
 }
 
-function localVersion() {
-  try { return parseInt(localStorage.getItem('tt-ver-v1') || '0'); } catch { return 0; }
+function saveHandleVersions() {
+  try { localStorage.setItem('tt-hv-v1', JSON.stringify(_handleVersions)); } catch(e) {}
 }
 
 function saveFlagsLocal() {
@@ -605,9 +610,8 @@ function scheduleGitHubSave() {
 }
 
 async function saveToGitHub() {
-  // Bouw data: version + product-assignments + _flags
-  const v = localVersion() || Date.now();
-  const data = { _version: v, _flags: [...flagged] };
+  // Bouw data: handle-versies + flags + product-assignments
+  const data = { _handle_versions: {..._handleVersions}, _flags: [...flagged] };
   for (const [h, set] of Object.entries(assignments)) {
     if (set.size > 0) data[h] = [...set];
   }
@@ -703,43 +707,36 @@ async function syncFromGitHub() {
     if (!res.ok) { showSyncStatus('', ''); return; }
     const ghData = await res.json();
     let changed = false;
-    const ghVersion  = ghData._version;          // undefined = oud formaat zonder versie
-    const myVersion  = localVersion();            // 0 = nooit lokaal opgeslagen
-    const ghIsNewer  = ghVersion === undefined || ghVersion > myVersion;
+    const ghHV = ghData._handle_versions || {};  // per-product tijdstempels van GitHub
 
-    // Vlaggen: als GitHub nieuwer is → vervang; anders merge (lokale vlaggen bewaren)
+    // Vlaggen: merge (unie van lokaal en GitHub)
     if (Array.isArray(ghData._flags)) {
-      if (ghIsNewer) {
-        flagged.clear();
-        ghData._flags.forEach(hh => flagged.add(hh));
-      } else {
-        ghData._flags.forEach(hh => flagged.add(hh));
-      }
-      saveFlagsLocal();
-      changed = true;
+      ghData._flags.forEach(hh => { if (!flagged.has(hh)) { flagged.add(hh); changed = true; } });
+      if (changed) saveFlagsLocal();
     }
 
-    // Assignments: GitHub overschrijft lokaal alleen als GitHub een nieuwere versie heeft
-    if (ghIsNewer) {
-      for (const p of PRODUCTS) {
-        if (ghData[p.handle] !== undefined) {
-          const newSet = new Set(ghData[p.handle]);
-          const cur = assignments[p.handle];
-          const same = newSet.size === cur.size && [...newSet].every(x => cur.has(x));
-          if (!same) { assignments[p.handle] = newSet; changed = true; }
-        }
+    // Assignments: per product — wie als laatste heeft opgeslagen wint
+    for (const p of PRODUCTS) {
+      if (ghData[p.handle] === undefined) continue;
+      const ghT = ghHV[p.handle] || 0;   // tijdstempel GitHub voor dit product
+      const myT = _handleVersions[p.handle] || 0;  // tijdstempel lokaal voor dit product
+      if (ghT >= myT) {  // GitHub is nieuwer of gelijk → neem GitHub-data
+        const newSet = new Set(ghData[p.handle]);
+        const cur = assignments[p.handle];
+        const same = newSet.size === cur.size && [...newSet].every(x => cur.has(x));
+        if (!same) { assignments[p.handle] = newSet; changed = true; }
+        // Sync ook de tijdstempel lokaal zodat we weten dat GitHub al up-to-date is
+        if (ghT > myT) { _handleVersions[p.handle] = ghT; }
       }
-      if (ghIsNewer) {
-        try {
-          const d = {};
-          for (const [h,s] of Object.entries(assignments)) if(s.size>0) d[h]=[...s];
-          localStorage.setItem('tt-tag-v1', JSON.stringify(d));
-          localStorage.setItem('tt-ver-v1', String(ghVersion));
-        } catch(e) {}
-      }
+      // myT > ghT → lokale versie is nieuwer → behoud lokaal, niet overschrijven
     }
-
     if (changed) {
+      try {
+        const d = {};
+        for (const [h,s] of Object.entries(assignments)) if(s.size>0) d[h]=[...s];
+        localStorage.setItem('tt-tag-v1', JSON.stringify(d));
+        saveHandleVersions();
+      } catch(e) {}
       renderStats(); renderList();
       if (selectedHandle) renderCollections();
     }
