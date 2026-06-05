@@ -1,7 +1,8 @@
 {
   "_handle_versions": {
     "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": 1780691340226,
-    "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": 1780691385616
+    "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": 1780691385616,
+    "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": 1780691396104
   },
   "_flags": [
     "wallet-with-patch-panel-elite-genii-3184",
@@ -103,7 +104,8 @@
     "batterijen"
   ],
   "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": [
-    "airsoft-diversen"
+    "airsoft-diversen",
+    "batterijen"
   ],
   "batterij-nuprol-lipo-11-1v-2200mah-triplet-t-plug-deans": [
     "airsoft-diversen"
