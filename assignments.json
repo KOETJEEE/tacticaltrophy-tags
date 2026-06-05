@@ -1,6 +1,6 @@
 {
   "_handle_versions": {
-    "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": 1780691328538
+    "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": 1780691338130
   },
   "_flags": [
     "wallet-with-patch-panel-elite-genii-3184",
@@ -90,7 +90,9 @@
     "observatie-accessoires"
   ],
   "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": [
-    "airsoft-diversen"
+    "airsoft-diversen",
+    "batterijen",
+    "airsoft-diversen-1"
   ],
   "batterij-nuprol-lipo-11-1v-1100mah-stick": [
     "airsoft-diversen",
