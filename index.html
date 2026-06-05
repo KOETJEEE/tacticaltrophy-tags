@@ -576,22 +576,51 @@ async function triggerRefreshWorkflow() {
   showSyncStatus('Workflow starten…', '#94a3b8');
   try {
     const token = WORKFLOW_TOKEN;
+    const hdrs = { Authorization:'Bearer '+token, 'Content-Type':'application/json' };
+    const triggerTime = new Date().toISOString();
     const res = await fetch(
       'https://api.github.com/repos/KOETJEEE/TacticalTrophy-Feed/actions/workflows/update_tag_tool.yml/dispatches',
-      { method:'POST',
-        headers:{ Authorization:'Bearer '+token, 'Content-Type':'application/json' },
-        body: JSON.stringify({ ref:'main' }) }
+      { method:'POST', headers: hdrs, body: JSON.stringify({ ref:'main' }) }
     );
-    if (res.status === 204) {
-      showSyncStatus('✓ Workflow gestart (~2 min)', '#16a34a');
-      btn.textContent = '✓ Gestart';
-      setTimeout(() => { btn.disabled=false; btn.textContent='🔄 Ververs tool'; }, 15000);
-    } else {
-      const msg = await res.text();
+    if (res.status !== 204) {
       showSyncStatus('⚠ Fout ' + res.status, '#f87171');
-      console.error(msg);
       btn.disabled = false; btn.textContent = '🔄 Ververs tool';
+      return;
     }
+    showSyncStatus('⏳ Workflow loopt…', '#94a3b8');
+    btn.textContent = '⏳ Loopt…';
+    // Wacht 5s zodat GitHub de run aanmaakt
+    await new Promise(r => setTimeout(r, 5000));
+    // Poll tot run klaar is
+    let attempts = 0;
+    while (attempts++ < 30) {
+      await new Promise(r => setTimeout(r, 10000));
+      try {
+        const runsRes = await fetch(
+          'https://api.github.com/repos/KOETJEEE/TacticalTrophy-Feed/actions/workflows/update_tag_tool.yml/runs?per_page=1',
+          { headers: hdrs }
+        );
+        if (!runsRes.ok) continue;
+        const runs = await runsRes.json();
+        const run = runs.workflow_runs?.[0];
+        if (!run || run.created_at < triggerTime) continue;
+        const elapsed = Math.round((Date.now() - new Date(run.created_at)) / 1000);
+        if (run.status === 'completed') {
+          if (run.conclusion === 'success') {
+            showSyncStatus('✓ Klaar! Pagina herladen…', '#16a34a');
+            btn.textContent = '✓ Klaar';
+            setTimeout(() => location.reload(), 2000);
+          } else {
+            showSyncStatus('⚠ Workflow mislukt', '#f87171');
+            btn.disabled = false; btn.textContent = '🔄 Ververs tool';
+          }
+          return;
+        }
+        showSyncStatus(`⏳ Loopt… (${elapsed}s)`, '#94a3b8');
+      } catch(e) { /* blijf proberen */ }
+    }
+    showSyncStatus('⚠ Timeout — herlaad handmatig', '#f87171');
+    btn.disabled = false; btn.textContent = '🔄 Ververs tool';
   } catch(e) {
     showSyncStatus('⚠ Geen verbinding', '#f87171');
     btn.disabled = false; btn.textContent = '🔄 Ververs tool';
