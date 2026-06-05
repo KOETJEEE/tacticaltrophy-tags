@@ -211,10 +211,10 @@ const GITHUB_FILE        = 'assignments.json';
 const SAVE_PASSWORD = 'TagTacticaltrophy2026@!';
 
 // ── State ──
-const colTagMap      = {};   // tag_value → [col_handle, ...]
-const assignments    = {};   // product_handle → Set(col_handle)
-const flagged        = new Set();  // gemarkeerde product_handles
-const _handleVersions = {};  // product_handle → timestamp laatste lokale wijziging
+const colTagMap   = {};   // tag_value → [col_handle, ...]
+const assignments = {};   // product_handle → Set(col_handle)
+const flagged     = new Set();   // gemarkeerde product_handles
+const _dirty      = new Set();   // handles gewijzigd in deze sessie (in-memory, reset bij reload)
 let selectedHandle  = null;
 let productFilter   = '';
 let supplierFilter  = '';
@@ -232,12 +232,8 @@ function init() {
     }
   }
 
-  // Load flagged handles en handle-versies uit localStorage
+  // Load flagged handles uit localStorage
   loadFlagsLocal();
-  try {
-    const hv = JSON.parse(localStorage.getItem('tt-hv-v1') || '{}');
-    Object.assign(_handleVersions, hv);
-  } catch(e) {}
 
   // Load saved state from localStorage, fall back to existing CSV tags
   const saved = loadSaved();
@@ -495,8 +491,7 @@ function toggleCol(colHandle) {
   if (!selectedHandle) return;
   const set = assignments[selectedHandle];
   set.has(colHandle) ? set.delete(colHandle) : set.add(colHandle);
-  _handleVersions[selectedHandle] = Date.now();
-  saveHandleVersions();
+  _dirty.add(selectedHandle);
   save();
   renderStats();
   renderList();
@@ -506,8 +501,7 @@ function toggleCol(colHandle) {
 function clearSelection() {
   if (!selectedHandle) return;
   assignments[selectedHandle].clear();
-  _handleVersions[selectedHandle] = Date.now();
-  saveHandleVersions();
+  _dirty.add(selectedHandle);
   save();
   renderStats();
   renderList();
@@ -584,10 +578,6 @@ function loadSaved() {
   try { return JSON.parse(localStorage.getItem('tt-tag-v1') || '{}'); } catch { return {}; }
 }
 
-function saveHandleVersions() {
-  try { localStorage.setItem('tt-hv-v1', JSON.stringify(_handleVersions)); } catch(e) {}
-}
-
 function saveFlagsLocal() {
   try { localStorage.setItem('tt-flags-v1', JSON.stringify([...flagged])); } catch(e) {}
 }
@@ -610,8 +600,8 @@ function scheduleGitHubSave() {
 }
 
 async function saveToGitHub() {
-  // Bouw data: handle-versies + flags + product-assignments
-  const data = { _handle_versions: {..._handleVersions}, _flags: [...flagged] };
+  // Bouw data: flags + product-assignments
+  const data = { _flags: [...flagged] };
   for (const [h, set] of Object.entries(assignments)) {
     if (set.size > 0) data[h] = [...set];
   }
@@ -630,6 +620,7 @@ async function saveToGitHub() {
     });
     if (res.ok) {
       _ghSha = (await res.json()).content.sha;
+      _dirty.clear();  // succesvol opgeslagen → niet meer dirty
       showSyncStatus('✓ Opgeslagen', '#4ade80');
     } else {
       showSyncStatus('⚠ Opslaan mislukt', '#f87171');
@@ -712,7 +703,6 @@ async function syncFromGitHub() {
     const ghData = JSON.parse(decodeURIComponent(escape(atob(fileMeta.content.replace(/
 /g, '')))));
     let changed = false;
-    const ghHV = ghData._handle_versions || {};  // per-product tijdstempels van GitHub
 
     // Vlaggen: merge (unie van lokaal en GitHub)
     if (Array.isArray(ghData._flags)) {
@@ -720,27 +710,21 @@ async function syncFromGitHub() {
       if (changed) saveFlagsLocal();
     }
 
-    // Assignments: per product — wie als laatste heeft opgeslagen wint
+    // Assignments: altijd GitHub nemen, behalve handles die in déze sessie zijn gewijzigd
+    // _dirty wordt leeggemaakt na een succesvolle save, dus na een save zijn alle handles vrij
     for (const p of PRODUCTS) {
+      if (_dirty.has(p.handle)) continue;  // pas gewijzigd, wacht op save
       if (ghData[p.handle] === undefined) continue;
-      const ghT = ghHV[p.handle] || 0;   // tijdstempel GitHub voor dit product
-      const myT = _handleVersions[p.handle] || 0;  // tijdstempel lokaal voor dit product
-      if (ghT >= myT) {  // GitHub is nieuwer of gelijk → neem GitHub-data
-        const newSet = new Set(ghData[p.handle]);
-        const cur = assignments[p.handle];
-        const same = newSet.size === cur.size && [...newSet].every(x => cur.has(x));
-        if (!same) { assignments[p.handle] = newSet; changed = true; }
-        // Sync ook de tijdstempel lokaal zodat we weten dat GitHub al up-to-date is
-        if (ghT > myT) { _handleVersions[p.handle] = ghT; }
-      }
-      // myT > ghT → lokale versie is nieuwer → behoud lokaal, niet overschrijven
+      const newSet = new Set(ghData[p.handle]);
+      const cur = assignments[p.handle];
+      const same = newSet.size === cur.size && [...newSet].every(x => cur.has(x));
+      if (!same) { assignments[p.handle] = newSet; changed = true; }
     }
     if (changed) {
       try {
         const d = {};
         for (const [h,s] of Object.entries(assignments)) if(s.size>0) d[h]=[...s];
         localStorage.setItem('tt-tag-v1', JSON.stringify(d));
-        saveHandleVersions();
       } catch(e) {}
       renderStats(); renderList();
       if (selectedHandle) renderCollections();
