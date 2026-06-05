@@ -563,16 +563,24 @@ function toggleFlag(handle, e) {
 
 // ── Persist ──
 function save() {
+  const v = Date.now();
   const data = {};
   for (const [h, set] of Object.entries(assignments)) {
     if (set.size > 0) data[h] = [...set];
   }
-  try { localStorage.setItem('tt-tag-v1', JSON.stringify(data)); } catch(e) {}
+  try {
+    localStorage.setItem('tt-tag-v1', JSON.stringify(data));
+    localStorage.setItem('tt-ver-v1', String(v));
+  } catch(e) {}
   scheduleGitHubSave();
 }
 
 function loadSaved() {
   try { return JSON.parse(localStorage.getItem('tt-tag-v1') || '{}'); } catch { return {}; }
+}
+
+function localVersion() {
+  try { return parseInt(localStorage.getItem('tt-ver-v1') || '0'); } catch { return 0; }
 }
 
 function saveFlagsLocal() {
@@ -597,8 +605,9 @@ function scheduleGitHubSave() {
 }
 
 async function saveToGitHub() {
-  // Bouw data: product-assignments + _flags (gemarkeerde handles)
-  const data = { _flags: [...flagged] };
+  // Bouw data: version + product-assignments + _flags
+  const v = localVersion() || Date.now();
+  const data = { _version: v, _flags: [...flagged] };
   for (const [h, set] of Object.entries(assignments)) {
     if (set.size > 0) data[h] = [...set];
   }
@@ -694,26 +703,43 @@ async function syncFromGitHub() {
     if (!res.ok) { showSyncStatus('', ''); return; }
     const ghData = await res.json();
     let changed = false;
+    const ghVersion  = ghData._version || 0;
+    const myVersion  = localVersion();
+    const ghIsNewer  = ghVersion > myVersion;
 
-    // Vlaggen: merge GitHub → lokaal (nooit lokale vlaggen wissen)
+    // Vlaggen: als GitHub nieuwer is → vervang; anders merge (lokale vlaggen bewaren)
     if (Array.isArray(ghData._flags)) {
-      ghData._flags.forEach(hh => { if (!flagged.has(hh)) { flagged.add(hh); changed = true; } });
-      if (changed) saveFlagsLocal();
+      if (ghIsNewer) {
+        flagged.clear();
+        ghData._flags.forEach(hh => flagged.add(hh));
+      } else {
+        ghData._flags.forEach(hh => flagged.add(hh));
+      }
+      saveFlagsLocal();
+      changed = true;
     }
 
-    // Assignments: alleen updaten als product NIET in localStorage staat
-    // (lokale wijzigingen gaan altijd voor GitHub-data)
-    const saved = loadSaved();
-    for (const p of PRODUCTS) {
-      if (ghData[p.handle] !== undefined && saved[p.handle] === undefined) {
-        const newSet = new Set(ghData[p.handle]);
-        const cur = assignments[p.handle];
-        const same = newSet.size === cur.size && [...newSet].every(x => cur.has(x));
-        if (!same) { assignments[p.handle] = newSet; changed = true; }
+    // Assignments: GitHub overschrijft lokaal alleen als GitHub een nieuwere versie heeft
+    if (ghIsNewer) {
+      for (const p of PRODUCTS) {
+        if (ghData[p.handle] !== undefined) {
+          const newSet = new Set(ghData[p.handle]);
+          const cur = assignments[p.handle];
+          const same = newSet.size === cur.size && [...newSet].every(x => cur.has(x));
+          if (!same) { assignments[p.handle] = newSet; changed = true; }
+        }
+      }
+      if (ghIsNewer) {
+        try {
+          const d = {};
+          for (const [h,s] of Object.entries(assignments)) if(s.size>0) d[h]=[...s];
+          localStorage.setItem('tt-tag-v1', JSON.stringify(d));
+          localStorage.setItem('tt-ver-v1', String(ghVersion));
+        } catch(e) {}
       }
     }
+
     if (changed) {
-      try { const d={}; for(const[h,s] of Object.entries(assignments)) if(s.size>0) d[h]=[...s]; localStorage.setItem('tt-tag-v1',JSON.stringify(d)); } catch(e) {}
       renderStats(); renderList();
       if (selectedHandle) renderCollections();
     }
