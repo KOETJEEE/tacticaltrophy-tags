@@ -47,11 +47,19 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .empty-state{padding:24px;text-align:center;color:#94a3b8;font-size:.85rem}
 
 /* ── Product card ── */
-.pcard{display:flex;align-items:flex-start;gap:9px;padding:9px 10px;cursor:pointer;border-bottom:1px solid #f1f5f9;transition:background .1s;user-select:none}
+.pcard{position:relative;display:flex;align-items:flex-start;gap:9px;padding:9px 10px;cursor:pointer;border-bottom:1px solid #f1f5f9;transition:background .1s;user-select:none}
 .pnum{color:#94a3b8;font-size:.75rem;font-weight:500;margin-right:2px}
 .pcard:hover{background:#f8fafc}
 .pcard.selected{background:#eff6ff;border-left:3px solid #3b82f6}
+.pcard.flagged{background:#fffbeb}
+.pcard.flagged.selected{background:#fef3c7;border-left:3px solid #f59e0b}
 .pcard.dragging{opacity:.4}
+.pflag{position:absolute;top:5px;right:6px;background:none;border:none;font-size:.8rem;cursor:pointer;opacity:.2;padding:2px 3px;line-height:1;border-radius:4px;transition:opacity .15s,background .1s;z-index:1}
+.pflag:hover{opacity:.7;background:#f1f5f9}
+.pflag.active{opacity:1}
+#flag-filter-btn{padding:6px 10px;border:1px solid #d1d5db;border-radius:7px;background:#fff;font-size:.8rem;cursor:pointer;white-space:nowrap;color:#374151}
+#flag-filter-btn:hover{background:#fffbeb;border-color:#fbbf24}
+#flag-filter-btn.active{background:#fef3c7;border-color:#f59e0b;color:#92400e;font-weight:600}
 .pdot{width:9px;height:9px;border-radius:50%;margin-top:5px;flex-shrink:0}
 .pdot.r{background:#ef4444}
 .pdot.g{background:#22c55e}
@@ -122,7 +130,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <option value="Krale">Krale</option>
       <option value="Benel">Benel</option>
       <option value="MTAC">MTAC</option>
+      <option value="Frankonia">Frankonia</option>
     </select>
+    <button id="flag-filter-btn">🚩 Gemarkeerd</button>
     <span id="sync-status"></span>
     <button id="sync-btn">☁️ Opslaan</button>
     <button id="refresh-btn">🔄 Ververs tool</button>
@@ -197,15 +207,18 @@ const SECTIONS    = {"wapen-accessoires": [{"header": "Steun & grip", "items": [
 const GITHUB_TOKEN   = ['github_pat_1','1CDIA6TY0Kmy','c6Sp8e99m_NU','UtmWim2G2txk','Q40qtr8FgPwx','4ux9Of9ZU2Fl','J9sF14FGO57M','Dt06QhlRS'].join('');
 const WORKFLOW_TOKEN = ['github_pat_1','1CDIA6TY0sI4','rwsb0ezGt_Nm','Z47fOHeC5PaF','fIRba89bPZwJ','3IvskKhJidc8','QW3MW57J2KSE','Z2CpcP7p7'].join('');
 const GITHUB_REPO  = 'KOETJEEE/tacticaltrophy-tags';
-const GITHUB_FILE  = 'assignments.json';
+const GITHUB_FILE        = 'assignments.json';
+const GITHUB_FLAGS_FILE  = 'flags.json';
 const SAVE_PASSWORD = 'TagTacticaltrophy2026@!';
 
 // ── State ──
 const colTagMap  = {};   // tag_value → [col_handle, ...]
 const assignments = {};  // product_handle → Set(col_handle)
+const flagged    = new Set();  // product_handle → gemarkeerd voor review
 let selectedHandle  = null;
 let productFilter   = '';
 let supplierFilter  = '';
+let flagFilter      = false;
 let dragHandle      = null;
 let activeCat       = '';
 
@@ -218,6 +231,9 @@ function init() {
       colTagMap[tag].push(col.handle);
     }
   }
+
+  // Load flagged handles from localStorage
+  loadFlagsLocal();
 
   // Load saved state from localStorage, fall back to existing CSV tags
   const saved = loadSaved();
@@ -248,6 +264,11 @@ function init() {
   document.getElementById('export-btn').addEventListener('click', exportCSV);
   document.getElementById('sync-btn').addEventListener('click', saveToGitHub);
   document.getElementById('refresh-btn').addEventListener('click', triggerRefreshWorkflow);
+  document.getElementById('flag-filter-btn').addEventListener('click', () => {
+    flagFilter = !flagFilter;
+    document.getElementById('flag-filter-btn').classList.toggle('active', flagFilter);
+    renderList();
+  });
   document.getElementById('pw-submit').addEventListener('click', checkPassword);
   document.getElementById('pw-input').addEventListener('keydown', e => { if (e.key === 'Enter') checkPassword(); });
   document.getElementById('prev-btn').addEventListener('click', () => stepProduct(-1));
@@ -286,14 +307,17 @@ function renderStats() {
   for (const p of PRODUCTS) {
     assignments[p.handle].size > 0 ? tagged++ : untagged++;
   }
+  const flagCount = flagged.size;
+  const flagPart = flagCount > 0 ? ` &nbsp; <span style="color:#f59e0b">🚩</span> ${flagCount} gemarkeerd` : '';
   document.getElementById('stats').innerHTML =
-    `<span class="stat-r">●</span> ${untagged} ongetagd &nbsp; <span class="stat-g">●</span> ${tagged} getagd`;
+    `<span class="stat-r">●</span> ${untagged} ongetagd &nbsp; <span class="stat-g">●</span> ${tagged} getagd${flagPart}`;
 }
 
 function visibleProducts() {
   const f = productFilter.toLowerCase();
   const s = supplierFilter;
   return PRODUCTS.filter(p =>
+    (!flagFilter || flagged.has(p.handle)) &&
     (!s || p.supplier === s) &&
     (!f || p.title.toLowerCase().includes(f))
   );
@@ -321,7 +345,8 @@ function renderList() {
     const imgTag = p.image
       ? `<img class="pthumb" src="${h(p.image)}" loading="lazy" alt="" onerror="this.style.display='none'">`
       : `<div class="pthumb-ph">📦</div>`;
-    return `<div class="pcard${sel?' selected':''}"
+    const isFlagged = flagged.has(p.handle);
+    return `<div class="pcard${sel?' selected':''}${isFlagged?' flagged':''}"
       data-handle="${h(p.handle)}"
       draggable="true"
       ondragstart="onDragStart(event,'${j(p.handle)}')"
@@ -335,6 +360,7 @@ function renderList() {
         ${colNames ? `<div class="pcols">${h(colNames)}</div>` : ''}
         ${catTagStr ? `<div class="pcattags">+&nbsp;${h(catTagStr)}</div>` : ''}
       </div>
+      <button class="pflag${isFlagged?' active':''}" onclick="toggleFlag('${j(p.handle)}',event)" title="Markeer voor review">🚩</button>
     </div>`;
   }).join('');
 }
@@ -518,6 +544,16 @@ function onDropBtn(e, colHandle) {
   renderCollections();
 }
 
+function toggleFlag(handle, e) {
+  e.stopPropagation();
+  if (flagged.has(handle)) flagged.delete(handle);
+  else flagged.add(handle);
+  saveFlagsLocal();
+  scheduleGitHubSave();
+  renderList();
+  renderStats();
+}
+
 // ── Persist ──
 function save() {
   const data = {};
@@ -532,9 +568,21 @@ function loadSaved() {
   try { return JSON.parse(localStorage.getItem('tt-tag-v1') || '{}'); } catch { return {}; }
 }
 
+function saveFlagsLocal() {
+  try { localStorage.setItem('tt-flags-v1', JSON.stringify([...flagged])); } catch(e) {}
+}
+
+function loadFlagsLocal() {
+  try {
+    const arr = JSON.parse(localStorage.getItem('tt-flags-v1') || '[]');
+    arr.forEach(h => flagged.add(h));
+  } catch(e) {}
+}
+
 // ── GitHub sync ──
 let _ghTimer = null;
 let _ghSha   = null;
+let _flagsSha = null;
 
 function scheduleGitHubSave() {
   if (!GITHUB_TOKEN) return;
@@ -562,10 +610,25 @@ async function saveToGitHub() {
     });
     if (res.ok) {
       _ghSha = (await res.json()).content.sha;
-      showSyncStatus('✓ Opgeslagen', '#4ade80');
     } else {
       showSyncStatus('⚠ Opslaan mislukt', '#f87171');
+      return;
     }
+
+    // Sla ook flags.json op
+    const flagsContent = btoa(unescape(encodeURIComponent(JSON.stringify([...flagged], null, 2))));
+    if (!_flagsSha) {
+      const fr = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FLAGS_FILE}`, {headers: hdrs});
+      if (fr.ok) _flagsSha = (await fr.json()).sha;
+    }
+    const flagsBody = {message: `flags ${new Date().toISOString().slice(0,16)}`, content: flagsContent};
+    if (_flagsSha) flagsBody.sha = _flagsSha;
+    const flagsRes = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FLAGS_FILE}`, {
+      method: 'PUT', headers: {...hdrs, 'Content-Type': 'application/json'}, body: JSON.stringify(flagsBody)
+    });
+    if (flagsRes.ok) _flagsSha = (await flagsRes.json()).content.sha;
+
+    showSyncStatus('✓ Opgeslagen', '#4ade80');
   } catch(e) { showSyncStatus('⚠ Geen verbinding', '#f87171'); }
 }
 
@@ -649,6 +712,21 @@ async function syncFromGitHub() {
     }
     if (changed) {
       try { const d={}; for(const[h,s] of Object.entries(assignments)) if(s.size>0) d[h]=[...s]; localStorage.setItem('tt-tag-v1',JSON.stringify(d)); } catch(e) {}
+    }
+
+    // Sync flags.json
+    try {
+      const flagsRes = await fetch(`https://raw.githubusercontent.com/${GITHUB_REPO}/main/${GITHUB_FLAGS_FILE}?t=${Date.now()}`);
+      if (flagsRes.ok) {
+        const flagsData = await flagsRes.json();
+        flagged.clear();
+        flagsData.forEach(hh => flagged.add(hh));
+        saveFlagsLocal();
+        changed = true;
+      }
+    } catch(e) { /* flags niet beschikbaar, gebruik localStorage */ }
+
+    if (changed) {
       renderStats(); renderList();
       if (selectedHandle) renderCollections();
     }
