@@ -369,7 +369,7 @@ const CAT_LABELS = {
   'jacht':'Jacht','schietsport':'Schietsport','optiek':'Optiek','kleding':'Kleding',
   'wapen-accessoires':'Wapen toebehoren','tactical-gear':'Tactical Gear',
   'messen':'Messen & Bijlen','onderhoud':'Onderhoud','herladen':'Herladen',
-  'survival':'Survival','overig':'Overig'
+  'survival':'Survival','airsoft':'Airsoft','overig':'Overig'
 };
 
 function colBtn(c, assigned) {
@@ -428,7 +428,7 @@ function renderCollections() {
 }
 
 function renderCatTabs() {
-  const CAT_ORDER = ['jacht','schietsport','optiek','kleding','wapen-accessoires','tactical-gear','messen','onderhoud','herladen','survival'];
+  const CAT_ORDER = ['jacht','schietsport','optiek','kleding','wapen-accessoires','tactical-gear','messen','onderhoud','herladen','survival','airsoft'];
   let html = `<button class="cat-tab${activeCat===''?' active':''}" onclick="setTab('')">Alle</button>`;
   for (const cat of CAT_ORDER) {
     const count = COLLECTIONS.filter(c => c.cats.includes(cat)).length;
