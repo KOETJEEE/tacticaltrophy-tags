@@ -703,9 +703,14 @@ async function triggerRefreshWorkflow() {
 async function syncFromGitHub() {
   showSyncStatus('⟳ Laden…', '#94a3b8');
   try {
-    const res = await fetch(`https://raw.githubusercontent.com/${GITHUB_REPO}/main/${GITHUB_FILE}?t=${Date.now()}`);
+    // Gebruik GitHub API (nooit gecached) i.p.v. raw CDN
+    const hdrs2 = {'Authorization': `token ${GITHUB_TOKEN}`, 'Accept': 'application/vnd.github.v3+json'};
+    const res = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FILE}`, {headers: hdrs2});
     if (!res.ok) { showSyncStatus('', ''); return; }
-    const ghData = await res.json();
+    const fileMeta = await res.json();
+    _ghSha = fileMeta.sha;  // meteen bijwerken zodat volgende save geen extra GET nodig heeft
+    const ghData = JSON.parse(decodeURIComponent(escape(atob(fileMeta.content.replace(/
+/g, '')))));
     let changed = false;
     const ghHV = ghData._handle_versions || {};  // per-product tijdstempels van GitHub
 
