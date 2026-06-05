@@ -1,7 +1,5 @@
 {
-  "_flags": [
-    "tactical-bag-shoulder-chest-pack-with-sling-152"
-  ],
+  "_flags": [],
   "agm-sioux850-long-range-infraroodstraler-850nm1000mw-121100": [
     "persluchtflessen"
   ],
@@ -12848,7 +12846,8 @@
     "horloges"
   ],
   "watch-cap-polartec-4778": [
-    "horloges"
+    "horloges",
+    "mutsen"
   ],
   "watch-cap-polartec-cold-weather-10092": [
     "mutsen"
