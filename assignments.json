@@ -307,8 +307,7 @@
     "loepen"
   ],
   "carson-uv-led-zaklamp-uvsight-pro-186300": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "carson-verrekijker-wildcat-7x18-186459": [
     "verrekijkers"
@@ -738,8 +737,7 @@
     "montage-accessoires"
   ],
   "konus-oplaadbare-zaklamp-konuslight-rc-5-433928": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "konus-red-green-dot-richtkijker-konusight-437338": [
     "richtkijkers"
@@ -867,8 +865,7 @@
     "warmtebeeld-handheld"
   ],
   "konus-zaklamp-konuscap-433911": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "kowa-21x-groothoek-oculair-tse-21wh-voor-highlander-446006": [
     "oculairs"
@@ -1698,35 +1695,15 @@
   "barricade-stop-saber-tactical-arca-swiss": [
     "tactical-bags"
   ],
-  "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": [
-    "airsoft-diversen"
-  ],
   "batterij-nuprol-lipo-11-1v-1100mah-stick": [
-    "airsoft-diversen",
     "batterijen"
   ],
   "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": [
-    "airsoft-diversen",
-    "batterijen"
+    "batterijen",
+    "airsoft-diversen-1"
   ],
   "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": [
-    "airsoft-diversen",
     "batterijen"
-  ],
-  "batterij-nuprol-lipo-11-1v-2200mah-triplet-t-plug-deans": [
-    "airsoft-diversen"
-  ],
-  "batterij-nuprol-lipo-11-1v-3000mah-nunchuck": [
-    "airsoft-diversen"
-  ],
-  "batterij-nuprol-lipo-11-1v-3300mah-nunchuck": [
-    "airsoft-diversen"
-  ],
-  "batterij-nuprol-nimh-8-4v-1600mah-nunchuck": [
-    "airsoft-diversen"
-  ],
-  "batterij-nuprol-nimh-8-4v-1600mah-small": [
-    "airsoft-diversen"
   ],
   "battery-sillosocks-large-12-ah-12v": [
     "lokmiddel-toebehoren"
@@ -2581,12 +2558,6 @@
   "compressor-walther-performance-eco-silent": [
     "compressors"
   ],
-  "connector-nuprol-tamiya-small-female": [
-    "airsoft-diversen"
-  ],
-  "connector-nuprol-tamiya-small-male": [
-    "airsoft-diversen"
-  ],
   "conversion-kit-fx-dreamline-bullpup-lite-tactical-to-classic-synthetic": [
     "persen-onderdelen",
     "kolven"
@@ -3050,12 +3021,10 @@
     "airsoft-gas"
   ],
   "gas-release-valve-laylax-nine-ball-neo-r-for-umarex-glock-series": [
-    "airsoft-gas",
-    "airsoft-diversen"
+    "airsoft-gas"
   ],
   "gas-seal-laylax-nine-ball-for-umarex-glock-series-2-pack": [
-    "revisiesetjes",
-    "airsoft-diversen"
+    "revisiesetjes"
   ],
   "gas-tank-tokyo-marui-ksg": [
     "airsoft-gas"
@@ -4784,12 +4753,10 @@
     "laarzen"
   ],
   "flashlight-element-x300-pistol": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-vaide-pistol": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "large-swage-prime-pin-assembly-frankford-x-10": [
     "persen-onderdelen"
@@ -4829,9 +4796,6 @@
   ],
   "barrel-adaptor-donnyfl-qd": [
     "luchtbuks-dempers"
-  ],
-  "barrel-cover-g-g": [
-    "airsoft-diversen"
   ],
   "barrel-case-ulfhednar-cordura-75x6": [
     "geweertassen-foudralen"
@@ -5809,9 +5773,6 @@
   ],
   "pressure-gauge-wolverine-for-storm-regulators": [
     "manometers"
-  ],
-  "masker-nuprol-v1-tan": [
-    "airsoft-diversen"
   ],
   "media-frankford-arsenal-stainless-steel-2-lbs": [
     "herlaadkits",
@@ -7412,12 +7373,6 @@
   "polijstvloeistof-frankford-arsenal-ultrasonic-brass-946-ml": [
     "herlaadkits"
   ],
-  "polyballs-umarex-t4e-practice-plb-50-27-5-grain": [
-    "airsoft-diversen"
-  ],
-  "polyballs-umarex-t4e-practice-plb-50-bulk-27-5-grain": [
-    "airsoft-diversen"
-  ],
   "portofoon-baofeng-k63": [
     "portofoons"
   ],
@@ -7788,21 +7743,6 @@
   ],
   "smoke-grenade-enola-gaye-wp40-d-yellow": [
     "rookgranaten"
-  ],
-  "rubber-balls-snowpeak-rb100-50-19-1-grain": [
-    "airsoft-diversen"
-  ],
-  "rubberballs-umarex-t4e-performance-rbi-steel-core-50-44-9-grain": [
-    "airsoft-diversen"
-  ],
-  "rubberballs-umarex-t4e-performance-rub-50-bulk-17-6-grain": [
-    "airsoft-diversen"
-  ],
-  "rubberballs-umarex-t4e-practice-rub-50-19-grain": [
-    "airsoft-diversen"
-  ],
-  "rubberballs-umarex-t4e-practice-rub-50-bulk-19-grain": [
-    "airsoft-diversen"
   ],
   "rvs-media-pinnen-frankford-arsenal": [
     "herlaadkits",
@@ -8239,18 +8179,6 @@
   "shell-plate-frankford-arsenal-x-10-progressive": [
     "herlaadpersen-turret-progressive",
     "shell-plates"
-  ],
-  "shells-g-g-g980": [
-    "airsoft-diversen"
-  ],
-  "shotgun-shells-nuprol-15-schots-6-pack-blue": [
-    "airsoft-diversen"
-  ],
-  "shotgun-shells-nuprol-15-schots-6-pack-od-green": [
-    "airsoft-diversen"
-  ],
-  "shotgun-shells-nuprol-15-schots-6-pack-orange": [
-    "airsoft-diversen"
   ],
   "sled-feet-accu-tac": [
     "geweersteunen"
@@ -9304,9 +9232,6 @@
     "plate-carriers",
     "chest-rigs"
   ],
-  "team-armband-g-g-6-pack": [
-    "airsoft-diversen"
-  ],
   "temperature-sensor-kit-hill-ec-3000": [
     "revisiesetjes"
   ],
@@ -9324,12 +9249,6 @@
   ],
   "tourniquet-mp-combat-application-black": [
     "tourniquets"
-  ],
-  "tracerballs-umarex-t4e-performance-trb-50-17-6-grain": [
-    "airsoft-diversen"
-  ],
-  "tracerballs-umarex-t4e-performance-trb-50-bulk-17-6-grain": [
-    "airsoft-diversen"
   ],
   "training-system-mantis-black-beard-ar15-red": [
     "trainingshalsbanden"
@@ -9612,9 +9531,6 @@
   ],
   "u-yoke-vanguard-for-quest-veo-2-veo-2s": [
     "geweersteunen"
-  ],
-  "umarex-t4e-tp50-gen2": [
-    "airsoft-diversen"
   ],
   "cheek-rest-saber-tactical-fx-impact-ambidextrous": [
     "kolven"
@@ -10132,9 +10048,6 @@
   ],
   "walkie-talkie-attachment-walker-s-razor-electronic": [
     "portofoons"
-  ],
-  "walther-p99-6-mm-0-08j": [
-    "airsoft-diversen"
   ],
   "cheek-rest-fx-impact-fde": [
     "kolven"
@@ -10887,36 +10800,28 @@
     "nachtzicht-handheld"
   ],
   "flashlight-a180-7601": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-k2-7627": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-m22-c-7641": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-ml-8-7645": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-p180-7647": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-p21-7648": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-p4-7649": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-ux11-7670": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "fleece-jacket-senator-polartec-3672": [
     "fleece"
@@ -11069,8 +10974,7 @@
     "geweerriemen"
   ],
   "headlamp-41-led-7622": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "helmet-watch-cap-polartec-4914": [
     "horloges",
@@ -11154,8 +11058,7 @@
     "tactical-bags"
   ],
   "led-mini-flashlight-5923": [
-    "zaklampen-hoofdlampen",
-    "lampen"
+    "zaklampen-hoofdlampen"
   ],
   "lightweight-summer-socks-mortar-bombs-4396": [
     "sokken"
@@ -12848,9 +12751,6 @@
   ],
   "touring-thermos-1600-ml-stainless-7721": [
     "drinkflessen-thermos"
-  ],
-  "tourist-hanging-flashlight-7631": [
-    "lampen"
   ],
   "train-hard-oversized-cotton-t-shirt-hard-10190": [
     "t-shirts-polos"
