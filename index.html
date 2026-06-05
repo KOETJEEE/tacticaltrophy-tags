@@ -727,8 +727,7 @@ async function syncFromGitHub() {
     if (!res.ok) { showSyncStatus('', ''); return; }
     const fileMeta = await res.json();
     _ghSha = fileMeta.sha;  // meteen bijwerken zodat volgende save geen extra GET nodig heeft
-    const ghData = JSON.parse(decodeURIComponent(escape(atob(fileMeta.content.replace(/
-/g, '')))));
+    const ghData = JSON.parse(decodeURIComponent(escape(atob(fileMeta.content.replace(/\n/g, '')))));
     let changed = false;
 
     // Vlaggen: merge (unie van lokaal en GitHub)
