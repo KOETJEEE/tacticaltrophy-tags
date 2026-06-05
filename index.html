@@ -18,7 +18,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 #supplier-filter{padding:5px 8px;border-radius:6px;border:none;font-size:.8rem;background:#334155;color:#fff;cursor:pointer}
 #export-btn{padding:6px 14px;background:#3b82f6;color:#fff;border:none;border-radius:6px;font-size:.8rem;font-weight:600;cursor:pointer}
 #export-btn:hover{background:#2563eb}
-#sync-status{font-size:.72rem;opacity:.85;white-space:nowrap;min-width:120px;text-align:right}
+#sync-btn{padding:6px 12px;background:#16a34a;color:#fff;border:none;border-radius:6px;font-size:.8rem;font-weight:600;cursor:pointer}
+#sync-btn:hover{background:#15803d}
+#sync-status{font-size:.72rem;opacity:.85;white-space:nowrap;min-width:100px;text-align:right}
 
 /* ── Main layout ── */
 #main{display:grid;grid-template-columns:480px 1fr;grid-template-rows:1fr;flex:1;min-height:0;overflow:hidden;gap:0}
@@ -108,6 +110,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <option value="MTAC">MTAC</option>
     </select>
     <span id="sync-status"></span>
+    <button id="sync-btn">☁️ Opslaan</button>
     <button id="export-btn">📥 Exporteer CSV</button>
   </div>
 </div>
@@ -217,6 +220,7 @@ function init() {
   renderCatTabs();
   document.getElementById('clear-btn').addEventListener('click', clearSelection);
   document.getElementById('export-btn').addEventListener('click', exportCSV);
+  document.getElementById('sync-btn').addEventListener('click', saveToGitHub);
   document.getElementById('prev-btn').addEventListener('click', () => stepProduct(-1));
   document.getElementById('next-btn').addEventListener('click', () => stepProduct(1));
 
