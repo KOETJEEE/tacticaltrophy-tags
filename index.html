@@ -589,7 +589,12 @@ async function triggerRefreshWorkflow() {
     }
     showSyncStatus('⏳ Workflow loopt…', '#94a3b8');
     btn.textContent = '⏳ Loopt…';
-    // Wacht 5s zodat GitHub de run aanmaakt
+    // Wacht 5s zodat GitHub de run aanmaakt, toon afteller in knop
+    const startTime = Date.now();
+    const ticker = setInterval(() => {
+      const s = Math.round((Date.now() - startTime) / 1000);
+      btn.textContent = `⏳ ${s}s`;
+    }, 1000);
     await new Promise(r => setTimeout(r, 5000));
     // Poll tot run klaar is
     let attempts = 0;
@@ -604,8 +609,8 @@ async function triggerRefreshWorkflow() {
         const runs = await runsRes.json();
         const run = runs.workflow_runs?.[0];
         if (!run || run.created_at < triggerTime) continue;
-        const elapsed = Math.round((Date.now() - new Date(run.created_at)) / 1000);
         if (run.status === 'completed') {
+          clearInterval(ticker);
           if (run.conclusion === 'success') {
             showSyncStatus('✓ Klaar! Pagina herladen…', '#16a34a');
             btn.textContent = '✓ Klaar';
@@ -616,9 +621,9 @@ async function triggerRefreshWorkflow() {
           }
           return;
         }
-        showSyncStatus(`⏳ Loopt… (${elapsed}s)`, '#94a3b8');
       } catch(e) { /* blijf proberen */ }
     }
+    clearInterval(ticker);
     showSyncStatus('⚠ Timeout — herlaad handmatig', '#f87171');
     btn.disabled = false; btn.textContent = '🔄 Ververs tool';
   } catch(e) {
