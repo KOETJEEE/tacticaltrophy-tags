@@ -282,6 +282,14 @@ function init() {
     if (btn) toggleCol(btn.dataset.handle);
   });
 
+  // Sla direct op als pagina verborgen wordt (tab wisselen, sluiten, hard refresh)
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'hidden') {
+      clearTimeout(_ghTimer);
+      saveToGitHub();
+    }
+  });
+
   // Keyboard nav
   document.addEventListener('keydown', e => {
     if (e.target.tagName === 'INPUT') return;
@@ -585,7 +593,7 @@ let _ghSha   = null;
 function scheduleGitHubSave() {
   if (!GITHUB_TOKEN) return;
   clearTimeout(_ghTimer);
-  _ghTimer = setTimeout(saveToGitHub, 3000);
+  _ghTimer = setTimeout(saveToGitHub, 800);
 }
 
 async function saveToGitHub() {
@@ -687,16 +695,17 @@ async function syncFromGitHub() {
     const ghData = await res.json();
     let changed = false;
 
-    // Laad gemarkeerde handles uit _flags sleutel
+    // Vlaggen: merge GitHub → lokaal (nooit lokale vlaggen wissen)
     if (Array.isArray(ghData._flags)) {
-      flagged.clear();
-      ghData._flags.forEach(hh => flagged.add(hh));
-      saveFlagsLocal();
-      changed = true;
+      ghData._flags.forEach(hh => { if (!flagged.has(hh)) { flagged.add(hh); changed = true; } });
+      if (changed) saveFlagsLocal();
     }
 
+    // Assignments: alleen updaten als product NIET in localStorage staat
+    // (lokale wijzigingen gaan altijd voor GitHub-data)
+    const saved = loadSaved();
     for (const p of PRODUCTS) {
-      if (ghData[p.handle] !== undefined) {
+      if (ghData[p.handle] !== undefined && saved[p.handle] === undefined) {
         const newSet = new Set(ghData[p.handle]);
         const cur = assignments[p.handle];
         const same = newSet.size === cur.size && [...newSet].every(x => cur.has(x));
