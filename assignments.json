@@ -88,36 +88,6 @@
     "richtmiddel-accessoires",
     "observatie-accessoires"
   ],
-  "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": [
-    "airsoft-diversen"
-  ],
-  "batterij-nuprol-lipo-11-1v-1100mah-stick": [
-    "airsoft-diversen",
-    "batterijen"
-  ],
-  "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": [
-    "airsoft-diversen",
-    "batterijen"
-  ],
-  "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": [
-    "airsoft-diversen",
-    "batterijen"
-  ],
-  "batterij-nuprol-lipo-11-1v-2200mah-triplet-t-plug-deans": [
-    "airsoft-diversen"
-  ],
-  "batterij-nuprol-lipo-11-1v-3000mah-nunchuck": [
-    "airsoft-diversen"
-  ],
-  "batterij-nuprol-lipo-11-1v-3300mah-nunchuck": [
-    "airsoft-diversen"
-  ],
-  "batterij-nuprol-nimh-8-4v-1600mah-nunchuck": [
-    "airsoft-diversen"
-  ],
-  "batterij-nuprol-nimh-8-4v-1600mah-small": [
-    "airsoft-diversen"
-  ],
   "battery-charger-hikmicro": [
     "richtmiddel-accessoires",
     "observatie-accessoires"
@@ -150,66 +120,6 @@
   ],
   "bottle-end-fx-complete": [
     "persluchtcilinders"
-  ],
-  "connector-nuprol-tamiya-small-female": [
-    "airsoft-diversen"
-  ],
-  "connector-nuprol-tamiya-small-male": [
-    "airsoft-diversen"
-  ],
-  "barrel-cover-g-g": [
-    "airsoft-diversen"
-  ],
-  "masker-nuprol-v1-tan": [
-    "airsoft-diversen"
-  ],
-  "polyballs-umarex-t4e-practice-plb-50-27-5-grain": [
-    "airsoft-diversen"
-  ],
-  "polyballs-umarex-t4e-practice-plb-50-bulk-27-5-grain": [
-    "airsoft-diversen"
-  ],
-  "rubber-balls-snowpeak-rb100-50-19-1-grain": [
-    "airsoft-diversen"
-  ],
-  "rubberballs-umarex-t4e-performance-rbi-steel-core-50-44-9-grain": [
-    "airsoft-diversen"
-  ],
-  "rubberballs-umarex-t4e-performance-rub-50-bulk-17-6-grain": [
-    "airsoft-diversen"
-  ],
-  "rubberballs-umarex-t4e-practice-rub-50-19-grain": [
-    "airsoft-diversen"
-  ],
-  "rubberballs-umarex-t4e-practice-rub-50-bulk-19-grain": [
-    "airsoft-diversen"
-  ],
-  "shells-g-g-g980": [
-    "airsoft-diversen"
-  ],
-  "shotgun-shells-nuprol-15-schots-6-pack-blue": [
-    "airsoft-diversen"
-  ],
-  "shotgun-shells-nuprol-15-schots-6-pack-od-green": [
-    "airsoft-diversen"
-  ],
-  "shotgun-shells-nuprol-15-schots-6-pack-orange": [
-    "airsoft-diversen"
-  ],
-  "team-armband-g-g-6-pack": [
-    "airsoft-diversen"
-  ],
-  "tracerballs-umarex-t4e-performance-trb-50-17-6-grain": [
-    "airsoft-diversen"
-  ],
-  "tracerballs-umarex-t4e-performance-trb-50-bulk-17-6-grain": [
-    "airsoft-diversen"
-  ],
-  "umarex-t4e-tp50-gen2": [
-    "airsoft-diversen"
-  ],
-  "walther-p99-6-mm-0-08j": [
-    "airsoft-diversen"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen"
@@ -1788,6 +1698,36 @@
   "barricade-stop-saber-tactical-arca-swiss": [
     "tactical-bags"
   ],
+  "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": [
+    "airsoft-diversen"
+  ],
+  "batterij-nuprol-lipo-11-1v-1100mah-stick": [
+    "airsoft-diversen",
+    "batterijen"
+  ],
+  "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": [
+    "airsoft-diversen",
+    "batterijen"
+  ],
+  "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": [
+    "airsoft-diversen",
+    "batterijen"
+  ],
+  "batterij-nuprol-lipo-11-1v-2200mah-triplet-t-plug-deans": [
+    "airsoft-diversen"
+  ],
+  "batterij-nuprol-lipo-11-1v-3000mah-nunchuck": [
+    "airsoft-diversen"
+  ],
+  "batterij-nuprol-lipo-11-1v-3300mah-nunchuck": [
+    "airsoft-diversen"
+  ],
+  "batterij-nuprol-nimh-8-4v-1600mah-nunchuck": [
+    "airsoft-diversen"
+  ],
+  "batterij-nuprol-nimh-8-4v-1600mah-small": [
+    "airsoft-diversen"
+  ],
   "battery-sillosocks-large-12-ah-12v": [
     "lokmiddel-toebehoren"
   ],
@@ -2640,6 +2580,12 @@
   ],
   "compressor-walther-performance-eco-silent": [
     "compressors"
+  ],
+  "connector-nuprol-tamiya-small-female": [
+    "airsoft-diversen"
+  ],
+  "connector-nuprol-tamiya-small-male": [
+    "airsoft-diversen"
   ],
   "conversion-kit-fx-dreamline-bullpup-lite-tactical-to-classic-synthetic": [
     "persen-onderdelen",
@@ -4884,6 +4830,9 @@
   "barrel-adaptor-donnyfl-qd": [
     "luchtbuks-dempers"
   ],
+  "barrel-cover-g-g": [
+    "airsoft-diversen"
+  ],
   "barrel-case-ulfhednar-cordura-75x6": [
     "geweertassen-foudralen"
   ],
@@ -5860,6 +5809,9 @@
   ],
   "pressure-gauge-wolverine-for-storm-regulators": [
     "manometers"
+  ],
+  "masker-nuprol-v1-tan": [
+    "airsoft-diversen"
   ],
   "media-frankford-arsenal-stainless-steel-2-lbs": [
     "herlaadkits",
@@ -7460,6 +7412,12 @@
   "polijstvloeistof-frankford-arsenal-ultrasonic-brass-946-ml": [
     "herlaadkits"
   ],
+  "polyballs-umarex-t4e-practice-plb-50-27-5-grain": [
+    "airsoft-diversen"
+  ],
+  "polyballs-umarex-t4e-practice-plb-50-bulk-27-5-grain": [
+    "airsoft-diversen"
+  ],
   "portofoon-baofeng-k63": [
     "portofoons"
   ],
@@ -7830,6 +7788,21 @@
   ],
   "smoke-grenade-enola-gaye-wp40-d-yellow": [
     "rookgranaten"
+  ],
+  "rubber-balls-snowpeak-rb100-50-19-1-grain": [
+    "airsoft-diversen"
+  ],
+  "rubberballs-umarex-t4e-performance-rbi-steel-core-50-44-9-grain": [
+    "airsoft-diversen"
+  ],
+  "rubberballs-umarex-t4e-performance-rub-50-bulk-17-6-grain": [
+    "airsoft-diversen"
+  ],
+  "rubberballs-umarex-t4e-practice-rub-50-19-grain": [
+    "airsoft-diversen"
+  ],
+  "rubberballs-umarex-t4e-practice-rub-50-bulk-19-grain": [
+    "airsoft-diversen"
   ],
   "rvs-media-pinnen-frankford-arsenal": [
     "herlaadkits",
@@ -8266,6 +8239,18 @@
   "shell-plate-frankford-arsenal-x-10-progressive": [
     "herlaadpersen-turret-progressive",
     "shell-plates"
+  ],
+  "shells-g-g-g980": [
+    "airsoft-diversen"
+  ],
+  "shotgun-shells-nuprol-15-schots-6-pack-blue": [
+    "airsoft-diversen"
+  ],
+  "shotgun-shells-nuprol-15-schots-6-pack-od-green": [
+    "airsoft-diversen"
+  ],
+  "shotgun-shells-nuprol-15-schots-6-pack-orange": [
+    "airsoft-diversen"
   ],
   "sled-feet-accu-tac": [
     "geweersteunen"
@@ -9319,6 +9304,9 @@
     "plate-carriers",
     "chest-rigs"
   ],
+  "team-armband-g-g-6-pack": [
+    "airsoft-diversen"
+  ],
   "temperature-sensor-kit-hill-ec-3000": [
     "revisiesetjes"
   ],
@@ -9336,6 +9324,12 @@
   ],
   "tourniquet-mp-combat-application-black": [
     "tourniquets"
+  ],
+  "tracerballs-umarex-t4e-performance-trb-50-17-6-grain": [
+    "airsoft-diversen"
+  ],
+  "tracerballs-umarex-t4e-performance-trb-50-bulk-17-6-grain": [
+    "airsoft-diversen"
   ],
   "training-system-mantis-black-beard-ar15-red": [
     "trainingshalsbanden"
@@ -9618,6 +9612,9 @@
   ],
   "u-yoke-vanguard-for-quest-veo-2-veo-2s": [
     "geweersteunen"
+  ],
+  "umarex-t4e-tp50-gen2": [
+    "airsoft-diversen"
   ],
   "cheek-rest-saber-tactical-fx-impact-ambidextrous": [
     "kolven"
@@ -10135,6 +10132,9 @@
   ],
   "walkie-talkie-attachment-walker-s-razor-electronic": [
     "portofoons"
+  ],
+  "walther-p99-6-mm-0-08j": [
+    "airsoft-diversen"
   ],
   "cheek-rest-fx-impact-fde": [
     "kolven"
