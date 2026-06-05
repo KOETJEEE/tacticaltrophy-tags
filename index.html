@@ -703,9 +703,9 @@ async function syncFromGitHub() {
     if (!res.ok) { showSyncStatus('', ''); return; }
     const ghData = await res.json();
     let changed = false;
-    const ghVersion  = ghData._version || 0;
-    const myVersion  = localVersion();
-    const ghIsNewer  = ghVersion > myVersion;
+    const ghVersion  = ghData._version;          // undefined = oud formaat zonder versie
+    const myVersion  = localVersion();            // 0 = nooit lokaal opgeslagen
+    const ghIsNewer  = ghVersion === undefined || ghVersion > myVersion;
 
     // Vlaggen: als GitHub nieuwer is → vervang; anders merge (lokale vlaggen bewaren)
     if (Array.isArray(ghData._flags)) {
