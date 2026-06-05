@@ -2,7 +2,8 @@
   "_handle_versions": {
     "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": 1780691340226,
     "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": 1780691385616,
-    "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": 1780691396104
+    "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": 1780691396104,
+    "bearings-g-g-bushing-8-mm": 1780691443686
   },
   "_flags": [
     "wallet-with-patch-panel-elite-genii-3184",
@@ -135,6 +136,9 @@
   "battery-charger-hikmicro-habrok-pro": [
     "richtmiddel-accessoires",
     "observatie-accessoires"
+  ],
+  "bearings-g-g-bushing-8-mm": [
+    "gearboxen"
   ],
   "bottle-end-fx-complete": [
     "persluchtcilinders"
