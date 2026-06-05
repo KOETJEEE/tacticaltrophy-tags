@@ -208,7 +208,6 @@ const GITHUB_TOKEN   = ['github_pat_1','1CDIA6TY0Kmy','c6Sp8e99m_NU','UtmWim2G2t
 const WORKFLOW_TOKEN = ['github_pat_1','1CDIA6TY0sI4','rwsb0ezGt_Nm','Z47fOHeC5PaF','fIRba89bPZwJ','3IvskKhJidc8','QW3MW57J2KSE','Z2CpcP7p7'].join('');
 const GITHUB_REPO  = 'KOETJEEE/tacticaltrophy-tags';
 const GITHUB_FILE        = 'assignments.json';
-const GITHUB_FLAGS_FILE  = 'flags.json';
 const SAVE_PASSWORD = 'TagTacticaltrophy2026@!';
 
 // ── State ──
@@ -582,7 +581,6 @@ function loadFlagsLocal() {
 // ── GitHub sync ──
 let _ghTimer = null;
 let _ghSha   = null;
-let _flagsSha = null;
 
 function scheduleGitHubSave() {
   if (!GITHUB_TOKEN) return;
@@ -591,7 +589,8 @@ function scheduleGitHubSave() {
 }
 
 async function saveToGitHub() {
-  const data = {};
+  // Bouw data: product-assignments + _flags (gemarkeerde handles)
+  const data = { _flags: [...flagged] };
   for (const [h, set] of Object.entries(assignments)) {
     if (set.size > 0) data[h] = [...set];
   }
@@ -610,25 +609,10 @@ async function saveToGitHub() {
     });
     if (res.ok) {
       _ghSha = (await res.json()).content.sha;
+      showSyncStatus('✓ Opgeslagen', '#4ade80');
     } else {
       showSyncStatus('⚠ Opslaan mislukt', '#f87171');
-      return;
     }
-
-    // Sla ook flags.json op
-    const flagsContent = btoa(unescape(encodeURIComponent(JSON.stringify([...flagged], null, 2))));
-    if (!_flagsSha) {
-      const fr = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FLAGS_FILE}`, {headers: hdrs});
-      if (fr.ok) _flagsSha = (await fr.json()).sha;
-    }
-    const flagsBody = {message: `flags ${new Date().toISOString().slice(0,16)}`, content: flagsContent};
-    if (_flagsSha) flagsBody.sha = _flagsSha;
-    const flagsRes = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FLAGS_FILE}`, {
-      method: 'PUT', headers: {...hdrs, 'Content-Type': 'application/json'}, body: JSON.stringify(flagsBody)
-    });
-    if (flagsRes.ok) _flagsSha = (await flagsRes.json()).content.sha;
-
-    showSyncStatus('✓ Opgeslagen', '#4ade80');
   } catch(e) { showSyncStatus('⚠ Geen verbinding', '#f87171'); }
 }
 
@@ -702,6 +686,15 @@ async function syncFromGitHub() {
     if (!res.ok) { showSyncStatus('', ''); return; }
     const ghData = await res.json();
     let changed = false;
+
+    // Laad gemarkeerde handles uit _flags sleutel
+    if (Array.isArray(ghData._flags)) {
+      flagged.clear();
+      ghData._flags.forEach(hh => flagged.add(hh));
+      saveFlagsLocal();
+      changed = true;
+    }
+
     for (const p of PRODUCTS) {
       if (ghData[p.handle] !== undefined) {
         const newSet = new Set(ghData[p.handle]);
@@ -712,21 +705,6 @@ async function syncFromGitHub() {
     }
     if (changed) {
       try { const d={}; for(const[h,s] of Object.entries(assignments)) if(s.size>0) d[h]=[...s]; localStorage.setItem('tt-tag-v1',JSON.stringify(d)); } catch(e) {}
-    }
-
-    // Sync flags.json
-    try {
-      const flagsRes = await fetch(`https://raw.githubusercontent.com/${GITHUB_REPO}/main/${GITHUB_FLAGS_FILE}?t=${Date.now()}`);
-      if (flagsRes.ok) {
-        const flagsData = await flagsRes.json();
-        flagged.clear();
-        flagsData.forEach(hh => flagged.add(hh));
-        saveFlagsLocal();
-        changed = true;
-      }
-    } catch(e) { /* flags niet beschikbaar, gebruik localStorage */ }
-
-    if (changed) {
       renderStats(); renderList();
       if (selectedHandle) renderCollections();
     }
