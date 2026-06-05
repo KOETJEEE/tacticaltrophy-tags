@@ -6,7 +6,8 @@
     "bearings-g-g-bushing-8-mm": 1780691443686,
     "bearings-prometheus-8-mm": 1780691450292,
     "mouth-guard-sisu-max-charcoal-black": 1780691461720,
-    "mouth-guard-sisu-max-hot-pink": 1780691464723
+    "mouth-guard-sisu-max-hot-pink": 1780691464723,
+    "mouth-guard-sisu-max-snow-white": 1780691468895
   },
   "_flags": [
     "wallet-with-patch-panel-elite-genii-3184",
@@ -150,6 +151,9 @@
     "gebitsbeschermers"
   ],
   "mouth-guard-sisu-max-hot-pink": [
+    "gebitsbeschermers"
+  ],
+  "mouth-guard-sisu-max-snow-white": [
     "gebitsbeschermers"
   ],
   "bottle-end-fx-complete": [
