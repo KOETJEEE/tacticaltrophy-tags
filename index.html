@@ -20,13 +20,15 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 #export-btn:hover{background:#2563eb}
 #sync-btn{padding:6px 12px;background:#16a34a;color:#fff;border:none;border-radius:6px;font-size:.8rem;font-weight:600;cursor:pointer}
 #sync-btn:hover{background:#15803d}
-#pw-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:1000;align-items:center;justify-content:center}
-#pw-overlay.show{display:flex}
-#pw-box{background:#1e293b;border-radius:12px;padding:28px 32px;display:flex;flex-direction:column;gap:12px;min-width:300px;box-shadow:0 8px 32px rgba(0,0,0,.4)}
-#pw-box h2{color:#fff;font-size:1rem;margin:0}
-#pw-input{padding:8px 12px;border-radius:6px;border:none;font-size:.9rem;outline:none}
-#pw-submit{padding:8px 16px;background:#16a34a;color:#fff;border:none;border-radius:6px;font-size:.85rem;font-weight:600;cursor:pointer}
-#pw-submit:hover{background:#15803d}
+#pw-overlay{display:flex;position:fixed;inset:0;background:#0f172a;z-index:1000;align-items:center;justify-content:center}
+#pw-overlay.hidden{display:none}
+#pw-box{background:#1e293b;border-radius:16px;padding:40px 40px;display:flex;flex-direction:column;gap:14px;min-width:340px;box-shadow:0 16px 48px rgba(0,0,0,.6)}
+#pw-box h2{color:#fff;font-size:1.1rem;margin:0;font-weight:700}
+#pw-box p{color:#94a3b8;font-size:.82rem;margin:0}
+#pw-input{padding:10px 14px;border-radius:8px;border:2px solid #334155;font-size:.95rem;outline:none;background:#0f172a;color:#fff}
+#pw-input:focus{border-color:#3b82f6}
+#pw-submit{padding:10px 16px;background:#3b82f6;color:#fff;border:none;border-radius:8px;font-size:.9rem;font-weight:600;cursor:pointer}
+#pw-submit:hover{background:#2563eb}
 #pw-error{color:#f87171;font-size:.8rem;display:none}
 #sync-status{font-size:.72rem;opacity:.85;white-space:nowrap;min-width:100px;text-align:right}
 
@@ -166,10 +168,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 <div id="dbg" style="position:fixed;bottom:0;left:0;right:0;background:#fef08a;padding:6px 10px;font-family:monospace;font-size:12px;z-index:99999;display:none"></div>
 <div id="pw-overlay">
   <div id="pw-box">
-    <h2>🔒 Wachtwoord vereist om op te slaan</h2>
+    <h2>🔒 TacticalTrophy Tag Tool</h2>
+    <p>Voer het wachtwoord in om toegang te krijgen.</p>
     <input id="pw-input" type="password" placeholder="Wachtwoord…" autocomplete="current-password">
-    <div id="pw-error">Onjuist wachtwoord</div>
-    <button id="pw-submit">Ontgrendelen</button>
+    <div id="pw-error">Onjuist wachtwoord — probeer opnieuw.</div>
+    <button id="pw-submit">Toegang krijgen</button>
   </div>
 </div>
 
@@ -237,13 +240,9 @@ function init() {
   renderCatTabs();
   document.getElementById('clear-btn').addEventListener('click', clearSelection);
   document.getElementById('export-btn').addEventListener('click', exportCSV);
-  document.getElementById('sync-btn').addEventListener('click', () => {
-    if (sessionStorage.getItem('tt-unlocked') === '1') { saveToGitHub(); }
-    else { document.getElementById('pw-overlay').classList.add('show'); document.getElementById('pw-input').focus(); }
-  });
+  document.getElementById('sync-btn').addEventListener('click', saveToGitHub);
   document.getElementById('pw-submit').addEventListener('click', checkPassword);
   document.getElementById('pw-input').addEventListener('keydown', e => { if (e.key === 'Enter') checkPassword(); });
-  document.getElementById('pw-overlay').addEventListener('click', e => { if (e.target === document.getElementById('pw-overlay')) document.getElementById('pw-overlay').classList.remove('show'); });
   document.getElementById('prev-btn').addEventListener('click', () => stepProduct(-1));
   document.getElementById('next-btn').addEventListener('click', () => stepProduct(1));
 
@@ -590,13 +589,20 @@ function checkPassword() {
   const val = document.getElementById('pw-input').value;
   if (val === SAVE_PASSWORD) {
     sessionStorage.setItem('tt-unlocked', '1');
-    document.getElementById('pw-overlay').classList.remove('show');
+    document.getElementById('pw-overlay').classList.add('hidden');
     document.getElementById('pw-input').value = '';
     document.getElementById('pw-error').style.display = 'none';
-    saveToGitHub();
   } else {
     document.getElementById('pw-error').style.display = 'block';
     document.getElementById('pw-input').select();
+  }
+}
+
+function checkAccessOnLoad() {
+  if (sessionStorage.getItem('tt-unlocked') === '1') {
+    document.getElementById('pw-overlay').classList.add('hidden');
+  } else {
+    setTimeout(() => document.getElementById('pw-input').focus(), 100);
   }
 }
 
@@ -650,6 +656,7 @@ window.onerror = function(msg, src, line) {
 
 try {
   document.getElementById('dbg').textContent = 'Script 2 OK, ' + PRODUCTS.length + ' producten. Init starten…';
+  checkAccessOnLoad();
   init();
   var d = document.getElementById('dbg');
   d.textContent = 'OK — ' + PRODUCTS.length + ' producten' +
