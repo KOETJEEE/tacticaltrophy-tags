@@ -1,5 +1,7 @@
 {
-  "_version": 1780691286897,
+  "_handle_versions": {
+    "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": 1780691328538
+  },
   "_flags": [
     "wallet-with-patch-panel-elite-genii-3184",
     "utility-travel-case-elite-medium-26x11-cm-457",
@@ -88,8 +90,7 @@
     "observatie-accessoires"
   ],
   "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": [
-    "airsoft-diversen",
-    "batterijen"
+    "airsoft-diversen"
   ],
   "batterij-nuprol-lipo-11-1v-1100mah-stick": [
     "airsoft-diversen",
