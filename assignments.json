@@ -4,7 +4,8 @@
     "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": 1780691385616,
     "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": 1780691396104,
     "bearings-g-g-bushing-8-mm": 1780691443686,
-    "bearings-prometheus-8-mm": 1780691450292
+    "bearings-prometheus-8-mm": 1780691450292,
+    "mouth-guard-sisu-max-charcoal-black": 1780691461720
   },
   "_flags": [
     "wallet-with-patch-panel-elite-genii-3184",
@@ -143,6 +144,9 @@
   ],
   "bearings-prometheus-8-mm": [
     "gearboxen"
+  ],
+  "mouth-guard-sisu-max-charcoal-black": [
+    "gebitsbeschermers"
   ],
   "bottle-end-fx-complete": [
     "persluchtcilinders"
