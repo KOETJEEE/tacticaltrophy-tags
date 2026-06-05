@@ -20,6 +20,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 #export-btn:hover{background:#2563eb}
 #sync-btn{padding:6px 12px;background:#16a34a;color:#fff;border:none;border-radius:6px;font-size:.8rem;font-weight:600;cursor:pointer}
 #sync-btn:hover{background:#15803d}
+#pw-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:1000;align-items:center;justify-content:center}
+#pw-overlay.show{display:flex}
+#pw-box{background:#1e293b;border-radius:12px;padding:28px 32px;display:flex;flex-direction:column;gap:12px;min-width:300px;box-shadow:0 8px 32px rgba(0,0,0,.4)}
+#pw-box h2{color:#fff;font-size:1rem;margin:0}
+#pw-input{padding:8px 12px;border-radius:6px;border:none;font-size:.9rem;outline:none}
+#pw-submit{padding:8px 16px;background:#16a34a;color:#fff;border:none;border-radius:6px;font-size:.85rem;font-weight:600;cursor:pointer}
+#pw-submit:hover{background:#15803d}
+#pw-error{color:#f87171;font-size:.8rem;display:none}
 #sync-status{font-size:.72rem;opacity:.85;white-space:nowrap;min-width:100px;text-align:right}
 
 /* ── Main layout ── */
@@ -156,6 +164,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 
 <div id="drag-hint">Sleep op een collectieknop →</div>
 <div id="dbg" style="position:fixed;bottom:0;left:0;right:0;background:#fef08a;padding:6px 10px;font-family:monospace;font-size:12px;z-index:99999;display:none"></div>
+<div id="pw-overlay">
+  <div id="pw-box">
+    <h2>🔒 Wachtwoord vereist om op te slaan</h2>
+    <input id="pw-input" type="password" placeholder="Wachtwoord…" autocomplete="current-password">
+    <div id="pw-error">Onjuist wachtwoord</div>
+    <button id="pw-submit">Ontgrendelen</button>
+  </div>
+</div>
 
 <script>
 window.onerror = function(msg, src, line, col, err) {
@@ -173,6 +189,7 @@ const SECTIONS    = {"jacht": [{"header": "Jachtkleding heren", "items": ["Signa
 const GITHUB_TOKEN = ['github_pat_1','1CDIA6TY0Kmy','c6Sp8e99m_NU','UtmWim2G2txk','Q40qtr8FgPwx','4ux9Of9ZU2Fl','J9sF14FGO57M','Dt06QhlRS'].join('');
 const GITHUB_REPO  = 'KOETJEEE/tacticaltrophy-tags';
 const GITHUB_FILE  = 'assignments.json';
+const SAVE_PASSWORD = 'TagTacticaltrophy2026@!';
 
 // ── State ──
 const colTagMap  = {};   // tag_value → [col_handle, ...]
@@ -220,7 +237,13 @@ function init() {
   renderCatTabs();
   document.getElementById('clear-btn').addEventListener('click', clearSelection);
   document.getElementById('export-btn').addEventListener('click', exportCSV);
-  document.getElementById('sync-btn').addEventListener('click', saveToGitHub);
+  document.getElementById('sync-btn').addEventListener('click', () => {
+    if (sessionStorage.getItem('tt-unlocked') === '1') { saveToGitHub(); }
+    else { document.getElementById('pw-overlay').classList.add('show'); document.getElementById('pw-input').focus(); }
+  });
+  document.getElementById('pw-submit').addEventListener('click', checkPassword);
+  document.getElementById('pw-input').addEventListener('keydown', e => { if (e.key === 'Enter') checkPassword(); });
+  document.getElementById('pw-overlay').addEventListener('click', e => { if (e.target === document.getElementById('pw-overlay')) document.getElementById('pw-overlay').classList.remove('show'); });
   document.getElementById('prev-btn').addEventListener('click', () => stepProduct(-1));
   document.getElementById('next-btn').addEventListener('click', () => stepProduct(1));
 
@@ -561,6 +584,20 @@ async function syncFromGitHub() {
     }
     showSyncStatus('✓ Gesynchroniseerd', '#4ade80');
   } catch(e) { showSyncStatus('', ''); }
+}
+
+function checkPassword() {
+  const val = document.getElementById('pw-input').value;
+  if (val === SAVE_PASSWORD) {
+    sessionStorage.setItem('tt-unlocked', '1');
+    document.getElementById('pw-overlay').classList.remove('show');
+    document.getElementById('pw-input').value = '';
+    document.getElementById('pw-error').style.display = 'none';
+    saveToGitHub();
+  } else {
+    document.getElementById('pw-error').style.display = 'block';
+    document.getElementById('pw-input').select();
+  }
 }
 
 function showSyncStatus(msg, color) {
