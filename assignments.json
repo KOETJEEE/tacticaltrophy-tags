@@ -7845,7 +7845,6 @@
   "rookgranaat-enola-gaye-eg18-blue": [
     "rookgranaten"
   ],
-  "rookgranaat-enola-gaye-eg25-white": [],
   "rookgranaat-enola-gaye-eg25-yellow": [
     "rookgranaten"
   ],
@@ -14738,6 +14737,9 @@
       "rookgranaten",
       "airsoft",
       "schietsport"
+    ],
+    "rookgranaat-enola-gaye-eg25-white": [
+      "rookgranaten"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
