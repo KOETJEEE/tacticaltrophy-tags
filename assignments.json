@@ -34,7 +34,6 @@
   "krale-barrel-band-fx-dreamline": [
     "persluchtcilinders"
   ],
-  "krale-barrel-inlet-fx-drs-5-5-mm-22": [],
   "krale-bearings-g-g-bushing-8-mm": [
     "gearboxen"
   ],
@@ -13835,6 +13834,11 @@
     ],
     "krale-wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ]
+  },
+  "_added": {
+    "krale-rookgranaat-enola-gaye-burst-blue": [
+      "age-18"
     ]
   }
 }
