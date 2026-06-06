@@ -97,7 +97,7 @@
   "hop-up-wolverine-mtw": [
     "hop-ups"
   ],
-  "magazijn-walther-gsp-expert-22-lr-5-schots": [],
+  "magazijn-walther-gsp-expert-10-schots": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14730,6 +14730,9 @@
       "permit-wwm"
     ],
     "magazijn-walther-gsp-expert-22-lr-5-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-walther-gsp-expert-10-schots": [
       "permit-wwm"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
