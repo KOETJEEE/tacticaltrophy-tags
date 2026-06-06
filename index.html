@@ -522,8 +522,9 @@ function renderDetail() {
   // Blauwe chips: collecties in assignments
   const blueChips = [...assigned].map(ch => {
     const col = COLLECTIONS.find(c => c.handle === ch);
-    const title = col ? col.title : ch;
-    return `<span class="tag-chip">${h(title)}<button class="tag-chip-x" onclick="removeTag('${j(ch)}')" title="Verwijder collectie">✕</button></span>`;
+    const label = col ? col.tags.join(', ') : ch;
+    const tip   = col ? col.title : ch;
+    return `<span class="tag-chip" title="${h(tip)}">${h(label)}<button class="tag-chip-x" onclick="removeTag('${j(ch)}')" title="Verwijder collectie">✕</button></span>`;
   }).join('');
   // Grijze chips: ALLE Shopify-tags als raw waarden (met kleur voor speciale tags)
   const allShopifyTags = [...new Set([...p.colTags, ...p.nonColTags])];
