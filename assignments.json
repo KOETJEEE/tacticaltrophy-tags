@@ -97,7 +97,7 @@
   "hop-up-wolverine-mtw": [
     "hop-ups"
   ],
-  "magazijn-schmeisser-223-rem-10-schots": [],
+  "magazine-schmeisser-1911": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14700,6 +14700,9 @@
       "permit-wwm"
     ],
     "magazijn-schmeisser-223-rem-10-schots": [
+      "permit-wwm"
+    ],
+    "magazine-schmeisser-1911": [
       "permit-wwm"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
