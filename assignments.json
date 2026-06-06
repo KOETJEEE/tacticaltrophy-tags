@@ -28,20 +28,75 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
+  "agm-sioux850-long-range-infraroodstraler-850nm1000mw-121100": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "agm-sioux940-long-range-infraroodstraler-940nm-800mw-v2-121321": [
+    "observatie-accessoires",
+    "richtmiddel-accessoires"
+  ],
   "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
     "mosfets"
+  ],
+  "airbow-arrows-air-venturi-air-bolt-35-cal": [
+    "handboogpijlen"
+  ],
+  "airkit-steyr-lp10-lp1": [
+    "persluchtcilinders"
+  ],
+  "anti-odor-spray-scent-a-way-max-odorless": [
+    "insectenbescherming"
+  ],
+  "bag-rider-epic-airguns-two-adjustable": [
+    "schoudersteunen"
+  ],
+  "bag-rider-fx-panthera-mkii": [
+    "schoudersteunen"
+  ],
+  "bag-rider-grs": [
+    "schoudersteunen"
+  ],
+  "bag-rider-saber-tactical-fx-impact-maverick": [
+    "schoudersteunen"
+  ],
+  "bag-rider-saber-tactical-fx-panthera": [
+    "schoudersteunen"
   ],
   "barrel-band-fx-dreamline": [
     "luchtdruk-onderdelen"
   ],
-  "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": [
-    "batterijen"
+  "battery-dnt-18650-2-pack-incl-charger": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
   ],
-  "batterij-nuprol-lipo-11-1v-1100mah-stick": [
-    "batterijen"
+  "battery-dnt-21700-2-pack-incl-charger": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
   ],
-  "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": [
-    "batterijen"
+  "battery-hikmicro-habrok-pro-hm-7250dc-rechargeable-7-2v-4800mah": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "batterij-hikmicro-hm-3632dc-lithium-oplaadbaar-3-6v-3200mah": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "battery-hikmicro-thunder-2-0-3-0-hm-3644dc-rechargeable-3-6v-4400mah": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "battery-charger-hikmicro": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "battery-charger-hikmicro-thunder-2-0": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "battery-charger-hikmicro-habrok-pro": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
   ],
   "bearings-g-g-bushing-8-mm": [
     "gearboxen"
@@ -61,6 +116,36 @@
   "body-pins-set-wolverine-mtw": [
     "airsoft-diversen-1"
   ],
+  "bottle-end-fx-complete": [
+    "persluchtcilinders"
+  ],
+  "bottle-sleeve-fx-dynamic-redback-fde": [
+    "geweersteunen"
+  ],
+  "wireguide-clamp-wadsn-for-handguard-tail-remote-switch": [
+    "afstandsmeters"
+  ],
+  "pigeon-decoy-flocked-flapper": [
+    "lokduiven"
+  ],
+  "pigeon-decoy-flocked-foraging-new": [
+    "lokduiven"
+  ],
+  "pigeon-decoy-flocked-standing-new": [
+    "lokduiven"
+  ],
+  "pigeon-decoy-flocked-stackable-new": [
+    "lokduiven"
+  ],
+  "pigeon-decoy-flocked-flying-new": [
+    "lokduiven"
+  ],
+  "mallard-decoy-floating-hen": [
+    "lokeenden"
+  ],
+  "mallard-decoy-floating-drake": [
+    "lokeenden"
+  ],
   "eg-hard-gear-prometheus-16-1": [
     "gearboxen"
   ],
@@ -73,11 +158,23 @@
   "eg-hard-gears-prometheus-ngrs-18-1": [
     "gearboxen"
   ],
+  "element-optics-etx-red-dot": [
+    "red-dots"
+  ],
   "enkelschotsadapter-fx": [
     "luchtdruk-onderdelen"
   ],
+  "red-dot-falke-s-reflex-sight-2-moa": [
+    "red-dots"
+  ],
   "fire-control-unit-wolverine-blinc-bluetooth-for-mtw-article": [
     "mosfets"
+  ],
+  "bottle-adapter-epic-airguns-two-for-cfb": [
+    "persluchtcilinders"
+  ],
+  "flesadapter-fx-dreamline": [
+    "persluchtcilinders"
   ],
   "gearbox-g-g-cm16-complete-front-wired": [
     "gearboxen"
@@ -88,1484 +185,29 @@
   "gearbox-g-g-complete-v2-rear-wired": [
     "gearboxen"
   ],
-  "admin-pouch-bag-medium-elite-8107": [
-    "utility-pouches"
+  "geluiddemper-donnyfl-fatboy": [
+    "luchtbuks-dempers"
   ],
-  "admin-pouch-bag-with-velcro-8298": [
-    "utility-pouches"
+  "crow-decoy-flocked-foraging": [
+    "lokkraaien"
   ],
-  "admin-pouch-elite-583": [
-    "utility-pouches"
+  "crow-decoy-flocked-standing": [
+    "lokkraaien"
   ],
-  "admin-pouch-large-elite-genii-5868": [
-    "utility-pouches"
+  "crow-decoy-flocked-standing-head-turned": [
+    "lokkraaien"
   ],
-  "alpha-geniii-pro-primaloft-winter-jacket-8324": [
-    "winterjassen"
-  ],
-  "alpha-geniii-pro-winter-jacket-3250": [
-    "winterjassen"
-  ],
-  "alpha-geniii-winter-jacket-3205": [
-    "winterjassen"
-  ],
-  "army-compass-7340": [
-    "kompassen"
-  ],
-  "assault-pack-968": [
+  "support-rail-saber-tactical-window-saver": [
     "tactical-bags"
   ],
-  "assault-pack-laser-cut-971": [
+  "shroud-bushing-saber-tactical-trs": [
     "tactical-bags"
   ],
-  "backpack-bag-for-a-quadcopter-avata-2-9298": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "backpack-bag-for-fpv-10-lightweight-drones-without-shelves-8548": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "backpack-bag-for-fpv-7-drones-without-shelves-laser-cut-8512": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "backpack-genii-elite-large-239": [
+  "shroud-clamp-saber-tactical-trs": [
     "tactical-bags"
   ],
-  "backpack-geniii-elite-small-233": [
-    "tactical-bags"
-  ],
-  "backpack-large-elite-hex-geniv-711": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "backpack-large-geniii-elite-238": [
-    "tactical-bags"
-  ],
-  "backpack-large-geniv-elite-243": [
-    "tactical-bags"
-  ],
-  "backpack-mission-pack-elite-hex-692": [
-    "tactical-bags"
-  ],
-  "backpack-recon-elite-10444": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "backpack-single-strap-agent-elite-hex-black-10199": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "backpack-sturm-elite-777": [
-    "tactical-bags"
-  ],
-  "backpack-sturm-elite-genii-965": [
-    "tactical-bags"
-  ],
-  "backpack-sturm-elite-genii-x-large-7756": [
-    "tactical-bags"
-  ],
-  "backpack-sturm-with-ergonomic-straps-x-large-elite-genii-9013": [
-    "tactical-bags"
-  ],
-  "backpack-case-for-weapons-105-cm-genii-elite-hex-8200": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "backpack-cover-for-weapons-85-cm-genii-elite-hex-8201": [
-    "tactical-bags"
-  ],
-  "bag-backpack-for-fpv-7-drones-laser-cut-8094": [
-    "tactical-bags"
-  ],
-  "bag-backpack-for-fpv-7-drones-lightweight-without-compartments-8511": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "baseball-cap-elite-flex-rip-stop-4603": [
-    "petten"
-  ],
-  "baseball-cap-elite-nyco-extreme-8572": [
-    "petten"
-  ],
-  "baseball-cap-five-panel-9390": [
-    "petten"
-  ],
-  "baseball-cap-five-panel-nyco-extreme-9494": [
-    "petten"
-  ],
-  "baseball-cap-flex-rip-stop-4650": [
-    "petten"
-  ],
-  "baseball-ripstop-cap-elite-flex-4739": [
-    "petten"
-  ],
-  "battle-fleece-polartec-6406": [
-    "fleece"
-  ],
-  "cartographic-compass-with-mirror-large-7348": [
-    "kompassen"
-  ],
-  "cartographic-compass-with-mirror-small-7347": [
-    "kompassen"
-  ],
-  "chest-rig-elite-330": [
-    "chest-rigs"
-  ],
-  "chest-rig-military-elite-368": [
-    "chest-rigs"
-  ],
-  "closed-type-double-magazine-pouch-31": [
-    "magazijn-pouches"
-  ],
-  "cobra-buckle-belt-627": [
-    "riemen-bretels"
-  ],
-  "combat-fleece-jacket-3720": [
-    "fleece"
-  ],
-  "combat-medic-backpack-elite-8848": [
-    "tactical-bags"
-  ],
-  "combat-shirt-3615": [
-    "tactical-shirts"
-  ],
-  "combat-shirt-genii-pro-nyco-extreme-3987": [
-    "tactical-shirts"
-  ],
-  "combat-shirt-summer-genii-piquet-10512": [
-    "tactical-shirts"
-  ],
-  "compass-army-7346": [
-    "kompassen"
-  ],
-  "delta-polartec-fleece-jacket-6200": [
-    "fleece"
-  ],
-  "double-ak-mag-pouch-with-cover-940": [
-    "magazijn-pouches"
-  ],
-  "ecopybook-tactical-pencil-survival-gen2-9755": [
-    "tactical-pens",
-    "veldnotitie"
-  ],
-  "eod-response-log-a6-9791": [
-    "veldnotitie"
-  ],
-  "fighter-dark-denim-jeans-9564": [
-    "broeken"
-  ],
-  "flag-odin-night-vision-630x900-5792": [
-    "nachtzicht-handheld"
-  ],
-  "flashlight-a180-7601": [
-    "zaklampen-hoofdlampen"
-  ],
-  "flashlight-k2-7627": [
-    "zaklampen-hoofdlampen"
-  ],
-  "flashlight-m22-c-7641": [
-    "zaklampen-hoofdlampen"
-  ],
-  "flashlight-ml-8-7645": [
-    "zaklampen-hoofdlampen"
-  ],
-  "flashlight-p180-7647": [
-    "zaklampen-hoofdlampen"
-  ],
-  "flashlight-p21-7648": [
-    "zaklampen-hoofdlampen"
-  ],
-  "flashlight-p4-7649": [
-    "zaklampen-hoofdlampen"
-  ],
-  "flashlight-ux11-7670": [
-    "zaklampen-hoofdlampen"
-  ],
-  "fleece-jacket-senator-polartec-3672": [
-    "fleece"
-  ],
-  "fleece-jacket-windblock-division-genii-8074": [
-    "fleece"
-  ],
-  "fleece-pants-delta-level-2-6080": [
-    "broeken"
-  ],
-  "fleece-rip-stop-helmet-liner-genii-4854": [
-    "helmen"
-  ],
-  "fleece-sweatshirt-shadow-polartec-4033": [
-    "fleece"
-  ],
-  "fleece-watch-cap-elite-260gm2-4431": [
-    "horloges"
-  ],
-  "fleece-watch-cap-light-polartec-4742": [
-    "horloges"
-  ],
-  "fleece-watch-cap-light-polartec-gen-ii-4758": [
-    "horloges"
-  ],
-  "folding-knife-type-11-9512": [
-    "zakmessen"
-  ],
-  "folding-knife-type-12-9990": [
-    "zakmessen"
-  ],
-  "folding-knife-type-12-9991": [
-    "zakmessen"
-  ],
-  "folding-knife-type-12-scandinavian-10536": [
-    "zakmessen"
-  ],
-  "folding-knife-type-12-scandinavian-stonewash-10542": [
-    "zakmessen"
-  ],
-  "folding-knife-type-12-skull-10532": [
-    "zakmessen"
-  ],
-  "folding-knife-type-12-spider-web-10529": [
-    "zakmessen"
-  ],
-  "folding-knife-type-13-blacksteel-9979": [
-    "zakmessen"
-  ],
-  "folding-knife-type-14-blackgrey-9977": [
-    "zakmessen"
-  ],
-  "folding-knife-type-15-carbonblue-9963": [
-    "zakmessen"
-  ],
-  "folding-knife-type-16-blacksteel-9978": [
-    "zakmessen"
-  ],
-  "folding-knife-type-17-blacksteel-9976": [
-    "zakmessen"
-  ],
-  "folding-knife-type-18-9984": [
-    "zakmessen"
-  ],
-  "folding-knife-type-19-9985": [
-    "zakmessen"
-  ],
-  "folding-knife-type-3-5948": [
-    "zakmessen"
-  ],
-  "folding-knife-type-4-5949": [
-    "zakmessen"
-  ],
-  "folding-knife-type-5-5951": [
-    "zakmessen"
-  ],
-  "folding-knife-type-6-5953": [
-    "zakmessen"
-  ],
-  "folding-knife-type-7-5955": [
-    "zakmessen"
-  ],
-  "folding-knife-type-8-5956": [
-    "zakmessen"
-  ],
-  "folding-knife-type-9-6-tools-9530": [
-    "zakmessen"
-  ],
-  "folding-shovel-with-case-5919": [
-    "veldspaden"
-  ],
-  "folding-two-piece-cutlery-set-5933": [
-    "2-delige-montages"
-  ],
-  "fpv-drone-bag-backpack-for-10-drones-lightweight-8701": [
-    "tactical-bags"
-  ],
-  "fpv-drone-bag-backpack-for-7-drones-lightweight-8702": [
-    "tactical-bags"
-  ],
-  "gloves-a30-7301": [
-    "tactical-handschoenen"
-  ],
-  "gloves-fleece-thinsulate-7275": [
-    "tactical-handschoenen"
-  ],
-  "gloves-police-gen2-5963": [
-    "tactical-handschoenen"
-  ],
-  "gloves-skeleton-nomex-9277": [
-    "tactical-handschoenen"
-  ],
-  "gloves-soft-shell-thinsulate-7263": [
-    "tactical-handschoenen"
-  ],
-  "gloves-winter-leather-7313": [
-    "tactical-handschoenen"
-  ],
-  "gloves-winter-soft-shell-7110": [
-    "tactical-handschoenen"
-  ],
-  "gun-sling-two-point-263": [
-    "geweerriemen"
-  ],
-  "headlamp-41-led-7622": [
-    "zaklampen-hoofdlampen"
-  ],
-  "helmet-watch-cap-polartec-4914": [
-    "horloges",
-    "helmen"
-  ],
-  "jacket-berserk-polartec-primaloft-9657": [
-    "winterjassen"
-  ],
-  "jacket-berserk-polartec-primaloft-elite-9654": [
-    "winterjassen"
-  ],
-  "jacket-berserk-primaloft-toray-10119": [
-    "winterjassen"
-  ],
-  "jacket-combat-fleece-polartec-3850": [
-    "fleece"
-  ],
-  "jacket-combat-fleece-polartec-lady-3977": [
-    "fleece"
-  ],
-  "jacket-field-nyco-extreme-2643": [
-    "winterjassen"
-  ],
-  "jacket-jarl-primaloft-8517": [
-    "winterjassen"
-  ],
-  "jacket-knight-primaloft-8442": [
-    "winterjassen"
-  ],
-  "jacket-konung-primaloft-9477": [
-    "winterjassen"
-  ],
-  "jacket-military-elite-nyco-extreme-8538": [
-    "winterjassen"
-  ],
-  "jacket-space-armor-genii-primaloft-10395": [
-    "winterjassen"
-  ],
-  "jacket-sturm-genii-nyco-extreme-7874": [
-    "winterjassen"
-  ],
-  "jacket-sturm-nyco-extreme-2958": [
-    "winterjassen"
-  ],
-  "jacket-sturm-nyco-extreme-8531": [
-    "winterjassen"
-  ],
-  "lanyard-scandinavian-small-helmet-of-terror-877": [
-    "helmen"
-  ],
-  "large-assault-pack-backpack-972": [
-    "tactical-bags"
-  ],
-  "large-assault-pack-backpack-laser-cut-975": [
-    "tactical-bags"
-  ],
-  "led-mini-flashlight-5923": [
-    "zaklampen-hoofdlampen"
-  ],
-  "lightweight-summer-socks-mortar-bombs-4396": [
-    "sokken"
-  ],
-  "m-tac-alpha-geniii-winter-jacket-3217": [
-    "winterjassen"
-  ],
-  "m-tac-backpack-cover-large-7433": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "m-tac-backpack-genii-elite-small-234": [
-    "tactical-bags"
-  ],
-  "m-tac-backpack-inserts-3-pcs-719": [
-    "tactical-bags"
-  ],
-  "m-tac-backpack-mission-pack-7437": [
-    "tactical-bags"
-  ],
-  "m-tac-backpack-small-elite-hex-724": [
-    "tactical-bags"
-  ],
-  "m-tac-backpack-case-for-weapons-105-cm-genii-elite-8199": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "m-tac-baseball-cap-flex-rip-stop-4664": [
-    "petten"
-  ],
-  "m-tac-chest-rig-elite-1048": [
-    "chest-rigs"
-  ],
-  "m-tac-double-mag-pouch-hook-backed-magazine-284": [
-    "magazijn-pouches"
-  ],
-  "m-tac-drop-leg-platform-gen3-150": [
-    "holsters"
-  ],
-  "m-tac-gloves-nomex-sport-leather-8120": [
-    "tactical-handschoenen"
-  ],
-  "m-tac-gloves-police-7222": [
-    "tactical-handschoenen"
-  ],
-  "m-tac-gloves-summer-vent-8108": [
-    "tactical-handschoenen"
-  ],
-  "m-tac-gun-belt-single-point-669": [
-    "riemen-bretels"
-  ],
-  "m-tac-internal-tiger-belt-for-range-belt-817": [
-    "riemen-bretels"
-  ],
-  "m-tac-mag-drop-pouch-elite-209": [
-    "magazijn-pouches",
-    "dump-pouches"
-  ],
-  "m-tac-mag-pouch-kolchan-for-akar-mini-599": [
-    "magazijn-pouches"
-  ],
-  "m-tac-magazine-dump-pouch-lite-elite-728": [
-    "magazijn-pouches",
-    "dump-pouches"
-  ],
-  "m-tac-my-edc-t-shirt-8693": [
-    "t-shirts-polos"
-  ],
-  "m-tac-pants-army-nyco-extreme-2738": [
-    "tactical-broeken",
-    "broeken"
-  ],
-  "m-tac-pants-patrol-geniii-nyco-extreme-8907": [
-    "tactical-broeken",
-    "broeken"
-  ],
-  "m-tac-pants-patrol-geniii-special-edition-8934": [
-    "tactical-broeken",
-    "broeken"
-  ],
-  "m-tac-paratrooper-belt-644": [
-    "riemen-bretels"
-  ],
-  "m-tac-pas-range-belt-cobra-buckle-geniv-1032": [
-    "riemen-bretels"
-  ],
-  "m-tac-patch-ar-15-american-rifle-80x50-mm-5452": [
-    "patches"
-  ],
-  "m-tac-patch-emoji-13-5465": [
-    "patches"
-  ],
-  "m-tac-patch-emoji-2-5454": [
-    "patches"
-  ],
-  "m-tac-patch-emoji-22-5473": [
-    "patches"
-  ],
-  "m-tac-patch-emoji-27-5478": [
-    "patches"
-  ],
-  "m-tac-patch-emoji-3-5455": [
-    "patches"
-  ],
-  "m-tac-patch-emoji-7-5459": [
-    "patches"
-  ],
-  "m-tac-patch-emoji-9-5461": [
-    "patches"
-  ],
-  "m-tac-patch-emoji-usa-5497": [
-    "patches"
-  ],
-  "m-tac-patch-emoji-usa-girl-1-5495": [
-    "patches"
-  ],
-  "m-tac-patch-orange-cat-pvc-mm14-cover-10445": [
-    "patches"
-  ],
-  "m-tac-patch-polska-end-to-end-25x80-laser-cut-5064": [
-    "patches"
-  ],
-  "m-tac-patch-press-type-2-7333": [
-    "herlaadkits",
-    "patches"
-  ],
-  "m-tac-patch-surprise-pvc-8355": [
-    "patches"
-  ],
-  "m-tac-patch-us-flag-reverse-80x50mm-5348": [
-    "patches"
-  ],
-  "m-tac-patch-us-flag-reverse-vintage-80x50mm-5341": [
-    "patches"
-  ],
-  "m-tac-patch-zu-23-4-pvc-8624": [
-    "patches"
-  ],
-  "m-tac-patch-see-in-the-dark-like-a-predator-pvc-blackcoyote-10201": [
-    "patches"
-  ],
-  "m-tac-pcc-mag-pouch-kolchan-609": [
-    "magazijn-pouches"
-  ],
-  "m-tac-raglan-sweat-wicking-t-shirt-summer-6841": [
-    "tactical-shirts"
-  ],
-  "m-tac-raglan-t-shirt-937-6766": [
-    "tactical-shirts",
-    "shirts"
-  ],
-  "m-tac-seating-pad-with-belt-20": [
-    "riemen-bretels"
-  ],
-  "m-tac-sling-bag-large-elite-genii-782": [
-    "sling-bags"
-  ],
-  "m-tac-socks-coolmax-35-7408": [
-    "sokken"
-  ],
-  "m-tac-t-shirt-937-lady-8791": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-belt-after-belt-10043": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-black-sea-expedition-6717": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-comics-drone-girl-7004": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-cotton-hard-8151": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-delivery-service-6955": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-freedom-6983": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-kamikaze-spirit-6866": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-keep-calm-7025": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-logo-6927": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-logo-long-sleeve-6948": [
-    "shirts"
-  ],
-  "m-tac-t-shirt-mavic-delivery-service-7757": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-motanka-6997": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-odin-mystery-long-sleeve-7060": [
-    "shirts"
-  ],
-  "m-tac-t-shirt-our-land-7017": [
-    "tactical-shirts"
-  ],
-  "m-tac-t-shirt-phoenix-7018": [
-    "tactical-shirts",
-    "shirts"
-  ],
-  "m-tac-t-shirt-quadcopter-6859": [
-    "tactical-shirts"
-  ],
-  "m-tac-t-shirt-rex-team-7067": [
-    "tactical-shirts",
-    "shirts"
-  ],
-  "m-tac-t-shirt-steel-knight-6920": [
-    "tactical-shirts"
-  ],
-  "m-tac-t-shirt-surf-club-6872": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-talpa-7046": [
-    "shirts"
-  ],
-  "m-tac-t-shirt-ua-side-6742": [
-    "t-shirts-polos"
-  ],
-  "m-tac-t-shirt-warrior-8636": [
-    "t-shirts-polos"
-  ],
-  "m-tac-thermo-pants-polartec-winter-baselayer-vent-6399": [
-    "thermobroeken"
-  ],
-  "m-tac-vilha-helmet-cover-744": [
-    "helmen"
-  ],
-  "m-tac-vilha-helmet-cover-fast-746": [
-    "helmen"
-  ],
-  "m-tac-watch-cap-elite-flecce-beanie-hat-320gm2-4539": [
-    "mutsen"
-  ],
-  "mag-pouch-kolchan-for-akar-594": [
-    "magazijn-pouches"
-  ],
-  "magazine-pouch-with-elastic-band-10-cm-laser-cut-479": [
-    "magazijn-pouches"
-  ],
-  "map-compass-7418": [
-    "kompassen"
-  ],
-  "mesh-flex-ripstop-baseball-cap-4820": [
-    "petten"
-  ],
-  "mesh-flex-ripstop-baseball-cap-with-velcro-4830": [
-    "petten"
-  ],
-  "modular-backpack-for-drones-8093": [
-    "tactical-bags"
-  ],
-  "molle-patch-clover-8027": [
-    "patches"
-  ],
-  "norman-windblock-fleece-jacket-1196": [
-    "fleece"
-  ],
-  "organiser-a5-elite-8543": [
-    "tactical-bags"
-  ],
-  "paladin-jacket-primaloft-toray-9860": [
-    "winterjassen"
-  ],
-  "pants-aggressor-genii-vintage-2628": [
-    "broeken"
-  ],
-  "pants-aggressor-lady-flex-2143": [
-    "broeken"
-  ],
-  "pants-aggressor-vintage-3328": [
-    "broeken"
-  ],
-  "pants-army-genii-nyco-extreme-2759": [
-    "tactical-broeken"
-  ],
-  "pants-cotton-classic-7990": [
-    "joggingbroeken"
-  ],
-  "pants-fleece-delta-level-2-lady-5837": [
-    "thermobroeken"
-  ],
-  "pants-soft-shell-vent-3452": [
-    "broeken"
-  ],
-  "pants-soft-shell-winter-3026": [
-    "broeken"
-  ],
-  "pants-stealth-active-7857": [
-    "joggingbroeken"
-  ],
-  "pants-stealth-cotton-2544": [
-    "broeken"
-  ],
-  "patch-see-in-the-dark-like-a-predator-pvc-7755": [
-    "patches"
-  ],
-  "patch-120mmpvc-8004": [
-    "patches"
-  ],
-  "patch-abrams-pvc-5434": [
-    "patches"
-  ],
-  "patch-ace-of-spades-5127": [
-    "patches"
-  ],
-  "patch-ace-of-spades-embroidery-5362": [
-    "patches"
-  ],
-  "patch-ace-of-spades-3d-pvc-5131": [
-    "patches"
-  ],
-  "patch-ace-of-spades-laser-cut-5134": [
-    "patches"
-  ],
-  "patch-ace-of-spades-laser-cut-5135": [
-    "patches"
-  ],
-  "patch-akm-762x39-laser-cut-5141": [
-    "patches"
-  ],
-  "patch-anonymous-5352": [
-    "patches"
-  ],
-  "patch-ar-15-223556-laser-cut-5146": [
-    "patches"
-  ],
-  "patch-ar-15-3d-pvc-5151": [
-    "patches"
-  ],
-  "patch-ar-15-velcropvc-8158": [
-    "patches"
-  ],
-  "patch-autosave-pvc-5201": [
-    "patches"
-  ],
-  "patch-bad-boy-5356": [
-    "patches"
-  ],
-  "patch-bad-boy-embroidery-5570": [
-    "patches"
-  ],
-  "patch-battle-rex-2-pvc-8001": [
-    "patches"
-  ],
-  "patch-battle-witch-5408": [
-    "patches"
-  ],
-  "patch-beretta-8059": [
-    "patches"
-  ],
-  "patch-bmc-kirpi-pvc-8292": [
-    "patches"
-  ],
-  "patch-bradley-pvc-7927": [
-    "patches"
-  ],
-  "patch-btr-4-pvc-5440": [
-    "patches"
-  ],
-  "patch-caesar-pvc-7926": [
-    "patches"
-  ],
-  "patch-carnation-2c1-pvc-7854": [
-    "patches"
-  ],
-  "patch-cat-eyes-type-2-laser-cut-5448": [
-    "patches"
-  ],
-  "patch-cat-eyes-laser-cut-5119": [
-    "patches"
-  ],
-  "patch-cat-predator-8317": [
-    "patches"
-  ],
-  "patch-cossack-ukraine-3d-pvc-5444": [
-    "patches"
-  ],
-  "patch-cougar-pvc-9393": [
-    "patches"
-  ],
-  "patch-crossed-fingers-5711": [
-    "patches"
-  ],
-  "patch-dana-pvc-9394": [
-    "patches"
-  ],
-  "patch-dead-inside-8552": [
-    "patches"
-  ],
-  "patch-deus-vult-3d-pvc-5162": [
-    "patches"
-  ],
-  "patch-drakkar-laser-cut-5296": [
-    "patches"
-  ],
-  "patch-drone-zone-pvc-5405": [
-    "patches"
-  ],
-  "patch-egeshelm-pvc-5320": [
-    "patches"
-  ],
-  "patch-emoji-1-5453": [
-    "patches"
-  ],
-  "patch-emoji-10-5462": [
-    "patches"
-  ],
-  "patch-emoji-11-5463": [
-    "patches"
-  ],
-  "patch-emoji-12-5464": [
-    "patches"
-  ],
-  "patch-emoji-14-5466": [
-    "patches"
-  ],
-  "patch-emoji-15-5467": [
-    "patches"
-  ],
-  "patch-emoji-19-5470": [
-    "patches"
-  ],
-  "patch-emoji-20-5471": [
-    "patches"
-  ],
-  "patch-emoji-21-5472": [
-    "patches"
-  ],
-  "patch-emoji-23-5474": [
-    "patches"
-  ],
-  "patch-emoji-24-5475": [
-    "patches"
-  ],
-  "patch-emoji-25-5476": [
-    "patches"
-  ],
-  "patch-emoji-4-5456": [
-    "patches"
-  ],
-  "patch-emoji-49-5482": [
-    "patches"
-  ],
-  "patch-emoji-5-5457": [
-    "patches"
-  ],
-  "patch-emoji-6-5458": [
-    "patches"
-  ],
-  "patch-expedition-80x50mm-5346": [
-    "patches"
-  ],
-  "patch-f-16-pvc-8097": [
-    "patches"
-  ],
-  "patch-face-of-war-embroidery-5564": [
-    "patches"
-  ],
-  "patch-fare-map-embroidery-5574": [
-    "patches"
-  ],
-  "patch-fighting-rex-pvc-7948": [
-    "patches"
-  ],
-  "patch-fire-on-pvc-7961": [
-    "patches"
-  ],
-  "patch-flag-25x80-mini-squares-laser-cut-5088": [
-    "patches"
-  ],
-  "patch-flag-25x80-mini-squares-laser-cut-5092": [
-    "patches"
-  ],
-  "patch-flag-blackbeard-rpg-7-7957": [
-    "patches"
-  ],
-  "patch-flag-united-kingdom-80-x-50-mm-5381": [
-    "patches"
-  ],
-  "patch-fpv-remote-control-pvc-8103": [
-    "patches"
-  ],
-  "patch-frag-1-5766": [
-    "patches"
-  ],
-  "patch-fucking-luck-pvc-8348": [
-    "patches"
-  ],
-  "patch-gepard-pvc-7932": [
-    "patches"
-  ],
-  "patch-gladiator-helmet-embroidery-5521": [
-    "patches"
-  ],
-  "patch-helm-of-terror-laser-cut-5314": [
-    "patches"
-  ],
-  "patch-helmet-of-horror-horizontal-laser-cut-5323": [
-    "patches"
-  ],
-  "patch-helmet-skull-5394": [
-    "patches"
-  ],
-  "patch-hmmwv-pvc-7850": [
-    "patches"
-  ],
-  "patch-howitzer-d-30-pvc-7853": [
-    "patches"
-  ],
-  "patch-husaria-3d-pvc-5124": [
-    "patches"
-  ],
-  "patch-joker-skull-3d-pvc-5209": [
-    "patches"
-  ],
-  "patch-jolly-roger-pvc-5204": [
-    "patches"
-  ],
-  "patch-kitty-embroidery-5541": [
-    "patches"
-  ],
-  "patch-kozak-pvc-7852": [
-    "patches"
-  ],
-  "patch-krab-pvc-5428": [
-    "patches"
-  ],
-  "patch-lady-of-spades-pvc-5908": [
-    "patches"
-  ],
-  "patch-leopard-2-pvc-5436": [
-    "patches"
-  ],
-  "patch-logo-m-tac-pvc-8293": [
-    "patches"
-  ],
-  "patch-lose-of-head-7767": [
-    "patches"
-  ],
-  "patch-m-109-5791": [
-    "patches"
-  ],
-  "patch-m142-himars-pvc-8003": [
-    "patches"
-  ],
-  "patch-m270-pvc-9019": [
-    "patches"
-  ],
-  "patch-m67-3d-pvc-5254": [
-    "patches"
-  ],
-  "patch-m777-pvc-5433": [
-    "patches"
-  ],
-  "patch-map-helmet-of-horror-embroidery-5578": [
-    "patches"
-  ],
-  "patch-march-10145": [
-    "patches"
-  ],
-  "patch-marder-pvc-8506": [
-    "patches"
-  ],
-  "patch-maxxpro-pvc-8013": [
-    "patches"
-  ],
-  "patch-medic-cross-laser-cut-5212": [
-    "patches"
-  ],
-  "patch-medic-cross-square-pvc-5222": [
-    "patches"
-  ],
-  "patch-medic-pvc-5226": [
-    "patches"
-  ],
-  "patch-mg-operator-print-pvc-5415": [
-    "patches"
-  ],
-  "patch-mg-operator-print-pvc-5417": [
-    "patches"
-  ],
-  "patch-mg-operator-pvc-5418": [
-    "patches"
-  ],
-  "patch-mim-104-patriot-pvc-8657": [
-    "patches"
-  ],
-  "patch-mjolnir-large-pvc-5441": [
-    "patches"
-  ],
-  "patch-molepvc-8002": [
-    "patches"
-  ],
-  "patch-molle-flag-of-poland-8643": [
-    "patches"
-  ],
-  "patch-molon-labe-ace-3d-pvc-5231": [
-    "patches"
-  ],
-  "patch-motanka-embroidery-5909": [
-    "patches"
-  ],
-  "patch-msta-s-pvc-5432": [
-    "patches"
-  ],
-  "patch-nlaw-says-welcome-pvc-5407": [
-    "patches"
-  ],
-  "patch-no-knife-no-life-3d-pvc-5234": [
-    "patches"
-  ],
-  "patch-odin-3d-pvc-5240": [
-    "patches"
-  ],
-  "patch-old-skull-5241": [
-    "patches"
-  ],
-  "patch-old-tiger-5062": [
-    "patches"
-  ],
-  "patch-operator-5402": [
-    "patches"
-  ],
-  "patch-operator-3d-pvc-5389": [
-    "patches"
-  ],
-  "patch-operator-fpv-pvc-7847": [
-    "patches"
-  ],
-  "patch-operator-ufo-7773": [
-    "patches"
-  ],
-  "patch-owl-embroidery-5804": [
-    "patches"
-  ],
-  "patch-owl-pvc-5439": [
-    "patches"
-  ],
-  "patch-panel-142": [
-    "patches"
-  ],
-  "patch-panel-flag-jolly-roger-7769": [
-    "patches"
-  ],
-  "patch-panel-rug-845x1350-10411": [
-    "patches"
-  ],
-  "patch-paramedic-5691": [
-    "patches"
-  ],
-  "patch-paramedic-embroidery-5712": [
-    "patches"
-  ],
-  "patch-paramedic-bear-embroidery-5802": [
-    "patches"
-  ],
-  "patch-paramedic-ursus-pvc-5425": [
-    "patches"
-  ],
-  "patch-pfm-1-mine-7855": [
-    "patches"
-  ],
-  "patch-poland-5-5486": [
-    "patches"
-  ],
-  "patch-poland-6-5487": [
-    "patches"
-  ],
-  "patch-poland-7-5488": [
-    "patches"
-  ],
-  "patch-poland-with-flag-50x80-laser-cut-5097": [
-    "patches"
-  ],
-  "patch-poland-with-flag-50x80-laser-cut-5101": [
-    "patches"
-  ],
-  "patch-poland-25x80-laser-cut-5068": [
-    "patches"
-  ],
-  "patch-poland-25x80-laser-cut-5072": [
-    "patches"
-  ],
-  "patch-poland-end-to-end-25x80-laser-cut-5057": [
-    "patches"
-  ],
-  "patch-polska-with-flag-50x80-laser-cut-5106": [
-    "patches"
-  ],
-  "patch-polska-with-flag-50x80-laser-cut-5111": [
-    "patches"
-  ],
-  "patch-polska-25x80-laser-cut-5078": [
-    "patches"
-  ],
-  "patch-polski-orze-end-to-end-laser-cut-5115": [
-    "patches"
-  ],
-  "patch-pzh-2000-pvc-9160": [
-    "patches"
-  ],
-  "patch-queen-of-spades-ornament-5503": [
-    "patches"
-  ],
-  "patch-quick-save-pvc-5430": [
-    "patches"
-  ],
-  "patch-raccoon-pvc-5438": [
-    "patches"
-  ],
-  "patch-raven-flag-cutout-laser-cut-5306": [
-    "patches"
-  ],
-  "patch-raven-flag-laser-cut-5299": [
-    "patches"
-  ],
-  "patch-red-beard-5808": [
-    "patches"
-  ],
-  "patch-samurai-mask-pvc-5429": [
-    "patches"
-  ],
-  "patch-sea-horse-pvc-7764": [
-    "patches"
-  ],
-  "patch-shaka-embroidery-5511": [
-    "patches"
-  ],
-  "patch-skeleton-knife-pvc-9618": [
-    "patches"
-  ],
-  "patch-skeleton-shooter-embroidery-5522": [
-    "patches"
-  ],
-  "patch-skull-in-beret-poland-airborne-forces-5900": [
-    "patches"
-  ],
-  "patch-skull-in-beret-poland-armed-forces-5899": [
-    "patches"
-  ],
-  "patch-skull-in-beret-poland-coastal-defence-5901": [
-    "patches"
-  ],
-  "patch-skull-in-beret-poland-grom-5902": [
-    "patches"
-  ],
-  "patch-skull-in-beret-poland-land-forces-5904": [
-    "patches"
-  ],
-  "patch-skull-in-beret-poland-pmw-5898": [
-    "patches"
-  ],
-  "patch-skull-in-beret-poland-special-forces-5897": [
-    "patches"
-  ],
-  "patch-skull-in-beret-poland-territorial-defence-force-5903": [
-    "patches"
-  ],
-  "patch-sloth-embroidery-5778": [
-    "patches"
-  ],
-  "patch-smell-of-napalm-5404": [
-    "patches"
-  ],
-  "patch-sniper-embroidery-5707": [
-    "patches"
-  ],
-  "patch-sons-of-odin-3d-pvc-5248": [
-    "patches"
-  ],
-  "patch-sorry-embroidery-5656": [
-    "patches"
-  ],
-  "patch-spades-laser-cut-5251": [
-    "patches"
-  ],
-  "patch-spades-valkyrie-print-pvc-5195": [
-    "patches"
-  ],
-  "patch-spades-valkyrie-pvc-5198": [
-    "patches"
-  ],
-  "patch-spartan-helmet-5129": [
-    "patches"
-  ],
-  "patch-spartan-helmet-embroidery-5384": [
-    "patches"
-  ],
-  "patch-spg-9-trex-pvc-8102": [
-    "patches"
-  ],
-  "patch-strike-pvc-8754": [
-    "patches"
-  ],
-  "patch-strykerpvc-7933": [
-    "patches"
-  ],
-  "patch-sviatoslav-pvc-5421": [
-    "patches"
-  ],
-  "patch-t-64-bulat-pvc-8014": [
-    "patches"
-  ],
-  "patch-t-72-pvc-5437": [
-    "patches"
-  ],
-  "patch-tacmed-pvc-5793": [
-    "patches"
-  ],
-  "patch-tank-5399": [
-    "patches"
-  ],
-  "patch-tank-girl-pvc-5427": [
-    "patches"
-  ],
-  "patch-the-flag-of-ukraine-with-the-coat-of-arms-in-relief-pvc-5178": [
-    "patches"
-  ],
-  "patch-the-flag-of-ukraine-with-the-trident-of-the-armed-forces-of-ukraine-pvc-5905": [
-    "patches"
-  ],
-  "patch-the-way-of-the-samurai-embroidery-5704": [
-    "patches"
-  ],
-  "patch-the-way-of-the-samurai-pvc-5397": [
-    "patches"
-  ],
-  "patch-tiger-blue-tape-pvc-5187": [
-    "patches"
-  ],
-  "patch-tiger-eyes-laser-cut-couple-5257": [
-    "patches"
-  ],
-  "patch-tiger-green-tape-pvc-5188": [
-    "patches"
-  ],
-  "patch-til-valhall-50x80mm-5349": [
-    "patches"
-  ],
-  "patch-til-valhall-ace-jacquard-5262": [
-    "patches"
-  ],
-  "patch-til-valhall-pvc-5265": [
-    "patches"
-  ],
-  "patch-time-pvc-9161": [
-    "patches"
-  ],
-  "patch-ua-division-end-to-end-laser-cut-5273": [
-    "patches"
-  ],
-  "patch-ua-division-laser-cut-5269": [
-    "patches"
-  ],
-  "patch-ukraine-coat-of-arms-5409": [
-    "patches"
-  ],
-  "patch-ukrainian-flag-witch-coat-of-arms-80x50mm-vertical-5350": [
-    "patches"
-  ],
-  "patch-undead-viking-3d-pvc-5277": [
-    "patches"
-  ],
-  "patch-valknut-3d-pvc-5284": [
-    "patches"
-  ],
-  "patch-valknut-horizontal-laser-cut-5294": [
-    "patches"
-  ],
-  "patch-valknut-laser-cut-5285": [
-    "patches"
-  ],
-  "patch-valknut-pvc-5291": [
-    "patches"
-  ],
-  "patch-valkyrie-embroidery-5700": [
-    "patches"
-  ],
-  "patch-vampir-pvc-9507": [
-    "patches"
-  ],
-  "patch-vegvisirdrakkar-80x50mm-5338": [
-    "patches"
-  ],
-  "patch-vegvisirdrakkar-round-80mm-5339": [
-    "patches"
-  ],
-  "patch-viking-evac-5688": [
-    "patches"
-  ],
-  "patch-vikingt-helmet-embroidery-5366": [
-    "patches"
-  ],
-  "patch-vikings-drakkar-5816": [
-    "patches"
-  ],
-  "patch-walknutdrakkar-round-80mm-5337": [
-    "patches"
-  ],
-  "patch-war-is-hell-3d-pvc-5369": [
-    "patches"
-  ],
-  "patch-wolf-embroidery-5367": [
-    "patches"
-  ],
-  "patch-wolf-embroidery-5368": [
-    "patches"
-  ],
-  "patch-worn-to-the-bone-pvc-9165": [
-    "patches"
-  ],
-  "patch-you-only-die-once-3d-pvc-5280": [
-    "patches"
-  ],
-  "patch-young-tiger-pvc-7856": [
-    "patches"
-  ],
-  "patch-zero-tolerance-embroidery-5806": [
-    "patches"
-  ],
-  "patch-zero-tolerance-pvc-5410": [
-    "patches"
-  ],
-  "patch-zu-23pvc-8037": [
-    "patches"
-  ],
-  "pistol-mag-pouch-gen3-383": [
-    "magazijn-pouches"
-  ],
-  "pistol-mag-pouch-kolchan-604": [
-    "magazijn-pouches"
-  ],
-  "pouch-for-folding-shovel-143": [
-    "veldspaden"
-  ],
-  "pouch-modular-assault-pack-elite-7953": [
-    "tactical-bags"
-  ],
-  "raglan-sleeve-t-shirt-ua-side-3908": [
-    "truien"
-  ],
-  "range-belt-d-ring-cobra-buckle-geniv-1023": [
-    "riemen-bretels"
-  ],
-  "rip-stop-flecce-helmet-liner-4898": [
-    "mutsen"
-  ],
-  "seat-mat-with-belt-attachment-armor-5769": [
-    "riemen-bretels"
-  ],
-  "seat-pad-with-belt-armor-8095": [
-    "riemen-bretels"
-  ],
-  "shirt-lumberjack-cotton-shirt-9353": [
-    "shirts"
-  ],
-  "shirt-lumberjack-merino-cold-weather-9000": [
-    "shirts"
-  ],
-  "shooter-high-boots-10228": [
-    "schoenen"
-  ],
-  "small-folding-knife-7-tools-5935": [
-    "zakmessen"
-  ],
-  "socks-lightweight-mk3-pirate-skull-4358": [
-    "sokken"
-  ],
-  "socks-merino-trekking-10010": [
-    "sokken"
-  ],
-  "sturm-backpack-with-ergonomic-straps-elite-9004": [
-    "tactical-bags"
-  ],
-  "sturm-backpack-with-ergonomic-straps-elite-genii-9002": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "sturm-nyco-extreme-combat-shirt-9644": [
-    "tactical-shirts"
-  ],
-  "summer-sleeping-bag-10033": [
-    "slaapzakken-matten"
-  ],
-  "summer-sleeping-bag-type-2-10034": [
-    "slaapzakken-matten"
-  ],
-  "sweat-wicking-t-shirt-athletic-6488": [
-    "shirts"
-  ],
-  "sweat-wicking-t-shirt-genii-6561": [
-    "shirts"
-  ],
-  "sweater-nord-fleece-polartec-lady-3957": [
-    "fleece"
-  ],
-  "t-shirt-937-summer-2879": [
-    "shirts"
-  ],
-  "t-shirt-937-summer-5720": [
-    "shirts"
-  ],
-  "t-shirt-gold-samurai-oversize-9271": [
-    "shirts"
-  ],
-  "t-shirt-one-shot-oversize-9265": [
-    "shirts"
-  ],
-  "t-shirt-performance-10375": [
-    "shirts"
-  ],
-  "t-shirt-summer-vent-8889": [
-    "shirts"
-  ],
-  "t-shirt-two-samurai-oversize-cotton-hard-10192": [
-    "shirts"
-  ],
-  "t-shirt-ua-side-long-sleeve-6752": [
-    "shirts"
-  ],
-  "t-shirt-viking-2853": [
-    "shirts"
-  ],
-  "t-shirt-washed-cotton-hard-9885": [
-    "shirts"
-  ],
-  "t-shirt-worn-to-the-bone-oversize-9365": [
-    "shirts"
-  ],
-  "thermal-fleece-shirt-delta-level-2-lady-5849": [
-    "thermoshirts"
-  ],
-  "thermal-rasguard-t-shirt-6305": [
-    "thermoshirts"
-  ],
-  "thermal-shirt-delta-level-2-5989": [
-    "thermoshirts"
-  ],
-  "thermal-t-shirt-ultra-vent-6167": [
-    "t-shirts-polos"
-  ],
-  "thors-hammer-belt-3385": [
-    "riemen-bretels"
-  ],
-  "tiger-belt-cobra-buckle-811": [
-    "riemen-bretels"
-  ],
-  "tourist-hanging-flashlight-7631": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
-  ],
-  "train-hard-oversized-cotton-t-shirt-hard-10190": [
-    "t-shirts-polos"
-  ],
-  "type-3-folding-knife-5-tools-3-steel-5936": [
-    "multitools"
-  ],
-  "urban-line-force-pack-backpack-7377": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "wallet-with-patch-panel-elite-genii-3184": [
-    "patches"
-  ],
-  "watch-cap-100-acrylic-4678": [
-    "mutsen"
-  ],
-  "watch-cap-elite-flecce-beanie-hat-320gm2-4519": [
-    "mutsen"
-  ],
-  "watch-cap-elite-flecce-beanie-hat-320gm2-100-polyesterslimtex-4495": [
-    "mutsen"
-  ],
-  "watch-cap-elite-fleece-260gm2-with-slimtex-4453": [
-    "mutsen"
-  ],
-  "watch-cap-polartec-4778": [
-    "mutsen"
-  ],
-  "watch-cap-polartec-cold-weather-10092": [
-    "mutsen"
-  ],
-  "watch-sport-5054": [
-    "horloges"
-  ],
-  "winter-jacket-alpha-geniv-pro-pimaloft-3915": [
-    "winterjassen"
-  ],
-  "winter-jacket-apha-basic-primaloft-9454": [
-    "winterjassen"
+  "trigger-timney-remington-700-benchrest": [
+    "luchtbuks-trekkers"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen"
@@ -1649,14 +291,6 @@
   "agm-reachir-lrf-50-640-warmtebeeldcamera-met-laser-rangefinder-121310": [
     "warmtebeeld-handheld",
     "afstandsmeters"
-  ],
-  "agm-sioux850-long-range-infraroodstraler-850nm1000mw-121100": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "agm-sioux940-long-range-infraroodstraler-940nm-800mw-v2-121321": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
   ],
   "agm-taipan-tm15-384-warmtebeeldcamera-121207": [
     "warmtebeeld-handheld"
@@ -3084,15 +1718,6 @@
   "air-stripper-donnyfl-fatboy-insert-kit": [
     "luchtbuks-dempers"
   ],
-  "pijl-fx-gold-tip": [
-    "kruisboogpijlen"
-  ],
-  "airbow-arrows-air-venturi-air-bolt-35-cal": [
-    "handboogpijlen"
-  ],
-  "airkit-steyr-lp10-lp1": [
-    "persluchtcilinders"
-  ],
   "angled-manometer-bracket-fx-impact-m3": [
     "manometers"
   ],
@@ -3121,9 +1746,6 @@
     "korrels",
     "vochtontrekkers"
   ],
-  "anti-odor-spray-scent-a-way-max-odorless": [
-    "insectenbescherming"
-  ],
   "ar-combo-wrench-element-multifunctional": [
     "gereedschap"
   ],
@@ -3135,21 +1757,6 @@
   ],
   "rifle-scope-arken-lh-6-1-6x24-klbox": [
     "richtkijkers"
-  ],
-  "bag-rider-epic-airguns-two-adjustable": [
-    "schoudersteunen"
-  ],
-  "bag-rider-fx-panthera-mkii": [
-    "schoudersteunen"
-  ],
-  "bag-rider-grs": [
-    "schoudersteunen"
-  ],
-  "bag-rider-saber-tactical-fx-impact-maverick": [
-    "schoudersteunen"
-  ],
-  "bag-rider-saber-tactical-fx-panthera": [
-    "schoudersteunen"
   ],
   "ballistic-turret-vector-optics-continental-hunting": [
     "richtmiddel-accessoires",
@@ -3176,30 +1783,19 @@
   "barricade-stop-saber-tactical-arca-swiss": [
     "tactical-bags"
   ],
-  "battery-dnt-18650-2-pack-incl-charger": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
+  "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": [
+    "batterijen"
   ],
-  "battery-dnt-21700-2-pack-incl-charger": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "battery-hikmicro-habrok-pro-hm-7250dc-rechargeable-7-2v-4800mah": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "batterij-hikmicro-hm-3632dc-lithium-oplaadbaar-3-6v-3200mah": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "battery-hikmicro-thunder-2-0-3-0-hm-3644dc-rechargeable-3-6v-4400mah": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
+  "batterij-nuprol-lipo-11-1v-1100mah-stick": [
+    "batterijen"
   ],
   "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": [
     "batterijen",
     "airsoft-diversen-1",
     "statieven"
+  ],
+  "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": [
+    "batterijen"
   ],
   "battery-sillosocks-large-12-ah-12v": [
     "lokmiddel-toebehoren"
@@ -3207,20 +1803,8 @@
   "battery-sillosocks-small-1-2-ah-12v": [
     "lokmiddel-toebehoren"
   ],
-  "battery-charger-hikmicro": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "battery-charger-hikmicro-thunder-2-0": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
   "battery-charger-sillosocks-eu-12v": [
     "lokmiddel-toebehoren"
-  ],
-  "battery-charger-hikmicro-habrok-pro": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
   ],
   "battery-grip-wolverine-for-mtw": [
     "grips"
@@ -3643,12 +2227,6 @@
   ],
   "borsteladapter-bore-tech-8-32-naar-5-16-27-hagelgeweer": [
     "schoonmaaksetjes"
-  ],
-  "bottle-end-fx-complete": [
-    "persluchtcilinders"
-  ],
-  "bottle-sleeve-fx-dynamic-redback-fde": [
-    "geweersteunen"
   ],
   "schietbril-caldwell-pro-range-glasses": [
     "oogbescherming"
@@ -4225,9 +2803,6 @@
   "double-tank-adapter-saber-tactical-fx-maverick": [
     "persluchtfles-accessoires"
   ],
-  "wireguide-clamp-wadsn-for-handguard-tail-remote-switch": [
-    "afstandsmeters"
-  ],
   "draagband-bf-voor-persluchtfles": [
     "geweerriemen"
   ],
@@ -4276,21 +2851,6 @@
   "pigeon-decoy-electronic": [
     "elektronische-lokkers"
   ],
-  "pigeon-decoy-flocked-flapper": [
-    "lokduiven"
-  ],
-  "pigeon-decoy-flocked-foraging-new": [
-    "lokduiven"
-  ],
-  "pigeon-decoy-flocked-standing-new": [
-    "lokduiven"
-  ],
-  "pigeon-decoy-flocked-stackable-new": [
-    "lokduiven"
-  ],
-  "pigeon-decoy-flocked-flying-new": [
-    "lokduiven"
-  ],
   "pigeon-decoy-sillosocks-3d-head": [
     "lokmiddel-toebehoren"
   ],
@@ -4306,12 +2866,6 @@
   "ear-defender-sordin-supreme-pro-x-sfa-leather-black": [
     "gehoorbescherming"
   ],
-  "mallard-decoy-floating-hen": [
-    "lokeenden"
-  ],
-  "mallard-decoy-floating-drake": [
-    "lokeenden"
-  ],
   "decoy-sillosocks-hypa-flap-mallard-drake": [
     "lokmiddel-toebehoren"
   ],
@@ -4323,9 +2877,6 @@
   ],
   "electronic-game-caller-hunters-specialties-johnny-stewart-executioner": [
     "elektronische-lokkers"
-  ],
-  "element-optics-etx-red-dot": [
-    "red-dots"
   ],
   "rangefinder-element-optics-helix-1500": [
     "afstandsmeters"
@@ -4396,9 +2947,6 @@
   "red-dot-falke-le-ql-gen2-reflex-sight-2-moa": [
     "red-dots"
   ],
-  "red-dot-falke-s-reflex-sight-2-moa": [
-    "red-dots"
-  ],
   "fiber-optic-lpa-bfo-geel": [
     "vizieren"
   ],
@@ -4416,12 +2964,6 @@
   ],
   "flash-hider-pts-griffin-m4sd-flashcomp-14mm-ccw-black": [
     "flash-hiders"
-  ],
-  "bottle-adapter-epic-airguns-two-for-cfb": [
-    "persluchtcilinders"
-  ],
-  "flesadapter-fx-dreamline": [
-    "persluchtcilinders"
   ],
   "rifle-bag-plano-tactical-gun-backpack-87x30": [
     "geweertassen-foudralen"
@@ -4715,9 +3257,6 @@
     "luchtbuks-dempers"
   ],
   "geluiddemper-donnyfl-emperor-v3-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-donnyfl-fatboy": [
     "luchtbuks-dempers"
   ],
   "moderator-donnyfl-fx-airguns": [
@@ -5364,6 +3903,9 @@
     "grips"
   ],
   "grip-saber-tactical-ar-style-vertical-black": [
+    "grips"
+  ],
+  "grip-saber-tactical-ar-style-vertical-gold": [
     "grips"
   ],
   "grip-steyr-lp-silhouette-left-walnut": [
@@ -6277,15 +4819,6 @@
   ],
   "korreltunnel-anschutz-000982": [
     "korreltunnels"
-  ],
-  "crow-decoy-flocked-foraging": [
-    "lokkraaien"
-  ],
-  "crow-decoy-flocked-standing": [
-    "lokkraaien"
-  ],
-  "crow-decoy-flocked-standing-head-turned": [
-    "lokkraaien"
   ],
   "crow-decoy-sillosocks-harvester-12-pack": [
     "lokmiddel-toebehoren"
@@ -8253,9 +6786,6 @@
   "onderhoudsmat-tipton-handwapen": [
     "gereedschap"
   ],
-  "support-rail-saber-tactical-window-saver": [
-    "tactical-bags"
-  ],
   "rifle-support-felt-vfg-for-sling": [
     "geweerriemen"
   ],
@@ -9742,12 +8272,6 @@
     "herlaadpersen-turret-progressive",
     "shell-plates"
   ],
-  "shroud-bushing-saber-tactical-trs": [
-    "tactical-bags"
-  ],
-  "shroud-clamp-saber-tactical-trs": [
-    "tactical-bags"
-  ],
   "sled-feet-accu-tac": [
     "geweersteunen"
   ],
@@ -10882,9 +9406,6 @@
     "luchtbuks-trekkers"
   ],
   "trigger-timney-cz-457-straight-lh": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-remington-700-benchrest": [
     "luchtbuks-trekkers"
   ],
   "trigger-timney-remington-700-calvin-elite": [
@@ -12048,32 +10569,184 @@
   "bugbuster-bug-a-salt-3-0-advanced-combat-fiber-optic": [
     "vizieren"
   ],
+  "admin-pouch-bag-medium-elite-8107": [
+    "utility-pouches"
+  ],
+  "admin-pouch-bag-with-velcro-8298": [
+    "utility-pouches"
+  ],
+  "admin-pouch-elite-583": [
+    "utility-pouches"
+  ],
+  "admin-pouch-large-elite-genii-5868": [
+    "utility-pouches"
+  ],
+  "alpha-geniii-pro-primaloft-winter-jacket-8324": [
+    "winterjassen"
+  ],
+  "alpha-geniii-pro-winter-jacket-3250": [
+    "winterjassen"
+  ],
+  "alpha-geniii-winter-jacket-3205": [
+    "winterjassen"
+  ],
+  "army-compass-7340": [
+    "kompassen"
+  ],
+  "assault-pack-968": [
+    "tactical-bags"
+  ],
+  "assault-pack-laser-cut-971": [
+    "tactical-bags"
+  ],
   "assault-tactical-mk3-fingerless-gloves-7192": [
     "tactical-handschoenen"
   ],
+  "backpack-bag-for-a-quadcopter-avata-2-9298": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "backpack-bag-for-fpv-10-lightweight-drones-without-shelves-8548": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "backpack-bag-for-fpv-7-drones-without-shelves-laser-cut-8512": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "backpack-genii-elite-large-239": [
+    "tactical-bags"
+  ],
+  "backpack-geniii-elite-small-233": [
+    "tactical-bags"
+  ],
+  "backpack-large-elite-hex-geniv-711": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "backpack-large-geniii-elite-238": [
+    "tactical-bags"
+  ],
+  "backpack-large-geniv-elite-243": [
+    "tactical-bags"
+  ],
+  "backpack-mission-pack-elite-hex-692": [
+    "tactical-bags"
+  ],
+  "backpack-recon-elite-10444": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "backpack-single-strap-agent-elite-hex-black-10199": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "backpack-sturm-elite-777": [
+    "tactical-bags"
+  ],
+  "backpack-sturm-elite-genii-965": [
+    "tactical-bags"
+  ],
+  "backpack-sturm-elite-genii-x-large-7756": [
+    "tactical-bags"
+  ],
+  "backpack-sturm-with-ergonomic-straps-x-large-elite-genii-9013": [
+    "tactical-bags"
+  ],
+  "backpack-case-for-weapons-105-cm-genii-elite-hex-8200": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "backpack-cover-for-weapons-85-cm-genii-elite-hex-8201": [
+    "tactical-bags"
+  ],
+  "bag-backpack-for-fpv-7-drones-laser-cut-8094": [
+    "tactical-bags"
+  ],
+  "bag-backpack-for-fpv-7-drones-lightweight-without-compartments-8511": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "baseball-cap-elite-flex-rip-stop-4603": [
+    "petten"
+  ],
+  "baseball-cap-elite-nyco-extreme-8572": [
+    "petten"
+  ],
   "baseball-cap-elite-tactical-nyco-extreme-8149": [
+    "petten"
+  ],
+  "baseball-cap-five-panel-9390": [
+    "petten"
+  ],
+  "baseball-cap-five-panel-nyco-extreme-9494": [
+    "petten"
+  ],
+  "baseball-cap-flex-rip-stop-4650": [
     "petten"
   ],
   "baseball-cap-mesh-elite-tactical-nyco-extreme-9661": [
     "petten"
   ],
+  "baseball-ripstop-cap-elite-flex-4739": [
+    "petten"
+  ],
   "baseball-tactical-cap-elite-flex-rip-stop-4608": [
     "petten"
+  ],
+  "battle-fleece-polartec-6406": [
+    "fleece"
   ],
   "big-tactical-ruler-protractor-nato-315208-mm-blue-edge-9792": [
     "tactical-bags"
   ],
+  "cartographic-compass-with-mirror-large-7348": [
+    "kompassen"
+  ],
+  "cartographic-compass-with-mirror-small-7347": [
+    "kompassen"
+  ],
   "ccw-holster-modular-universal-holster-146": [
     "holsters"
   ],
+  "chest-rig-elite-330": [
+    "chest-rigs"
+  ],
+  "chest-rig-military-elite-368": [
+    "chest-rigs"
+  ],
+  "closed-type-double-magazine-pouch-31": [
+    "magazijn-pouches"
+  ],
+  "cobra-buckle-belt-627": [
+    "riemen-bretels"
+  ],
   "cobra-buckle-tactical-belt-laser-cut-835": [
     "riemen-bretels"
+  ],
+  "combat-fleece-jacket-3720": [
+    "fleece"
+  ],
+  "combat-medic-backpack-elite-8848": [
+    "tactical-bags"
+  ],
+  "combat-shirt-3615": [
+    "tactical-shirts"
+  ],
+  "combat-shirt-genii-pro-nyco-extreme-3987": [
+    "tactical-shirts"
+  ],
+  "combat-shirt-summer-genii-piquet-10512": [
+    "tactical-shirts"
   ],
   "compact-tourniquet-pouch-49": [
     "tourniquets"
   ],
   "compact-tourniquet-pouch-gen3-54": [
     "tourniquets"
+  ],
+  "compass-army-7346": [
+    "kompassen"
   ],
   "compression-sack-medium-952": [
     "slaapzakken-matten"
@@ -12092,6 +10765,12 @@
   ],
   "cuirass-tiger-elite-plate-carrier-plate-size-m-9559": [
     "plate-carriers"
+  ],
+  "delta-polartec-fleece-jacket-6200": [
+    "fleece"
+  ],
+  "double-ak-mag-pouch-with-cover-940": [
+    "magazijn-pouches"
   ],
   "double-duty-tactical-belt-hex-112": [
     "riemen-bretels"
@@ -12135,6 +10814,10 @@
   "ecopybook-tactical-notebook-of-an-intelligence-agent-8194": [
     "veldnotitie"
   ],
+  "ecopybook-tactical-pencil-survival-gen2-9755": [
+    "tactical-pens",
+    "veldnotitie"
+  ],
   "ecopybook-tactical-protractor-pr-r-850": [
     "veldnotitie"
   ],
@@ -12153,8 +10836,11 @@
   "ecopybook-tactical-ruler-reconnaissance-btr-8634": [
     "veldnotitie"
   ],
-  "ecopybook-tactical-ruler-ts-nato-853": [
-    "tactical-bags"
+  "ecopybook-tactical-ruler-ts-nato-blue-10569": [
+    "veldnotitie"
+  ],
+  "ecopybook-tactical-ruler-tz-nato-853": [
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
     "veldnotitie"
@@ -12190,11 +10876,59 @@
   "elite-tactical-baseball-cap-with-mesh-nyco-extreme-8575": [
     "petten"
   ],
+  "eod-response-log-a6-9791": [
+    "veldnotitie"
+  ],
   "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048": [
     "shoulder-messengers"
   ],
+  "fighter-dark-denim-jeans-9564": [
+    "broeken"
+  ],
   "fingerless-gloves-assault-tactical-mk1-7162": [
     "tactical-handschoenen"
+  ],
+  "flag-odin-night-vision-630x900-5792": [
+    "nachtzicht-handheld"
+  ],
+  "flashlight-a180-7601": [
+    "zaklampen-hoofdlampen"
+  ],
+  "flashlight-k2-7627": [
+    "zaklampen-hoofdlampen"
+  ],
+  "flashlight-m22-c-7641": [
+    "zaklampen-hoofdlampen"
+  ],
+  "flashlight-ml-8-7645": [
+    "zaklampen-hoofdlampen"
+  ],
+  "flashlight-p180-7647": [
+    "zaklampen-hoofdlampen"
+  ],
+  "flashlight-p21-7648": [
+    "zaklampen-hoofdlampen"
+  ],
+  "flashlight-p4-7649": [
+    "zaklampen-hoofdlampen"
+  ],
+  "flashlight-ux11-7670": [
+    "zaklampen-hoofdlampen"
+  ],
+  "fleece-jacket-senator-polartec-3672": [
+    "fleece"
+  ],
+  "fleece-jacket-windblock-division-genii-8074": [
+    "fleece"
+  ],
+  "fleece-pants-delta-level-2-6080": [
+    "broeken"
+  ],
+  "fleece-rip-stop-helmet-liner-genii-4854": [
+    "helmen"
+  ],
+  "fleece-sweatshirt-shadow-polartec-4033": [
+    "fleece"
   ],
   "fleece-tactical-watch-cap-beanie-with-patch-panel-270gm2-4471": [
     "patches",
@@ -12202,11 +10936,98 @@
     "petten",
     "mutsen"
   ],
+  "fleece-watch-cap-elite-260gm2-4431": [
+    "horloges"
+  ],
+  "fleece-watch-cap-light-polartec-4742": [
+    "horloges"
+  ],
+  "fleece-watch-cap-light-polartec-gen-ii-4758": [
+    "horloges"
+  ],
+  "folding-knife-type-11-9512": [
+    "zakmessen"
+  ],
+  "folding-knife-type-12-9990": [
+    "zakmessen"
+  ],
+  "folding-knife-type-12-9991": [
+    "zakmessen"
+  ],
+  "folding-knife-type-12-scandinavian-10536": [
+    "zakmessen"
+  ],
+  "folding-knife-type-12-scandinavian-stonewash-10542": [
+    "zakmessen"
+  ],
+  "folding-knife-type-12-skull-10532": [
+    "zakmessen"
+  ],
+  "folding-knife-type-12-spider-web-10529": [
+    "zakmessen"
+  ],
+  "folding-knife-type-13-blacksteel-9979": [
+    "zakmessen"
+  ],
+  "folding-knife-type-14-blackgrey-9977": [
+    "zakmessen"
+  ],
+  "folding-knife-type-15-carbonblue-9963": [
+    "zakmessen"
+  ],
+  "folding-knife-type-16-blacksteel-9978": [
+    "zakmessen"
+  ],
+  "folding-knife-type-17-blacksteel-9976": [
+    "zakmessen"
+  ],
+  "folding-knife-type-18-9984": [
+    "zakmessen"
+  ],
+  "folding-knife-type-19-9985": [
+    "zakmessen"
+  ],
+  "folding-knife-type-3-5948": [
+    "zakmessen"
+  ],
+  "folding-knife-type-4-5949": [
+    "zakmessen"
+  ],
+  "folding-knife-type-5-5951": [
+    "zakmessen"
+  ],
+  "folding-knife-type-6-5953": [
+    "zakmessen"
+  ],
+  "folding-knife-type-7-5955": [
+    "zakmessen"
+  ],
+  "folding-knife-type-8-5956": [
+    "zakmessen"
+  ],
+  "folding-knife-type-9-6-tools-9530": [
+    "zakmessen"
+  ],
+  "folding-shovel-with-case-5919": [
+    "veldspaden"
+  ],
+  "folding-two-piece-cutlery-set-5933": [
+    "2-delige-montages"
+  ],
+  "fpv-drone-bag-backpack-for-10-drones-lightweight-8701": [
+    "tactical-bags"
+  ],
+  "fpv-drone-bag-backpack-for-7-drones-lightweight-8702": [
+    "tactical-bags"
+  ],
   "front-panel-for-cuirass-qrs-three-mags-plate-carrier-815": [
     "plate-carriers"
   ],
   "front-panel-for-plate-carrier-cuirass-qrs-for-4-magazine-833": [
     "plate-carriers"
+  ],
+  "gloves-a30-7301": [
+    "tactical-handschoenen"
   ],
   "gloves-assault-tactical-mk2-7122": [
     "tactical-handschoenen"
@@ -12217,11 +11038,39 @@
   "gloves-assault-tactical-mk8-7177": [
     "tactical-handschoenen"
   ],
+  "gloves-fleece-thinsulate-7275": [
+    "tactical-handschoenen"
+  ],
   "gloves-nomex-assault-tactical-mk7-7255": [
+    "tactical-handschoenen"
+  ],
+  "gloves-police-gen2-5963": [
+    "tactical-handschoenen"
+  ],
+  "gloves-skeleton-nomex-9277": [
+    "tactical-handschoenen"
+  ],
+  "gloves-soft-shell-thinsulate-7263": [
     "tactical-handschoenen"
   ],
   "gloves-winter-extreme-tactical-7284": [
     "tactical-handschoenen"
+  ],
+  "gloves-winter-leather-7313": [
+    "tactical-handschoenen"
+  ],
+  "gloves-winter-soft-shell-7110": [
+    "tactical-handschoenen"
+  ],
+  "gun-sling-two-point-263": [
+    "geweerriemen"
+  ],
+  "headlamp-41-led-7622": [
+    "zaklampen-hoofdlampen"
+  ],
+  "helmet-watch-cap-polartec-4914": [
+    "horloges",
+    "helmen"
   ],
   "holster-insert-light-533": [
     "holsters"
@@ -12245,9 +11094,66 @@
     "ehbo",
     "medical-pouches"
   ],
+  "jacket-berserk-polartec-primaloft-9657": [
+    "winterjassen"
+  ],
+  "jacket-berserk-polartec-primaloft-elite-9654": [
+    "winterjassen"
+  ],
+  "jacket-berserk-primaloft-toray-10119": [
+    "winterjassen"
+  ],
+  "jacket-combat-fleece-polartec-3850": [
+    "fleece"
+  ],
+  "jacket-combat-fleece-polartec-lady-3977": [
+    "fleece"
+  ],
+  "jacket-field-nyco-extreme-2643": [
+    "winterjassen"
+  ],
+  "jacket-jarl-primaloft-8517": [
+    "winterjassen"
+  ],
+  "jacket-knight-primaloft-8442": [
+    "winterjassen"
+  ],
+  "jacket-konung-primaloft-9477": [
+    "winterjassen"
+  ],
+  "jacket-military-elite-nyco-extreme-8538": [
+    "winterjassen"
+  ],
+  "jacket-space-armor-genii-primaloft-10395": [
+    "winterjassen"
+  ],
+  "jacket-sturm-genii-nyco-extreme-7874": [
+    "winterjassen"
+  ],
+  "jacket-sturm-nyco-extreme-2958": [
+    "winterjassen"
+  ],
+  "jacket-sturm-nyco-extreme-8531": [
+    "winterjassen"
+  ],
   "jeans-tactical-geni-cordura-regular-3388": [
     "tactical-broeken",
     "broeken"
+  ],
+  "lanyard-scandinavian-small-helmet-of-terror-877": [
+    "helmen"
+  ],
+  "large-assault-pack-backpack-972": [
+    "tactical-bags"
+  ],
+  "large-assault-pack-backpack-laser-cut-975": [
+    "tactical-bags"
+  ],
+  "led-mini-flashlight-5923": [
+    "zaklampen-hoofdlampen"
+  ],
+  "lightweight-summer-socks-mortar-bombs-4396": [
+    "sokken"
   ],
   "lite-tactical-belt-genii-3310": [
     "riemen-bretels"
@@ -12255,8 +11161,37 @@
   "m-tac-alder-camouflage-suit-693": [
     "camouflagenetten"
   ],
+  "m-tac-alpha-geniii-winter-jacket-3217": [
+    "winterjassen"
+  ],
+  "m-tac-backpack-cover-large-7433": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "m-tac-backpack-genii-elite-small-234": [
+    "tactical-bags"
+  ],
+  "m-tac-backpack-inserts-3-pcs-719": [
+    "tactical-bags"
+  ],
+  "m-tac-backpack-mission-pack-7437": [
+    "tactical-bags"
+  ],
+  "m-tac-backpack-small-elite-hex-724": [
+    "tactical-bags"
+  ],
+  "m-tac-backpack-case-for-weapons-105-cm-genii-elite-8199": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "m-tac-baseball-cap-flex-rip-stop-4664": [
+    "petten"
+  ],
   "m-tac-berg-buckle-tactical-belt-205": [
     "riemen-bretels"
+  ],
+  "m-tac-chest-rig-elite-1048": [
+    "chest-rigs"
   ],
   "m-tac-cobra-buckle-tactical-belt-304": [
     "riemen-bretels"
@@ -12272,6 +11207,12 @@
   ],
   "m-tac-double-duty-tactical-belt-163": [
     "riemen-bretels"
+  ],
+  "m-tac-double-mag-pouch-hook-backed-magazine-284": [
+    "magazijn-pouches"
+  ],
+  "m-tac-drop-leg-platform-gen3-150": [
+    "holsters"
   ],
   "m-tac-ecopybook-tactical-an-all-weather-notebook-fireteam-squad-8630": [
     "veldnotitie"
@@ -12300,17 +11241,58 @@
   "m-tac-gloves-assault-tactical-mk5-7235": [
     "tactical-handschoenen"
   ],
+  "m-tac-gloves-nomex-sport-leather-8120": [
+    "tactical-handschoenen"
+  ],
+  "m-tac-gloves-police-7222": [
+    "tactical-handschoenen"
+  ],
+  "m-tac-gloves-summer-vent-8108": [
+    "tactical-handschoenen"
+  ],
+  "m-tac-gun-belt-single-point-669": [
+    "riemen-bretels"
+  ],
   "m-tac-hook-loop-utility-panel-200": [
     "utility-pouches"
   ],
   "m-tac-horizontal-utility-pouch-65": [
     "utility-pouches"
   ],
+  "m-tac-internal-tiger-belt-for-range-belt-817": [
+    "riemen-bretels"
+  ],
+  "m-tac-mag-drop-pouch-elite-209": [
+    "magazijn-pouches",
+    "dump-pouches"
+  ],
+  "m-tac-mag-pouch-kolchan-for-akar-mini-599": [
+    "magazijn-pouches"
+  ],
+  "m-tac-magazine-dump-pouch-lite-elite-728": [
+    "magazijn-pouches",
+    "dump-pouches"
+  ],
+  "m-tac-my-edc-t-shirt-8693": [
+    "t-shirts-polos"
+  ],
   "m-tac-panel-for-patches-on-molle-120x26-799": [
     "patches"
   ],
   "m-tac-panel-for-patches-on-molle-80x26-801": [
     "patches"
+  ],
+  "m-tac-pants-army-nyco-extreme-2738": [
+    "tactical-broeken",
+    "broeken"
+  ],
+  "m-tac-pants-patrol-geniii-nyco-extreme-8907": [
+    "tactical-broeken",
+    "broeken"
+  ],
+  "m-tac-pants-patrol-geniii-special-edition-8934": [
+    "tactical-broeken",
+    "broeken"
   ],
   "m-tac-paracord-550-type-iii-15m-785": [
     "paracord"
@@ -12323,6 +11305,70 @@
   ],
   "m-tac-paracord-survival-951": [
     "paracord"
+  ],
+  "m-tac-paratrooper-belt-644": [
+    "riemen-bretels"
+  ],
+  "m-tac-pas-range-belt-cobra-buckle-geniv-1032": [
+    "riemen-bretels"
+  ],
+  "m-tac-patch-ar-15-american-rifle-80x50-mm-5452": [
+    "patches"
+  ],
+  "m-tac-patch-emoji-13-5465": [
+    "patches"
+  ],
+  "m-tac-patch-emoji-2-5454": [
+    "patches"
+  ],
+  "m-tac-patch-emoji-22-5473": [
+    "patches"
+  ],
+  "m-tac-patch-emoji-27-5478": [
+    "patches"
+  ],
+  "m-tac-patch-emoji-3-5455": [
+    "patches"
+  ],
+  "m-tac-patch-emoji-7-5459": [
+    "patches"
+  ],
+  "m-tac-patch-emoji-9-5461": [
+    "patches"
+  ],
+  "m-tac-patch-emoji-usa-5497": [
+    "patches"
+  ],
+  "m-tac-patch-emoji-usa-girl-1-5495": [
+    "patches"
+  ],
+  "m-tac-patch-orange-cat-pvc-mm14-cover-10445": [
+    "patches"
+  ],
+  "m-tac-patch-polska-end-to-end-25x80-laser-cut-5064": [
+    "patches"
+  ],
+  "m-tac-patch-press-type-2-7333": [
+    "herlaadkits",
+    "patches"
+  ],
+  "m-tac-patch-surprise-pvc-8355": [
+    "patches"
+  ],
+  "m-tac-patch-us-flag-reverse-80x50mm-5348": [
+    "patches"
+  ],
+  "m-tac-patch-us-flag-reverse-vintage-80x50mm-5341": [
+    "patches"
+  ],
+  "m-tac-patch-zu-23-4-pvc-8624": [
+    "patches"
+  ],
+  "m-tac-patch-see-in-the-dark-like-a-predator-pvc-blackcoyote-10201": [
+    "patches"
+  ],
+  "m-tac-pcc-mag-pouch-kolchan-609": [
+    "magazijn-pouches"
   ],
   "m-tac-pouch-accessory-lower-large-elite-714": [
     "die-accessoires"
@@ -12342,14 +11388,101 @@
   "m-tac-pouch-utility-large-7654": [
     "utility-pouches"
   ],
+  "m-tac-raglan-sweat-wicking-t-shirt-summer-6841": [
+    "tactical-shirts"
+  ],
+  "m-tac-raglan-t-shirt-937-6766": [
+    "tactical-shirts",
+    "shirts"
+  ],
+  "m-tac-seating-pad-with-belt-20": [
+    "riemen-bretels"
+  ],
   "m-tac-set-of-2-duty-belt-keppers-tactical-police-law-enforcement-for-2-inch-belt-3192": [
     "riemen-bretels"
+  ],
+  "m-tac-sling-bag-large-elite-genii-782": [
+    "sling-bags"
+  ],
+  "m-tac-socks-coolmax-35-7408": [
+    "sokken"
   ],
   "m-tac-summer-pro-sneakers-7445": [
     "tactical-sneakers"
   ],
+  "m-tac-t-shirt-937-lady-8791": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-belt-after-belt-10043": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-black-sea-expedition-6717": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-comics-drone-girl-7004": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-cotton-hard-8151": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-delivery-service-6955": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-freedom-6983": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-kamikaze-spirit-6866": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-keep-calm-7025": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-logo-6927": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-logo-long-sleeve-6948": [
+    "shirts"
+  ],
+  "m-tac-t-shirt-mavic-delivery-service-7757": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-motanka-6997": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-odin-mystery-long-sleeve-7060": [
+    "shirts"
+  ],
+  "m-tac-t-shirt-our-land-7017": [
+    "tactical-shirts"
+  ],
+  "m-tac-t-shirt-phoenix-7018": [
+    "tactical-shirts",
+    "shirts"
+  ],
+  "m-tac-t-shirt-quadcopter-6859": [
+    "tactical-shirts"
+  ],
   "m-tac-t-shirt-raglan-sweat-wicking-tactical-summer-8031": [
     "tactical-shirts"
+  ],
+  "m-tac-t-shirt-rex-team-7067": [
+    "tactical-shirts",
+    "shirts"
+  ],
+  "m-tac-t-shirt-steel-knight-6920": [
+    "tactical-shirts"
+  ],
+  "m-tac-t-shirt-surf-club-6872": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-talpa-7046": [
+    "shirts"
+  ],
+  "m-tac-t-shirt-ua-side-6742": [
+    "t-shirts-polos"
+  ],
+  "m-tac-t-shirt-warrior-8636": [
+    "t-shirts-polos"
   ],
   "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
     "dump-pouches"
@@ -12378,6 +11511,9 @@
   "m-tac-tactical-sweat-wicking-t-shirt-summer-6822": [
     "tactical-shirts"
   ],
+  "m-tac-thermo-pants-polartec-winter-baselayer-vent-6399": [
+    "thermobroeken"
+  ],
   "m-tac-utility-organizer-slim-elite-571": [
     "utility-pouches"
   ],
@@ -12390,8 +11526,26 @@
   "m-tac-utility-travel-case-elite-small-22x14-cm-458": [
     "utility-pouches"
   ],
+  "m-tac-vilha-helmet-cover-744": [
+    "helmen"
+  ],
+  "m-tac-vilha-helmet-cover-fast-746": [
+    "helmen"
+  ],
+  "m-tac-watch-cap-elite-flecce-beanie-hat-320gm2-4539": [
+    "mutsen"
+  ],
+  "mag-pouch-kolchan-for-akar-594": [
+    "magazijn-pouches"
+  ],
+  "magazine-pouch-with-elastic-band-10-cm-laser-cut-479": [
+    "magazijn-pouches"
+  ],
   "magnetic-panel-for-patches-290x95-8363": [
     "patches"
+  ],
+  "map-compass-7418": [
+    "kompassen"
   ],
   "medical-pouch-rip-off-55": [
     "ehbo",
@@ -12404,6 +11558,18 @@
   "medical-pouch-vertical-small-genii-elite-10019": [
     "ehbo",
     "medical-pouches"
+  ],
+  "mesh-flex-ripstop-baseball-cap-4820": [
+    "petten"
+  ],
+  "mesh-flex-ripstop-baseball-cap-with-velcro-4830": [
+    "petten"
+  ],
+  "modular-backpack-for-drones-8093": [
+    "tactical-bags"
+  ],
+  "molle-patch-clover-8027": [
+    "patches"
   ],
   "multitool-type-1-5921": [
     "multitools"
@@ -12444,8 +11610,14 @@
   "multitool-type-9-5946": [
     "multitools"
   ],
+  "norman-windblock-fleece-jacket-1196": [
+    "fleece"
+  ],
   "notebook-ecopybook-tactical-all-weather-mini-8367": [
     "veldnotitie"
+  ],
+  "organiser-a5-elite-8543": [
+    "tactical-bags"
   ],
   "organizer-hardshell-utility-box-l-9958": [
     "utility-pouches"
@@ -12453,11 +11625,44 @@
   "organizer-hardshell-utility-box-s-9962": [
     "utility-pouches"
   ],
+  "paladin-jacket-primaloft-toray-9860": [
+    "winterjassen"
+  ],
   "panel-for-patches-universal-roll-8068": [
     "patches"
   ],
   "panel-for-patches-universal-roll-65x95-8071": [
     "patches"
+  ],
+  "pants-aggressor-genii-vintage-2628": [
+    "broeken"
+  ],
+  "pants-aggressor-lady-flex-2143": [
+    "broeken"
+  ],
+  "pants-aggressor-vintage-3328": [
+    "broeken"
+  ],
+  "pants-army-genii-nyco-extreme-2759": [
+    "tactical-broeken"
+  ],
+  "pants-cotton-classic-7990": [
+    "joggingbroeken"
+  ],
+  "pants-fleece-delta-level-2-lady-5837": [
+    "thermobroeken"
+  ],
+  "pants-soft-shell-vent-3452": [
+    "broeken"
+  ],
+  "pants-soft-shell-winter-3026": [
+    "broeken"
+  ],
+  "pants-stealth-active-7857": [
+    "joggingbroeken"
+  ],
+  "pants-stealth-cotton-2544": [
+    "broeken"
   ],
   "paracord-475-9619": [
     "paracord"
@@ -12531,7 +11736,523 @@
   "paracord-shock-cord-3mm-60m-9875": [
     "paracord"
   ],
+  "patch-see-in-the-dark-like-a-predator-pvc-7755": [
+    "patches"
+  ],
+  "patch-120mmpvc-8004": [
+    "patches"
+  ],
+  "patch-abrams-pvc-5434": [
+    "patches"
+  ],
+  "patch-ace-of-spades-5127": [
+    "patches"
+  ],
+  "patch-ace-of-spades-embroidery-5362": [
+    "patches"
+  ],
+  "patch-ace-of-spades-3d-pvc-5131": [
+    "patches"
+  ],
+  "patch-ace-of-spades-laser-cut-5134": [
+    "patches"
+  ],
+  "patch-ace-of-spades-laser-cut-5135": [
+    "patches"
+  ],
+  "patch-akm-762x39-laser-cut-5141": [
+    "patches"
+  ],
+  "patch-anonymous-5352": [
+    "patches"
+  ],
+  "patch-ar-15-223556-laser-cut-5146": [
+    "patches"
+  ],
+  "patch-ar-15-3d-pvc-5151": [
+    "patches"
+  ],
+  "patch-ar-15-velcropvc-8158": [
+    "patches"
+  ],
+  "patch-autosave-pvc-5201": [
+    "patches"
+  ],
+  "patch-bad-boy-5356": [
+    "patches"
+  ],
+  "patch-bad-boy-embroidery-5570": [
+    "patches"
+  ],
+  "patch-battle-rex-2-pvc-8001": [
+    "patches"
+  ],
+  "patch-battle-witch-5408": [
+    "patches"
+  ],
+  "patch-beretta-8059": [
+    "patches"
+  ],
+  "patch-bmc-kirpi-pvc-8292": [
+    "patches"
+  ],
+  "patch-bradley-pvc-7927": [
+    "patches"
+  ],
+  "patch-btr-4-pvc-5440": [
+    "patches"
+  ],
+  "patch-caesar-pvc-7926": [
+    "patches"
+  ],
+  "patch-carnation-2c1-pvc-7854": [
+    "patches"
+  ],
+  "patch-cat-eyes-type-2-laser-cut-5448": [
+    "patches"
+  ],
+  "patch-cat-eyes-laser-cut-5119": [
+    "patches"
+  ],
+  "patch-cat-predator-8317": [
+    "patches"
+  ],
+  "patch-cossack-ukraine-3d-pvc-5444": [
+    "patches"
+  ],
+  "patch-cougar-pvc-9393": [
+    "patches"
+  ],
+  "patch-crossed-fingers-5711": [
+    "patches"
+  ],
+  "patch-dana-pvc-9394": [
+    "patches"
+  ],
+  "patch-dead-inside-8552": [
+    "patches"
+  ],
+  "patch-deus-vult-3d-pvc-5162": [
+    "patches"
+  ],
+  "patch-drakkar-laser-cut-5296": [
+    "patches"
+  ],
+  "patch-drone-zone-pvc-5405": [
+    "patches"
+  ],
+  "patch-egeshelm-pvc-5320": [
+    "patches"
+  ],
+  "patch-emoji-1-5453": [
+    "patches"
+  ],
+  "patch-emoji-10-5462": [
+    "patches"
+  ],
+  "patch-emoji-11-5463": [
+    "patches"
+  ],
+  "patch-emoji-12-5464": [
+    "patches"
+  ],
+  "patch-emoji-14-5466": [
+    "patches"
+  ],
+  "patch-emoji-15-5467": [
+    "patches"
+  ],
+  "patch-emoji-19-5470": [
+    "patches"
+  ],
+  "patch-emoji-20-5471": [
+    "patches"
+  ],
+  "patch-emoji-21-5472": [
+    "patches"
+  ],
+  "patch-emoji-23-5474": [
+    "patches"
+  ],
+  "patch-emoji-24-5475": [
+    "patches"
+  ],
+  "patch-emoji-25-5476": [
+    "patches"
+  ],
+  "patch-emoji-4-5456": [
+    "patches"
+  ],
+  "patch-emoji-49-5482": [
+    "patches"
+  ],
+  "patch-emoji-5-5457": [
+    "patches"
+  ],
+  "patch-emoji-6-5458": [
+    "patches"
+  ],
+  "patch-expedition-80x50mm-5346": [
+    "patches"
+  ],
+  "patch-f-16-pvc-8097": [
+    "patches"
+  ],
+  "patch-face-of-war-embroidery-5564": [
+    "patches"
+  ],
+  "patch-fare-map-embroidery-5574": [
+    "patches"
+  ],
+  "patch-fighting-rex-pvc-7948": [
+    "patches"
+  ],
+  "patch-fire-on-pvc-7961": [
+    "patches"
+  ],
+  "patch-flag-25x80-mini-squares-laser-cut-5088": [
+    "patches"
+  ],
+  "patch-flag-25x80-mini-squares-laser-cut-5092": [
+    "patches"
+  ],
+  "patch-flag-blackbeard-rpg-7-7957": [
+    "patches"
+  ],
+  "patch-flag-united-kingdom-80-x-50-mm-5381": [
+    "patches"
+  ],
+  "patch-fpv-remote-control-pvc-8103": [
+    "patches"
+  ],
+  "patch-frag-1-5766": [
+    "patches"
+  ],
+  "patch-fucking-luck-pvc-8348": [
+    "patches"
+  ],
+  "patch-gepard-pvc-7932": [
+    "patches"
+  ],
+  "patch-gladiator-helmet-embroidery-5521": [
+    "patches"
+  ],
+  "patch-helm-of-terror-laser-cut-5314": [
+    "patches"
+  ],
+  "patch-helmet-of-horror-horizontal-laser-cut-5323": [
+    "patches"
+  ],
+  "patch-helmet-skull-5394": [
+    "patches"
+  ],
+  "patch-hmmwv-pvc-7850": [
+    "patches"
+  ],
+  "patch-howitzer-d-30-pvc-7853": [
+    "patches"
+  ],
+  "patch-husaria-3d-pvc-5124": [
+    "patches"
+  ],
+  "patch-joker-skull-3d-pvc-5209": [
+    "patches"
+  ],
+  "patch-jolly-roger-pvc-5204": [
+    "patches"
+  ],
+  "patch-kitty-embroidery-5541": [
+    "patches"
+  ],
+  "patch-kozak-pvc-7852": [
+    "patches"
+  ],
+  "patch-krab-pvc-5428": [
+    "patches"
+  ],
+  "patch-lady-of-spades-pvc-5908": [
+    "patches"
+  ],
+  "patch-leopard-2-pvc-5436": [
+    "patches"
+  ],
+  "patch-logo-m-tac-pvc-8293": [
+    "patches"
+  ],
+  "patch-lose-of-head-7767": [
+    "patches"
+  ],
+  "patch-m-109-5791": [
+    "patches"
+  ],
+  "patch-m142-himars-pvc-8003": [
+    "patches"
+  ],
+  "patch-m270-pvc-9019": [
+    "patches"
+  ],
+  "patch-m67-3d-pvc-5254": [
+    "patches"
+  ],
+  "patch-m777-pvc-5433": [
+    "patches"
+  ],
+  "patch-map-helmet-of-horror-embroidery-5578": [
+    "patches"
+  ],
+  "patch-march-10145": [
+    "patches"
+  ],
+  "patch-marder-pvc-8506": [
+    "patches"
+  ],
+  "patch-maxxpro-pvc-8013": [
+    "patches"
+  ],
+  "patch-medic-cross-laser-cut-5212": [
+    "patches"
+  ],
+  "patch-medic-cross-square-pvc-5222": [
+    "patches"
+  ],
+  "patch-medic-pvc-5226": [
+    "patches"
+  ],
+  "patch-mg-operator-print-pvc-5415": [
+    "patches"
+  ],
+  "patch-mg-operator-print-pvc-5417": [
+    "patches"
+  ],
+  "patch-mg-operator-pvc-5418": [
+    "patches"
+  ],
+  "patch-mim-104-patriot-pvc-8657": [
+    "patches"
+  ],
+  "patch-mjolnir-large-pvc-5441": [
+    "patches"
+  ],
+  "patch-molepvc-8002": [
+    "patches"
+  ],
+  "patch-molle-flag-of-poland-8643": [
+    "patches"
+  ],
+  "patch-molon-labe-ace-3d-pvc-5231": [
+    "patches"
+  ],
+  "patch-motanka-embroidery-5909": [
+    "patches"
+  ],
+  "patch-msta-s-pvc-5432": [
+    "patches"
+  ],
+  "patch-nlaw-says-welcome-pvc-5407": [
+    "patches"
+  ],
+  "patch-no-knife-no-life-3d-pvc-5234": [
+    "patches"
+  ],
+  "patch-odin-3d-pvc-5240": [
+    "patches"
+  ],
   "patch-odin-tactical-3d-pvc-5788": [
+    "patches"
+  ],
+  "patch-old-skull-5241": [
+    "patches"
+  ],
+  "patch-old-tiger-5062": [
+    "patches"
+  ],
+  "patch-operator-5402": [
+    "patches"
+  ],
+  "patch-operator-3d-pvc-5389": [
+    "patches"
+  ],
+  "patch-operator-fpv-pvc-7847": [
+    "patches"
+  ],
+  "patch-operator-ufo-7773": [
+    "patches"
+  ],
+  "patch-owl-embroidery-5804": [
+    "patches"
+  ],
+  "patch-owl-pvc-5439": [
+    "patches"
+  ],
+  "patch-panel-142": [
+    "patches"
+  ],
+  "patch-panel-flag-jolly-roger-7769": [
+    "patches"
+  ],
+  "patch-panel-rug-845x1350-10411": [
+    "patches"
+  ],
+  "patch-paramedic-5691": [
+    "patches"
+  ],
+  "patch-paramedic-embroidery-5712": [
+    "patches"
+  ],
+  "patch-paramedic-bear-embroidery-5802": [
+    "patches"
+  ],
+  "patch-paramedic-ursus-pvc-5425": [
+    "patches"
+  ],
+  "patch-pfm-1-mine-7855": [
+    "patches"
+  ],
+  "patch-poland-5-5486": [
+    "patches"
+  ],
+  "patch-poland-6-5487": [
+    "patches"
+  ],
+  "patch-poland-7-5488": [
+    "patches"
+  ],
+  "patch-poland-with-flag-50x80-laser-cut-5097": [
+    "patches"
+  ],
+  "patch-poland-with-flag-50x80-laser-cut-5101": [
+    "patches"
+  ],
+  "patch-poland-25x80-laser-cut-5068": [
+    "patches"
+  ],
+  "patch-poland-25x80-laser-cut-5072": [
+    "patches"
+  ],
+  "patch-poland-end-to-end-25x80-laser-cut-5057": [
+    "patches"
+  ],
+  "patch-polska-with-flag-50x80-laser-cut-5106": [
+    "patches"
+  ],
+  "patch-polska-with-flag-50x80-laser-cut-5111": [
+    "patches"
+  ],
+  "patch-polska-25x80-laser-cut-5078": [
+    "patches"
+  ],
+  "patch-polski-orze-end-to-end-laser-cut-5115": [
+    "patches"
+  ],
+  "patch-pzh-2000-pvc-9160": [
+    "patches"
+  ],
+  "patch-queen-of-spades-ornament-5503": [
+    "patches"
+  ],
+  "patch-quick-save-pvc-5430": [
+    "patches"
+  ],
+  "patch-raccoon-pvc-5438": [
+    "patches"
+  ],
+  "patch-raven-flag-cutout-laser-cut-5306": [
+    "patches"
+  ],
+  "patch-raven-flag-laser-cut-5299": [
+    "patches"
+  ],
+  "patch-red-beard-5808": [
+    "patches"
+  ],
+  "patch-samurai-mask-pvc-5429": [
+    "patches"
+  ],
+  "patch-sea-horse-pvc-7764": [
+    "patches"
+  ],
+  "patch-shaka-embroidery-5511": [
+    "patches"
+  ],
+  "patch-skeleton-knife-pvc-9618": [
+    "patches"
+  ],
+  "patch-skeleton-shooter-embroidery-5522": [
+    "patches"
+  ],
+  "patch-skull-in-beret-poland-airborne-forces-5900": [
+    "patches"
+  ],
+  "patch-skull-in-beret-poland-armed-forces-5899": [
+    "patches"
+  ],
+  "patch-skull-in-beret-poland-coastal-defence-5901": [
+    "patches"
+  ],
+  "patch-skull-in-beret-poland-grom-5902": [
+    "patches"
+  ],
+  "patch-skull-in-beret-poland-land-forces-5904": [
+    "patches"
+  ],
+  "patch-skull-in-beret-poland-pmw-5898": [
+    "patches"
+  ],
+  "patch-skull-in-beret-poland-special-forces-5897": [
+    "patches"
+  ],
+  "patch-skull-in-beret-poland-territorial-defence-force-5903": [
+    "patches"
+  ],
+  "patch-sloth-embroidery-5778": [
+    "patches"
+  ],
+  "patch-smell-of-napalm-5404": [
+    "patches"
+  ],
+  "patch-sniper-embroidery-5707": [
+    "patches"
+  ],
+  "patch-sons-of-odin-3d-pvc-5248": [
+    "patches"
+  ],
+  "patch-sorry-embroidery-5656": [
+    "patches"
+  ],
+  "patch-spades-laser-cut-5251": [
+    "patches"
+  ],
+  "patch-spades-valkyrie-print-pvc-5195": [
+    "patches"
+  ],
+  "patch-spades-valkyrie-pvc-5198": [
+    "patches"
+  ],
+  "patch-spartan-helmet-5129": [
+    "patches"
+  ],
+  "patch-spartan-helmet-embroidery-5384": [
+    "patches"
+  ],
+  "patch-spg-9-trex-pvc-8102": [
+    "patches"
+  ],
+  "patch-strike-pvc-8754": [
+    "patches"
+  ],
+  "patch-strykerpvc-7933": [
+    "patches"
+  ],
+  "patch-sviatoslav-pvc-5421": [
+    "patches"
+  ],
+  "patch-t-64-bulat-pvc-8014": [
+    "patches"
+  ],
+  "patch-t-72-pvc-5437": [
+    "patches"
+  ],
+  "patch-tacmed-pvc-5793": [
     "patches"
   ],
   "patch-tactical-girl-1-yakuza-pvc-5164": [
@@ -12573,7 +12294,124 @@
   "patch-tactical-girl-no-7-yakuza-tattoo-pvc-mc-8343": [
     "patches"
   ],
+  "patch-tank-5399": [
+    "patches"
+  ],
+  "patch-tank-girl-pvc-5427": [
+    "patches"
+  ],
+  "patch-the-flag-of-ukraine-with-the-coat-of-arms-in-relief-pvc-5178": [
+    "patches"
+  ],
+  "patch-the-flag-of-ukraine-with-the-trident-of-the-armed-forces-of-ukraine-pvc-5905": [
+    "patches"
+  ],
+  "patch-the-way-of-the-samurai-embroidery-5704": [
+    "patches"
+  ],
+  "patch-the-way-of-the-samurai-pvc-5397": [
+    "patches"
+  ],
+  "patch-tiger-blue-tape-pvc-5187": [
+    "patches"
+  ],
+  "patch-tiger-eyes-laser-cut-couple-5257": [
+    "patches"
+  ],
+  "patch-tiger-green-tape-pvc-5188": [
+    "patches"
+  ],
+  "patch-til-valhall-50x80mm-5349": [
+    "patches"
+  ],
+  "patch-til-valhall-ace-jacquard-5262": [
+    "patches"
+  ],
+  "patch-til-valhall-pvc-5265": [
+    "patches"
+  ],
+  "patch-time-pvc-9161": [
+    "patches"
+  ],
   "patch-tourniquet-pvc-8347": [
+    "patches"
+  ],
+  "patch-ua-division-end-to-end-laser-cut-5273": [
+    "patches"
+  ],
+  "patch-ua-division-laser-cut-5269": [
+    "patches"
+  ],
+  "patch-ukraine-coat-of-arms-5409": [
+    "patches"
+  ],
+  "patch-ukrainian-flag-witch-coat-of-arms-80x50mm-vertical-5350": [
+    "patches"
+  ],
+  "patch-undead-viking-3d-pvc-5277": [
+    "patches"
+  ],
+  "patch-valknut-3d-pvc-5284": [
+    "patches"
+  ],
+  "patch-valknut-horizontal-laser-cut-5294": [
+    "patches"
+  ],
+  "patch-valknut-laser-cut-5285": [
+    "patches"
+  ],
+  "patch-valknut-pvc-5291": [
+    "patches"
+  ],
+  "patch-valkyrie-embroidery-5700": [
+    "patches"
+  ],
+  "patch-vampir-pvc-9507": [
+    "patches"
+  ],
+  "patch-vegvisirdrakkar-80x50mm-5338": [
+    "patches"
+  ],
+  "patch-vegvisirdrakkar-round-80mm-5339": [
+    "patches"
+  ],
+  "patch-viking-evac-5688": [
+    "patches"
+  ],
+  "patch-vikingt-helmet-embroidery-5366": [
+    "patches"
+  ],
+  "patch-vikings-drakkar-5816": [
+    "patches"
+  ],
+  "patch-walknutdrakkar-round-80mm-5337": [
+    "patches"
+  ],
+  "patch-war-is-hell-3d-pvc-5369": [
+    "patches"
+  ],
+  "patch-wolf-embroidery-5367": [
+    "patches"
+  ],
+  "patch-wolf-embroidery-5368": [
+    "patches"
+  ],
+  "patch-worn-to-the-bone-pvc-9165": [
+    "patches"
+  ],
+  "patch-you-only-die-once-3d-pvc-5280": [
+    "patches"
+  ],
+  "patch-young-tiger-pvc-7856": [
+    "patches"
+  ],
+  "patch-zero-tolerance-embroidery-5806": [
+    "patches"
+  ],
+  "patch-zero-tolerance-pvc-5410": [
+    "patches"
+  ],
+  "patch-zu-23pvc-8037": [
     "patches"
   ],
   "pc-utility-pouch-elite-343": [
@@ -12584,6 +12422,12 @@
   ],
   "pc-utility-pouch-elite-hex-genii-444": [
     "utility-pouches"
+  ],
+  "pistol-mag-pouch-gen3-383": [
+    "magazijn-pouches"
+  ],
+  "pistol-mag-pouch-kolchan-604": [
+    "magazijn-pouches"
   ],
   "plastic-tactical-carabiner-7665": [
     "karabijnhaken"
@@ -12648,6 +12492,9 @@
   "polo-elite-tactical-coolmax-6533": [
     "tactical-shirts"
   ],
+  "pouch-for-folding-shovel-143": [
+    "veldspaden"
+  ],
   "pouch-for-medical-scissors-laser-cut-8205": [
     "medical-pouches"
   ],
@@ -12666,6 +12513,9 @@
   "pouch-medical-small-vertical-elite-1027": [
     "medical-pouches"
   ],
+  "pouch-modular-assault-pack-elite-7953": [
+    "tactical-bags"
+  ],
   "pouch-tourniquet-elastic-velcro-genii-339": [
     "tourniquets"
   ],
@@ -12675,14 +12525,38 @@
   "pouch-utility-elite-hex-5534": [
     "utility-pouches"
   ],
+  "raglan-sleeve-t-shirt-ua-side-3908": [
+    "truien"
+  ],
+  "range-belt-d-ring-cobra-buckle-geniv-1023": [
+    "riemen-bretels"
+  ],
   "replacement-wire-cutter-kit-5937": [
     "replacement-mesjes"
+  ],
+  "rip-stop-flecce-helmet-liner-4898": [
+    "mutsen"
   ],
   "scout-tactical-mk2-gloves-7288": [
     "tactical-handschoenen"
   ],
   "scout-tactical-mk2-leather-gloves-8258": [
     "tactical-handschoenen"
+  ],
+  "seat-mat-with-belt-attachment-armor-5769": [
+    "riemen-bretels"
+  ],
+  "seat-pad-with-belt-armor-8095": [
+    "riemen-bretels"
+  ],
+  "shirt-lumberjack-cotton-shirt-9353": [
+    "shirts"
+  ],
+  "shirt-lumberjack-merino-cold-weather-9000": [
+    "shirts"
+  ],
+  "shooter-high-boots-10228": [
+    "schoenen"
   ],
   "shoulder-damper-for-plate-carrier-cuirass-qrs-560": [
     "schouderkussens"
@@ -12699,6 +12573,9 @@
   "sleeping-bag-with-compression-cover-6487": [
     "slaapzakken-matten"
   ],
+  "small-folding-knife-7-tools-5935": [
+    "zakmessen"
+  ],
   "small-tactical-ruler-nato-blue-10191": [
     "veldnotitie"
   ],
@@ -12713,6 +12590,12 @@
   ],
   "sneakers-tactical-demi-season-pro-line-7786": [
     "tactical-sneakers"
+  ],
+  "socks-lightweight-mk3-pirate-skull-4358": [
+    "sokken"
+  ],
+  "socks-merino-trekking-10010": [
+    "sokken"
   ],
   "stainless-750-ml-thermos-with-folding-spoon-7722": [
     "drinkflessen-thermos"
@@ -12729,11 +12612,69 @@
   "sticker-tactical-girl-9-rpg-skandinavik-7954": [
     "patches"
   ],
+  "sturm-backpack-with-ergonomic-straps-elite-9004": [
+    "tactical-bags"
+  ],
+  "sturm-backpack-with-ergonomic-straps-elite-genii-9002": [
+    "tactical-bags",
+    "tassen-rugzakken"
+  ],
+  "sturm-nyco-extreme-combat-shirt-9644": [
+    "tactical-shirts"
+  ],
   "summer-light-sneakers-7541": [
     "tactical-sneakers"
   ],
+  "summer-sleeping-bag-10033": [
+    "slaapzakken-matten"
+  ],
+  "summer-sleeping-bag-type-2-10034": [
+    "slaapzakken-matten"
+  ],
+  "sweat-wicking-t-shirt-athletic-6488": [
+    "shirts"
+  ],
   "sweat-wicking-t-shirt-athletic-tactical-genii-6513": [
     "tactical-shirts"
+  ],
+  "sweat-wicking-t-shirt-genii-6561": [
+    "shirts"
+  ],
+  "sweater-nord-fleece-polartec-lady-3957": [
+    "fleece"
+  ],
+  "t-shirt-937-summer-2879": [
+    "shirts"
+  ],
+  "t-shirt-937-summer-5720": [
+    "shirts"
+  ],
+  "t-shirt-gold-samurai-oversize-9271": [
+    "shirts"
+  ],
+  "t-shirt-one-shot-oversize-9265": [
+    "shirts"
+  ],
+  "t-shirt-performance-10375": [
+    "shirts"
+  ],
+  "t-shirt-summer-vent-8889": [
+    "shirts"
+  ],
+  "t-shirt-two-samurai-oversize-cotton-hard-10192": [
+    "shirts"
+  ],
+  "t-shirt-ua-side-long-sleeve-6752": [
+    "shirts"
+  ],
+  "t-shirt-viking-2853": [
+    "shirts"
+  ],
+  "t-shirt-washed-cotton-hard-9885": [
+    "shirts"
+  ],
+  "t-shirt-worn-to-the-bone-oversize-9365": [
+    "shirts"
   ],
   "tactical-bag-shoulder-chest-pack-with-sling-152": [
     "geweerriemen",
@@ -12873,6 +12814,18 @@
     "tactical-sneakers",
     "schoenen"
   ],
+  "thermal-fleece-shirt-delta-level-2-lady-5849": [
+    "thermoshirts"
+  ],
+  "thermal-rasguard-t-shirt-6305": [
+    "thermoshirts"
+  ],
+  "thermal-shirt-delta-level-2-5989": [
+    "thermoshirts"
+  ],
+  "thermal-t-shirt-ultra-vent-6167": [
+    "t-shirts-polos"
+  ],
   "thermos-1000ml-7717": [
     "drinkflessen-thermos"
   ],
@@ -12882,11 +12835,31 @@
   "thermos-type-2-7725": [
     "drinkflessen-thermos"
   ],
+  "thors-hammer-belt-3385": [
+    "riemen-bretels"
+  ],
+  "tiger-belt-cobra-buckle-811": [
+    "riemen-bretels"
+  ],
   "touring-thermos-1600-ml-stainless-7721": [
     "drinkflessen-thermos"
   ],
+  "tourist-hanging-flashlight-7631": [
+    "zaklampen-hoofdlampen",
+    "lampen-1"
+  ],
+  "train-hard-oversized-cotton-t-shirt-hard-10190": [
+    "t-shirts-polos"
+  ],
   "training-shorts-10468": [
     "korte-broeken"
+  ],
+  "type-3-folding-knife-5-tools-3-steel-5936": [
+    "multitools"
+  ],
+  "urban-line-force-pack-backpack-7377": [
+    "tactical-bags",
+    "tassen-rugzakken"
   ],
   "utility-organizer-transparent-elite-large-genii-412": [
     "utility-pouches"
@@ -12915,7 +12888,31 @@
   "utility-travel-case-elite-medium-26x11-cm-457": [
     "utility-pouches"
   ],
+  "wallet-with-patch-panel-elite-genii-3184": [
+    "patches"
+  ],
+  "watch-cap-100-acrylic-4678": [
+    "mutsen"
+  ],
+  "watch-cap-elite-flecce-beanie-hat-320gm2-4519": [
+    "mutsen"
+  ],
+  "watch-cap-elite-flecce-beanie-hat-320gm2-100-polyesterslimtex-4495": [
+    "mutsen"
+  ],
+  "watch-cap-elite-fleece-260gm2-with-slimtex-4453": [
+    "mutsen"
+  ],
+  "watch-cap-polartec-4778": [
+    "mutsen"
+  ],
+  "watch-cap-polartec-cold-weather-10092": [
+    "mutsen"
+  ],
   "watch-multifunctional-tactical-5049": [
+    "horloges"
+  ],
+  "watch-sport-5054": [
     "horloges"
   ],
   "watch-tactical-2037-8183": [
@@ -12935,6 +12932,12 @@
   ],
   "watch-tactical-compass-2233-8186": [
     "horloges"
+  ],
+  "winter-jacket-alpha-geniv-pro-pimaloft-3915": [
+    "winterjassen"
+  ],
+  "winter-jacket-apha-basic-primaloft-9454": [
+    "winterjassen"
   ],
   "winter-tactical-boots-thinsulate-4226": [
     "schoenen",
