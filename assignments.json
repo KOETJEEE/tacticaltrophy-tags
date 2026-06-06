@@ -71,6 +71,11 @@
     "afstandsmeters",
     "nachtzicht-handheld"
   ],
+  "agm-observir-lrf-35-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121318": [
+    "afstandsmeters",
+    "cameras",
+    "nachtzicht-handheld"
+  ],
   "agm-observir-lrf-50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121319": [
     "cameras",
     "afstandsmeters",
@@ -79,6 +84,10 @@
   "agm-observir-lrf-60-1280-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121320": [
     "cameras",
     "afstandsmeters",
+    "nachtzicht-handheld"
+  ],
+  "agm-oculairdop-voor-pvs-7-pvs-14-en-sionyx-aurora-serie-504126": [
+    "cameras",
     "nachtzicht-handheld"
   ],
   "agm-pvs-14-apw-monoculaire-nachtkijker-gen2-white-phosphor-121071": [
@@ -153,8 +162,53 @@
   "buteo-photo-gear-3d-blaadjes-handschoenen-720101": [
     "tactical-handschoenen"
   ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-groen-720210": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-riet-720209": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-sneeuw-720213": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-bruin-720205": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-groen-720207": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-riet-720206": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-sneeuw-720212": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190": [
+    "beschermkappen"
+  ],
+  "buteo-photo-gear-snoot-lens-cover-groen-voor-mark-iii-720192": [
+    "beschermkappen"
+  ],
+  "buteo-photo-gear-snoot-lens-cover-groen-voor-schuiltent-720083": [
+    "beschermkappen"
+  ],
+  "buteo-photo-gear-snoot-lens-cover-riet-voor-mark-iii-720191": [
+    "beschermkappen"
+  ],
   "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-mark-iii-720193": [
     "beschermkappen"
+  ],
+  "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-schuiltent-720082": [
+    "beschermkappen"
+  ],
+  "buteo-photo-gear-snoot-lens-cover-voor-schuiltent-720081": [
+    "beschermkappen"
+  ],
+  "byomic-omkeerprisma-erecting-eyepiece-15x-260402": [
+    "oculairs"
   ],
   "carson-bol-loep-2x75mm-186111": [
     "loepen"
@@ -182,6 +236,9 @@
   ],
   "carson-verrekijker-wildcat-7x18-186459": [
     "verrekijkers"
+  ],
+  "carson-x-scope-kids-cp-11-multifunctioneel-optisch-zakinstrument-met-7-functies-186462": [
+    "richtkijkers"
   ],
   "carson-zakloep-wm-01-25x-creditcard-formaat-loep-met-6x-spot-lens-186126": [
     "loepen"
@@ -534,6 +591,14 @@
   "falcon-eyes-gaffer-tape-zwart-5-cm-x-50-m-2964910": [
     "gaffer-tape"
   ],
+  "flir-breach-ptq136-adapter-voor-dual-helm-bridge-dovetail-13431909": [
+    "helmen",
+    "warmtebeeld-handheld"
+  ],
+  "flir-breach-ptq136-objectief-beschermlens-13431910": [
+    "beschermkappen",
+    "warmtebeeld-handheld"
+  ],
   "flir-breach-ptq136-warmtebeeldcamera-13431913": [
     "warmtebeeld-handheld"
   ],
@@ -556,6 +621,9 @@
     "warmtebeeld-handheld"
   ],
   "flir-one-pro-warmtebeeldcamera-voor-ios-13431950": [
+    "warmtebeeld-handheld"
+  ],
+  "flir-scout-pro-charging-station-13461484": [
     "warmtebeeld-handheld"
   ],
   "flir-scout-pro-ii-warmtebeeldcamera-13461482": [
@@ -1017,6 +1085,11 @@
   "objectief-beschermlens-voor-vortex-red-dot-crossfire-2-42900281": [
     "red-dots",
     "beschermkappen"
+  ],
+  "sionyx-aurora-top-hat-voor-montage-eyecup-504125": [
+    "cameras",
+    "montage-accessoires",
+    "observatie-accessoires"
   ],
   "sionyx-digitale-full-color-nachtkijker-aurora-pro-504104": [
     "cameras",
@@ -10636,6 +10709,10 @@
     "winterjassen",
     "jassen"
   ],
+  "alpha-geniii-pro-winter-jacket-3250": [
+    "jassen",
+    "winterjassen"
+  ],
   "alpha-geniii-winter-jacket-3205": [
     "winterjassen",
     "jassen"
@@ -10645,6 +10722,9 @@
   ],
   "anatomical-snood-adjustable-elite-fleece-320m2-4688": [
     "sjaal-nekwarmer"
+  ],
+  "arctic-winter-pants-arctic-1866": [
+    "broeken"
   ],
   "armored-vest-cover-sturm-elite-8294": [
     "tactical-vests"
@@ -10706,6 +10786,10 @@
   "backpack-mission-pack-elite-hex-692": [
     "tactical-bags",
     "tassen-rugzakken"
+  ],
+  "backpack-recon-elite-10444": [
+    "tassen-rugzakken",
+    "tactical-bags"
   ],
   "backpack-single-strap-agent-elite-hex-black-10199": [
     "tactical-bags",
@@ -10807,6 +10891,9 @@
   "buckler-bag-elite-3496": [
     "tassen-rugzakken"
   ],
+  "carabiner-9782": [
+    "karabijnhaken"
+  ],
   "carabiner-10-cm-7416": [
     "karabijnhaken"
   ],
@@ -10817,6 +10904,9 @@
     "karabijnhaken"
   ],
   "carabiner-grimloc-9719": [
+    "karabijnhaken"
+  ],
+  "carabiner-type-2-9778": [
     "karabijnhaken"
   ],
   "cartographic-compass-with-mirror-large-7348": [
@@ -10851,6 +10941,9 @@
   "closed-type-double-magazine-pouch-31": [
     "magazijn-pouches"
   ],
+  "cobra-buckle-belt-627": [
+    "riemen-bretels"
+  ],
   "cobra-buckle-tactical-belt-laser-cut-835": [
     "riemen-bretels",
     "tactical-bags"
@@ -10870,6 +10963,9 @@
     "tactical-shirts"
   ],
   "combat-shirt-genii-pro-nyco-extreme-3987": [
+    "tactical-shirts"
+  ],
+  "combat-shirt-summer-genii-piquet-10512": [
     "tactical-shirts"
   ],
   "compact-tourniquet-pouch-49": [
@@ -11042,6 +11138,9 @@
   ],
   "ecopybook-tactical-ruler-reconnaissance-btr-8634": [
     "veldnotitie",
+    "tactical-bags"
+  ],
+  "ecopybook-tactical-ruler-ts-nato-853": [
     "tactical-bags"
   ],
   "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
@@ -11223,6 +11322,12 @@
     "zakmessen"
   ],
   "folding-knife-type-12-9991": [
+    "zakmessen"
+  ],
+  "folding-knife-type-12-scandinavian-10536": [
+    "zakmessen"
+  ],
+  "folding-knife-type-12-scandinavian-stonewash-10542": [
     "zakmessen"
   ],
   "folding-knife-type-13-blacksteel-9979": [
@@ -11507,6 +11612,9 @@
     "jassen",
     "tussenseizoenjassen"
   ],
+  "jacket-jarl-2806": [
+    "jassen"
+  ],
   "jacket-jarl-primaloft-8517": [
     "winterjassen",
     "jassen",
@@ -11696,6 +11804,10 @@
   ],
   "m-tac-alder-camouflage-suit-693": [
     "camouflagenetten"
+  ],
+  "m-tac-alpha-geniii-winter-jacket-3217": [
+    "jassen",
+    "winterjassen"
   ],
   "m-tac-attachment-with-carabiner-672": [
     "karabijnhaken"
@@ -11910,6 +12022,10 @@
     "patches",
     "patch-panels"
   ],
+  "m-tac-pants-army-nyco-extreme-2738": [
+    "broeken",
+    "tactical-broeken"
+  ],
   "m-tac-pants-patrol-geniii-nyco-extreme-8907": [
     "tactical-broeken",
     "broeken"
@@ -11968,6 +12084,9 @@
     "patches"
   ],
   "m-tac-patch-emoji-usa-girl-1-5495": [
+    "patches"
+  ],
+  "m-tac-patch-orange-cat-pvc-mm14-cover-10445": [
     "patches"
   ],
   "m-tac-patch-polska-end-to-end-25x80-laser-cut-5064": [
@@ -12036,6 +12155,9 @@
   ],
   "m-tac-seat-pad-20-mm-7610": [
     "slaapzakken-matten"
+  ],
+  "m-tac-seating-pad-with-belt-20": [
+    "riemen-bretels"
   ],
   "m-tac-set-of-2-duty-belt-keppers-tactical-police-law-enforcement-for-2-inch-belt-3192": [
     "riemen-bretels",
@@ -12286,6 +12408,14 @@
     "ehbo",
     "medical-pouches"
   ],
+  "medical-pouch-vertical-large-genii-elite-10011": [
+    "ehbo",
+    "medical-pouches"
+  ],
+  "medical-pouch-vertical-small-genii-elite-10019": [
+    "ehbo",
+    "medical-pouches"
+  ],
   "men-cotton-stretch-trunks-9587": [
     "ondergoed"
   ],
@@ -12324,6 +12454,9 @@
     "multitools"
   ],
   "multitool-type-13-10009": [
+    "multitools"
+  ],
+  "multitool-type-15-10570": [
     "multitools"
   ],
   "multitool-type-3-5940": [
@@ -12414,6 +12547,13 @@
   "pants-aggressor-elite-nyco-extreme-8392": [
     "broeken"
   ],
+  "pants-aggressor-genii-vintage-2628": [
+    "broeken"
+  ],
+  "pants-aggressor-lady-flex-2143": [
+    "broeken",
+    "vrouwenbroeken"
+  ],
   "pants-aggressor-special-edition-8457": [
     "broeken",
     "tactical-broeken"
@@ -12497,6 +12637,9 @@
   "paracord-475-9619": [
     "paracord"
   ],
+  "paracord-475-10563": [
+    "paracord"
+  ],
   "paracord-550-mil-spec-9667": [
     "paracord"
   ],
@@ -12507,6 +12650,9 @@
     "paracord"
   ],
   "paracord-550-type-iii-9871": [
+    "paracord"
+  ],
+  "paracord-550-type-iii-10561": [
     "paracord"
   ],
   "paracord-dragon-cord-9865": [
@@ -12790,6 +12936,9 @@
     "patches"
   ],
   "patch-jolly-roger-pvc-5204": [
+    "patches"
+  ],
+  "patch-kitty-embroidery-5541": [
     "patches"
   ],
   "patch-kozak-pvc-7852": [
@@ -13102,6 +13251,10 @@
     "patches",
     "tactical-bags"
   ],
+  "patch-tactical-girl-2-pvc-5171": [
+    "patches",
+    "tactical-bags"
+  ],
   "patch-tactical-girl-2-yakuza-brunet-pvc-5170": [
     "patches",
     "tactical-bags"
@@ -13160,6 +13313,9 @@
     "patches"
   ],
   "patch-tiger-eyes-laser-cut-couple-5257": [
+    "patches"
+  ],
+  "patch-tiger-green-tape-pvc-5188": [
     "patches"
   ],
   "patch-til-valhall-50x80mm-5349": [
@@ -13589,6 +13745,10 @@
   "shirt-lumberjack-merino-cold-weather-9000": [
     "shirts",
     "tactical-shirts"
+  ],
+  "shooter-high-boots-10228": [
+    "laarzen",
+    "schoenen"
   ],
   "shorts-aggressor-genii-flex-1078": [
     "korte-broeken"
@@ -14025,6 +14185,11 @@
     "tactical-bags",
     "tactical-shirts"
   ],
+  "tactical-shooter-low-boots-10202": [
+    "laarzen",
+    "schoenen",
+    "tactical-bags"
+  ],
   "tactical-sneakers-combat-9173": [
     "schoenen",
     "tactical-sneakers"
@@ -14176,6 +14341,9 @@
     "shirts",
     "tactical-shirts"
   ],
+  "training-shorts-10468": [
+    "trainingshalsbanden"
+  ],
   "travel-case-elite-large-30x19-cm-456": [
     "utility-pouches"
   ],
@@ -14230,6 +14398,9 @@
     "tassen-rugzakken"
   ],
   "utility-organizer-transparent-elite-large-genii-412": [
+    "utility-pouches"
+  ],
+  "utility-organizer-transparent-elite-medium-26x11-cm-401": [
     "utility-pouches"
   ],
   "utility-organizer-transparent-elite-medium-genii-413": [
@@ -14379,6 +14550,9 @@
   ],
   "winter-jacket-apha-basic-primaloft-9454": [
     "winterjassen",
+    "jassen"
+  ],
+  "winter-parka-alpha-primaloft-mm14-10446": [
     "jassen"
   ],
   "winter-tactical-boots-thinsulate-4226": [
