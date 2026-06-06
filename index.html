@@ -1091,6 +1091,12 @@ function computeNewTagsForProduct(p) {
   const assigned = assignments[p.handle] || new Set();
   const removed  = removedTags[p.handle] || new Set();
   const added    = addedTags[p.handle]   || new Set();
+  const nonCol = new Set(p.nonColTags.filter(t => !removed.has(t)));
+  for (const t of added) nonCol.add(t);
+  // Geen collectie-assignment: bewaar bestaande col-tags, pas alleen _added/_removed toe
+  if (assigned.size === 0) {
+    return [...new Set([...p.colTags, ...nonCol])].sort();
+  }
   const newColTags = new Set();
   const newCatTags = new Set();
   for (const ch of assigned) {
@@ -1100,8 +1106,6 @@ function computeNewTagsForProduct(p) {
       col.catTags.forEach(t => newCatTags.add(t));
     }
   }
-  const nonCol = new Set(p.nonColTags.filter(t => !removed.has(t)));
-  for (const t of added) nonCol.add(t);
   return [...new Set([...newColTags, ...newCatTags, ...nonCol])].sort();
 }
 
