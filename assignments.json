@@ -28,9 +28,6 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazijn-ataman-m2": [
-    "airsoft-magazijnen"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -5641,6 +5638,9 @@
   ],
   "mag-pouch-nuprol-pmc-n39-double-open-black": [
     "magazijn-pouches"
+  ],
+  "magazijn-ataman-m2": [
+    "airsoft-magazijnen"
   ],
   "magazijn-feinwerbau-aw93-22-lr-5-schots": [
     "airsoft-magazijn-toebehoren"
@@ -14589,9 +14589,6 @@
     "magazine-anschutz-4-rounds-1516-u4": [
       "vuurwapen-magazijnen"
     ],
-    "magazijn-ataman-m2": [
-      "vuurwapen-magazijnen"
-    ],
     "magazine-bergara-b14-22-lr-10-rounds": [
       "vuurwapen-magazijnen",
       "tactical-gear",
@@ -14743,6 +14740,9 @@
     ],
     "ir-illuminator-hikmicro-habrok-pro-940-nm": [
       "ir-illuminators"
+    ],
+    "magazijn-ataman-m2": [
+      "vuurwapen-magazijnen"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
