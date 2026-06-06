@@ -97,7 +97,7 @@
   "hop-up-wolverine-mtw": [
     "hop-ups"
   ],
-  "magazine-utg-ar15-223-rem-10-rounds": [],
+  "magazine-utg-ar15-223-rem-30-rounds": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14709,6 +14709,9 @@
       "permit-wwm"
     ],
     "magazine-utg-ar15-223-rem-10-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-utg-ar15-223-rem-30-rounds": [
       "permit-wwm"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
