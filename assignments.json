@@ -1622,9 +1622,7 @@
   "krale-anti-rol-kit-bf-voor-persluchtfles": [
     "persluchtcilinders"
   ],
-  "krale-anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
-    "vochtontrekkers"
-  ],
+  "krale-anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [],
   "krale-anti-corrosion-silent-dry-vaportack-7-62-nato-308-win-cartridge": [
     "vochtontrekkers"
   ],
@@ -13801,5 +13799,11 @@
   ],
   "zip-pocket-organizer-set-elite-8979": [
     "utility-pouches"
-  ]
+  ],
+  "_removed": {
+    "krale-anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
+      "vochtontrekkers",
+      "Vochtontrekker"
+    ]
+  }
 }
