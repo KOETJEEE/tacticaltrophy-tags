@@ -297,8 +297,6 @@ const GITHUB_TOKEN   = ['github_pat_1','1CDIA6TY0Kmy','c6Sp8e99m_NU','UtmWim2G2t
 const WORKFLOW_TOKEN = ['github_pat_1','1CDIA6TY0sI4','rwsb0ezGt_Nm','Z47fOHeC5PaF','fIRba89bPZwJ','3IvskKhJidc8','QW3MW57J2KSE','Z2CpcP7p7'].join('');
 const GITHUB_REPO  = 'KOETJEEE/tacticaltrophy-tags';
 const GITHUB_FILE        = 'assignments.json';
-const SHOPIFY_WRITE_TOKEN = ['shpat_85ee10','7610faa71c97','20d1ba16ba1d','3d'].join('');
-const SHOPIFY_STORE       = 'ecfdc3-65.myshopify.com';
 
 // ── State ──
 const colTagMap   = {};   // tag_value → [col_handle, ...]
@@ -313,8 +311,6 @@ let supplierFilter  = '';
 let flagFilter      = false;
 let dragHandle      = null;
 let activeCat       = '';
-let _shopifyIdMap   = null;   // handle → {id, tags} — gecached na eerste fetch
-let _pendingWrites  = null;   // lijst diffs klaar voor bevestiging
 
 // ── Init ──
 function init() {
@@ -897,10 +893,12 @@ async function saveToGitHub() {
       _ghSha = (await res.json()).content.sha;
       _dirty.clear();  // succesvol opgeslagen → niet meer dirty
       showSyncStatus('✓ Opgeslagen', '#4ade80');
+      return true;
     } else {
       showSyncStatus('⚠ Opslaan mislukt', '#f87171');
+      return false;
     }
-  } catch(e) { showSyncStatus('⚠ Geen verbinding', '#f87171'); }
+  } catch(e) { showSyncStatus('⚠ Geen verbinding', '#f87171'); return false; }
 }
 
 async function triggerRefreshWorkflow() {
@@ -1083,15 +1081,24 @@ function computeNewTagsForProduct(p) {
   return [...new Set([...newColTags, ...newCatTags, ...nonCol])].sort();
 }
 
-async function writeToShopify() {
-  const btn = document.getElementById('write-btn');
-  btn.disabled = true;
-  btn.textContent = '⏳ Laden…';
-  const diffEl    = document.getElementById('write-diff');
+function writeToShopify() {
+  const diffEl     = document.getElementById('write-diff');
   const progressEl = document.getElementById('write-progress');
   const confirmBtn = document.getElementById('write-confirm');
   const cancelBtn  = document.getElementById('write-cancel');
-  diffEl.innerHTML = '<em style="color:#94a3b8">Shopify-producten laden…</em>';
+
+  // Diff berekenen vanuit het toolsnapshot (geen Shopify API nodig)
+  const diffs = [];
+  for (const p of PRODUCTS) {
+    const newTags  = computeNewTagsForProduct(p);
+    const curTags  = [...new Set([...p.colTags, ...p.nonColTags])].sort();
+    if (newTags.join(',') !== curTags.join(',')) {
+      const addedT   = newTags.filter(t => !curTags.includes(t));
+      const removedT = curTags.filter(t => !newTags.includes(t));
+      diffs.push({handle: p.handle, title: p.title, addedT, removedT});
+    }
+  }
+
   progressEl.textContent = '';
   progressEl.style.color = '';
   confirmBtn.disabled = true;
@@ -1099,55 +1106,11 @@ async function writeToShopify() {
   confirmBtn.onclick = confirmWriteToShopify;
   cancelBtn.disabled = false;
   cancelBtn.textContent = 'Annuleren';
-  document.getElementById('write-modal').classList.add('open');
-  try {
-    const hdrs = {'X-Shopify-Access-Token': SHOPIFY_WRITE_TOKEN, 'Content-Type': 'application/json'};
-    if (!_shopifyIdMap) {
-      const tmpMap = {};
-      let url = 'https://' + SHOPIFY_STORE + '/admin/api/2025-04/products.json?limit=250&fields=id,handle,tags&status=active';
-      let page = 0;
-      while (url) {
-        page++;
-        diffEl.innerHTML = '<em style="color:#94a3b8">Pagina ' + page + ' laden (' + Object.keys(tmpMap).length + ' producten)…</em>';
-        const res = await fetch(url, {headers: hdrs});
-        if (!res.ok) throw new Error('Shopify API: HTTP ' + res.status + ' ' + res.statusText);
-        const data = await res.json();
-        for (const prod of (data.products || [])) {
-          const tags = prod.tags ? prod.tags.split(',').map(t => t.trim()).filter(Boolean) : [];
-          tmpMap[prod.handle] = {id: prod.id, tags};
-        }
-        url = null;
-        const link = res.headers.get('Link') || '';
-        for (const part of link.split(',')) {
-          if (part.includes('rel="next"')) {
-            const m = part.match(/<([^>]+)>/);
-            if (m) url = m[1];
-          }
-        }
-        if (url) await new Promise(r => setTimeout(r, 500));
-      }
-      _shopifyIdMap = tmpMap;
-    }
-    const diffs = [];
-    for (const p of PRODUCTS) {
-      const sp = _shopifyIdMap[p.handle];
-      if (!sp) continue;
-      const newTags  = computeNewTagsForProduct(p);
-      const curSorted = [...sp.tags].sort().join(',');
-      const newSorted = newTags.join(',');
-      if (curSorted !== newSorted) {
-        const addedT   = newTags.filter(t => !sp.tags.includes(t));
-        const removedT = sp.tags.filter(t => !newTags.includes(t));
-        diffs.push({handle: p.handle, title: p.title, id: sp.id, newTags, addedT, removedT});
-      }
-    }
-    _pendingWrites = diffs;
-    if (!diffs.length) {
-      diffEl.innerHTML = '<em style="color:#16a34a">✓ Geen wijzigingen — Shopify is al up-to-date!</em>';
-      cancelBtn.textContent = 'Sluiten';
-      btn.disabled = false; btn.textContent = '✏️ Schrijf naar Shopify';
-      return;
-    }
+
+  if (!diffs.length) {
+    diffEl.innerHTML = '<em style="color:#16a34a">✓ Geen wijzigingen t.o.v. huidige toolstatus.</em>';
+    cancelBtn.textContent = 'Sluiten';
+  } else {
     diffEl.innerHTML = '<div style="margin-bottom:8px;color:#64748b;font-size:.78rem">'
       + diffs.length + ' product' + (diffs.length === 1 ? '' : 'en') + ' met wijzigingen:</div>'
       + diffs.map(d => {
@@ -1156,75 +1119,110 @@ async function writeToShopify() {
               + (d.addedT.length > 5 ? ' (+' + (d.addedT.length - 5) + ')' : '') + '</span> '
             : '';
           const rmStr = d.removedT.length
-            ? '<span class="wdiff-rm">−' + d.removedT.slice(0,5).map(t => h(t)).join(', ')
-              + (d.removedT.length > 5 ? ' (−' + (d.removedT.length - 5) + ')' : '') + '</span>'
+            ? '<span class="wdiff-rm">&#8722;' + d.removedT.slice(0,5).map(t => h(t)).join(', ')
+              + (d.removedT.length > 5 ? ' (&#8722;' + (d.removedT.length - 5) + ')' : '') + '</span>'
             : '';
           return '<div class="wdiff-row"><div class="wdiff-title" title="' + h(d.handle) + '">'
             + h(d.title) + '</div><div class="wdiff-change">' + addStr + rmStr + '</div></div>';
         }).join('');
     confirmBtn.disabled = false;
-  } catch(e) {
-    _shopifyIdMap = null;
-    let msg = e.message || String(e);
-    if (msg.includes('Failed to fetch') || msg.toLowerCase().includes('cors') || msg.includes('NetworkError')) {
-      msg = 'CORS-fout: de Shopify Admin API ondersteunt geen directe browser-toegang. Vraag Maarten om de tags via de workflow bij te werken.';
-    }
-    diffEl.innerHTML = '<span style="color:#dc2626">⚠ ' + h(msg) + '</span>';
-  } finally {
-    btn.disabled = false;
-    btn.textContent = '✏️ Schrijf naar Shopify';
   }
+
+  document.getElementById('write-modal').classList.add('open');
 }
 
 function closeWriteModal() {
   document.getElementById('write-modal').classList.remove('open');
   document.getElementById('write-confirm').disabled = true;
   document.getElementById('write-confirm').textContent = 'Bevestigen';
+  document.getElementById('write-confirm').onclick = confirmWriteToShopify;
   document.getElementById('write-cancel').textContent = 'Annuleren';
   document.getElementById('write-cancel').disabled = false;
   document.getElementById('write-progress').textContent = '';
-  _pendingWrites = null;
+  document.getElementById('write-progress').style.color = '';
 }
 
 async function confirmWriteToShopify() {
-  if (!_pendingWrites || !_pendingWrites.length) return;
   const confirmBtn = document.getElementById('write-confirm');
   const cancelBtn  = document.getElementById('write-cancel');
   const progressEl = document.getElementById('write-progress');
+
   confirmBtn.disabled = true;
   cancelBtn.disabled  = true;
-  const hdrs = {'X-Shopify-Access-Token': SHOPIFY_WRITE_TOKEN, 'Content-Type': 'application/json'};
-  let done = 0, errors = 0;
-  const total = _pendingWrites.length;
-  for (const diff of _pendingWrites) {
-    progressEl.textContent = done + '/' + total + ' bijgewerkt…';
-    try {
-      const res = await fetch(
-        'https://' + SHOPIFY_STORE + '/admin/api/2025-04/products/' + diff.id + '.json',
-        {method: 'PUT', headers: hdrs, body: JSON.stringify({product: {id: diff.id, tags: diff.newTags.join(',')}})}
-      );
-      if (res.ok) {
-        done++;
-        if (_shopifyIdMap && _shopifyIdMap[diff.handle]) _shopifyIdMap[diff.handle].tags = diff.newTags;
-      } else {
-        errors++;
-        console.warn('Shopify PUT mislukt:', diff.handle, res.status);
-      }
-    } catch(e) {
-      errors++;
-      console.error('Shopify PUT fout:', diff.handle, e);
-    }
-    await new Promise(r => setTimeout(r, 500));
+  progressEl.style.color = '#94a3b8';
+  progressEl.textContent = 'Opslaan naar GitHub…';
+
+  // Eerst opslaan zodat assignments.json up-to-date is voor de workflow
+  const saved = await saveToGitHub();
+  if (!saved) {
+    progressEl.textContent = '⚠ Opslaan mislukt — controleer verbinding.';
+    progressEl.style.color = '#dc2626';
+    confirmBtn.disabled = false;
+    cancelBtn.disabled  = false;
+    return;
   }
-  progressEl.textContent = errors
-    ? '✓ ' + done + ' bijgewerkt, ⚠ ' + errors + ' mislukt'
-    : '✓ Klaar! ' + done + ' producten bijgewerkt in Shopify.';
-  progressEl.style.color = errors ? '#dc2626' : '#16a34a';
-  confirmBtn.textContent = 'Sluiten';
-  confirmBtn.disabled = false;
-  confirmBtn.onclick = () => { closeWriteModal(); progressEl.style.color = ''; };
-  cancelBtn.disabled = false;
-  _pendingWrites = null;
+
+  progressEl.textContent = 'Workflow starten…';
+  try {
+    const hdrs = {Authorization: 'Bearer ' + WORKFLOW_TOKEN, 'Content-Type': 'application/json'};
+    const triggerTime = new Date().toISOString();
+    const res = await fetch(
+      'https://api.github.com/repos/KOETJEEE/TacticalTrophy-Feed/actions/workflows/write_shopify_tags.yml/dispatches',
+      {method: 'POST', headers: hdrs, body: JSON.stringify({ref: 'main'})}
+    );
+    if (res.status !== 204) {
+      progressEl.textContent = '⚠ Workflow starten mislukt (HTTP ' + res.status + ')';
+      progressEl.style.color = '#dc2626';
+      confirmBtn.disabled = false;
+      cancelBtn.disabled  = false;
+      return;
+    }
+    cancelBtn.disabled = false;
+    const startTime = Date.now();
+    const ticker = setInterval(() => {
+      progressEl.textContent = '⏳ ' + Math.round((Date.now() - startTime) / 1000) + 's — tags naar Shopify schrijven…';
+    }, 1000);
+    await new Promise(r => setTimeout(r, 5000));
+    let attempts = 0;
+    while (attempts++ < 60) {
+      await new Promise(r => setTimeout(r, 10000));
+      try {
+        const runsRes = await fetch(
+          'https://api.github.com/repos/KOETJEEE/TacticalTrophy-Feed/actions/workflows/write_shopify_tags.yml/runs?per_page=1',
+          {headers: hdrs}
+        );
+        if (!runsRes.ok) continue;
+        const runs = await runsRes.json();
+        const run = runs.workflow_runs?.[0];
+        if (!run || run.created_at < triggerTime) continue;
+        if (run.status === 'completed') {
+          clearInterval(ticker);
+          if (run.conclusion === 'success') {
+            progressEl.textContent = '✓ Klaar! Tags zijn bijgewerkt in Shopify.';
+            progressEl.style.color = '#16a34a';
+          } else {
+            progressEl.textContent = '⚠ Workflow mislukt — zie GitHub Actions voor details.';
+            progressEl.style.color = '#dc2626';
+          }
+          confirmBtn.textContent = 'Sluiten';
+          confirmBtn.disabled = false;
+          confirmBtn.onclick = closeWriteModal;
+          return;
+        }
+      } catch(e) { /* blijf proberen */ }
+    }
+    clearInterval(ticker);
+    progressEl.textContent = '⚠ Timeout — controleer GitHub Actions handmatig.';
+    progressEl.style.color = '#f59e0b';
+    confirmBtn.textContent = 'Sluiten';
+    confirmBtn.disabled = false;
+    confirmBtn.onclick = closeWriteModal;
+  } catch(e) {
+    progressEl.textContent = '⚠ Fout: ' + h(e.message || String(e));
+    progressEl.style.color = '#dc2626';
+    confirmBtn.disabled = false;
+    cancelBtn.disabled  = false;
+  }
 }
 
 // ── Utils ──
