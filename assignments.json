@@ -14605,7 +14605,9 @@
       "Tactical gear > Pouches > Magazine Pouches",
       "tactical-gear",
       "pouches",
-      "Military Line"
+      "Military Line",
+      "magazine-pouches",
+      "m-tac"
     ],
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches"
