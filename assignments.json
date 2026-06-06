@@ -2139,6 +2139,9 @@
   "krale-blauwsel-roestverwijderaar-birchwood-blue-rust-remover": [
     "blauwsel"
   ],
+  "krale-bore-snake-snake-it": [
+    "reinigingskoorden"
+  ],
   "krale-adhesive-4uad-4uantum-lock-permanent": [
     "borgmiddelen"
   ],
@@ -2153,6 +2156,9 @@
   ],
   "krale-bottle-end-fx-complete": [
     "persluchtcilinders"
+  ],
+  "krale-bottle-sleeve-fx-dynamic-redback-fde": [
+    "geweersteunen"
   ],
   "krale-schietbril-caldwell-pro-range-glasses": [
     "oogbescherming"
@@ -2729,6 +2735,9 @@
   "krale-double-tank-adapter-saber-tactical-fx-maverick": [
     "persluchtfles-accessoires"
   ],
+  "krale-wireguide-clamp-wadsn-for-handguard-tail-remote-switch": [
+    "afstandsmeters"
+  ],
   "krale-draagband-bf-voor-persluchtfles": [
     "geweerriemen"
   ],
@@ -2777,6 +2786,21 @@
   "krale-pigeon-decoy-electronic": [
     "elektronische-lokkers"
   ],
+  "krale-pigeon-decoy-flocked-flapper": [
+    "lokduiven"
+  ],
+  "krale-pigeon-decoy-flocked-foraging-new": [
+    "lokduiven"
+  ],
+  "krale-pigeon-decoy-flocked-standing-new": [
+    "lokduiven"
+  ],
+  "krale-pigeon-decoy-flocked-stackable-new": [
+    "lokduiven"
+  ],
+  "krale-pigeon-decoy-flocked-flying-new": [
+    "lokduiven"
+  ],
   "krale-pigeon-decoy-sillosocks-3d-head": [
     "lokmiddel-toebehoren"
   ],
@@ -2792,6 +2816,12 @@
   "krale-ear-defender-sordin-supreme-pro-x-sfa-leather-black": [
     "gehoorbescherming"
   ],
+  "krale-mallard-decoy-floating-hen": [
+    "lokeenden"
+  ],
+  "krale-mallard-decoy-floating-drake": [
+    "lokeenden"
+  ],
   "krale-decoy-sillosocks-hypa-flap-mallard-drake": [
     "lokmiddel-toebehoren"
   ],
@@ -2803,6 +2833,9 @@
   ],
   "krale-electronic-game-caller-hunters-specialties-johnny-stewart-executioner": [
     "elektronische-lokkers"
+  ],
+  "krale-element-optics-etx-red-dot": [
+    "red-dots"
   ],
   "krale-rangefinder-element-optics-helix-1500": [
     "afstandsmeters"
@@ -2873,6 +2906,9 @@
   "krale-red-dot-falke-le-ql-gen2-reflex-sight-2-moa": [
     "red-dots"
   ],
+  "krale-red-dot-falke-s-reflex-sight-2-moa": [
+    "red-dots"
+  ],
   "krale-fiber-optic-lpa-bfo-geel": [
     "vizieren"
   ],
@@ -2890,6 +2926,12 @@
   ],
   "krale-flash-hider-pts-griffin-m4sd-flashcomp-14mm-ccw-black": [
     "flash-hiders"
+  ],
+  "krale-bottle-adapter-epic-airguns-two-for-cfb": [
+    "persluchtcilinders"
+  ],
+  "krale-flesadapter-fx-dreamline": [
+    "persluchtcilinders"
   ],
   "krale-rifle-bag-plano-tactical-gun-backpack-87x30": [
     "geweertassen-foudralen"
@@ -3185,6 +3227,9 @@
   "krale-geluiddemper-donnyfl-emperor-v3-m18x1": [
     "luchtbuks-dempers"
   ],
+  "krale-geluiddemper-donnyfl-fatboy": [
+    "luchtbuks-dempers"
+  ],
   "krale-moderator-donnyfl-fx-airguns": [
     "luchtbuks-dempers"
   ],
@@ -3270,6 +3315,9 @@
     "luchtbuks-dempers"
   ],
   "krale-geluiddemper-huggett-belita-compact-1-2-unf": [
+    "luchtbuks-dempers"
+  ],
+  "krale-geluiddemper-huggett-magna-30-1-2-unf": [
     "luchtbuks-dempers"
   ],
   "krale-geluiddemper-huggett-mini-magna-1-2-unf": [
@@ -3555,6 +3603,9 @@
   "krale-gun-case-plano-rustrictor-all-weather-2-36-93x35": [
     "wapenkoffers"
   ],
+  "krale-rifle-case-plano-rustrictor-all-weather-2-42-113x43": [
+    "wapenkoffers"
+  ],
   "krale-rifle-case-plano-rustrictor-all-weather-2-52-132x35": [
     "wapenkoffers"
   ],
@@ -3612,6 +3663,9 @@
   "krale-gun-sling-walther-rs3": [
     "geweerriemen"
   ],
+  "krale-geweersteun-bog-fieldpod": [
+    "geweersteunen"
+  ],
   "krale-geweersteun-caldwell-7-rest": [
     "geweersteunen"
   ],
@@ -3655,6 +3709,9 @@
     "geweersteunen"
   ],
   "krale-geweersteun-caldwell-steady-rest-nxt": [
+    "geweersteunen"
+  ],
+  "krale-geweersteun-caldwell-stinger": [
     "geweersteunen"
   ],
   "krale-geweersteun-caldwell-the-rock-combo": [
@@ -4668,6 +4725,9 @@
   "krale-korrel-megaline-hagelgeweer-16-metaal": [
     "korrels"
   ],
+  "krale-korrel-megaline-hagelgeweer-17-messing": [
+    "korrels"
+  ],
   "krale-korrel-megaline-hagelgeweer-18-m2-5-metaal": [
     "korrels"
   ],
@@ -4709,6 +4769,15 @@
   ],
   "krale-korreltunnel-anschutz-000982": [
     "korreltunnels"
+  ],
+  "krale-crow-decoy-flocked-foraging": [
+    "lokkraaien"
+  ],
+  "krale-crow-decoy-flocked-standing": [
+    "lokkraaien"
+  ],
+  "krale-crow-decoy-flocked-standing-head-turned": [
+    "lokkraaien"
   ],
   "krale-crow-decoy-sillosocks-harvester-12-pack": [
     "lokmiddel-toebehoren"
@@ -5305,6 +5374,9 @@
   "krale-magazijn-fx-mini": [
     "luchtdruk-magazijnen"
   ],
+  "krale-magazijn-fx-standaard": [
+    "luchtdruk-magazijnen"
+  ],
   "krale-magazijn-fx-v2-5-5-mm": [
     "luchtdruk-magazijnen"
   ],
@@ -5680,6 +5752,9 @@
   ],
   "krale-magazine-utg-glock-17-rounds": [
     "airsoft-magazijnen"
+  ],
+  "krale-magazijn-walther-ppq-m1-9-mm-15-2-schots": [
+    "airsoft-magazijn-toebehoren"
   ],
   "krale-magazine-wolverine-mtw-epm-pts-m4": [
     "airsoft-magazijnen"
@@ -6255,6 +6330,9 @@
   "krale-mounting-base-vector-optics-11-mm-dovetail-to-vod-footprint": [
     "1-delige-montages"
   ],
+  "krale-mounting-base-vector-optics-tek-red-dot-offset-picatinny": [
+    "red-dots"
+  ],
   "krale-mounting-base-walther-pdp-02-trijicon-holosun": [
     "richtmiddel-accessoires"
   ],
@@ -6665,6 +6743,9 @@
   ],
   "krale-onderhoudsmat-tipton-handwapen": [
     "gereedschap"
+  ],
+  "krale-support-rail-saber-tactical-window-saver": [
+    "tactical-bags"
   ],
   "krale-rifle-support-felt-vfg-for-sling": [
     "geweerriemen"
@@ -7408,6 +7489,12 @@
   "krale-push-to-talk-code-red-uv82-nx-dual-ptt-k-b-amplified": [
     "portofoons"
   ],
+  "krale-push-to-talk-z-tactical-tea-e-switch-tactical-ptt": [
+    "portofoons"
+  ],
+  "krale-push-to-talk-z-tactical-u94-ptt": [
+    "portofoons"
+  ],
   "krale-push-to-talk-z-tactical-zpeltor-ptt-military-standard": [
     "portofoons"
   ],
@@ -7483,6 +7570,9 @@
   ],
   "krale-scope-guard-element-optics-neoprene": [
     "beschermkappen"
+  ],
+  "krale-belt-amomax-greyhawk-molle-double-black": [
+    "riemen-bretels"
   ],
   "krale-belt-amomax-greyhawk-molle-double-coyote-brown": [
     "riemen-bretels"
@@ -7715,6 +7805,9 @@
     "schietdoelen"
   ],
   "krale-shooting-target-caldwell-ar500-dueling-tree": [
+    "schietdoelen"
+  ],
+  "krale-shooting-target-caldwell-ar500-prairie-dog-auto-reset": [
     "schietdoelen"
   ],
   "krale-resetting-target-caldwell-ar500-rimfire-kyl-challenge": [
@@ -8142,6 +8235,12 @@
   "krale-shell-plate-frankford-arsenal-x-10-progressive": [
     "herlaadpersen-turret-progressive",
     "shell-plates"
+  ],
+  "krale-shroud-bushing-saber-tactical-trs": [
+    "tactical-bags"
+  ],
+  "krale-shroud-clamp-saber-tactical-trs": [
+    "tactical-bags"
   ],
   "krale-sled-feet-accu-tac": [
     "geweersteunen"
@@ -9273,6 +9372,9 @@
   "krale-trigger-timney-cz-457-straight-lh": [
     "luchtbuks-trekkers"
   ],
+  "krale-trigger-timney-remington-700-benchrest": [
+    "luchtbuks-trekkers"
+  ],
   "krale-trigger-timney-remington-700-calvin-elite": [
     "luchtbuks-trekkers"
   ],
@@ -9632,6 +9734,9 @@
   ],
   "krale-magnifier-vector-optics-maverick-4x": [
     "voorzetkijkers"
+  ],
+  "krale-red-dot-vector-optics-maverick-gen-ii": [
+    "red-dots"
   ],
   "krale-magnifier-vector-optics-maverick-gen-iii-3x-mil": [
     "voorzetkijkers"
@@ -10179,6 +10284,9 @@
     "zakmessen"
   ],
   "krale-pocket-knife-kershaw-chill": [
+    "zakmessen"
+  ],
+  "krale-pocket-knife-kershaw-concierge": [
     "zakmessen"
   ],
   "krale-pocket-knife-kershaw-cryo": [
@@ -13803,7 +13911,8 @@
   "_removed": {
     "krale-anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
       "vochtontrekkers",
-      "Vochtontrekker"
+      "Vochtontrekker",
+      "schoonmaak-onderhoud"
     ]
   }
 }
