@@ -28,7 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazine-anschutz-4-rounds-1516-u4": [],
+  "magazijn-anschutz-1420-u13-22-lr-10-schots": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14639,6 +14639,9 @@
     ]
   },
   "_added": {
+    "magazijn-anschutz-1420-u13-22-lr-10-schots": [
+      "permit-wwm"
+    ],
     "magazijn-bergara-b14-hmr-bmp-5-schots": [
       "permit-wwm"
     ],
