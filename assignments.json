@@ -97,7 +97,7 @@
   "hop-up-wolverine-mtw": [
     "hop-ups"
   ],
-  "magazine-victrix-pugio-t-gladio-t-gladio-x-10-rounds": [],
+  "magazine-victric-small-bore-polymer-10-rounds": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14718,6 +14718,9 @@
       "permit-wwm"
     ],
     "magazine-victrix-pugio-t-gladio-t-gladio-x-10-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-victric-small-bore-polymer-10-rounds": [
       "permit-wwm"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
