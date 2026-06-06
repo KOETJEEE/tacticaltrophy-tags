@@ -121,6 +121,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 /* Tag chips (toegewezen collecties) */
 #detail-tags{display:flex;flex-wrap:wrap;gap:5px;padding:8px 12px;border-bottom:1px solid #e2e8f0;min-height:40px;align-items:flex-start;flex-shrink:0;background:#fff}
 .tag-chip{display:inline-flex;align-items:center;gap:2px;background:#dbeafe;color:#1e40af;border-radius:20px;padding:3px 4px 3px 10px;font-size:.78rem;font-weight:500;line-height:1}
+.tag-chip-cat{background:#dbeafe;color:#1e40af;padding:3px 10px;opacity:.65;font-style:italic}
 .tag-chip-grey{background:#f1f5f9;color:#475569}
 .tag-chip-green{background:#dcfce7;color:#166534}
 .tag-chip-red{background:#fee2e2;color:#991b1b}
@@ -526,6 +527,15 @@ function renderDetail() {
     const tip   = col ? col.title : ch;
     return `<span class="tag-chip" title="${h(tip)}">${h(label)}<button class="tag-chip-x" onclick="removeTag('${j(ch)}')" title="Verwijder collectie">✕</button></span>`;
   }).join('');
+  // Blauwe chips (auto): hoofdcategorie-tags die automatisch worden meegenomen
+  const catTagSet = new Set();
+  for (const ch of assigned) {
+    const col = COLLECTIONS.find(c => c.handle === ch);
+    if (col) col.catTags.forEach(t => catTagSet.add(t));
+  }
+  const catChips = [...catTagSet].map(t =>
+    `<span class="tag-chip tag-chip-cat" title="Hoofdcategorie-tag (automatisch meegenomen)">${h(t)}</span>`
+  ).join('');
   // Grijze chips: ALLE Shopify-tags als raw waarden (met kleur voor speciale tags)
   const allShopifyTags = [...new Set([...p.colTags, ...p.nonColTags])];
   const TAG_CHIP_CLS = {'age-18':'tag-chip-red','permit-wwm':'tag-chip-red','airsoft-membership':'tag-chip-red','oversize':'tag-chip-purple','pickup-only':'tag-chip-purple'};
@@ -542,7 +552,7 @@ function renderDetail() {
   const addWidget = `<button class="tag-add-btn" onclick="toggleAddTagInput(this)" title="Voeg tag toe">＋</button>`
     + `<input id="tag-add-input" class="tag-add-input" style="display:none" placeholder="tag naam…" onkeydown="if(event.key==='Enter')submitAddTag();else if(event.key==='Escape')toggleAddTagInput(document.querySelector('.tag-add-btn'))">`
     + `<button id="tag-add-ok" class="tag-add-btn" style="display:none;font-size:.72rem;padding:2px 7px" onclick="submitAddTag()">OK</button>`;
-  const chipContent = blueChips + greyChips + greenChips;
+  const chipContent = blueChips + catChips + greyChips + greenChips;
   tagsEl.innerHTML = (chipContent || '<span class="no-tags-hint">Geen tags — selecteer hieronder</span>') + addWidget;
 
   // Quick tags
