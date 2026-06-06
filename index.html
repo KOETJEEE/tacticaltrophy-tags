@@ -957,7 +957,7 @@ async function triggerRefreshWorkflow() {
           if (run.conclusion === 'success') {
             showSyncStatus('✓ Klaar! Pagina herladen…', '#16a34a');
             btn.textContent = '✓ Klaar';
-            setTimeout(() => location.reload(), 2000);
+            setTimeout(() => location.replace(location.pathname + '?cb=' + Date.now()), 2000);
           } else {
             showSyncStatus('⚠ Workflow mislukt', '#f87171');
             btn.disabled = false; btn.textContent = '🔄 Ververs tool';
