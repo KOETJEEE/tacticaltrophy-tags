@@ -97,7 +97,7 @@
   "hop-up-wolverine-mtw": [
     "hop-ups"
   ],
-  "magazijn-colt-1911-22-lr-10-schots": [],
+  "magazijn-colt-1911-22-lr-12-schots": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14664,6 +14664,9 @@
       "permit-wwm"
     ],
     "magazijn-colt-1911-22-lr-10-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-colt-1911-22-lr-12-schots": [
       "permit-wwm"
     ],
     "magazijn-kmr-s-01-s-02-cz-75-sp-01-shadow-2-22-lr-10-schots": [
