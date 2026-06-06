@@ -121,6 +121,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 /* Tag chips (toegewezen collecties) */
 #detail-tags{display:flex;flex-wrap:wrap;gap:5px;padding:8px 12px;border-bottom:1px solid #e2e8f0;min-height:36px;align-items:flex-start;flex-shrink:0;background:#fff}
 .tag-chip{display:inline-flex;align-items:center;gap:2px;background:#dbeafe;color:#1e40af;border-radius:20px;padding:3px 4px 3px 10px;font-size:.78rem;font-weight:500;line-height:1}
+.tag-chip-grey{background:#f1f5f9;color:#475569}
 .tag-chip-x{background:none;border:none;cursor:pointer;color:#1e40af;opacity:.55;padding:2px 4px;font-size:.75rem;line-height:1;border-radius:50%}
 .tag-chip-x:hover{opacity:1;background:#bfdbfe}
 .no-tags-hint{color:#94a3b8;font-size:.78rem;align-self:center}
@@ -248,6 +249,7 @@ const GITHUB_FILE        = 'assignments.json';
 // ── State ──
 const colTagMap   = {};   // tag_value → [col_handle, ...]
 const assignments = {};   // product_handle → Set(col_handle)
+const removedTags = {};   // product_handle → Set(raw_tag_string) — nonColTags expliciet verwijderd
 const flagged     = new Set();   // gemarkeerde product_handles
 const _dirty      = new Set();   // handles gewijzigd in deze sessie (in-memory, reset bij reload)
 let selectedHandle  = null;
@@ -269,6 +271,12 @@ function init() {
 
   // Load flagged handles uit localStorage
   loadFlagsLocal();
+
+  // Load verwijderde nonColTags uit localStorage
+  const savedRemoved = loadRemovedLocal();
+  for (const p of PRODUCTS) {
+    removedTags[p.handle] = new Set(savedRemoved[p.handle] || []);
+  }
 
   // Load saved state from localStorage, always merge bestaande colTags erbij
   const saved = loadSaved();
@@ -446,18 +454,20 @@ function renderDetail() {
   document.getElementById('detail-desc').textContent  = p.desc || '';
   document.getElementById('detail-link').href = `https://www.tacticaltrophy.nl/products/${p.handle}`;
 
-  // Render tag chips
-  const assigned = assignments[selectedHandle];
+  // Render tag chips — blauw = collectie-assignment, grijs = overige Shopify-tags
+  const assigned = assignments[selectedHandle] || new Set();
+  const removed  = removedTags[selectedHandle] || new Set();
   const tagsEl = document.getElementById('detail-tags');
-  if (!assigned || assigned.size === 0) {
-    tagsEl.innerHTML = '<span class="no-tags-hint">Geen collecties — selecteer hieronder</span>';
-  } else {
-    tagsEl.innerHTML = [...assigned].map(ch => {
-      const col = COLLECTIONS.find(c => c.handle === ch);
-      const title = col ? col.title : ch;
-      return `<span class="tag-chip">${h(title)}<button class="tag-chip-x" onclick="removeTag('${j(ch)}')" title="Verwijder">✕</button></span>`;
-    }).join('');
-  }
+  const blueChips = [...assigned].map(ch => {
+    const col = COLLECTIONS.find(c => c.handle === ch);
+    const title = col ? col.title : ch;
+    return `<span class="tag-chip">${h(title)}<button class="tag-chip-x" onclick="removeTag('${j(ch)}')" title="Verwijder collectie">✕</button></span>`;
+  }).join('');
+  const greyChips = p.nonColTags.filter(t => !removed.has(t)).map(t =>
+    `<span class="tag-chip tag-chip-grey">${h(t)}<button class="tag-chip-x" onclick="removeRawTag('${j(t)}')" title="Verwijder tag">✕</button></span>`
+  ).join('');
+  tagsEl.innerHTML = blueChips + greyChips
+    || '<span class="no-tags-hint">Geen tags — selecteer hieronder</span>';
 
   renderCollections();
 }
@@ -564,6 +574,15 @@ function removeTag(colHandle) {
   renderDetail();
 }
 
+function removeRawTag(rawTag) {
+  if (!selectedHandle) return;
+  removedTags[selectedHandle].add(rawTag);
+  _dirty.add(selectedHandle);
+  saveRemovedLocal();
+  scheduleGitHubSave();
+  renderDetail();
+}
+
 function clearSelection() {
   if (!selectedHandle) return;
   assignments[selectedHandle].clear();
@@ -645,6 +664,16 @@ function loadSaved() {
   try { return JSON.parse(localStorage.getItem('tt-tag-v1') || '{}'); } catch { return {}; }
 }
 
+function loadRemovedLocal() {
+  try { return JSON.parse(localStorage.getItem('tt-removed-v1') || '{}'); } catch { return {}; }
+}
+
+function saveRemovedLocal() {
+  const data = {};
+  for (const [h, s] of Object.entries(removedTags)) if (s.size > 0) data[h] = [...s];
+  try { localStorage.setItem('tt-removed-v1', JSON.stringify(data)); } catch(e) {}
+}
+
 function saveFlagsLocal() {
   try { localStorage.setItem('tt-flags-v1', JSON.stringify([...flagged])); } catch(e) {}
 }
@@ -667,11 +696,15 @@ function scheduleGitHubSave() {
 }
 
 async function saveToGitHub() {
-  // Bouw data: flags + product-assignments
+  // Bouw data: flags + product-assignments + verwijderde nonColTags
   const data = { _flags: [...flagged] };
   for (const [h, set] of Object.entries(assignments)) {
     if (set.size > 0) data[h] = [...set];
+    else if (_dirty.has(h)) data[h] = [];
   }
+  const removedData = {};
+  for (const [h, s] of Object.entries(removedTags)) if (s.size > 0) removedData[h] = [...s];
+  if (Object.keys(removedData).length) data._removed = removedData;
   const content = btoa(unescape(encodeURIComponent(JSON.stringify(data, null, 2))));
   showSyncStatus('⟳ Opslaan…', '#94a3b8');
   try {
@@ -777,14 +810,25 @@ async function syncFromGitHub() {
     }
 
     // Assignments: altijd GitHub nemen, behalve handles die in déze sessie zijn gewijzigd
-    // _dirty wordt leeggemaakt na een succesvolle save, dus na een save zijn alle handles vrij
     for (const p of PRODUCTS) {
-      if (_dirty.has(p.handle)) continue;  // pas gewijzigd, wacht op save
+      if (_dirty.has(p.handle)) continue;
       if (ghData[p.handle] === undefined) continue;
       const newSet = new Set(ghData[p.handle].filter(h => LIVE_HANDLES.has(h)));
       const cur = assignments[p.handle];
       const same = newSet.size === cur.size && [...newSet].every(x => cur.has(x));
       if (!same) { assignments[p.handle] = newSet; changed = true; }
+    }
+
+    // Verwijderde nonColTags: altijd GitHub nemen (tenzij dirty)
+    if (ghData._removed && typeof ghData._removed === 'object') {
+      for (const p of PRODUCTS) {
+        if (_dirty.has(p.handle)) continue;
+        const ghRem = new Set(ghData._removed[p.handle] || []);
+        const cur = removedTags[p.handle];
+        const same = ghRem.size === cur.size && [...ghRem].every(x => cur.has(x));
+        if (!same) { removedTags[p.handle] = ghRem; changed = true; }
+      }
+      if (changed) saveRemovedLocal();
     }
     if (changed) {
       try {
