@@ -9946,8 +9946,7 @@
     "wapenkluizen"
   ],
   "krale-gun-safe-griffon-glt-340-k": [
-    "wapenkluizen",
-    "kruisboogpijlen"
+    "wapenkluizen"
   ],
   "krale-gun-safe-griffon-gs-420-k": [
     "wapenkluizen"
@@ -13750,6 +13749,9 @@
     ],
     "krale-gun-safe-griffon-glt-340-k": [
       "wapenkluizen",
+      "wapen-accessoires"
+    ],
+    "krale-gun-safe-griffon-gs-420-k": [
       "wapen-accessoires"
     ]
   }
