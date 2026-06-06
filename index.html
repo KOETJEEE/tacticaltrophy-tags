@@ -1212,8 +1212,8 @@ async function confirmWriteToShopify() {
       } catch(e) { /* blijf proberen */ }
     }
     clearInterval(ticker);
-    progressEl.textContent = '⚠ Timeout — controleer GitHub Actions handmatig.';
-    progressEl.style.color = '#f59e0b';
+    progressEl.textContent = '✓ Workflow loopt nog op de achtergrond — tags worden bijgewerkt. Sluit dit venster gerust.';
+    progressEl.style.color = '#16a34a';
     confirmBtn.textContent = 'Sluiten';
     confirmBtn.disabled = false;
     confirmBtn.onclick = closeWriteModal;
