@@ -265,7 +265,8 @@
     "observatie-accessoires"
   ],
   "krale-ir-illuminator-hikmicro-habrok-pro-810-nm": [
-    "richtmiddel-accessoires"
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -14543,6 +14544,9 @@
       "ir-illuminators"
     ],
     "krale-ir-illuminator-dnt-m24-940-nm-for-tnc335r-tnc635r": [
+      "ir-illuminators"
+    ],
+    "krale-ir-illuminator-hikmicro-habrok-pro-810-nm": [
       "ir-illuminators"
     ],
     "krale-anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
