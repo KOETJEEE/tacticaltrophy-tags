@@ -34,7 +34,6 @@
   "krale-barrel-band-fx-dreamline": [
     "persluchtcilinders"
   ],
-  "krale-barrel-inlet-fx-drs-5-5-mm-22": [],
   "krale-bearings-g-g-bushing-8-mm": [
     "gearboxen"
   ],
@@ -13841,9 +13840,6 @@
     ]
   },
   "_added": {
-    "krale-barrel-inlet-fx-drs-5-5-mm-22": [
-      "pickup-only"
-    ],
     "krale-rookgranaat-enola-gaye-burst-blue": [
       "age-18"
     ]
