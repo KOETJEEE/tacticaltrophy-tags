@@ -219,7 +219,12 @@
   "krale-hop-up-chamber-g-g-gr25-series": [
     "hop-ups"
   ],
-  "krale-hop-up-chamber-g-g-sg550-sg552-sg553": [],
+  "krale-hop-up-chamber-g-g-sg550-sg552-sg553": [
+    "hop-ups"
+  ],
+  "krale-hop-up-chamber-g-g-umg": [
+    "hop-ups"
+  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
