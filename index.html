@@ -1228,6 +1228,16 @@ async function confirmWriteToShopify() {
           if (run.conclusion === 'success') {
             progressEl.textContent = '✓ Klaar! Tags zijn bijgewerkt in Shopify.';
             progressEl.style.color = '#16a34a';
+            // Update PRODUCTS in memory zodat de diff direct klopt (geen stale p.nonColTags meer)
+            for (const p of PRODUCTS) {
+              const newTags = computeNewTagsForProduct(p);
+              const curTags = [...new Set([...p.colTags, ...p.nonColTags])].sort();
+              if (newTags.join(',') !== curTags.join(',')) {
+                p.colTags    = newTags.filter(t => colTagMap[t] !== undefined);
+                p.nonColTags = newTags.filter(t => colTagMap[t] === undefined);
+                p.tagged     = p.colTags.length > 0;
+              }
+            }
           } else {
             progressEl.textContent = '⚠ Workflow mislukt — zie GitHub Actions voor details.';
             progressEl.style.color = '#dc2626';
