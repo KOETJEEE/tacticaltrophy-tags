@@ -31,6 +31,7 @@
   "krale-advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
     "gearboxen"
   ],
+  "krale-barrel-band-fx-dreamline": [],
   "krale-bearings-g-g-bushing-8-mm": [
     "gearboxen"
   ],
@@ -13778,6 +13779,9 @@
     "utility-pouches"
   ],
   "_removed": {
+    "krale-barrel-band-fx-dreamline": [
+      "wapen-accessoires"
+    ],
     "krale-mouth-guard-sisu-max-charcoal-black": [
       "mondstukken",
       "gebitsbeschermers"
