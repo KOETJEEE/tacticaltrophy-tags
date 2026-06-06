@@ -97,7 +97,7 @@
   "hop-up-wolverine-mtw": [
     "hop-ups"
   ],
-  "magazijn-walther-gsp-expert-10-schots": [],
+  "magazine-walther-gsp500-22-lr": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14733,6 +14733,9 @@
       "permit-wwm"
     ],
     "magazijn-walther-gsp-expert-10-schots": [
+      "permit-wwm"
+    ],
+    "magazine-walther-gsp500-22-lr": [
       "permit-wwm"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
