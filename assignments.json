@@ -28,59 +28,6 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "alpha-geniii-pro-winter-jacket-3250": [
-    "winterjassen"
-  ],
-  "backpack-recon-elite-10444": [
-    "tactical-bags",
-    "tassen-rugzakken"
-  ],
-  "cobra-buckle-belt-627": [
-    "riemen-bretels"
-  ],
-  "combat-shirt-summer-genii-piquet-10512": [
-    "tactical-shirts"
-  ],
-  "folding-knife-type-12-scandinavian-10536": [
-    "zakmessen"
-  ],
-  "folding-knife-type-12-scandinavian-stonewash-10542": [
-    "zakmessen"
-  ],
-  "folding-knife-type-12-skull-10532": [
-    "zakmessen"
-  ],
-  "folding-knife-type-12-spider-web-10529": [
-    "zakmessen"
-  ],
-  "m-tac-alpha-geniii-winter-jacket-3217": [
-    "winterjassen"
-  ],
-  "m-tac-pants-army-nyco-extreme-2738": [
-    "tactical-broeken",
-    "broeken"
-  ],
-  "m-tac-patch-orange-cat-pvc-mm14-cover-10445": [
-    "patches"
-  ],
-  "m-tac-seating-pad-with-belt-20": [
-    "riemen-bretels"
-  ],
-  "pants-aggressor-genii-vintage-2628": [
-    "broeken"
-  ],
-  "pants-aggressor-lady-flex-2143": [
-    "broeken"
-  ],
-  "patch-kitty-embroidery-5541": [
-    "patches"
-  ],
-  "patch-tiger-green-tape-pvc-5188": [
-    "patches"
-  ],
-  "shooter-high-boots-10228": [
-    "schoenen"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen"
   ],
@@ -1622,7 +1569,6 @@
   "krale-anti-rol-kit-bf-voor-persluchtfles": [
     "persluchtcilinders"
   ],
-  "krale-anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [],
   "krale-anti-corrosion-silent-dry-vaportack-7-62-nato-308-win-cartridge": [
     "vochtontrekkers"
   ],
@@ -4160,9 +4106,6 @@
   "krale-multispectral-binoculars-hikmicro-habrok-pro-hq50ln-940-nm": [
     "multispectral"
   ],
-  "krale-hikmicro-habrok-pro-hx60ls-multispectral-binoculars": [
-    "multispectral"
-  ],
   "krale-night-vision-camera-hikmicro-heimdal-h4d": [
     "cameras",
     "inspectie-cameras"
@@ -5569,10 +5512,6 @@
   "krale-magazine-jts-polymer-2-pack": [
     "luchtdruk-magazijnen"
   ],
-  "krale-magazine-karma-eq": [
-    "luchtdruk-magazijnen",
-    "persluchtfles-accessoires"
-  ],
   "krale-magazine-karma-red-panda": [
     "luchtdruk-magazijnen"
   ],
@@ -6334,9 +6273,6 @@
     "red-dots"
   ],
   "krale-mounting-base-walther-pdp-02-trijicon-holosun": [
-    "richtmiddel-accessoires"
-  ],
-  "krale-montagebasis-walther-pdp-04-leupold-deltapoint": [
     "richtmiddel-accessoires"
   ],
   "krale-mounting-base-walther-pdp-v2-trijicon": [
@@ -8377,15 +8313,6 @@
   "krale-luchtdrukkogeltjes-hunters-supply-9-mm-wc-150-grain-358": [
     "pellets"
   ],
-  "krale-airgun-slugs-javelin-gen-2-5-5-mm-21-grain-217": [
-    "pellets"
-  ],
-  "krale-airgun-slugs-javelin-gen-2-5-5-mm-21-grain-218": [
-    "pellets"
-  ],
-  "krale-airgun-slugs-javelin-gen-2-5-5-mm-23-grain-217": [
-    "pellets"
-  ],
   "krale-slugs-javelin-gen-2-5-5-mm-23-grain-218": [
     "pellets"
   ],
@@ -8402,12 +8329,6 @@
     "pellets"
   ],
   "krale-slugs-javelin-gen-2-5-5-mm-34-grain-217": [
-    "pellets"
-  ],
-  "krale-airgun-slugs-javelin-gen-2-5-5-mm-40-grain-217": [
-    "pellets"
-  ],
-  "krale-airgun-slugs-javelin-gen-2-5-5-mm-40-grain-218": [
     "pellets"
   ],
   "krale-airgun-slugs-javelin-gen-2-6-35-mm-32-grain-251": [
@@ -8990,9 +8911,6 @@
     "kamervlaggen-oefenpatronen"
   ],
   "krale-chronometer-athlon-optics-rangecraft-velocity-pro": [
-    "snelheidsmeters"
-  ],
-  "krale-chronograph-caldwell-ballistic-precision-2-0-bluetooth": [
     "snelheidsmeters"
   ],
   "krale-chronograph-caldwell-ballistic-precision-2-0-bluetooth-pro-kit": [
@@ -10532,6 +10450,9 @@
   "alpha-geniii-pro-primaloft-winter-jacket-8324": [
     "winterjassen"
   ],
+  "alpha-geniii-pro-winter-jacket-3250": [
+    "winterjassen"
+  ],
   "alpha-geniii-winter-jacket-3205": [
     "winterjassen"
   ],
@@ -10540,6 +10461,9 @@
   ],
   "anatomical-snood-adjustable-elite-fleece-320m2-4688": [
     "sjaal-nekwarmer"
+  ],
+  "arctic-winter-pants-arctic-1866": [
+    "broeken"
   ],
   "armored-vest-cover-sturm-elite-8294": [
     "tactical-vests"
@@ -10592,6 +10516,10 @@
   ],
   "backpack-mission-pack-elite-hex-692": [
     "tactical-bags"
+  ],
+  "backpack-recon-elite-10444": [
+    "tactical-bags",
+    "tassen-rugzakken"
   ],
   "backpack-single-strap-agent-elite-hex-black-10199": [
     "tactical-bags",
@@ -10681,6 +10609,9 @@
   "buckler-bag-elite-3496": [
     "tassen-rugzakken"
   ],
+  "carabiner-9782": [
+    "karabijnhaken"
+  ],
   "carabiner-10-cm-7416": [
     "karabijnhaken"
   ],
@@ -10691,6 +10622,9 @@
     "karabijnhaken"
   ],
   "carabiner-grimloc-9719": [
+    "karabijnhaken"
+  ],
+  "carabiner-type-2-9778": [
     "karabijnhaken"
   ],
   "cartographic-compass-with-mirror-large-7348": [
@@ -10723,6 +10657,9 @@
   "closed-type-double-magazine-pouch-31": [
     "magazijn-pouches"
   ],
+  "cobra-buckle-belt-627": [
+    "riemen-bretels"
+  ],
   "cobra-buckle-tactical-belt-laser-cut-835": [
     "riemen-bretels"
   ],
@@ -10739,6 +10676,9 @@
     "tactical-shirts"
   ],
   "combat-shirt-genii-pro-nyco-extreme-3987": [
+    "tactical-shirts"
+  ],
+  "combat-shirt-summer-genii-piquet-10512": [
     "tactical-shirts"
   ],
   "compact-tourniquet-pouch-49": [
@@ -11033,6 +10973,12 @@
   "folding-knife-type-12-9991": [
     "zakmessen"
   ],
+  "folding-knife-type-12-scandinavian-10536": [
+    "zakmessen"
+  ],
+  "folding-knife-type-12-scandinavian-stonewash-10542": [
+    "zakmessen"
+  ],
   "folding-knife-type-13-blacksteel-9979": [
     "zakmessen"
   ],
@@ -11292,6 +11238,9 @@
     "jassen",
     "tussenseizoenjassen"
   ],
+  "jacket-jarl-2806": [
+    "jassen"
+  ],
   "jacket-jarl-primaloft-8517": [
     "winterjassen"
   ],
@@ -11464,6 +11413,9 @@
   ],
   "m-tac-alder-camouflage-suit-693": [
     "camouflagenetten"
+  ],
+  "m-tac-alpha-geniii-winter-jacket-3217": [
+    "winterjassen"
   ],
   "m-tac-attachment-with-carabiner-672": [
     "karabijnhaken"
@@ -11656,6 +11608,10 @@
   "m-tac-panel-for-patches-on-molle-80x26-801": [
     "patches"
   ],
+  "m-tac-pants-army-nyco-extreme-2738": [
+    "tactical-broeken",
+    "broeken"
+  ],
   "m-tac-pants-patrol-geniii-nyco-extreme-8907": [
     "tactical-broeken",
     "broeken"
@@ -11713,6 +11669,9 @@
     "patches"
   ],
   "m-tac-patch-emoji-usa-girl-1-5495": [
+    "patches"
+  ],
+  "m-tac-patch-orange-cat-pvc-mm14-cover-10445": [
     "patches"
   ],
   "m-tac-patch-polska-end-to-end-25x80-laser-cut-5064": [
@@ -11776,6 +11735,9 @@
   ],
   "m-tac-seat-pad-20-mm-7610": [
     "slaapzakken-matten"
+  ],
+  "m-tac-seating-pad-with-belt-20": [
+    "riemen-bretels"
   ],
   "m-tac-set-of-2-duty-belt-keppers-tactical-police-law-enforcement-for-2-inch-belt-3192": [
     "riemen-bretels"
@@ -12106,6 +12068,12 @@
     "broeken"
   ],
   "pants-aggressor-elite-nyco-extreme-8392": [
+    "broeken"
+  ],
+  "pants-aggressor-genii-vintage-2628": [
+    "broeken"
+  ],
+  "pants-aggressor-lady-flex-2143": [
     "broeken"
   ],
   "pants-aggressor-special-edition-8457": [
@@ -12481,6 +12449,9 @@
   "patch-jolly-roger-pvc-5204": [
     "patches"
   ],
+  "patch-kitty-embroidery-5541": [
+    "patches"
+  ],
   "patch-kozak-pvc-7852": [
     "patches"
   ],
@@ -12833,6 +12804,9 @@
     "patches"
   ],
   "patch-tiger-eyes-laser-cut-couple-5257": [
+    "patches"
+  ],
+  "patch-tiger-green-tape-pvc-5188": [
     "patches"
   ],
   "patch-til-valhall-50x80mm-5349": [
@@ -13219,6 +13193,9 @@
   ],
   "shirt-lumberjack-merino-cold-weather-9000": [
     "shirts"
+  ],
+  "shooter-high-boots-10228": [
+    "schoenen"
   ],
   "shorts-aggressor-genii-flex-1078": [
     "korte-broeken"
@@ -13897,6 +13874,9 @@
   ],
   "winter-jacket-apha-basic-primaloft-9454": [
     "winterjassen"
+  ],
+  "winter-parka-alpha-primaloft-mm14-10446": [
+    "jassen"
   ],
   "winter-tactical-boots-thinsulate-4226": [
     "schoenen",
