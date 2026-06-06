@@ -268,6 +268,7 @@
     "richtmiddel-accessoires",
     "observatie-accessoires"
   ],
+  "krale-ir-illuminator-hikmicro-habrok-pro-940-nm": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14547,6 +14548,9 @@
       "ir-illuminators"
     ],
     "krale-ir-illuminator-hikmicro-habrok-pro-810-nm": [
+      "ir-illuminators"
+    ],
+    "krale-ir-illuminator-hikmicro-habrok-pro-940-nm": [
       "ir-illuminators"
     ],
     "krale-anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
