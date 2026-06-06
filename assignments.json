@@ -240,7 +240,13 @@
   "krale-hop-up-wolverine-mtw": [
     "hop-ups"
   ],
-  "krale-ir-illuminator-hikmicro-pro-940-nm": [],
+  "krale-ir-illuminator-hikmicro-pro-850-nm": [
+    "richtmiddel-accessoires"
+  ],
+  "krale-ir-illuminator-hikmicro-pro-940-nm": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
   "krale-ir-illuminator-dnt-m24-850-nm-for-tnc335r-tnc635r": [
     "richtmiddel-accessoires",
     "observatie-accessoires"
