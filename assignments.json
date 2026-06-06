@@ -97,7 +97,7 @@
   "hop-up-wolverine-mtw": [
     "hop-ups"
   ],
-  "magazine-mdt-aics-polymer-308-win-6-5-creedmoor-5-rounds": [],
+  "magazijn-schmeisser-223-rem-10-schots": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14697,6 +14697,9 @@
       "permit-wwm"
     ],
     "magazine-mdt-aics-polymer-308-win-6-5-creedmoor-5-rounds": [
+      "permit-wwm"
+    ],
+    "magazijn-schmeisser-223-rem-10-schots": [
       "permit-wwm"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
