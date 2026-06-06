@@ -234,6 +234,9 @@
   "krale-hop-up-tensioner-prometheus-bridge": [
     "hop-ups"
   ],
+  "krale-hop-up-tensioner-prometheus-flat": [
+    "hop-ups"
+  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
