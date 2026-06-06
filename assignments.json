@@ -28,64 +28,8 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
-    "gearboxen"
-  ],
-  "batterij-nuprol-lipo-11-1v-1100mah-stick": [
-    "batterijen"
-  ],
-  "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": [
-    "batterijen"
-  ],
-  "bearings-g-g-bushing-8-mm": [
-    "gearboxen"
-  ],
-  "bearings-prometheus-8-mm": [
-    "gearboxen"
-  ],
-  "mouth-guard-sisu-max-charcoal-black": [
-    "gebitsbeschermers"
-  ],
-  "mouth-guard-sisu-max-hot-pink": [
-    "gebitsbeschermers"
-  ],
-  "mouth-guard-sisu-max-snow-white": [
-    "gebitsbeschermers"
-  ],
-  "eg-hard-gear-prometheus-16-1": [
-    "gearboxen"
-  ],
-  "eg-hard-gear-prometheus-18-1": [
-    "gearboxen"
-  ],
-  "eg-hard-gearbox-shell-prometheus-v2-8-mm": [
-    "gearboxen"
-  ],
-  "eg-hard-gears-prometheus-ngrs-18-1": [
-    "gearboxen"
-  ],
-  "fire-control-unit-wolverine-blinc-bluetooth-for-mtw-article": [
-    "mosfets"
-  ],
-  "mirage-band-attachment-rome": [
-    "miragebanden"
-  ],
-  "gearbox-g-g-cm16-complete-front-wired": [
-    "gearboxen"
-  ],
-  "gearbox-g-g-cm16-complete-rear-wired": [
-    "gearboxen"
-  ],
-  "gearbox-g-g-complete-v2-rear-wired": [
-    "gearboxen"
-  ],
-  "hamer-fx-impact-m3-tungsten": [
-    "luchtdruk-onderdelen",
-    "tuning-parts"
-  ],
-  "hammer-fx-maverick-wildcat-mkiii-dreamline-panthera-dynamic-king-drs-tungsten": [
-    "luchtdruk-onderdelen",
-    "tuning-parts"
+  "bolt-handle-anschutz-walnut-25-mm-m8": [
+    "diversen-kleding"
   ],
   "hop-up-bucking-nub-prometheus-firm-type-60": [
     "hop-ups"
@@ -1603,6 +1547,9 @@
   "admin-pouch-nuprol-tan": [
     "utility-pouches"
   ],
+  "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
+    "gearboxen"
+  ],
   "cover-cap-best-fittings-for-1-8-bsp-m10x1-fill-valve": [
     "persluchtfles-accessoires"
   ],
@@ -1787,8 +1734,14 @@
     "observatie-accessoires",
     "richtmiddel-accessoires"
   ],
+  "batterij-nuprol-lipo-11-1v-1100mah-stick": [
+    "batterijen"
+  ],
   "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": [
     "statieven"
+  ],
+  "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": [
+    "batterijen"
   ],
   "battery-sillosocks-large-12-ah-12v": [
     "lokmiddel-toebehoren"
@@ -1861,6 +1814,12 @@
   ],
   "bb-s-g-g-tracer-green-2700-pcs": [
     "airsoft-bbs"
+  ],
+  "bearings-g-g-bushing-8-mm": [
+    "gearboxen"
+  ],
+  "bearings-prometheus-8-mm": [
+    "gearboxen"
   ],
   "beenholster-platform-amomax-drop-leg": [
     "holsters"
@@ -2181,6 +2140,15 @@
   ],
   "bipodhendel-caldwell-pivot-lock": [
     "bipods"
+  ],
+  "mouth-guard-sisu-max-charcoal-black": [
+    "gebitsbeschermers"
+  ],
+  "mouth-guard-sisu-max-hot-pink": [
+    "gebitsbeschermers"
+  ],
+  "mouth-guard-sisu-max-snow-white": [
+    "gebitsbeschermers"
   ],
   "bitset-wheeler-engineering-21-stuks-add-on-set": [
     "gereedschap"
@@ -2941,6 +2909,18 @@
   "decoy-sillosocks-2d-mallard-drake-sleeper-12-pack": [
     "lokmiddel-toebehoren"
   ],
+  "eg-hard-gear-prometheus-16-1": [
+    "gearboxen"
+  ],
+  "eg-hard-gear-prometheus-18-1": [
+    "gearboxen"
+  ],
+  "eg-hard-gearbox-shell-prometheus-v2-8-mm": [
+    "gearboxen"
+  ],
+  "eg-hard-gears-prometheus-ngrs-18-1": [
+    "gearboxen"
+  ],
   "flattening-stone-taidea-tg1804": [
     "slijpstenen"
   ],
@@ -3046,6 +3026,9 @@
   "field-pouch-manfrotto-alpha-shot-tripod": [
     "statieven"
   ],
+  "fire-control-unit-wolverine-blinc-bluetooth-for-mtw-article": [
+    "mosfets"
+  ],
   "first-regulator-bypass-saber-tactical-fx-impact-m3": [
     "persluchtfles-accessoires"
   ],
@@ -3057,6 +3040,9 @@
   ],
   "flesadapter-fx-dreamline": [
     "persluchtcilinders"
+  ],
+  "mirage-band-attachment-rome": [
+    "miragebanden"
   ],
   "rifle-bag-plano-tactical-gun-backpack-87x30": [
     "geweertassen-foudralen"
@@ -3219,6 +3205,15 @@
   ],
   "gas-tank-tokyo-marui-m870-tactical": [
     "airsoft-gas"
+  ],
+  "gearbox-g-g-cm16-complete-front-wired": [
+    "gearboxen"
+  ],
+  "gearbox-g-g-cm16-complete-rear-wired": [
+    "gearboxen"
+  ],
+  "gearbox-g-g-complete-v2-rear-wired": [
+    "gearboxen"
   ],
   "memory-card-hikmicro-sd-32gb": [
     "observatie-accessoires",
@@ -4084,6 +4079,14 @@
   ],
   "hamer-doorslagset-wheeler": [
     "gereedschap"
+  ],
+  "hamer-fx-impact-m3-tungsten": [
+    "luchtdruk-onderdelen",
+    "tuning-parts"
+  ],
+  "hammer-fx-maverick-wildcat-mkiii-dreamline-panthera-dynamic-king-drs-tungsten": [
+    "luchtdruk-onderdelen",
+    "tuning-parts"
   ],
   "hamer-wheeler-nylon-messing": [
     "gereedschap"
@@ -14483,10 +14486,6 @@
     "utility-pouches"
   ],
   "_removed": {
-    "mouth-guard-sisu-max-charcoal-black": [
-      "mondstukken",
-      "gebitsbeschermers"
-    ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
     ],
@@ -14552,6 +14551,10 @@
     ],
     "barrel-band-fx-dreamline": [
       "wapen-accessoires"
+    ],
+    "mouth-guard-sisu-max-charcoal-black": [
+      "mondstukken",
+      "gebitsbeschermers"
     ],
     "ir-illuminator-arken-zulus-module-940-nm": [
       "ir-illuminators"
