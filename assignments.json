@@ -28,6 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
+  "barrel-sleeve-fx-carbon-fiber": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14333,6 +14334,9 @@
     "utility-pouches"
   ],
   "_removed": {
+    "barrel-sleeve-fx-carbon-fiber": [
+      "wapen-accessoires"
+    ],
     "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
       "airsoft-onderdelen"
     ],
