@@ -28,75 +28,6 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "barrel-inlet-fx-drs-5-5-mm-22": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "hop-up-bucking-nub-prometheus-firm-type-60": [
-    "hop-ups"
-  ],
-  "hop-up-bucking-4uad-4uantum-friction-pro-aeg": [
-    "hop-ups"
-  ],
-  "hop-up-bucking-4uad-4uantum-friction-pro-gbb": [
-    "hop-ups"
-  ],
-  "hop-up-bucking-g-g-cold-resistant": [
-    "hop-ups"
-  ],
-  "hop-up-bucking-laylax-nine-ball-wide-use": [
-    "hop-ups"
-  ],
-  "hop-up-bucking-prometheus-hard": [
-    "hop-ups"
-  ],
-  "hop-up-bucking-prometheus-soft": [
-    "hop-ups"
-  ],
-  "hop-up-bucking-prometheus-straight-chamber-extra-soft": [
-    "hop-ups"
-  ],
-  "hop-up-bucking-prometheus-straight-chamber-soft": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-4uad-4uantum-magnus-pro-precision-ar-ghk-vfc": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-g-g-egm": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-g-g-gr14-series": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-g-g-gr16-rotary-style": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-g-g-gr16-series": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-g-g-gr25-series": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-g-g-sg550-sg552-sg553": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-g-g-umg": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-prometheus-elite-cnc-m4-m16": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-prometheus-elite-cnc-vfc-aeg": [
-    "hop-ups"
-  ],
-  "hop-up-tensioner-prometheus-bridge": [
-    "hop-ups"
-  ],
-  "hop-up-tensioner-prometheus-flat": [
-    "hop-ups"
-  ],
-  "hop-up-wolverine-mtw": [
-    "hop-ups"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -1699,6 +1630,9 @@
   ],
   "barrel-band-fx-dreamline": [
     "persluchtcilinders"
+  ],
+  "barrel-inlet-fx-drs-5-5-mm-22": [
+    "kamervlaggen-oefenpatronen"
   ],
   "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-black": [
     "luchtbuks-dempers",
@@ -4481,6 +4415,72 @@
   ],
   "headband-wrap-walker-s-od-green": [
     "gehoorbescherming"
+  ],
+  "hop-up-bucking-nub-prometheus-firm-type-60": [
+    "hop-ups"
+  ],
+  "hop-up-bucking-4uad-4uantum-friction-pro-aeg": [
+    "hop-ups"
+  ],
+  "hop-up-bucking-4uad-4uantum-friction-pro-gbb": [
+    "hop-ups"
+  ],
+  "hop-up-bucking-g-g-cold-resistant": [
+    "hop-ups"
+  ],
+  "hop-up-bucking-laylax-nine-ball-wide-use": [
+    "hop-ups"
+  ],
+  "hop-up-bucking-prometheus-hard": [
+    "hop-ups"
+  ],
+  "hop-up-bucking-prometheus-soft": [
+    "hop-ups"
+  ],
+  "hop-up-bucking-prometheus-straight-chamber-extra-soft": [
+    "hop-ups"
+  ],
+  "hop-up-bucking-prometheus-straight-chamber-soft": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-4uad-4uantum-magnus-pro-precision-ar-ghk-vfc": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-g-g-egm": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-g-g-gr14-series": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-g-g-gr16-rotary-style": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-g-g-gr16-series": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-g-g-gr25-series": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-g-g-sg550-sg552-sg553": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-g-g-umg": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-prometheus-elite-cnc-m4-m16": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-prometheus-elite-cnc-vfc-aeg": [
+    "hop-ups"
+  ],
+  "hop-up-tensioner-prometheus-bridge": [
+    "hop-ups"
+  ],
+  "hop-up-tensioner-prometheus-flat": [
+    "hop-ups"
+  ],
+  "hop-up-wolverine-mtw": [
+    "hop-ups"
   ],
   "hpa-tank-dominator-13-3000-aluminium-0-2-liters-207-bar-with-pressure-gauge": [
     "manometers"
@@ -14333,6 +14333,34 @@
     "utility-pouches"
   ],
   "_removed": {
+    "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
+      "airsoft-onderdelen"
+    ],
+    "hpa-engine-wolverine-inferno-gen2-premium": [
+      "airsoft-onderdelen"
+    ],
+    "hpa-kit-ctm-m4ximus-for-tm-hi-capa-black": [
+      "airsoft-onderdelen"
+    ],
+    "inner-barrel-prometheus-eg-ak74u": [
+      "airsoft-onderdelen"
+    ],
+    "adapter-vfg-voor-us-poetsstokken": [
+      "stokadapters"
+    ],
+    "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
+      "vochtontrekkers",
+      "Vochtontrekker",
+      "schoonmaak-onderhoud",
+      "wapen-accessoires"
+    ],
+    "barrel-band-fx-dreamline": [
+      "wapen-accessoires"
+    ],
+    "mouth-guard-sisu-max-charcoal-black": [
+      "mondstukken",
+      "gebitsbeschermers"
+    ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
     ],
@@ -14386,34 +14414,6 @@
     ],
     "hop-up-wolverine-mtw": [
       "airsoft-onderdelen"
-    ],
-    "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
-      "airsoft-onderdelen"
-    ],
-    "hpa-engine-wolverine-inferno-gen2-premium": [
-      "airsoft-onderdelen"
-    ],
-    "hpa-kit-ctm-m4ximus-for-tm-hi-capa-black": [
-      "airsoft-onderdelen"
-    ],
-    "inner-barrel-prometheus-eg-ak74u": [
-      "airsoft-onderdelen"
-    ],
-    "adapter-vfg-voor-us-poetsstokken": [
-      "stokadapters"
-    ],
-    "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
-      "vochtontrekkers",
-      "Vochtontrekker",
-      "schoonmaak-onderhoud",
-      "wapen-accessoires"
-    ],
-    "barrel-band-fx-dreamline": [
-      "wapen-accessoires"
-    ],
-    "mouth-guard-sisu-max-charcoal-black": [
-      "mondstukken",
-      "gebitsbeschermers"
     ],
     "ir-illuminator-arken-zulus-module-940-nm": [
       "ir-illuminators"
