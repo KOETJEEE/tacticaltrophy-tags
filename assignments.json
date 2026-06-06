@@ -97,7 +97,7 @@
   "hop-up-wolverine-mtw": [
     "hop-ups"
   ],
-  "magazine-laugo-arms-alien": [],
+  "magazine-laugo-arms-alien-creator-17-rounds": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14682,6 +14682,9 @@
       "permit-wwm"
     ],
     "magazine-laugo-arms-alien": [
+      "permit-wwm"
+    ],
+    "magazine-laugo-arms-alien-creator-17-rounds": [
       "permit-wwm"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
