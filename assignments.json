@@ -34,7 +34,6 @@
   "krale-barrel-band-fx-dreamline": [
     "persluchtcilinders"
   ],
-  "krale-barrel-sleeve-fx-carbon-fiber": [],
   "krale-bearings-g-g-bushing-8-mm": [
     "gearboxen"
   ],
@@ -13841,9 +13840,6 @@
     ]
   },
   "_added": {
-    "krale-barrel-sleeve-fx-carbon-fiber": [
-      "pickup-only"
-    ],
     "krale-rookgranaat-enola-gaye-burst-blue": [
       "age-18"
     ]
