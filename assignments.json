@@ -28,9 +28,6 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazine-bergara-b14-22-lr-10-rounds": [
-    "veldspaden"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -5568,6 +5565,9 @@
   ],
   "mag-pouch-nuprol-pmc-n39-double-open-black": [
     "magazijn-pouches"
+  ],
+  "magazine-bergara-b14-22-lr-10-rounds": [
+    "veldspaden"
   ],
   "magazijn-feinwerbau-aw93-22-lr-5-schots": [
     "airsoft-magazijn-toebehoren"
@@ -14594,9 +14594,6 @@
     ]
   },
   "_added": {
-    "magazine-bergara-b14-22-lr-10-rounds": [
-      "permit-wwm"
-    ],
     "magazijn-bergara-b14-hmr-bmp-5-schots": [
       "permit-wwm"
     ],
@@ -14691,6 +14688,9 @@
       "permit-wwm"
     ],
     "magazine-walther-gsp500-22-lr": [
+      "permit-wwm"
+    ],
+    "magazine-bergara-b14-22-lr-10-rounds": [
       "permit-wwm"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
