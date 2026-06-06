@@ -31,9 +31,6 @@
   "krale-advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
     "gearboxen"
   ],
-  "krale-barrel-band-fx-dreamline": [
-    "persluchtcilinders"
-  ],
   "krale-batterij-nuprol-lipo-11-1v-1100mah-stick": [
     "batterijen"
   ],
@@ -46,9 +43,6 @@
   "krale-bearings-prometheus-8-mm": [
     "gearboxen"
   ],
-  "krale-benchrest-feinwerkbau-p8-p44": [
-    "geweersteunen"
-  ],
   "krale-mouth-guard-sisu-max-charcoal-black": [
     "gebitsbeschermers"
   ],
@@ -57,31 +51,6 @@
   ],
   "krale-mouth-guard-sisu-max-snow-white": [
     "gebitsbeschermers"
-  ],
-  "krale-red-dot-bul-b-a-o-1-4-moa": [
-    "red-dots"
-  ],
-  "krale-camo-screen-foldable-wetland": [
-    "schuiltenten-jacht",
-    "camouflagenetten"
-  ],
-  "krale-demper-g-g-goms-mk1": [
-    "luchtbuks-dempers"
-  ],
-  "krale-demper-g-g-goms-mk3": [
-    "luchtbuks-dempers"
-  ],
-  "krale-demper-g-g-goms-mk5": [
-    "luchtbuks-dempers"
-  ],
-  "krale-demper-g-g-goms-mk6": [
-    "luchtbuks-dempers"
-  ],
-  "krale-demper-g-g-goms-mk7": [
-    "luchtbuks-dempers"
-  ],
-  "krale-suppressor-g-g-kwa-kriss-vector": [
-    "luchtbuks-dempers"
   ],
   "krale-eg-hard-gear-prometheus-16-1": [
     "gearboxen"
@@ -94,18 +63,6 @@
   ],
   "krale-eg-hard-gears-prometheus-ngrs-18-1": [
     "gearboxen"
-  ],
-  "krale-rifle-scope-element-optics-helix-genii-4-16x44": [
-    "richtkijkers"
-  ],
-  "krale-rifle-scope-element-optics-helix-genii-6-24x50": [
-    "richtkijkers"
-  ],
-  "krale-rifle-scope-element-optics-theos-6-36x56-apr-2d": [
-    "richtkijkers"
-  ],
-  "krale-rifle-scope-element-optics-titan-3-18x50-apr-2d": [
-    "richtkijkers"
   ],
   "krale-fire-control-unit-wolverine-blinc-bluetooth-for-mtw-article": [
     "mosfets"
@@ -122,29 +79,6 @@
   "krale-gearbox-g-g-complete-v2-rear-wired": [
     "gearboxen"
   ],
-  "krale-memory-card-hikmicro-sd-32gb": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "krale-memory-card-hikmicro-sd-64gb": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "krale-moderator-eagle-vision-poseidon-60-interchangeable-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "krale-geluiddemper-eagle-vision-triton-50-interchangeable-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "krale-moderator-adaptor-donnyfl-huben-gk1": [
-    "luchtbuks-dempers"
-  ],
-  "krale-grip-utg-combat-sniper-black": [
-    "grips"
-  ],
-  "krale-grip-panels-lok-grips-walther-q-series-sf-gridlok-brass": [
-    "grips"
-  ],
   "krale-hamer-fx-impact-m3-tungsten": [
     "luchtdruk-onderdelen",
     "tuning-parts"
@@ -152,27 +86,6 @@
   "krale-hammer-fx-maverick-wildcat-mkiii-dreamline-panthera-dynamic-king-drs-tungsten": [
     "luchtdruk-onderdelen",
     "tuning-parts"
-  ],
-  "krale-hand-wipes-birchwood-lead-scrubber": [
-    "onderhoudshulpmiddelen"
-  ],
-  "krale-helmet-adapters-code-red-cr-miltac-rear-arc-for-fast-rail": [
-    "helmen"
-  ],
-  "krale-helmet-adapters-code-red-cr-tac-exfil": [
-    "helmen"
-  ],
-  "krale-helmet-adapters-tac-sky-comtac-arc-black": [
-    "helmen"
-  ],
-  "krale-helmet-adapters-tac-sky-comtac-arc-fde": [
-    "helmen"
-  ],
-  "krale-helmet-adapters-tac-sky-comtac-mtek-black": [
-    "helmen"
-  ],
-  "krale-helmet-adapters-tac-sky-comtac-mtek-fde": [
-    "helmen"
   ],
   "krale-hop-up-bucking-nub-prometheus-firm-type-60": [
     "hop-ups"
@@ -239,50 +152,6 @@
   ],
   "krale-hop-up-wolverine-mtw": [
     "hop-ups"
-  ],
-  "krale-ir-illuminator-arken-zulus-module-940-nm": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "krale-ir-illuminator-hikmicro-pro-850-nm": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "krale-ir-illuminator-hikmicro-pro-940-nm": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "krale-ir-illuminator-dnt-m24-850-nm-for-tnc335r-tnc635r": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "krale-ir-illuminator-dnt-m21-850-nm-for-zulus-hd-tnc225r": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "krale-ir-illuminator-dnt-m24-940-nm-for-tnc335r-tnc635r": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "krale-ir-illuminator-hikmicro-habrok-pro-810-nm": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "krale-ir-illuminator-hikmicro-habrok-pro-940-nm": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires"
-  ],
-  "krale-laser-truglo-sight-line-green": [
-    "optiek-lasers"
-  ],
-  "krale-laser-truglo-sight-line-red": [
-    "optiek-lasers"
-  ],
-  "krale-blade-cold-steel-click-n-cut-bowie-clip-point-3-pack": [
-    "replacement-mesjes"
-  ],
-  "krale-blade-cold-steel-click-n-cut-gut-hook-3-pack": [
-    "replacement-mesjes"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -1881,6 +1750,9 @@
   "krale-bankschroefbekken-vfg-vilt-magnetisch": [
     "geweersteunen"
   ],
+  "krale-barrel-band-fx-dreamline": [
+    "persluchtcilinders"
+  ],
   "krale-barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-black": [
     "luchtbuks-dempers",
     "mondingsremmen"
@@ -2006,6 +1878,9 @@
   "krale-belt-clip-amomax-fde": [
     "riemen-bretels",
     "holsters"
+  ],
+  "krale-benchrest-feinwerkbau-p8-p44": [
+    "geweersteunen"
   ],
   "krale-protective-sleeve-best-fittings-for-air-cylinder-50-60-mm": [
     "persluchtcilinders"
@@ -2555,6 +2430,9 @@
     "schoonmaakborstels",
     "schoonmaaksetjes"
   ],
+  "krale-red-dot-bul-b-a-o-1-4-moa": [
+    "red-dots"
+  ],
   "krale-bullet-feed-conversion-kit-frankford-arsenal-for-x-10-press": [
     "persen-onderdelen"
   ],
@@ -2597,6 +2475,10 @@
     "aanzitladders-hoogzitten"
   ],
   "krale-camo-net-wetland": [
+    "camouflagenetten"
+  ],
+  "krale-camo-screen-foldable-wetland": [
+    "schuiltenten-jacht",
     "camouflagenetten"
   ],
   "krale-carousel-with-3-crows": [
@@ -2823,6 +2705,24 @@
     "richtkijkers"
   ],
   "krale-suppressor-g-g-double-screw": [
+    "luchtbuks-dempers"
+  ],
+  "krale-demper-g-g-goms-mk1": [
+    "luchtbuks-dempers"
+  ],
+  "krale-demper-g-g-goms-mk3": [
+    "luchtbuks-dempers"
+  ],
+  "krale-demper-g-g-goms-mk5": [
+    "luchtbuks-dempers"
+  ],
+  "krale-demper-g-g-goms-mk6": [
+    "luchtbuks-dempers"
+  ],
+  "krale-demper-g-g-goms-mk7": [
+    "luchtbuks-dempers"
+  ],
+  "krale-suppressor-g-g-kwa-kriss-vector": [
     "luchtbuks-dempers"
   ],
   "krale-die-blokken-frankford-arsenal-3-pack": [
@@ -3053,6 +2953,12 @@
   "krale-rangefinder-element-optics-helix-1500": [
     "afstandsmeters"
   ],
+  "krale-rifle-scope-element-optics-helix-genii-4-16x44": [
+    "richtkijkers"
+  ],
+  "krale-rifle-scope-element-optics-helix-genii-6-24x50": [
+    "richtkijkers"
+  ],
   "krale-binocular-element-optics-helix-hd-10x42": [
     "verrekijkers"
   ],
@@ -3087,6 +2993,12 @@
     "richtkijkers"
   ],
   "krale-rifle-scope-element-optics-theos-6-36x56-apr-2d-mrad-black": [
+    "richtkijkers"
+  ],
+  "krale-rifle-scope-element-optics-theos-6-36x56-apr-2d": [
+    "richtkijkers"
+  ],
+  "krale-rifle-scope-element-optics-titan-3-18x50-apr-2d": [
     "richtkijkers"
   ],
   "krale-rangefinder-element-optics-titan-3k": [
@@ -3308,6 +3220,14 @@
   "krale-gas-tank-tokyo-marui-m870-tactical": [
     "airsoft-gas"
   ],
+  "krale-memory-card-hikmicro-sd-32gb": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "krale-memory-card-hikmicro-sd-64gb": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
   "krale-gehoorbeschermer-caldwell-e-max-low-profile-electronic-groen": [
     "gehoorbescherming"
   ],
@@ -3494,7 +3414,13 @@
   "krale-moderator-donnyfl-yokozuna": [
     "luchtbuks-dempers"
   ],
+  "krale-moderator-eagle-vision-poseidon-60-interchangeable-1-2-unf": [
+    "luchtbuks-dempers"
+  ],
   "krale-moderator-eagle-vision-sigma-m4-interchangeable-1-2-unf-demper-6-35-mm-25": [
+    "luchtbuks-dempers"
+  ],
+  "krale-geluiddemper-eagle-vision-triton-50-interchangeable-1-2-unf": [
     "luchtbuks-dempers"
   ],
   "krale-moderator-epic-airguns": [
@@ -3642,6 +3568,9 @@
     "luchtbuks-dempers"
   ],
   "krale-geluiddemperadapter-donnyfl-hatsan-qe": [
+    "luchtbuks-dempers"
+  ],
+  "krale-moderator-adaptor-donnyfl-huben-gk1": [
     "luchtbuks-dempers"
   ],
   "krale-moderator-adapter-donnyfl-huben-k1": [
@@ -4098,6 +4027,9 @@
   "krale-grip-utg-5-position-foldable-weaver-picatinny": [
     "grips"
   ],
+  "krale-grip-utg-combat-sniper-black": [
+    "grips"
+  ],
   "krale-grip-utg-d-grip-met-bipod": [
     "bipods",
     "grips"
@@ -4135,6 +4067,9 @@
   "krale-grip-walther-ssp-3d-walnut": [
     "grips"
   ],
+  "krale-grip-panels-lok-grips-walther-q-series-sf-gridlok-brass": [
+    "grips"
+  ],
   "krale-grip-plug-ergo-air-tactical-deluxe-zero-angle": [
     "grips"
   ],
@@ -4170,6 +4105,9 @@
   ],
   "krale-handpomp-snowpeak-30e": [
     "pcp-handpompen"
+  ],
+  "krale-hand-wipes-birchwood-lead-scrubber": [
+    "onderhoudshulpmiddelen"
   ],
   "krale-handschoenen-mechanix-fast-fit-covert-black": [
     "tactical-handschoenen"
@@ -4258,6 +4196,24 @@
     "helmen"
   ],
   "krale-helmet-pts-mtek-flux-od-green": [
+    "helmen"
+  ],
+  "krale-helmet-adapters-code-red-cr-miltac-rear-arc-for-fast-rail": [
+    "helmen"
+  ],
+  "krale-helmet-adapters-code-red-cr-tac-exfil": [
+    "helmen"
+  ],
+  "krale-helmet-adapters-tac-sky-comtac-arc-black": [
+    "helmen"
+  ],
+  "krale-helmet-adapters-tac-sky-comtac-arc-fde": [
+    "helmen"
+  ],
+  "krale-helmet-adapters-tac-sky-comtac-mtek-black": [
+    "helmen"
+  ],
+  "krale-helmet-adapters-tac-sky-comtac-mtek-fde": [
     "helmen"
   ],
   "krale-herlaadblok-frankford-arsenal-perfect-fit-3-9mm": [
@@ -4604,6 +4560,38 @@
   ],
   "krale-ir-delete-cap-dnt-m24-for-21700-thermnight-tnc335r-tnc635r": [
     "multispectral-richtkijkers"
+  ],
+  "krale-ir-illuminator-arken-zulus-module-940-nm": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "krale-ir-illuminator-hikmicro-pro-850-nm": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "krale-ir-illuminator-hikmicro-pro-940-nm": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "krale-ir-illuminator-dnt-m24-850-nm-for-tnc335r-tnc635r": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "krale-ir-illuminator-dnt-m21-850-nm-for-zulus-hd-tnc225r": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "krale-ir-illuminator-dnt-m24-940-nm-for-tnc335r-tnc635r": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "krale-ir-illuminator-hikmicro-habrok-pro-810-nm": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "krale-ir-illuminator-hikmicro-habrok-pro-940-nm": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
   ],
   "krale-hunting-knife-cold-steel-click-n-cut-hunters-fixed-blade": [
     "jachtmessen"
@@ -5027,6 +5015,12 @@
   "krale-large-swage-prime-pin-assembly-frankford-x-10": [
     "persen-onderdelen"
   ],
+  "krale-laser-truglo-sight-line-green": [
+    "optiek-lasers"
+  ],
+  "krale-laser-truglo-sight-line-red": [
+    "optiek-lasers"
+  ],
   "krale-laser-utg-tactical-red": [
     "tactical-bags"
   ],
@@ -5044,6 +5038,12 @@
   ],
   "krale-leg-organizer-manfrotto-alpha-shot-tripod": [
     "statieven"
+  ],
+  "krale-blade-cold-steel-click-n-cut-bowie-clip-point-3-pack": [
+    "replacement-mesjes"
+  ],
+  "krale-blade-cold-steel-click-n-cut-gut-hook-3-pack": [
+    "replacement-mesjes"
   ],
   "krale-lens-wiley-x-saber-adv-clear": [
     "oogbescherming"
@@ -14483,9 +14483,6 @@
     "utility-pouches"
   ],
   "_removed": {
-    "krale-barrel-band-fx-dreamline": [
-      "wapen-accessoires"
-    ],
     "krale-mouth-guard-sisu-max-charcoal-black": [
       "mondstukken",
       "gebitsbeschermers"
@@ -14544,6 +14541,15 @@
     "krale-hop-up-wolverine-mtw": [
       "airsoft-onderdelen"
     ],
+    "krale-anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
+      "vochtontrekkers",
+      "Vochtontrekker",
+      "schoonmaak-onderhoud",
+      "wapen-accessoires"
+    ],
+    "krale-barrel-band-fx-dreamline": [
+      "wapen-accessoires"
+    ],
     "krale-ir-illuminator-arken-zulus-module-940-nm": [
       "ir-illuminators"
     ],
@@ -14567,12 +14573,6 @@
     ],
     "krale-ir-illuminator-hikmicro-habrok-pro-940-nm": [
       "ir-illuminators"
-    ],
-    "krale-anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
-      "vochtontrekkers",
-      "Vochtontrekker",
-      "schoonmaak-onderhoud",
-      "wapen-accessoires"
     ],
     "krale-rookgranaat-enola-gaye-burst-blue": [
       "schietsport"
