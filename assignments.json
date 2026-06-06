@@ -257,8 +257,10 @@
     "observatie-accessoires"
   ],
   "krale-ir-illuminator-dnt-m21-850-nm-for-zulus-hd-tnc225r": [
-    "richtmiddel-accessoires"
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
   ],
+  "krale-ir-illuminator-dnt-m24-940-nm-for-tnc335r-tnc635r": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14532,6 +14534,9 @@
       "ir-illuminators"
     ],
     "krale-ir-illuminator-dnt-m21-850-nm-for-zulus-hd-tnc225r": [
+      "ir-illuminators"
+    ],
+    "krale-ir-illuminator-dnt-m24-940-nm-for-tnc335r-tnc635r": [
       "ir-illuminators"
     ],
     "krale-anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
