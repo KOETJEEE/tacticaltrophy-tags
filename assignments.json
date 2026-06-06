@@ -14622,7 +14622,8 @@
       "tactical-gear"
     ],
     "patch-ar-15-velcropvc-8158": [
-      "Equipment and gear > Patches"
+      "Equipment and gear > Patches",
+      "permit-wwm"
     ]
   },
   "_added": {
