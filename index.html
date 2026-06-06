@@ -40,9 +40,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 
 /* ── Left panel ── */
 #products-panel{background:#fff;border-right:1px solid #e2e8f0;display:flex;flex-direction:column;overflow:hidden;min-height:0}
-#product-search-wrap{padding:10px;border-bottom:1px solid #e2e8f0;flex-shrink:0}
-#product-search{width:100%;padding:7px 10px;border:1px solid #d1d5db;border-radius:7px;font-size:.875rem;outline:none}
+#product-search-wrap{padding:10px;border-bottom:1px solid #e2e8f0;flex-shrink:0;display:flex;flex-direction:column;gap:6px}
+#product-search{width:100%;padding:7px 10px;border:1px solid #d1d5db;border-radius:7px;font-size:.875rem;outline:none;box-sizing:border-box}
 #product-search:focus{border-color:#3b82f6;box-shadow:0 0 0 3px #3b82f620}
+#tag-filter{width:100%;padding:7px 10px;border:1px solid #d1d5db;border-radius:7px;font-size:.875rem;outline:none;box-sizing:border-box}
+#tag-filter:focus{border-color:#8b5cf6;box-shadow:0 0 0 3px #8b5cf620}
+#tag-filter.active{border-color:#8b5cf6;background:#faf5ff}
 #products-list{overflow-y:auto;flex:1;min-height:0}
 .empty-state{padding:24px;text-align:center;color:#94a3b8;font-size:.85rem}
 
@@ -191,6 +194,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   <div id="products-panel">
     <div id="product-search-wrap">
       <input type="text" id="product-search" placeholder="Zoek product op naam…">
+      <input type="text" id="tag-filter" placeholder="Filter op tag (komma voor meerdere)…">
     </div>
     <div id="products-list"></div>
   </div>
@@ -310,6 +314,7 @@ let selectedHandle  = null;
 let productFilter   = '';
 let supplierFilter  = '';
 let flagFilter      = false;
+let tagFilter       = [];
 let dragHandle      = null;
 let activeCat       = '';
 
@@ -365,6 +370,12 @@ function init() {
 
   document.getElementById('product-search').addEventListener('input', e => {
     productFilter = e.target.value;
+    renderList();
+  });
+  document.getElementById('tag-filter').addEventListener('input', e => {
+    const raw = e.target.value;
+    tagFilter = raw.split(',').map(t => t.trim().toLowerCase()).filter(t => t.length > 0);
+    e.target.classList.toggle('active', tagFilter.length > 0);
     renderList();
   });
   document.getElementById('supplier-filter').addEventListener('change', e => {
@@ -436,11 +447,16 @@ function renderStats() {
 function visibleProducts() {
   const f = productFilter.toLowerCase();
   const s = supplierFilter;
-  return PRODUCTS.filter(p =>
-    (!flagFilter || flagged.has(p.handle)) &&
-    (!s || p.supplier === s) &&
-    (!f || p.title.toLowerCase().includes(f))
-  );
+  return PRODUCTS.filter(p => {
+    if (flagFilter && !flagged.has(p.handle)) return false;
+    if (s && p.supplier !== s) return false;
+    if (f && !p.title.toLowerCase().includes(f)) return false;
+    if (tagFilter.length > 0) {
+      const allTags = new Set([...p.colTags, ...p.nonColTags].map(t => t.toLowerCase()));
+      if (!tagFilter.every(t => allTags.has(t))) return false;
+    }
+    return true;
+  });
 }
 
 function renderList() {
