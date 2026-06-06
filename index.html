@@ -136,6 +136,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .quick-tag-btn{background:#f1f5f9;border:1px solid #cbd5e1;border-radius:12px;padding:2px 10px;font-size:.78rem;cursor:pointer;color:#475569;transition:background .1s}
 .quick-tag-btn:hover{background:#e2e8f0}
 .quick-tag-btn.qt-active{background:#dcfce7;border-color:#86efac;color:#166534;font-weight:600}
+.quick-tag-btn.qt-red:hover{background:#fee2e2}
+.quick-tag-btn.qt-red.qt-active{background:#fee2e2;border-color:#fca5a5;color:#991b1b}
+.quick-tag-btn.qt-purple:hover{background:#ede9fe}
+.quick-tag-btn.qt-purple.qt-active{background:#ede9fe;border-color:#c4b5fd;color:#5b21b6}
 </style>
 </head>
 <body>
@@ -501,12 +505,18 @@ function renderDetail() {
   tagsEl.innerHTML = (chipContent || '<span class="no-tags-hint">Geen tags — selecteer hieronder</span>') + addWidget;
 
   // Quick tags
-  const QUICK_TAGS = ['oversize','pickup-only','age-18','permit-wwm','airsoft-membership'];
+  const QUICK_TAGS = [
+    {tag:'oversize',       cls:'qt-purple'},
+    {tag:'pickup-only',    cls:'qt-purple'},
+    {tag:'age-18',         cls:'qt-red'},
+    {tag:'permit-wwm',     cls:'qt-red'},
+    {tag:'airsoft-membership', cls:'qt-red'},
+  ];
   const qtEl = document.getElementById('quick-tags');
   qtEl.innerHTML = '<span id="quick-tags-label">Snelle tags:</span>'
-    + QUICK_TAGS.map(t => {
+    + QUICK_TAGS.map(({tag: t, cls}) => {
         const active = (allShopifyTags.includes(t) && !removed.has(t)) || added.has(t);
-        return `<button class="quick-tag-btn${active?' qt-active':''}" onclick="toggleQuickTag('${j(t)}')">${h(t)}</button>`;
+        return `<button class="quick-tag-btn ${cls}${active?' qt-active':''}" onclick="toggleQuickTag('${j(t)}')">${h(t)}</button>`;
       }).join('');
 
   renderCollections();
