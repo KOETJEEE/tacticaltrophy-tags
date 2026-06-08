@@ -28,9 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "barrel-inlet-fx-drs-5-5-mm-22": [
-    "persluchtfles-accessoires"
-  ],
+  "barrel-inlet-fx-drs-5-5-mm-22": [],
   "body-pins-set-wolverine-mtw": [
     "airsoft-accessoires"
   ],
@@ -3107,6 +3105,9 @@
   "flesadapter-fx-dreamline": [
     "persluchtcilinders"
   ],
+  "mirage-band-attachment-rome": [
+    "miragebanden"
+  ],
   "rifle-bag-plano-tactical-gun-backpack-87x30": [
     "geweertassen-foudralen"
   ],
@@ -4142,6 +4143,14 @@
   ],
   "hamer-doorslagset-wheeler": [
     "gereedschap"
+  ],
+  "hamer-fx-impact-m3-tungsten": [
+    "luchtdruk-onderdelen",
+    "tuning-parts"
+  ],
+  "hammer-fx-maverick-wildcat-mkiii-dreamline-panthera-dynamic-king-drs-tungsten": [
+    "luchtdruk-onderdelen",
+    "tuning-parts"
   ],
   "hamer-wheeler-nylon-messing": [
     "gereedschap"
@@ -5692,329 +5701,8 @@
   "mag-pouch-nuprol-pmc-n39-double-open-black": [
     "magazijn-pouches"
   ],
-  "magazijn-feinwerbau-aw93-22-lr-5-schots": [
-    "airsoft-magazijn-toebehoren"
-  ],
-  "magazine-g-g-arp9-170-rounds-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-arp9-170-rounds-transparent": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-arp9-300-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-arp9-60-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-arp9-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-cm16-lmg-box-camo": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-cm16-lmg-box-dark-camo": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-g1903-gas": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-g2-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-g2-tan": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-g2h": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-g960-standard": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-g980-co2": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-g980-gas": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gk12": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gk74-hi-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gk74-mid-cap-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-gk74-mid-cap-od-green": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-gm1903-co2": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-gmg42-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gom-v4": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gpm1911": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gpm1911-cp": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr14": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr14-mid-cap-120-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-arp-556-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-arp-556-grey": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-arp-556-pink": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-black-5-pack": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-black-tan": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-tan": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-gmag-v1": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-g16-hi-cap-5-pack-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-hi-cap-5-pack-black-1": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-g16-hi-cap-grey": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-thermold": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gtp9": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-levar-gom-v5-gbb": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-m1-garand": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-auto-winding-drum-m4-m16": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-m4-m16-drum-manual-winding": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-mgcr-gbb": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-mxc9-130-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-mxc9-170-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-pcc45-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-pcc45-hi-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-pcc45-mid-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-piranha": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-rk-series-60-schots": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-rk": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-rk-series-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-rk74-t-e-cqb": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-rk74-t-e-cqb-dark-tinted": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-sg550": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-sg550-clear": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-smc-9-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-sr25-mid-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-sr25-hi-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-stp45": [
-    "airsoft-magazijnen"
-  ],
   "magazijn-karma-eq": [
     "persluchtfles-accessoires"
-  ],
-  "magazine-mec-gar-kmr-9x19-mm-19-rounds": [
-    "airsoft-magazijn-toebehoren"
-  ],
-  "magazijn-nuprol-n-mag-flash-tan": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-nuprol-n-mag-high-cap-tan": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-epm-mid-cap-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-epm-mid-cap-fde": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-pts-epm-e9-enhanced-polymer-voor-mtw-9-evo": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-pts-epm-lr-enhanced-polymer-long-rifle-voor-sr25": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-pts-epm1-enhanced-polymer": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-epm1-enhanced-polymer-dark-earth": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-epm1-s-enhanced-polymer-short-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-epm1-s-enhanced-polymer-short-dark-earth": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-lancer-t8": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-for-tokyo-marui-ngrs-mid-cap-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-for-tokyo-marui-ngrs-mid-cap-fde": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-92": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-92-chrome": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-aa-12": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-aa-12-sgr-12-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-ak47-next-gen-90-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-akx": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-am-45-vorpal-bunny": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-desert-plata": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-fn-herstal-fnx-45-tactical-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-fn-herstal-fnx-45-tactical-fde": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-hi-capa-4-3": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-hi-capa-5-1-gbb": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-hi-capa-5-1-stainless-gbb": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-kalashnikov-akm-gbb": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-m-e-u": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-m4a1-mws": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-mk46-mod-0": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-mp5-series": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-mp5k-pdw": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-p90": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-p-90-low-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-saiga-12-sbs": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-saiga-12k": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-sopmod-m4": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-sopmod-m4-ngrs-mid-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-vsr-10": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-utg-glock-17-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-wolverine-mtw-epm-pts-m4": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-wolverine-mtw-tti-jw4-dracarys-gen-12": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-adapter-ctm-m4-aeg-to-hpa-hi-capa-black-grey": [
-    "airsoft-magazijn-toebehoren"
-  ],
-  "magazine-adapter-ctm-m4-aeg-to-hpa-hi-capa-black-rainbow": [
-    "airsoft-magazijn-toebehoren"
-  ],
-  "magazine-adapter-ctm-m4-aeg-to-hpa-hi-capa-angled-black": [
-    "airsoft-magazijn-toebehoren"
   ],
   "mag-pouch-amomax-double-clip": [
     "magazijn-pouches"
@@ -6041,18 +5729,6 @@
   ],
   "magazine-holders-donnyfl-magnetic-for-fx-impact-dreamline-crown-maverick": [
     "luchtbuks-dempers"
-  ],
-  "magazine-lid-fx-mega-stainless-5-5-mm": [
-    "airsoft-magazijn-toebehoren"
-  ],
-  "magazine-lid-fx-mini-stainless-5-5-mm": [
-    "airsoft-magazijn-toebehoren"
-  ],
-  "magazine-cap-for-fx-panthera": [
-    "airsoft-magazijn-toebehoren"
-  ],
-  "magazine-loader-nine-reloaded": [
-    "airsoft-magazijn-toebehoren"
   ],
   "magnet-black-scorpion-gear-for-holster-belt": [
     "holsters"
@@ -9326,12 +9002,6 @@
   ],
   "speedloader-g-g-transparent-brown": [
     "airsoft-speedloaders"
-  ],
-  "speedloader-g-g-magazine-style-transparent": [
-    "airsoft-magazijnen"
-  ],
-  "speedloader-g-g-magazine-style-transparent-brown": [
-    "airsoft-magazijnen"
   ],
   "speedloader-laylax-automatic-bb-loader": [
     "airsoft-speedloaders"
