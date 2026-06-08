@@ -34,7 +34,9 @@
   "barrel-tuner-shroud-fx": [
     "rookgranaten"
   ],
-  "body-pins-set-wolverine-mtw": [],
+  "body-pins-set-wolverine-mtw": [
+    "airsoft-granaten"
+  ],
   "hop-up-bucking-nub-prometheus-firm-type-60": [
     "hop-ups"
   ],
