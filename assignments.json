@@ -28,9 +28,6 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "barrel-inlet-fx-drs-5-5-mm-22": [
-    "airsoft-speedloaders"
-  ],
   "body-pins-set-wolverine-mtw": [
     "airsoft-accessoires"
   ],
@@ -78,39 +75,6 @@
   ],
   "dummypatronen-megaline-cal-20": [
     "kamervlaggen-oefenpatronen"
-  ],
-  "collapsible-water-bottle-7671": [
-    "drinkflessen-thermos"
-  ],
-  "hydration-bladder-2l-7620": [
-    "drinkflessen-thermos"
-  ],
-  "hydration-bladder-gen-2-9525": [
-    "drinkflessen-thermos"
-  ],
-  "m-tac-hydration-bladder-15l-8553": [
-    "drinkflessen-thermos"
-  ],
-  "m-tac-water-bottle-1-l-7726": [
-    "drinkflessen-thermos"
-  ],
-  "stainless-750-ml-thermos-with-folding-spoon-7722": [
-    "drinkflessen-thermos"
-  ],
-  "thermos-1000ml-7717": [
-    "drinkflessen-thermos"
-  ],
-  "thermos-750-ml-7719": [
-    "drinkflessen-thermos"
-  ],
-  "thermos-type-2-7725": [
-    "drinkflessen-thermos"
-  ],
-  "touring-thermos-1600-ml-stainless-7721": [
-    "drinkflessen-thermos"
-  ],
-  "water-bottle-9723": [
-    "drinkflessen-thermos"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -1784,6 +1748,9 @@
   ],
   "barrel-band-fx-dreamline": [
     "persluchtcilinders"
+  ],
+  "barrel-inlet-fx-drs-5-5-mm-22": [
+    "airsoft-speedloaders"
   ],
   "barrel-sleeve-fx-carbon-fiber": [
     "airsoft-accessoires"
@@ -11126,6 +11093,9 @@
     "riemen-bretels",
     "tactical-bags"
   ],
+  "collapsible-water-bottle-7671": [
+    "drinkflessen-thermos"
+  ],
   "combat-fleece-jacket-3720": [
     "fleece",
     "truien"
@@ -11713,6 +11683,12 @@
     "ehbo",
     "medical-pouches"
   ],
+  "hydration-bladder-2l-7620": [
+    "drinkflessen-thermos"
+  ],
+  "hydration-bladder-gen-2-9525": [
+    "drinkflessen-thermos"
+  ],
   "ifak-elite-individual-tactical-medkit-10138": [
     "ehbo",
     "medical-pouches",
@@ -12126,6 +12102,9 @@
   ],
   "m-tac-horizontal-utility-pouch-65": [
     "utility-pouches"
+  ],
+  "m-tac-hydration-bladder-15l-8553": [
+    "drinkflessen-thermos"
   ],
   "m-tac-internal-tiger-belt-for-range-belt-817": [
     "riemen-bretels"
@@ -12544,6 +12523,9 @@
     "mutsen",
     "horloges",
     "petten"
+  ],
+  "m-tac-water-bottle-1-l-7726": [
+    "drinkflessen-thermos"
   ],
   "mag-pouch-kolchan-for-akar-594": [
     "magazijn-pouches"
@@ -14083,6 +14065,9 @@
   "sprint-fleece-sweatshirt-polartec-3774": [
     "truien"
   ],
+  "stainless-750-ml-thermos-with-folding-spoon-7722": [
+    "drinkflessen-thermos"
+  ],
   "steel-camping-beer-thermo-mug-7342": [
     "kookgerei"
   ],
@@ -14470,11 +14455,23 @@
   "thermo-mug-with-folding-handle-7344": [
     "kookgerei"
   ],
+  "thermos-1000ml-7717": [
+    "drinkflessen-thermos"
+  ],
+  "thermos-750-ml-7719": [
+    "drinkflessen-thermos"
+  ],
+  "thermos-type-2-7725": [
+    "drinkflessen-thermos"
+  ],
   "thors-hammer-belt-3385": [
     "riemen-bretels"
   ],
   "tiger-belt-cobra-buckle-811": [
     "riemen-bretels"
+  ],
+  "touring-thermos-1600-ml-stainless-7721": [
+    "drinkflessen-thermos"
   ],
   "tourist-hanging-flashlight-7631": [
     "zaklampen-hoofdlampen",
@@ -14681,6 +14678,9 @@
     "kompassen",
     "tactical-bags"
   ],
+  "water-bottle-9723": [
+    "drinkflessen-thermos"
+  ],
   "weapon-belt-three-points-244": [
     "geweerriemen"
   ],
@@ -14713,9 +14713,6 @@
     "utility-pouches"
   ],
   "_removed": {
-    "barrel-inlet-fx-drs-5-5-mm-22": [
-      "oefenpatronen & snapcaps"
-    ],
     "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
       "airsoft-onderdelen"
     ],
@@ -14755,6 +14752,9 @@
     ],
     "barrel-band-fx-dreamline": [
       "wapen-accessoires"
+    ],
+    "barrel-inlet-fx-drs-5-5-mm-22": [
+      "oefenpatronen & snapcaps"
     ],
     "barrel-sleeve-fx-carbon-fiber": [
       "wapen-accessoires"
