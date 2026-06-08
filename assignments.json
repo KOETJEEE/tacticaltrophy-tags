@@ -28,23 +28,11 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "anti-corrosion-silent-dry-vaportack-9-mm-cartridge": [
-    "vochtontrekkers"
-  ],
-  "barrel-inlet-fx-drs-5-5-mm-22": [
-    "kamervlaggen-oefenpatronen"
-  ],
   "barrel-sleeve-fx-carbon-fiber": [
     "airsoft-accessoires"
   ],
-  "base-plate-pts-epm-black": [
-    "picatinny-rails"
-  ],
-  "dry-pac-hill-ec-3000-compressor-pro-air-dryer-filter": [
-    "revisiesetjes"
-  ],
-  "gas-seal-laylax-nine-ball-for-umarex-glock-series-2-pack": [
-    "revisiesetjes"
+  "hop-up-bucking-nub-prometheus-firm-type-60": [
+    "hop-ups"
   ],
   "hop-up-bucking-4uad-4uantum-friction-pro-aeg": [
     "hop-ups"
@@ -85,17 +73,35 @@
   "hop-up-chamber-g-g-gr16-series": [
     "hop-ups"
   ],
+  "hop-up-chamber-g-g-gr25-series": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-g-g-sg550-sg552-sg553": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-g-g-umg": [
+    "hop-ups"
+  ],
+  "hop-up-chamber-prometheus-elite-cnc-m4-m16": [
+    "hop-ups"
+  ],
   "hop-up-chamber-prometheus-elite-cnc-vfc-aeg": [
+    "hop-ups"
+  ],
+  "hop-up-tensioner-prometheus-bridge": [
     "hop-ups"
   ],
   "hop-up-tensioner-prometheus-flat": [
     "hop-ups"
   ],
-  "hygrometer-lockdown": [
-    "vochtontrekkers"
+  "hop-up-wolverine-mtw": [
+    "hop-ups"
   ],
-  "hygrometer-lockdown-digital": [
-    "vochtontrekkers"
+  "inner-barrel-prometheus-eg-6-00-gbb-tokyo-marui-m4a1-mws-370-mm": [
+    "airsoft-accessoires"
+  ],
+  "inner-barrel-prometheus-eg-aa-12-scar-hk417-m733-thompson-mc-plus": [
+    "airsoft-accessoires"
   ],
   "inner-barrel-prometheus-eg-ak74u": [
     "airsoft-accessoires"
@@ -104,6 +110,9 @@
     "airsoft-accessoires"
   ],
   "inner-barrel-prometheus-eg-g-g-arp9-arp556": [
+    "airsoft-accessoires"
+  ],
+  "inner-barrel-prometheus-eg-g-g-cm16-srl": [
     "airsoft-accessoires"
   ],
   "inner-barrel-prometheus-eg-g-g-cm16-srs": [
@@ -121,6 +130,12 @@
   "inner-barrel-prometheus-eg-krytac-lmg-crb": [
     "airsoft-accessoires"
   ],
+  "inner-barrel-prometheus-eg-krytac-lvoa-c": [
+    "airsoft-accessoires"
+  ],
+  "inner-barrel-prometheus-eg-krytac-lvoa-s": [
+    "airsoft-accessoires"
+  ],
   "inner-barrel-prometheus-eg-krytac-pdw": [
     "airsoft-accessoires"
   ],
@@ -130,464 +145,11 @@
   "inner-barrel-prometheus-eg-next-gen-hk416d": [
     "airsoft-accessoires"
   ],
-  "inner-barrel-prometheus-eg-6-03-wide": [
+  "inner-barrel-prometheus-eg-sopmod-m4a1-sr16-sg551": [
     "airsoft-accessoires"
   ],
-  "safety-flag-megaline-green": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "signal-flags-mdt-10-pack": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "magazine-g-g-arp9-170-rounds-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-arp9-170-rounds-transparent": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-arp9-300-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-arp9-60-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-arp9-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-cm16-lmg-box-camo": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-cm16-lmg-box-dark-camo": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-g2-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-g2-tan": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-g2h": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-g960-standard": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-g980-co2": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-g980-gas": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gk12": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gk74-hi-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gk74-mid-cap-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-gk74-mid-cap-od-green": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-gm1903-co2": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-gmg42-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gpm1911": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gpm1911-cp": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr14": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr14-mid-cap-120-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-arp-556-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-arp-556-grey": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-arp-556-pink": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-black-5-pack": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-black-tan": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-tan": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-gmag-v1": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-g16-hi-cap-5-pack-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-hi-cap-5-pack-black-1": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gr16-thermold": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-gtp9": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-levar-gom-v5-gbb": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-m1-garand": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-auto-winding-drum-m4-m16": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-m4-m16-drum-manual-winding": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-mgcr-gbb": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-mxc9-170-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-pcc45-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-pcc45-hi-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-rk-series-60-schots": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-rk-series-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-rk74-t-e-cqb": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-rk74-t-e-cqb-dark-tinted": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-sg550": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-sg550-clear": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-smc-9-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-sr25-mid-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-g-g-sr25-hi-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-g-g-stp45": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-epm-mid-cap-fde": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-pts-epm-e9-enhanced-polymer-voor-mtw-9-evo": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-pts-epm-lr-enhanced-polymer-long-rifle-voor-sr25": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-pts-epm1-enhanced-polymer": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-epm1-s-enhanced-polymer-short-dark-earth": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-lancer-t8": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-for-tokyo-marui-ngrs-mid-cap-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-pts-for-tokyo-marui-ngrs-mid-cap-fde": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-92": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-92-chrome": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-aa-12": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-aa-12-sgr-12-drum": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-ak47-next-gen-90-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-akx": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-am-45-vorpal-bunny": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-desert-plata": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-fn-herstal-fnx-45-tactical-black": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-fn-herstal-fnx-45-tactical-fde": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-hi-capa-4-3": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-hi-capa-5-1-gbb": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-hi-capa-5-1-stainless-gbb": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-m-e-u": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-mp5-series": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-mp5k-pdw": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-p90": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-p-90-low-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-saiga-12-sbs": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-saiga-12k": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-tokyo-marui-sopmod-m4-ngrs-mid-cap": [
-    "airsoft-magazijnen"
-  ],
-  "magazijn-tokyo-marui-vsr-10": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-utg-glock-17-rounds": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-wolverine-mtw-epm-pts-m4": [
-    "airsoft-magazijnen"
-  ],
-  "magazine-wolverine-mtw-tti-jw4-dracarys-gen-12": [
-    "airsoft-magazijnen"
-  ],
-  "o-rings-set-g-g-for-g980-gbb-co2-magazines": [
-    "revisiesetjes"
-  ],
-  "o-ring-set-hill-hand-pump-mk1-mk2": [
-    "revisiesetjes"
-  ],
-  "o-ring-set-hill-hand-pump-mk3": [
-    "revisiesetjes"
-  ],
-  "o-ring-set-hill-hand-pump-mk4": [
-    "revisiesetjes"
-  ],
-  "o-ring-set-wolverine-bolt-m": [
-    "revisiesetjes"
-  ],
-  "o-ring-set-wolverine-inferno-gen-2": [
-    "revisiesetjes"
-  ],
-  "o-ring-set-wolverine-mac-solenoid-valves": [
-    "revisiesetjes"
-  ],
-  "o-ring-set-wolverine-reaper": [
-    "revisiesetjes"
-  ],
-  "o-ring-set-wolverine-storm-regulator-category-5": [
-    "revisiesetjes"
-  ],
-  "o-ringenset-wolverine-storm-category-5-regulator": [
-    "revisiesetjes"
-  ],
-  "dummypatronen-megaline-22-lr": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "snap-caps-megaline-222-rem": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-223-rem": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-30-06-sprfd": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-308-win": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-32": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-357-magnum-38-spec": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-44-magnum": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-45-acp": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-9-mm": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-cal-12": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-cal-20": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "speedloader-g-g-magazine-style-transparent": [
-    "airsoft-magazijnen"
-  ],
-  "speedloader-g-g-magazine-style-transparent-brown": [
-    "airsoft-magazijnen"
-  ],
-  "trigger-4uad-4uantum-performance-custom-flat-trigger-glock": [
-    "luchtbuks-trekkers"
-  ],
-  "trekker-anschutz-match": [
-    "luchtbuks-trekkers"
-  ],
-  "trekker-anschutz-007434": [
-    "luchtbuks-trekkers"
-  ],
-  "trekker-fx-crown-match": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-schmeisser-two-stage": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-alpha-competition-series-for-glock-gen-5-red": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-alpha-ultimate-builder-s-kit-for-glock-gen-5": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-ar-calvin-elite-single-stage-drop-in": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-ar-pro-two-stage": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-ar15-m4-competition-small-pin-straight": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-cz-457-curved": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-cz-457-curved-lh": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-cz-457-straight": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-cz-457-straight-lh": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-remington-700-benchrest": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-remington-700-calvin-elite": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-remington-700-elite-hunter": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-remington-700-the-hit-rh-curved": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-remington-700-the-hit-rh-straight": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-remington-700-two-stage-rh-light-curved": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-remington-700-two-stage-rh-light-straight": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-timney-remington-700-two-stage-rh-straight": [
-    "luchtbuks-trekkers"
-  ],
-  "trekker-walther-vario": [
-    "luchtbuks-trekkers"
-  ],
-  "trekkerdrukmeter-wheeler": [
-    "luchtbuks-trekkers"
-  ],
-  "trekkerdrukmeter-wheeler-digitaal": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-shoe-kit-timney-calvin-elite-blue": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-shoe-kit-timney-calvin-elite-gold": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-shoe-kit-timney-calvin-elite-green": [
-    "luchtbuks-trekkers"
-  ],
-  "trigger-shoe-kit-timney-calvin-elite-silver": [
-    "luchtbuks-trekkers"
-  ],
-  "trekkerslot-lockdown-met-sleutel": [
-    "luchtbuks-trekkers"
-  ],
-  "trekkerunit-walther-lp500-x-change-mechanical": [
-    "luchtbuks-trekkers"
-  ],
-  "vochtontrekker-lockdown-silica-gel-450-gram": [
-    "vochtontrekkers"
-  ],
-  "vochtonttrekker-lockdown-silica-gel-750-gram": [
-    "vochtontrekkers"
-  ],
-  "moisture-absorber-silent-dry-cube-2-pack": [
-    "vochtontrekkers"
-  ],
-  "moisture-absorber-silent-dry-double-m": [
-    "vochtontrekkers"
-  ],
-  "moisture-absorber-silent-dry-hypercube": [
-    "vochtontrekkers"
-  ],
-  "moisture-absorber-silent-dry-invisible-4-pack": [
-    "vochtontrekkers"
-  ],
-  "moisture-absorber-silent-dry-mine": [
-    "vochtontrekkers"
-  ],
-  "moisture-absorber-silent-dry-pioneer": [
-    "vochtontrekkers"
-  ],
-  "moisture-absorber-silent-dry-shotgun-jr": [
-    "vochtontrekkers"
+  "inner-barrel-prometheus-eg-6-03-wide": [
+    "airsoft-accessoires"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -1393,9 +955,6 @@
     "adapterringen"
   ],
   "kowa-adapterring-tsn-ar46-440246": [
-    "adapterringen"
-  ],
-  "kowa-adapterring-tsn-ar52-440252": [
     "adapterringen"
   ],
   "kowa-adapterring-tsn-ar60-440260": [
@@ -2214,6 +1773,9 @@
   "anti-corrosion-silent-dry-vaportack-7-62-nato-308-win-cartridge": [
     "vochtontrekkers"
   ],
+  "anti-corrosion-silent-dry-vaportack-9-mm-cartridge": [
+    "vochtontrekkers"
+  ],
   "anti-corrosion-silent-dry-vaportack-12-gauge-cartridge": [
     "korrels",
     "vochtontrekkers"
@@ -2262,6 +1824,9 @@
   "barrel-band-fx-dreamline": [
     "persluchtcilinders"
   ],
+  "barrel-inlet-fx-drs-5-5-mm-22": [
+    "kamervlaggen-oefenpatronen"
+  ],
   "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-black": [
     "luchtbuks-dempers",
     "mondingsremmen"
@@ -2275,6 +1840,9 @@
   ],
   "barricade-stop-saber-tactical-arca-swiss": [
     "tactical-bags"
+  ],
+  "base-plate-pts-epm-black": [
+    "picatinny-rails"
   ],
   "battery-dnt-18650-2-pack-incl-charger": [
     "observatie-accessoires",
@@ -3413,6 +2981,9 @@
   "drop-belt-loop-amomax-low-ride-duty-fde": [
     "riemen-bretels"
   ],
+  "dry-pac-hill-ec-3000-compressor-pro-air-dryer-filter": [
+    "revisiesetjes"
+  ],
   "dry-pack-hill-handpomp": [
     "pcp-handpompen"
   ],
@@ -3733,6 +3304,9 @@
   ],
   "gas-release-valve-laylax-nine-ball-neo-r-for-umarex-glock-series": [
     "airsoft-gas"
+  ],
+  "gas-seal-laylax-nine-ball-for-umarex-glock-series-2-pack": [
+    "revisiesetjes"
   ],
   "gas-tank-tokyo-marui-ksg": [
     "airsoft-gas"
@@ -5034,27 +4608,6 @@
   "headband-wrap-walker-s-od-green": [
     "gehoorbescherming"
   ],
-  "hop-up-bucking-nub-prometheus-firm-type-60": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-g-g-gr25-series": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-g-g-sg550-sg552-sg553": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-g-g-umg": [
-    "hop-ups"
-  ],
-  "hop-up-chamber-prometheus-elite-cnc-m4-m16": [
-    "hop-ups"
-  ],
-  "hop-up-tensioner-prometheus-bridge": [
-    "hop-ups"
-  ],
-  "hop-up-wolverine-mtw": [
-    "hop-ups"
-  ],
   "hpa-tank-dominator-13-3000-aluminium-0-2-liters-207-bar-with-pressure-gauge": [
     "manometers"
   ],
@@ -5119,6 +4672,12 @@
   "hygieneset-z-tactical-z009-bk": [
     "gehoorbescherming"
   ],
+  "hygrometer-lockdown": [
+    "vochtontrekkers"
+  ],
+  "hygrometer-lockdown-digital": [
+    "vochtontrekkers"
+  ],
   "index-assembly-frankford-x-10": [
     "herlaadkits"
   ],
@@ -5127,24 +4686,6 @@
   ],
   "thermal-imaging-rifle-scope-infiray-geni-gl35r": [
     "warmtebeeld-richtkijkers"
-  ],
-  "inner-barrel-prometheus-eg-6-00-gbb-tokyo-marui-m4a1-mws-370-mm": [
-    "airsoft-accessoires"
-  ],
-  "inner-barrel-prometheus-eg-aa-12-scar-hk417-m733-thompson-mc-plus": [
-    "airsoft-accessoires"
-  ],
-  "inner-barrel-prometheus-eg-g-g-cm16-srl": [
-    "airsoft-accessoires"
-  ],
-  "inner-barrel-prometheus-eg-krytac-lvoa-c": [
-    "airsoft-accessoires"
-  ],
-  "inner-barrel-prometheus-eg-krytac-lvoa-s": [
-    "airsoft-accessoires"
-  ],
-  "inner-barrel-prometheus-eg-sopmod-m4a1-sr16-sg551": [
-    "airsoft-accessoires"
   ],
   "insert-wiley-x-twist-lock": [
     "oogbescherming"
@@ -5202,6 +4743,12 @@
   "cable-code-red-mrc-down-lead-for-modular-tactical-headsets": [
     "portofoons"
   ],
+  "safety-flag-megaline-green": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "signal-flags-mdt-10-pack": [
+    "kamervlaggen-oefenpatronen"
+  ],
   "machete-kershaw-camp-10-black": [
     "bijlen"
   ],
@@ -5237,6 +4784,9 @@
   ],
   "clay-pigeons-nordic-clays-bio-clays-black": [
     "kleiduiven"
+  ],
+  "clay-pigeon-trap-caldwell-claycopter": [
+    "kleiduifmachines"
   ],
   "clay-pigeon-trap-caldwell-claymore": [
     "kleiduifmachines"
@@ -6091,16 +5641,145 @@
   "magazijn-feinwerbau-aw93-22-lr-5-schots": [
     "airsoft-magazijn-toebehoren"
   ],
+  "magazine-g-g-arp9-170-rounds-black": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-arp9-170-rounds-transparent": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-arp9-300-rounds": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-arp9-60-rounds": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-arp9-drum": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-cm16-lmg-box-camo": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-cm16-lmg-box-dark-camo": [
+    "airsoft-magazijnen"
+  ],
   "magazijn-g-g-g1903-gas": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-g2-black": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-g2-tan": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-g2h": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-g960-standard": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-g-g-g980-co2": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-g-g-g980-gas": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gk12": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gk74-hi-cap": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gk74-mid-cap-black": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-g-g-gk74-mid-cap-od-green": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-g-g-gm1903-co2": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-g-g-gmg42-drum": [
     "airsoft-magazijnen"
   ],
   "magazine-g-g-gom-v4": [
     "airsoft-magazijnen"
   ],
+  "magazine-g-g-gpm1911": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gpm1911-cp": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr14": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr14-mid-cap-120-rounds": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr16-arp-556-black": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr16-arp-556-grey": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr16-arp-556-pink": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr16-black": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr16-black-5-pack": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr16-black-tan": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr16-tan": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr16-gmag-v1": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-g-g-g16-hi-cap-5-pack-black": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gr16-hi-cap-5-pack-black-1": [
+    "airsoft-magazijnen"
+  ],
   "magazijn-g-g-g16-hi-cap-grey": [
     "airsoft-magazijnen"
   ],
+  "magazine-g-g-gr16-thermold": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-gtp9": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-levar-gom-v5-gbb": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-g-g-m1-garand": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-g-g-auto-winding-drum-m4-m16": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-m4-m16-drum-manual-winding": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-mgcr-gbb": [
+    "airsoft-magazijnen"
+  ],
   "magazine-g-g-mxc9-130-rounds": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-mxc9-170-rounds": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-pcc45-drum": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-pcc45-hi-cap": [
     "airsoft-magazijnen"
   ],
   "magazine-g-g-pcc45-mid-cap": [
@@ -6109,7 +5788,37 @@
   "magazine-g-g-piranha": [
     "airsoft-magazijnen"
   ],
+  "magazijn-g-g-rk-series-60-schots": [
+    "airsoft-magazijnen"
+  ],
   "magazijn-g-g-rk": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-rk-series-drum": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-rk74-t-e-cqb": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-rk74-t-e-cqb-dark-tinted": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-sg550": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-sg550-clear": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-smc-9-drum": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-sr25-mid-cap": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-g-g-sr25-hi-cap": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-g-g-stp45": [
     "airsoft-magazijnen"
   ],
   "magazijn-karma-eq": [
@@ -6127,13 +5836,79 @@
   "magazine-pts-epm-mid-cap-black": [
     "airsoft-magazijnen"
   ],
+  "magazine-pts-epm-mid-cap-fde": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-pts-epm-e9-enhanced-polymer-voor-mtw-9-evo": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-pts-epm-lr-enhanced-polymer-long-rifle-voor-sr25": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-pts-epm1-enhanced-polymer": [
+    "airsoft-magazijnen"
+  ],
   "magazine-pts-epm1-enhanced-polymer-dark-earth": [
     "airsoft-magazijnen"
   ],
   "magazine-pts-epm1-s-enhanced-polymer-short-black": [
     "airsoft-magazijnen"
   ],
+  "magazine-pts-epm1-s-enhanced-polymer-short-dark-earth": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-pts-lancer-t8": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-pts-for-tokyo-marui-ngrs-mid-cap-black": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-pts-for-tokyo-marui-ngrs-mid-cap-fde": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-tokyo-marui-92": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-tokyo-marui-92-chrome": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-aa-12": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-aa-12-sgr-12-drum": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-ak47-next-gen-90-rounds": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-akx": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-am-45-vorpal-bunny": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-tokyo-marui-desert-plata": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-fn-herstal-fnx-45-tactical-black": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-fn-herstal-fnx-45-tactical-fde": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-tokyo-marui-hi-capa-4-3": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-tokyo-marui-hi-capa-5-1-gbb": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-tokyo-marui-hi-capa-5-1-stainless-gbb": [
+    "airsoft-magazijnen"
+  ],
   "magazine-tokyo-marui-kalashnikov-akm-gbb": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-tokyo-marui-m-e-u": [
     "airsoft-magazijnen"
   ],
   "magazine-tokyo-marui-m4a1-mws": [
@@ -6142,7 +5917,40 @@
   "magazine-tokyo-marui-mk46-mod-0": [
     "airsoft-magazijnen"
   ],
+  "magazine-tokyo-marui-mp5-series": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-mp5k-pdw": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-tokyo-marui-p90": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-p-90-low-cap": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-saiga-12-sbs": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-saiga-12k": [
+    "airsoft-magazijnen"
+  ],
   "magazijn-tokyo-marui-sopmod-m4": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-tokyo-marui-sopmod-m4-ngrs-mid-cap": [
+    "airsoft-magazijnen"
+  ],
+  "magazijn-tokyo-marui-vsr-10": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-utg-glock-17-rounds": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-wolverine-mtw-epm-pts-m4": [
+    "airsoft-magazijnen"
+  ],
+  "magazine-wolverine-mtw-tti-jw4-dracarys-gen-12": [
     "airsoft-magazijnen"
   ],
   "magazine-adapter-ctm-m4-aeg-to-hpa-hi-capa-black-grey": [
@@ -7020,6 +6828,36 @@
   ],
   "nylonborstel-ks": [
     "schoonmaakborstels"
+  ],
+  "o-rings-set-g-g-for-g980-gbb-co2-magazines": [
+    "revisiesetjes"
+  ],
+  "o-ring-set-hill-hand-pump-mk1-mk2": [
+    "revisiesetjes"
+  ],
+  "o-ring-set-hill-hand-pump-mk3": [
+    "revisiesetjes"
+  ],
+  "o-ring-set-hill-hand-pump-mk4": [
+    "revisiesetjes"
+  ],
+  "o-ring-set-wolverine-bolt-m": [
+    "revisiesetjes"
+  ],
+  "o-ring-set-wolverine-inferno-gen-2": [
+    "revisiesetjes"
+  ],
+  "o-ring-set-wolverine-mac-solenoid-valves": [
+    "revisiesetjes"
+  ],
+  "o-ring-set-wolverine-reaper": [
+    "revisiesetjes"
+  ],
+  "o-ring-set-wolverine-storm-regulator-category-5": [
+    "revisiesetjes"
+  ],
+  "o-ringenset-wolverine-storm-category-5-regulator": [
+    "revisiesetjes"
   ],
   "o-ringset-bf-voor-career-707-shinsung-sumatra-vulnippel": [
     "persluchtfles-accessoires",
@@ -9315,6 +9153,42 @@
   "lubricant-birchwood-moly-lube-dry-film": [
     "olien-vetten"
   ],
+  "dummypatronen-megaline-22-lr": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "snap-caps-megaline-222-rem": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-223-rem": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-30-06-sprfd": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-308-win": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-32": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-357-magnum-38-spec": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-44-magnum": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-45-acp": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-9-mm": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-cal-12": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-cal-20": [
+    "kamervlaggen-oefenpatronen"
+  ],
   "chronometer-athlon-optics-rangecraft-velocity-pro": [
     "snelheidsmeters"
   ],
@@ -9398,6 +9272,12 @@
   ],
   "speedloader-g-g-transparent-brown": [
     "airsoft-speedloaders"
+  ],
+  "speedloader-g-g-magazine-style-transparent": [
+    "airsoft-magazijnen"
+  ],
+  "speedloader-g-g-magazine-style-transparent-brown": [
+    "airsoft-magazijnen"
   ],
   "speedloader-laylax-automatic-bb-loader": [
     "airsoft-speedloaders"
@@ -9642,19 +9522,88 @@
   "training-system-set-mantis-laser-academy": [
     "trainingshalsbanden"
   ],
+  "trigger-4uad-4uantum-performance-custom-flat-trigger-glock": [
+    "luchtbuks-trekkers"
+  ],
+  "trekker-anschutz-match": [
+    "luchtbuks-trekkers"
+  ],
+  "trekker-anschutz-007434": [
+    "luchtbuks-trekkers"
+  ],
+  "trekker-fx-crown-match": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-schmeisser-two-stage": [
+    "luchtbuks-trekkers"
+  ],
   "trigger-timney-alpha-competition-series-for-glock-gen-6": [
     "luchtbuks-trekkers"
   ],
   "trigger-timney-alpha-competition-series-for-glock-gen-5-gold": [
     "luchtbuks-trekkers"
   ],
+  "trigger-timney-alpha-competition-series-for-glock-gen-5-red": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-alpha-ultimate-builder-s-kit-for-glock-gen-5": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-ar-calvin-elite-single-stage-drop-in": [
+    "luchtbuks-trekkers"
+  ],
   "trigger-timney-ar-impact-straight": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-ar-pro-two-stage": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-ar15-m4-competition-small-pin-straight": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-cz-457-curved": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-cz-457-curved-lh": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-cz-457-straight": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-cz-457-straight-lh": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-remington-700-benchrest": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-remington-700-calvin-elite": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-remington-700-elite-hunter": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-remington-700-the-hit-rh-curved": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-remington-700-the-hit-rh-straight": [
     "luchtbuks-trekkers"
   ],
   "trigger-timney-remington-700-two-stage-rh-curved": [
     "luchtbuks-trekkers"
   ],
+  "trigger-timney-remington-700-two-stage-rh-light-curved": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-remington-700-two-stage-rh-light-straight": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-timney-remington-700-two-stage-rh-straight": [
+    "luchtbuks-trekkers"
+  ],
   "trigger-timney-tikka-t3-two-stage": [
+    "luchtbuks-trekkers"
+  ],
+  "trekker-walther-vario": [
     "luchtbuks-trekkers"
   ],
   "trigger-guard-anschutz-for-precise-aluminium-stock": [
@@ -9663,16 +9612,40 @@
   "trigger-guard-bergara-b-14-hmr-short-action": [
     "luchtbuks-trekkers"
   ],
+  "trekkerdrukmeter-wheeler": [
+    "luchtbuks-trekkers"
+  ],
+  "trekkerdrukmeter-wheeler-digitaal": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-shoe-kit-timney-calvin-elite-blue": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-shoe-kit-timney-calvin-elite-gold": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-shoe-kit-timney-calvin-elite-green": [
+    "luchtbuks-trekkers"
+  ],
+  "trigger-shoe-kit-timney-calvin-elite-silver": [
+    "luchtbuks-trekkers"
+  ],
   "trigger-shoe-kit-timney-calvin-elite-black": [
     "luchtbuks-trekkers"
   ],
   "trekkerslot-lockdown-met-cijfercombinatie": [
     "luchtbuks-trekkers"
   ],
+  "trekkerslot-lockdown-met-sleutel": [
+    "luchtbuks-trekkers"
+  ],
   "trekkerslot-lockdown-met-sleutel-3-pack": [
     "luchtbuks-trekkers"
   ],
   "trekkerunit-walther-lp500-x-change-electronic": [
+    "luchtbuks-trekkers"
+  ],
+  "trekkerunit-walther-lp500-x-change-mechanical": [
     "luchtbuks-trekkers"
   ],
   "cleaning-cord-airmarksman": [
@@ -10167,6 +10140,33 @@
   ],
   "vizierlijnverhoging-verlenger-walther-up": [
     "vizierlijnverhogingen"
+  ],
+  "vochtontrekker-lockdown-silica-gel-450-gram": [
+    "vochtontrekkers"
+  ],
+  "vochtonttrekker-lockdown-silica-gel-750-gram": [
+    "vochtontrekkers"
+  ],
+  "moisture-absorber-silent-dry-cube-2-pack": [
+    "vochtontrekkers"
+  ],
+  "moisture-absorber-silent-dry-double-m": [
+    "vochtontrekkers"
+  ],
+  "moisture-absorber-silent-dry-hypercube": [
+    "vochtontrekkers"
+  ],
+  "moisture-absorber-silent-dry-invisible-4-pack": [
+    "vochtontrekkers"
+  ],
+  "moisture-absorber-silent-dry-mine": [
+    "vochtontrekkers"
+  ],
+  "moisture-absorber-silent-dry-pioneer": [
+    "vochtontrekkers"
+  ],
+  "moisture-absorber-silent-dry-shotgun-jr": [
+    "vochtontrekkers"
   ],
   "interior-forend-weights-fx-dynamic-panthera-mkii-145-grams-4-pack": [
     "loopgewichten"
@@ -14637,6 +14637,9 @@
     "barrel-sleeve-fx-carbon-fiber": [
       "wapen-accessoires"
     ],
+    "hop-up-bucking-nub-prometheus-firm-type-60": [
+      "airsoft-onderdelen"
+    ],
     "hop-up-bucking-4uad-4uantum-friction-pro-aeg": [
       "airsoft-onderdelen"
     ],
@@ -14664,10 +14667,28 @@
     "hop-up-chamber-g-g-egm": [
       "airsoft-onderdelen"
     ],
+    "hop-up-chamber-g-g-gr25-series": [
+      "airsoft-onderdelen"
+    ],
+    "hop-up-chamber-g-g-sg550-sg552-sg553": [
+      "airsoft-onderdelen"
+    ],
+    "hop-up-chamber-g-g-umg": [
+      "airsoft-onderdelen"
+    ],
+    "hop-up-chamber-prometheus-elite-cnc-m4-m16": [
+      "airsoft-onderdelen"
+    ],
     "hop-up-chamber-prometheus-elite-cnc-vfc-aeg": [
       "airsoft-onderdelen"
     ],
+    "hop-up-tensioner-prometheus-bridge": [
+      "airsoft-onderdelen"
+    ],
     "hop-up-tensioner-prometheus-flat": [
+      "airsoft-onderdelen"
+    ],
+    "hop-up-wolverine-mtw": [
       "airsoft-onderdelen"
     ],
     "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
@@ -14679,6 +14700,12 @@
     "hpa-kit-ctm-m4ximus-for-tm-hi-capa-black": [
       "airsoft-onderdelen"
     ],
+    "inner-barrel-prometheus-eg-6-00-gbb-tokyo-marui-m4a1-mws-370-mm": [
+      "airsoft-onderdelen"
+    ],
+    "inner-barrel-prometheus-eg-aa-12-scar-hk417-m733-thompson-mc-plus": [
+      "airsoft-onderdelen"
+    ],
     "inner-barrel-prometheus-eg-ak74u": [
       "airsoft-onderdelen"
     ],
@@ -14686,6 +14713,9 @@
       "airsoft-onderdelen"
     ],
     "inner-barrel-prometheus-eg-g-g-arp9-arp556": [
+      "airsoft-onderdelen"
+    ],
+    "inner-barrel-prometheus-eg-g-g-cm16-srl": [
       "airsoft-onderdelen"
     ],
     "inner-barrel-prometheus-eg-g-g-cm16-srs": [
@@ -14701,6 +14731,12 @@
       "airsoft-onderdelen"
     ],
     "inner-barrel-prometheus-eg-krytac-lmg-crb": [
+      "airsoft-onderdelen"
+    ],
+    "inner-barrel-prometheus-eg-krytac-lvoa-c": [
+      "airsoft-onderdelen"
+    ],
+    "inner-barrel-prometheus-eg-krytac-lvoa-s": [
       "airsoft-onderdelen"
     ],
     "inner-barrel-prometheus-eg-krytac-pdw": [
@@ -14746,42 +14782,6 @@
     "mouth-guard-sisu-max-charcoal-black": [
       "mondstukken",
       "gebitsbeschermers"
-    ],
-    "hop-up-bucking-nub-prometheus-firm-type-60": [
-      "airsoft-onderdelen"
-    ],
-    "hop-up-chamber-g-g-gr25-series": [
-      "airsoft-onderdelen"
-    ],
-    "hop-up-chamber-g-g-sg550-sg552-sg553": [
-      "airsoft-onderdelen"
-    ],
-    "hop-up-chamber-g-g-umg": [
-      "airsoft-onderdelen"
-    ],
-    "hop-up-chamber-prometheus-elite-cnc-m4-m16": [
-      "airsoft-onderdelen"
-    ],
-    "hop-up-tensioner-prometheus-bridge": [
-      "airsoft-onderdelen"
-    ],
-    "hop-up-wolverine-mtw": [
-      "airsoft-onderdelen"
-    ],
-    "inner-barrel-prometheus-eg-6-00-gbb-tokyo-marui-m4a1-mws-370-mm": [
-      "airsoft-onderdelen"
-    ],
-    "inner-barrel-prometheus-eg-aa-12-scar-hk417-m733-thompson-mc-plus": [
-      "airsoft-onderdelen"
-    ],
-    "inner-barrel-prometheus-eg-g-g-cm16-srl": [
-      "airsoft-onderdelen"
-    ],
-    "inner-barrel-prometheus-eg-krytac-lvoa-c": [
-      "airsoft-onderdelen"
-    ],
-    "inner-barrel-prometheus-eg-krytac-lvoa-s": [
-      "airsoft-onderdelen"
     ],
     "ir-illuminator-arken-zulus-module-940-nm": [
       "ir-illuminators"
