@@ -12995,9 +12995,7 @@
     "tactical-shirts",
     "tactical-bags"
   ],
-  "sweat-wicking-t-shirt-genii-6561": [
-    "shirts"
-  ],
+  "sweat-wicking-t-shirt-genii-6561": [],
   "sweater-nord-fleece-polartec-lady-3957": [
     "truien"
   ],
@@ -14318,6 +14316,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "sweat-wicking-t-shirt-genii-6561": [
+      "tactical-gear"
     ],
     "sweater-nord-fleece-polartec-lady-3957": [
       "fleece",
