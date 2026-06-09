@@ -13043,8 +13043,7 @@
     "tactical-shirts"
   ],
   "t-shirt-one-shot-oversize-9265": [
-    "shirts",
-    "tactical-shirts"
+    "shirts"
   ],
   "t-shirt-performance-10375": [
     "shirts",
@@ -14328,7 +14327,8 @@
     "t-shirt-one-shot-oversize-9265": [
       "Clothing > T-shirts",
       "m-tac",
-      "Polo > Printing"
+      "Polo > Printing",
+      "tactical-shirts"
     ],
     "t-shirt-performance-10375": [
       "Clothing > T-shirts",
