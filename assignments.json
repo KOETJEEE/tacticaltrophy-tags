@@ -12833,7 +12833,6 @@
     "geweerriemen",
     "tassen-rugzakken"
   ],
-  "sling-pistol-bag-10180": [],
   "sling-pistol-bag-elite-220": [
     "shoulder-messengers",
     "holsters"
@@ -14335,7 +14334,10 @@
       "permit-wwm"
     ],
     "sling-pistol-bag-10180": [
-      "airsoft"
+      "airsoft",
+      "geweerriemen",
+      "jacht",
+      "schietsport"
     ],
     "sling-pistol-bag-elite-220": [
       "Equipment and gear > Bags and backpacks > Bags",
