@@ -13106,9 +13106,7 @@
     "petten",
     "tactical-bags"
   ],
-  "tactical-belt-attachnments-5pcs-3189": [
-    "tactical-bags"
-  ],
+  "tactical-belt-attachnments-5pcs-3189": [],
   "tactical-boots-caiman-9600": [
     "schoenen",
     "tactical-sneakers"
@@ -14345,7 +14343,10 @@
       "bretels",
       "kleding",
       "m-tac",
-      "riemen-bretels"
+      "riemen-bretels",
+      "Tactical Line",
+      "tactical-gear",
+      "tactical-bags"
     ],
     "tactical-boots-caiman-9600": [
       "tactical-bags",
