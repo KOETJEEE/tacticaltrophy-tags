@@ -12387,8 +12387,7 @@
     "tactical-bags"
   ],
   "patch-tactical-girl-8-trizub-pvc-8309": [
-    "patches",
-    "tactical-bags"
+    "patches"
   ],
   "patch-tactical-girl-9-rpg-pvc-7768": [
     "patches"
@@ -14466,7 +14465,8 @@
       "permit-wwm"
     ],
     "patch-tactical-girl-8-trizub-pvc-8309": [
-      "m-tac"
+      "m-tac",
+      "Equipment and gear > Patches"
     ],
     "patch-tactical-girl-9-rpg-pvc-7768": [
       "tactical-bags",
