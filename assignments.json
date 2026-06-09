@@ -5142,6 +5142,9 @@
   "powder-measure-frankford-arsenal-x-10-case-activated": [
     "kruitmolens"
   ],
+  "powder-reservoir-frankford-arsenal": [
+    "herlaadkits"
+  ],
   "powder-funnel-kit-frankford-arsenal-aluminium": [
     "kruittrechters"
   ],
@@ -13542,8 +13545,7 @@
     "tactical-bags"
   ],
   "watch-tactical-2166-8179": [
-    "horloges",
-    "tactical-bags"
+    "horloges"
   ],
   "watch-tactical-adventure-5051": [
     "horloges",
