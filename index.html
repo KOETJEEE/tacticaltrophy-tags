@@ -544,20 +544,17 @@ function renderDetail() {
     const tip   = col ? col.title : ch;
     return `<span class="tag-chip" title="${h(tip)}">${h(label)}<button class="tag-chip-x" onclick="removeTag('${j(ch)}')" title="Verwijder collectie">✕</button></span>`;
   }).join('');
-  // Blauwe chips (auto): catTags die nog NIET in de Shopify-snapshot staan (worden toegevoegd)
+  // Blauwe chips (auto): hoofdcategorie-tags die automatisch worden meegenomen
   const catTagSet = new Set();
   for (const ch of assigned) {
     const col = COLLECTIONS.find(c => c.handle === ch);
     if (col) col.catTags.forEach(t => catTagSet.add(t));
   }
-  const allShopifyTags = [...new Set([...p.colTags, ...p.nonColTags])];
-  const shopifyTagsLower = new Set(allShopifyTags.map(t => t.toLowerCase()));
-  const catChips = [...catTagSet].filter(t => !shopifyTagsLower.has(t.toLowerCase())).map(t =>
-    `<span class="tag-chip tag-chip-cat" title="Wordt automatisch aan Shopify toegevoegd">${h(t)}</span>`
+  const catChips = [...catTagSet].map(t =>
+    `<span class="tag-chip tag-chip-cat" title="Hoofdcategorie-tag (automatisch meegenomen)">${h(t)}</span>`
   ).join('');
-  // Grijze chips: ALLE huidige Shopify-tags (snapshot)
-  // Bewaard (covered by assignment) → lichtgrijs, geen X
-  // Verwijderd (not covered) → normaal grijs, met X
+  // Grijze chips: Shopify-tags die NIET al blauw zijn (geen duplicaten)
+  const allShopifyTags = [...new Set([...p.colTags, ...p.nonColTags])];
   const coveredByBlue = new Set();
   for (const ch of assigned) {
     const col = COLLECTIONS.find(c => c.handle === ch);
@@ -567,11 +564,8 @@ function renderDetail() {
     }
   }
   const TAG_CHIP_CLS = {'age-18':'tag-chip-red','permit-wwm':'tag-chip-red','airsoft-membership':'tag-chip-red','oversize':'tag-chip-purple','pickup-only':'tag-chip-purple'};
-  const greyChips = allShopifyTags.filter(t => !removed.has(t)).map(t => {
+  const greyChips = allShopifyTags.filter(t => !removed.has(t) && !coveredByBlue.has(t)).map(t => {
     const cls = TAG_CHIP_CLS[t] || 'tag-chip-grey';
-    if (coveredByBlue.has(t)) {
-      return `<span class="tag-chip tag-chip-kept" title="Staat in Shopify — wordt bewaard door collectie-assignment">${h(t)}</span>`;
-    }
     return `<span class="tag-chip ${cls}">${h(t)}<button class="tag-chip-x" onclick="removeRawTag('${j(t)}')" title="Verwijder tag">✕</button></span>`;
   }).join('');
   // Groene chips: handmatig toegevoegde tags (met kleur voor speciale tags)
