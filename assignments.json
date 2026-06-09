@@ -13026,7 +13026,9 @@
   "t-shirt-937-summer-lady-10317": [
     "tactical-shirts"
   ],
-  "t-shirt-death-from-above-7903": [],
+  "t-shirt-death-from-above-7903": [
+    "t-shirts-polos"
+  ],
   "t-shirt-drakar-8893": [
     "t-shirts-polos"
   ],
@@ -14320,6 +14322,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "t-shirt-937-summer-lady-10317": [
+      "Clothing > T-shirts"
     ],
     "t-shirt-death-from-above-7903": [
       "Clothing > T-shirts",
