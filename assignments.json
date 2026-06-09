@@ -13164,7 +13164,6 @@
   ],
   "tactical-pen-tp-01-5958": [
     "tactical-pens",
-    "tactical-bags",
     "veldnotitie"
   ],
   "tactical-pen-tp-17-5959": [
@@ -14354,6 +14353,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "tactical-pen-tp-17-5959": [
+      "tactical-bags"
     ],
     "tactical-pen-type-3-5960": [
       "Equipment and gear > Tactical pens",
