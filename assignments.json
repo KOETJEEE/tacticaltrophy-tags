@@ -14484,7 +14484,10 @@
       "permit-wwm"
     ],
     "pouch-for-3-vog-type-grenade-985": [
-      "grenade-pouches"
+      "grenade-pouches",
+      "pouches",
+      "m-tac",
+      "Tactical gear > Pouches > grenade pouch"
     ],
     "pouch-for-cartridges-cal-12-for-10-cartridges-elite-10403": [
       "m-tac",
