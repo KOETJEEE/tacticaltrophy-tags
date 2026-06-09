@@ -13786,7 +13786,6 @@
   "magazijn-ataman-m2": [
     "magazijnen"
   ],
-  "magazijn-walther-ppq-m1-9-mm-15-2-schots": [],
   "microfiber-towel-army-green-120x60cm-9724": [
     "onderhoudshulpmiddelen"
   ],
@@ -14669,6 +14668,9 @@
       "permit-wwm"
     ],
     "magazijn-walther-ssp-e-22-lr": [
+      "permit-wwm"
+    ],
+    "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
       "permit-wwm"
     ]
   }
