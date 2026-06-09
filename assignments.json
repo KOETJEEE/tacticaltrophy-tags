@@ -28,54 +28,6 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "body-pins-set-wolverine-mtw": [
-    "airsoft-accessoires"
-  ],
-  "buffer-tube-key-arma-key-501-for-ar15-mil-spec-black": [
-    "airsoft-accessoires"
-  ],
-  "safety-flag-megaline-green": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "signal-flags-mdt-10-pack": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-22-lr": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "snap-caps-megaline-222-rem": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-223-rem": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-30-06-sprfd": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-308-win": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-32": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-357-magnum-38-spec": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-44-magnum": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-45-acp": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-9-mm": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-cal-12": [
-    "kamervlaggen-oefenpatronen"
-  ],
-  "dummypatronen-megaline-cal-20": [
-    "kamervlaggen-oefenpatronen"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -2268,6 +2220,9 @@
   "blauwsel-roestverwijderaar-birchwood-blue-rust-remover": [
     "blauwsel"
   ],
+  "body-pins-set-wolverine-mtw": [
+    "airsoft-accessoires"
+  ],
   "bore-snake-snake-it": [
     "reinigingskoorden"
   ],
@@ -2476,6 +2431,9 @@
   "bronzen-kamerborstel-bore-tech-proof-positive-ar15": [
     "schoonmaakborstels",
     "schoonmaaksetjes"
+  ],
+  "buffer-tube-key-arma-key-501-for-ar15-mil-spec-black": [
+    "airsoft-accessoires"
   ],
   "red-dot-bul-b-a-o-1-4-moa": [
     "red-dots"
@@ -4813,6 +4771,12 @@
   ],
   "cable-code-red-mrc-down-lead-for-modular-tactical-headsets": [
     "portofoons"
+  ],
+  "safety-flag-megaline-green": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "signal-flags-mdt-10-pack": [
+    "kamervlaggen-oefenpatronen"
   ],
   "machete-kershaw-camp-10-black": [
     "bijlen"
@@ -9249,6 +9213,42 @@
   ],
   "lubricant-birchwood-moly-lube-dry-film": [
     "olien-vetten"
+  ],
+  "dummypatronen-megaline-22-lr": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "snap-caps-megaline-222-rem": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-223-rem": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-30-06-sprfd": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-308-win": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-32": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-357-magnum-38-spec": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-44-magnum": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-45-acp": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-9-mm": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-cal-12": [
+    "kamervlaggen-oefenpatronen"
+  ],
+  "dummypatronen-megaline-cal-20": [
+    "kamervlaggen-oefenpatronen"
   ],
   "chronometer-athlon-optics-rangecraft-velocity-pro": [
     "snelheidsmeters"
@@ -14708,6 +14708,296 @@
   ],
   "zip-pocket-organizer-set-elite-8979": [
     "utility-pouches"
+  ],
+  "mounting-base-kmr-s-02-or-shield": [
+    "montage-accessoires",
+    "richtmiddel-accessoires"
+  ],
+  "agm-rusan-quick-release-clip-on-montage-voor-comanche-22-121108": [
+    "montage-accessoires",
+    "nachtzicht-handheld",
+    "voorzetkijkers"
+  ],
+  "agm-pvs-14-ap-monoculaire-nachtkijker-gen2-green-phosphor-121070": [
+    "nachtzicht-handheld"
+  ],
+  "agm-pvs-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121066": [
+    "nachtzicht-handheld"
+  ],
+  "agm-sioux940-long-range-infraroodstraler-940nm800mw-121101": [
+    "nachtzicht-handheld"
+  ],
+  "agm-voyage-lrf-tb50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121241": [
+    "afstandsmeters"
+  ],
+  "braun-wildcamera-black300-535630": [
+    "wildcameras"
+  ],
+  "braun-wildcamera-scouting-cam-black400-wifi-solar-535659": [
+    "wildcameras"
+  ],
+  "camo-screen-foldable-wetland": [
+    "camouflagenetten",
+    "schuiltenten"
+  ],
+  "frankonia-277057": [
+    "jassen"
+  ],
+  "rifle-scope-element-optics-helix-genii-4-16x44": [
+    "richtkijkers"
+  ],
+  "rifle-scope-element-optics-helix-genii-6-24x50": [
+    "richtkijkers"
+  ],
+  "rifle-scope-element-optics-theos-6-36x56-apr-2d": [
+    "richtkijkers"
+  ],
+  "rifle-scope-element-optics-titan-3-18x50-apr-2d": [
+    "richtkijkers"
+  ],
+  "explorer-cases-15416-koffer-zwart-met-plukschuim-251501": [
+    "koffers",
+    "wapenkoffers"
+  ],
+  "explorer-cases-2209-koffer-oranje-met-plukschuim-250160": [
+    "koffers",
+    "wapenkoffers"
+  ],
+  "explorer-cases-2209-koffer-zwart-met-plukschuim-250150": [
+    "koffers",
+    "wapenkoffers"
+  ],
+  "explorer-cases-4412hl-koffer-zwart-met-laptop-tas-250522": [
+    "koffers",
+    "wapenkoffers"
+  ],
+  "explorer-cases-7726-koffer-zwart-met-plukschuim-251190": [
+    "koffers",
+    "wapenkoffers"
+  ],
+  "explorer-cases-multi-utility-box-groen-mub78ge-254002": [
+    "koffers",
+    "wapenkoffers"
+  ],
+  "explorer-cases-red-line-13513-geweer-koffer-met-plukschuim-251263": [
+    "koffers",
+    "wapenkoffers"
+  ],
+  "falcon-eyes-aluminium-statief-kop-wt-3570-h165-cm-295011": [
+    "statieven"
+  ],
+  "falcon-eyes-gaffer-tape-blauw-5-cm-x-50-m-2964907": [
+    "gaffer-tape"
+  ],
+  "falcon-eyes-gaffer-tape-groen-5-cm-x-50-m-2964903": [
+    "gaffer-tape"
+  ],
+  "falcon-eyes-gaffer-tape-wit-5-cm-x-50-m-2964901": [
+    "gaffer-tape"
+  ],
+  "flir-oculair-ooggedeelte-voor-scout-134127309": [
+    "oculairs"
+  ],
+  "flir-reserve-lenskap-voor-scout-en-ls-series-4127306-134127310": [
+    "beschermkappen"
+  ],
+  "flir-scion-otm266-warmtebeeldcamera-13460266": [
+    "warmtebeeld-handheld"
+  ],
+  "flir-scion-otm366-warmtebeeldcamera-13460336": [
+    "warmtebeeld-handheld"
+  ],
+  "flir-tg165-x-warmtebeeldcamera-13461470": [
+    "warmtebeeld-handheld"
+  ],
+  "flir-tg267-warmtebeeldcamera-13461471": [
+    "warmtebeeld-handheld"
+  ],
+  "flir-tg275-warmtebeeldcamera-13461472": [
+    "warmtebeeld-handheld"
+  ],
+  "flir-tg297-warmtebeeldcamera-13461473": [
+    "warmtebeeld-handheld"
+  ],
+  "rifle-case-plano-rustrictor-all-weather-2-42-113x43": [
+    "wapenkoffers"
+  ],
+  "geweersteun-bog-fieldpod": [
+    "geweersteunen"
+  ],
+  "geweersteun-caldwell-stinger": [
+    "geweersteunen"
+  ],
+  "konus-digitale-dag-en-nachtkijker-konuspy-12-5-40x32-437933": [
+    "nachtzicht-handheld"
+  ],
+  "konus-kompas-konustar-11-434075": [
+    "kompassen"
+  ],
+  "konus-richtkijker-empire-3-18x50-sfp-550-ballistic-moa-437186": [
+    "richtkijkers"
+  ],
+  "konus-richtkijker-glory-2-16x50-sfp-german-4-moa-437188": [
+    "richtkijkers"
+  ],
+  "konus-richtkijker-konuspro-3-9x50-met-verlicht-dradenkruis-437294": [
+    "richtkijkers"
+  ],
+  "konus-richtkijker-konuspro-el-30-4-16x44-met-10-dradenkruizen-437330": [
+    "richtkijkers"
+  ],
+  "konus-spotting-scope-konuspot-50-15-40x50-437124": [
+    "monoculairs",
+    "richtkijkers",
+    "spotting-scopes"
+  ],
+  "konus-warmtebeeldcamera-flame-06x-24x-437953": [
+    "warmtebeeld-handheld"
+  ],
+  "kowa-compact-spottingscope-tsn-553-prominar-15-45x55-446553": [
+    "monoculairs",
+    "spotting-scopes"
+  ],
+  "kowa-spotting-scope-body-tsn-663m-prominar-440667": [
+    "monoculairs",
+    "richtkijkers",
+    "spotting-scopes"
+  ],
+  "kowa-spotting-scope-body-tsn-82sv-440820": [
+    "monoculairs",
+    "richtkijkers",
+    "spotting-scopes"
+  ],
+  "kowa-spotting-scope-tsn-55s-prominar-incl-17-40x-oculair-441556": [
+    "monoculairs",
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
+  ],
+  "kowa-spotting-scope-tsn-663m-prominar-tse-z9b-20-60x-oculair-440669": [
+    "monoculairs",
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
+  ],
+  "kowa-spottingscope-body-tsn601-440601": [
+    "monoculairs",
+    "spotting-scopes"
+  ],
+  "kowa-verrekijker-bd56-xd-12x56-440858": [
+    "verrekijkers"
+  ],
+  "luna-optics-stargazer-digitale-binoculaire-nachtkijker-6-36x50-411361": [
+    "nachtzicht-handheld"
+  ],
+  "m-tac-cobra-buckle-belt-627": [
+    "riemen-bretels"
+  ],
+  "m-tac-seating-pad-with-belt-18": [
+    "slaapzakken-matten"
+  ],
+  "magazijn-ataman-m2": [
+    "magazijnen"
+  ],
+  "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
+    "magazijn-toebehoren"
+  ],
+  "mounting-base-vector-optics-tek-red-dot-offset-picatinny": [
+    "red-dots"
+  ],
+  "nest-aluminium-statief-kop-wt-3110a-h102-cm-295809": [
+    "statieven"
+  ],
+  "nest-monopod-wt-1003-h171-cm-295810": [
+    "monopods",
+    "statieven"
+  ],
+  "nest-professioneel-statief-nt-6294ak-balhoofd-295822": [
+    "statieven"
+  ],
+  "nest-professioneel-statief-nt-767-vloeistofgedempte-kop-295840": [
+    "statieven"
+  ],
+  "nest-professioneel-statief-wt-3308a-vloeistofgedempte-kop-295841": [
+    "statieven"
+  ],
+  "nest-statief-kop-nt-530-h137-cm-295802": [
+    "statieven"
+  ],
+  "nest-statief-nt-235k-balhoofd-295832": [
+    "statieven"
+  ],
+  "noblex-spotting-scope-ns-20-60x80-ed-inception-460061": [
+    "monoculairs",
+    "richtkijkers",
+    "spotting-scopes"
+  ],
+  "outdoor-club-wildcamera-night-vision-535210": [
+    "nachtzicht-handheld",
+    "wildcameras"
+  ],
+  "outdoor-club-wildcamera-night-vision-4k-535216": [
+    "nachtzicht-handheld",
+    "wildcameras"
+  ],
+  "patch-kitty-embroidery-5537": [
+    "patches"
+  ],
+  "shooting-target-caldwell-ar500-prairie-dog-auto-reset": [
+    "schietdoelen"
+  ],
+  "seating-pad-with-belt-20": [
+    "slaapzakken-matten"
+  ],
+  "shorts-sport-fit-cotton-2622": [
+    "korte-broeken"
+  ],
+  "sionyx-digitale-full-color-nachtkijker-aurora-pro-explorer-kit-504105": [
+    "cameras",
+    "nachtzicht-handheld"
+  ],
+  "stealth-gear-handschoenen-eagle-maat-xl-xxl-710024": [
+    "tactical-handschoenen"
+  ],
+  "stealth-gear-handschoenen-maat-l-710017": [
+    "tactical-handschoenen"
+  ],
+  "stealth-gear-handschoenen-maat-m-710016": [
+    "tactical-handschoenen"
+  ],
+  "stealth-gear-handschoenen-maat-s-710015": [
+    "tactical-handschoenen"
+  ],
+  "stealth-gear-handschoenen-maat-xl-710018": [
+    "tactical-handschoenen"
+  ],
+  "stealth-gear-handschoenen-maat-xxl-710019": [
+    "tactical-handschoenen"
+  ],
+  "stealth-gear-nightjar-dual-cam-solar-4k-wifi-wildcamera-720133": [
+    "wildcameras"
+  ],
+  "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-s-710025": [
+    "shirts"
+  ],
+  "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165": [
+    "shirts"
+  ],
+  "t-shirt-68-oeb-10000": [
+    "tactical-shirts"
+  ],
+  "tactical-sneakers-patrol-r-4081": [
+    "schoenen"
+  ],
+  "tactical-sneakers-shooter-10202": [
+    "schoenen",
+    "tactical-sneakers"
+  ],
+  "red-dot-vector-optics-maverick-gen-ii": [
+    "red-dots"
+  ],
+  "pocket-knife-kershaw-concierge": [
+    "zakmessen"
   ],
   "_removed": {
     "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
