@@ -12742,6 +12742,7 @@
     "riemen-bretels",
     "slaapzakken-matten"
   ],
+  "seat-pad-with-belt-armor-8095": [],
   "set-of-fixers-for-velcro-panel-10-pcs-8300": [
     "diversen-kleding",
     "velcro-strips"
@@ -14342,7 +14343,10 @@
       "survival",
       "bushcraft",
       "Equipment and gear > Survival",
-      "matten"
+      "matten",
+      "m-tac",
+      "riemen-bretels",
+      "slaapzakken"
     ],
     "shooter-high-boots-10228": [
       "laarzen"
