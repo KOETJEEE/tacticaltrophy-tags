@@ -12924,7 +12924,9 @@
   "sphaera-hardsling-bag-largewith-velcro-closure-elite-5834": [
     "tassen-rugzakken"
   ],
-  "sphaera-hex-hardsling-bag-genii-10184": [],
+  "sphaera-hex-hardsling-bag-genii-10184": [
+    "waist-packs"
+  ],
   "sphaera-hex-hardsling-bag-large-elite-5664": [
     "waist-packs"
   ],
@@ -14327,7 +14329,10 @@
       "schietsport",
       "tassen-rugzakken",
       "jacht",
-      "Equipment and gear > Bags and backpacks"
+      "Equipment and gear > Bags and backpacks",
+      "rugzakken",
+      "tassen",
+      "m-tac"
     ],
     "sphaera-hex-hardsling-bag-large-elite-5664": [
       "schietsport",
