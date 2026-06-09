@@ -14483,11 +14483,17 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
+    "pouch-for-1-vog-type-grenade-979": [
+      "grenade-pouches",
+      "pouches",
+      "Tactical gear > Pouches > grenade pouch"
+    ],
     "pouch-for-2-vog-type-grenade-982": [
       "grenade-pouches",
       "Military Line",
       "m-tac",
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > grenade pouch"
     ],
     "pouch-for-3-vog-type-grenade-985": [
       "grenade-pouches",
