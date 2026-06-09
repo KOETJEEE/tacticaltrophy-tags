@@ -11458,7 +11458,6 @@
     "tassen-rugzakken"
   ],
   "magnetic-panel-for-patches-290x95-8363": [
-    "patches",
     "patch-panels"
   ],
   "map-compass-7418": [
@@ -14419,7 +14418,8 @@
     ],
     "magnetic-panel-for-patches-290x95-8363": [
       "Clothing > Accessories",
-      "m-tac"
+      "m-tac",
+      "kleding"
     ],
     "map-compass-7418": [
       "bushcraft",
