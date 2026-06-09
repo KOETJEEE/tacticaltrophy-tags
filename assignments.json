@@ -13299,8 +13299,7 @@
   "thermal-blanket-7345": [
     "ehbo",
     "noodfolie",
-    "lichaamsverwarming",
-    "medical-pouches"
+    "lichaamsverwarming"
   ],
   "thermal-fleece-shirt-delta-level-2-hex-10077": [
     "thermoshirts",
@@ -14385,6 +14384,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "tactical-winter-boots-8217": [
+      "Footwear > Winter shoes"
     ],
     "thermal-fleece-shirt-delta-level-2-hex-10077": [
       "truien"
