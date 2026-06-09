@@ -14414,7 +14414,9 @@
     ],
     "pants-field-nyco-1350": [
       "Clothing > Pants > Military Pants",
-      "military-broeken"
+      "military-broeken",
+      "m-tac",
+      "maattabel-mtac"
     ],
     "pants-fleece-delta-level-2-hex-10061": [
       "Clothing > Underwear > Thermoactive pants"
