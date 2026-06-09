@@ -12736,10 +12736,11 @@
     "tactical-bags"
   ],
   "scout-tactical-mk2-leather-gloves-8258": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-handschoenen"
   ],
-  "seat-mat-with-belt-attachment-armor-5769": [],
+  "seat-mat-with-belt-attachment-armor-5769": [
+    "tactical-riemen"
+  ],
   "seat-pad-with-belt-armor-8095": [
     "tactical-riemen"
   ],
