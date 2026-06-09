@@ -12608,8 +12608,7 @@
     "tactical-vests"
   ],
   "plate-carrier-cuirass-qrs-fast-xl-5873": [
-    "plate-carriers",
-    "tactical-vests"
+    "plate-carriers"
   ],
   "plate-carrier-cuirass-qrs-genii-451": [
     "plate-carriers"
@@ -14483,6 +14482,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "plate-carrier-cuirass-qrs-fast-xl-5873": [
+      "m-tac"
     ],
     "plate-carrier-cuirass-qrs-genii-451": [
       "m-tac",
