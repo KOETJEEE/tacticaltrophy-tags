@@ -13753,7 +13753,6 @@
   ],
   "kowa-spotting-scope-body-tsn-82sv-440820": [
     "monoculairs",
-    "richtkijkers",
     "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-55s-prominar-incl-17-40x-oculair-441556": [
@@ -14383,6 +14382,9 @@
     "watch-tactical-compass-2233-8186": [
       "m-tac"
     ],
+    "kowa-spotting-scope-body-tsn-82sv-440820": [
+      "kowa"
+    ],
     "kowa-spotting-scope-tsn-55s-prominar-incl-17-40x-oculair-441556": [
       "monoculairs",
       "oculairs",
@@ -14396,7 +14398,8 @@
       "kowa"
     ],
     "kowa-spottingscope-body-tsn601-440601": [
-      "monoculairs"
+      "monoculairs",
+      "kowa"
     ],
     "kowa-verrekijker-bd56-xd-12x56-440858": [
       "kowa"
