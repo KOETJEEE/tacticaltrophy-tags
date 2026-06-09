@@ -12082,8 +12082,7 @@
     "patches"
   ],
   "patch-map-helmet-of-horror-embroidery-5578": [
-    "patches",
-    "helmen"
+    "patches"
   ],
   "patch-march-10145": [
     "patches"
@@ -14449,7 +14448,8 @@
       "permit-wwm"
     ],
     "patch-map-helmet-of-horror-embroidery-5578": [
-      "Equipment and gear > Patches"
+      "Equipment and gear > Patches",
+      "m-tac"
     ],
     "patch-march-10145": [
       "Equipment and gear > Patches",
