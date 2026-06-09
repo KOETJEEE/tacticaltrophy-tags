@@ -12391,8 +12391,7 @@
     "tactical-bags"
   ],
   "patch-tactical-girl-9-rpg-pvc-7768": [
-    "patches",
-    "tactical-bags"
+    "patches"
   ],
   "patch-tactical-girl-no-7-yakuza-tattoo-pvc-mc-8343": [
     "patches"
@@ -14468,7 +14467,8 @@
     ],
     "patch-tactical-girl-no-7-yakuza-tattoo-pvc-mc-8343": [
       "Equipment and gear > Patches",
-      "m-tac"
+      "m-tac",
+      "tactical-bags"
     ],
     "patch-tank-5399": [
       "m-tac"
