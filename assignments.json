@@ -28,7 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazijn-schmeisser-223-rem-10-schots": [],
+  "magazine-mdt-aics-polymer-223-rem-10-rounds": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -13913,6 +13913,15 @@
       "survival",
       "veldspaden",
       "schoppen"
+    ],
+    "magazine-mdt-aics-polymer-223-rem-10-rounds": [
+      "vuurwapen-magazijnen"
+    ],
+    "magazine-mdt-aics-polymer-308-win-6-5-creedmoor-10-rounds": [
+      "vuurwapen-magazijnen"
+    ],
+    "magazine-mdt-aics-polymer-308-win-6-5-creedmoor-5-rounds": [
+      "vuurwapen-magazijnen"
     ],
     "magazijn-schmeisser-223-rem-10-schots": [
       "vuurwapen-magazijnen"
