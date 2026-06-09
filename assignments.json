@@ -13703,7 +13703,6 @@
     "warmtebeeld-handheld"
   ],
   "flir-tg275-warmtebeeldcamera-13461472": [
-    "warmtebeeld-handheld",
     "inspectie-cameras"
   ],
   "flir-tg297-warmtebeeldcamera-13461473": [
@@ -14389,7 +14388,8 @@
       "m-tac"
     ],
     "flir-tg275-warmtebeeldcamera-13461472": [
-      "warmtebeeld"
+      "warmtebeeld",
+      "warmtebeeld-handheld"
     ],
     "flir-tg297-warmtebeeldcamera-13461473": [
       "warmtebeeld",
