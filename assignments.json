@@ -13006,7 +13006,9 @@
   "sweater-ninja-balaclava-premium-4583": [
     "bivakmuts"
   ],
-  "sweating-ninja-balaclava-4579": [],
+  "sweating-ninja-balaclava-4579": [
+    "bivakmuts"
+  ],
   "sweatshirt-born-by-revolution-8852": [
     "truien"
   ],
@@ -14318,6 +14320,11 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "sweater-ninja-balaclava-premium-4583": [
+      "m-tac",
+      "headwear",
+      "Clothing > Headwear > Balaclava"
     ],
     "sweating-ninja-balaclava-4579": [
       "Clothing > Headwear > Balaclava",
