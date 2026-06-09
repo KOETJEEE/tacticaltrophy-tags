@@ -631,9 +631,16 @@ function renderDetail() {
   // Hoofdcat-waarden in snapshot ook coveren zodat ze niet als grijs verschijnen
   for (const t of catTagSet) coveredByBlue.add(t);
   const TAG_CHIP_CLS = {'age-18':'tag-chip-red','permit-wwm':'tag-chip-red','airsoft-membership':'tag-chip-red','oversize':'tag-chip-purple','pickup-only':'tag-chip-purple'};
-  const greyChips = allShopifyTags.filter(t => !removed.has(t) && !coveredByBlue.has(t)).map(t => {
+  // Collectie-tags (colTagMap[t] bestaat) zijn altijd zichtbaar als grijs en hebben geen X-knop:
+  // ze worden beheerd via collectie-assignments, niet via handmatige verwijdering.
+  const greyChips = allShopifyTags.filter(t => {
+    if (coveredByBlue.has(t)) return false;
+    if (colTagMap[t]) return true;   // collectie-tag: altijd tonen, ook als in removed
+    return !removed.has(t);          // vrije tag: verbergen als expliciet verwijderd
+  }).map(t => {
     const cls = TAG_CHIP_CLS[t] || 'tag-chip-grey';
-    return `<span class="tag-chip ${cls}">${h(t)}<button class="tag-chip-x" onclick="removeRawTag('${j(t)}')" title="Verwijder tag">✕</button></span>`;
+    const xBtn = colTagMap[t] ? '' : `<button class="tag-chip-x" onclick="removeRawTag('${j(t)}')" title="Verwijder tag">✕</button>`;
+    return `<span class="tag-chip ${cls}">${h(t)}${xBtn}</span>`;
   }).join('');
   // Groene chips: handmatig toegevoegde tags (met kleur voor speciale tags)
   const greenChips = [...added].map(t => {
