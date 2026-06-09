@@ -13543,8 +13543,7 @@
     "petten"
   ],
   "watch-multifunctional-tactical-5049": [
-    "horloges",
-    "tactical-bags"
+    "horloges"
   ],
   "watch-sport-5054": [
     "horloges"
@@ -14376,7 +14375,9 @@
     "watch-multifunctional-tactical-5049": [
       "Equipment and gear > Watches",
       "Tactical Line",
-      "m-tac"
+      "m-tac",
+      "tactical-bags",
+      "tactical-gear"
     ],
     "watch-tactical-2037-8183": [
       "tactical-bags",
