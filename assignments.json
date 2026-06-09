@@ -12829,9 +12829,7 @@
   "sleeping-pad-20mm-60180cm-7609": [
     "slaapzakken-matten"
   ],
-  "sling-civilian-bag-lite-nr-9766": [
-    "tassen-rugzakken"
-  ],
+  "sling-civilian-bag-lite-nr-9766": [],
   "sling-pistol-bag-10180": [
     "shoulder-messengers",
     "holsters"
@@ -14335,6 +14333,11 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "sling-civilian-bag-lite-nr-9766": [
+      "jacht",
+      "geweerriemen",
+      "airsoft"
     ],
     "sling-pistol-bag-10180": [
       "airsoft",
