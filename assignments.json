@@ -28,7 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazine-bul-sas-ii-40-s-w-18-rounds": [],
+  "magazine-bergara-bmr-22-lr-10-rounds": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -13914,6 +13914,12 @@
       "veldspaden",
       "schoppen"
     ],
+    "magazine-bergara-bmr-22-lr-10-rounds": [
+      "vuurwapen-magazijnen"
+    ],
+    "magazine-bergara-bmr-22-lr-5-rounds": [
+      "vuurwapen-magazijnen"
+    ],
     "magazine-bul-sas-ii-40-s-w-18-rounds": [
       "vuurwapen-magazijnen"
     ],
@@ -14399,6 +14405,9 @@
       "permit-wwm"
     ],
     "magazijn-bergara-b14-short-action-3-schots": [
+      "permit-wwm"
+    ],
+    "magazine-bergara-bmr-22-lr-5-rounds": [
       "permit-wwm"
     ],
     "magazine-bul-sas-ii-40-s-w-18-rounds": [
