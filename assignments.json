@@ -14452,8 +14452,13 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
+    "patch-paramedic-embroidery-5712": [
+      "Equipment and gear > Patches"
+    ],
     "patch-paramedic-bear-embroidery-5802": [
-      "Military Line"
+      "Military Line",
+      "m-tac",
+      "Equipment and gear > Patches"
     ],
     "patch-paramedic-ursus-pvc-5425": [
       "Military Line",
