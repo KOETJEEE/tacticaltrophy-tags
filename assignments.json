@@ -13154,8 +13154,7 @@
   ],
   "tactical-pants-patriot-gen-ii-flex-1379": [
     "tactical-broeken",
-    "broeken",
-    "tactical-bags"
+    "broeken"
   ],
   "tactical-pants-patrol-gen-ii-flex-2018": [
     "tactical-broeken",
@@ -14356,7 +14355,8 @@
     ],
     "tactical-pants-patriot-gen-ii-flex-1379": [
       "Clothing > Pants > Tactical Pants",
-      "Tactical Line"
+      "Tactical Line",
+      "m-tac"
     ],
     "tactical-pants-patrol-gen-ii-flex-2018": [
       "Clothing > Pants > Tactical Pants",
