@@ -12845,7 +12845,6 @@
     "geweerriemen",
     "tassen-rugzakken"
   ],
-  "sling-pistol-bag-hex-10183": [],
   "sling-pistol-bag-hex-with-velcro-10179": [
     "shoulder-messengers"
   ],
@@ -14338,7 +14337,9 @@
       "geweerriemen",
       "airsoft",
       "schietsport",
-      "tassen-rugzakken"
+      "tassen-rugzakken",
+      "wapen-toebehoren",
+      "Equipment and gear > Bags and backpacks"
     ],
     "sling-pistol-bag-hex-with-velcro-10179": [
       "jacht",
