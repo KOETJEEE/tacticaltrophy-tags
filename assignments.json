@@ -12359,8 +12359,7 @@
     "tactical-bags"
   ],
   "patch-tactical-girl-2-pvc-5171": [
-    "patches",
-    "tactical-bags"
+    "patches"
   ],
   "patch-tactical-girl-2-yakuza-brunet-pvc-5170": [
     "patches"
@@ -14457,6 +14456,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "patch-tactical-girl-2-pvc-5171": [
+      "m-tac"
     ],
     "patch-tactical-girl-2-yakuza-brunet-pvc-5170": [
       "m-tac",
