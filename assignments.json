@@ -13534,7 +13534,6 @@
   ],
   "watch-cap-polartec-4778": [
     "mutsen",
-    "horloges",
     "petten"
   ],
   "watch-cap-polartec-cold-weather-10092": [
@@ -14376,7 +14375,8 @@
       "petten",
       "survival",
       "Clothing > Headwear > Cap",
-      "m-tac"
+      "m-tac",
+      "headwear"
     ],
     "watch-multifunctional-tactical-5049": [
       "Equipment and gear > Watches",
