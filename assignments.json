@@ -13456,7 +13456,8 @@
     "utility-pouches"
   ],
   "utility-pouch-elite-small-78": [
-    "utility-pouches"
+    "utility-pouches",
+    "admin-pouches"
   ],
   "utility-shoulder-pouch-elite-genii-347": [
     "utility-pouches"
@@ -14375,7 +14376,8 @@
       "permit-wwm"
     ],
     "utility-pouch-elite-small-78": [
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > Utility Pouches"
     ],
     "utility-shoulder-pouch-elite-genii-347": [
       "m-tac",
