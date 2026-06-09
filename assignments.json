@@ -12143,8 +12143,7 @@
     "patches"
   ],
   "patch-odin-tactical-3d-pvc-5788": [
-    "patches",
-    "tactical-bags"
+    "patches"
   ],
   "patch-old-skull-5241": [
     "patches"
@@ -14450,7 +14449,8 @@
       "permit-wwm"
     ],
     "patch-old-skull-5241": [
-      "m-tac"
+      "m-tac",
+      "Equipment and gear > Patches"
     ],
     "patch-old-tiger-5062": [
       "Equipment and gear > Patches",
