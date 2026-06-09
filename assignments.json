@@ -13848,7 +13848,9 @@
   "stealth-gear-handschoenen-maat-m-710016": [
     "tactical-handschoenen"
   ],
-  "stealth-gear-handschoenen-maat-s-710015": [],
+  "stealth-gear-handschoenen-maat-s-710015": [
+    "winter-handschoenen"
+  ],
   "stealth-gear-handschoenen-maat-xl-710018": [
     "tactical-handschoenen",
     "jacht-handschoenen"
