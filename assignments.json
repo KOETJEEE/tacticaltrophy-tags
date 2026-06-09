@@ -28,7 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazijn-walther-gsp-32-s-w-long-5-schots": [],
+  "magazine-walther-gsp-22-lr-5-rounds": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -13913,6 +13913,9 @@
       "survival",
       "veldspaden",
       "schoppen"
+    ],
+    "magazine-walther-gsp-22-lr-5-rounds": [
+      "vuurwapen-magazijnen"
     ],
     "magazijn-walther-gsp-32-s-w-long-5-schots": [
       "vuurwapen-magazijnen"
