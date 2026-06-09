@@ -13300,7 +13300,9 @@
     "ehbo",
     "noodfolie"
   ],
-  "thermal-fleece-shirt-delta-level-2-hex-10077": [],
+  "thermal-fleece-shirt-delta-level-2-hex-10077": [
+    "thermoshirts"
+  ],
   "thermal-fleece-shirt-delta-level-2-lady-5849": [
     "thermoshirts",
     "thermokleding"
@@ -14378,6 +14380,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "thermal-fleece-shirt-delta-level-2-hex-10077": [
+      "truien"
     ],
     "thermal-pants-level-i-polartec-6369": [
       "Clothing > Underwear > Thermoactive pants"
