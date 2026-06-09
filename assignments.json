@@ -28,8 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazijn-walther-gsp-expert-22-lr-5-schots": [],
-  "magazijn-walther-gsp-expert-10-schots": [],
+  "magazine-walther-gsp500-32-s-w-long": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14403,6 +14402,9 @@
       "permit-wwm"
     ],
     "magazine-walther-gsp500-22-lr": [
+      "permit-wwm"
+    ],
+    "magazine-walther-gsp500-32-s-w-long": [
       "permit-wwm"
     ]
   }
