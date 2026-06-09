@@ -12732,8 +12732,7 @@
     "tassen-rugzakken"
   ],
   "scout-tactical-mk2-gloves-7288": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-handschoenen"
   ],
   "scout-tactical-mk2-leather-gloves-8258": [
     "tactical-handschoenen"
@@ -14341,7 +14340,8 @@
       "tactical-gear",
       "Clothing > Gloves",
       "handschoenen",
-      "m-tac"
+      "m-tac",
+      "maattabel-mtac"
     ],
     "seat-mat-with-belt-attachment-armor-5769": [
       "slaapzakken-matten",
