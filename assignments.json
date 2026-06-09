@@ -13854,6 +13854,7 @@
   "stealth-gear-handschoenen-maat-xl-710018": [
     "tactical-handschoenen"
   ],
+  "stealth-gear-handschoenen-maat-xxl-710019": [],
   "stealth-gear-nightjar-dual-cam-solar-4k-wifi-wildcamera-720133": [
     "wildcameras"
   ],
@@ -14355,7 +14356,8 @@
       "m-tac"
     ],
     "stealth-gear-handschoenen-maat-xxl-710019": [
-      "tactical-handschoenen"
+      "tactical-handschoenen",
+      "stealth-gear"
     ],
     "stealth-gear-nightjar-dual-cam-solar-4k-wifi-wildcamera-720133": [
       "stealth-gear"
