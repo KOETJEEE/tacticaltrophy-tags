@@ -14447,8 +14447,14 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
-    "patch-m-109-5791": [
+    "patch-lose-of-head-7767": [
+      "m-tac",
       "Equipment and gear > Patches"
+    ],
+    "patch-m-109-5791": [
+      "Equipment and gear > Patches",
+      "Military Line",
+      "m-tac"
     ],
     "patch-m142-himars-pvc-8003": [
       "m-tac"
