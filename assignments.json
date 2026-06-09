@@ -13509,9 +13509,7 @@
   "war-belt-armor-84": [
     "riemen-bretels"
   ],
-  "war-belt-armor-tegris-d-ring-cobra-989": [
-    "riemen-bretels"
-  ],
+  "war-belt-armor-tegris-d-ring-cobra-989": [],
   "watch-cap-100-acrylic-4678": [
     "mutsen"
   ],
@@ -14362,7 +14360,8 @@
     ],
     "war-belt-armor-tegris-d-ring-cobra-989": [
       "Tactical gear > Tactical belts",
-      "riemen-bretels"
+      "riemen-bretels",
+      "m-tac"
     ],
     "watch-cap-100-acrylic-4678": [
       "airsoft",
