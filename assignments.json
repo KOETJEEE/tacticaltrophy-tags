@@ -13107,7 +13107,6 @@
     "tactical-bags"
   ],
   "tactical-belt-attachnments-5pcs-3189": [
-    "riemen-bretels",
     "tactical-bags"
   ],
   "tactical-boots-caiman-9600": [
@@ -14341,7 +14340,8 @@
       "permit-wwm"
     ],
     "tactical-belt-attachnments-5pcs-3189": [
-      "Clothing > Belt"
+      "Clothing > Belt",
+      "belts"
     ],
     "tactical-boots-caiman-9600": [
       "tactical-bags",
