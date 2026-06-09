@@ -12808,9 +12808,7 @@
   "shoulder-straps-for-tactical-belt-elite-257": [
     "riemen-bretels"
   ],
-  "shoulder-straps-for-tactical-belt-laser-cut-803": [
-    "riemen-bretels"
-  ],
+  "shoulder-straps-for-tactical-belt-laser-cut-803": [],
   "sleeping-bag-with-compression-cover-6487": [
     "slaapzakken-matten",
     "compressors"
@@ -14345,7 +14343,8 @@
       "tactical-gear",
       "m-tac",
       "riemen-bretels",
-      "Tactical gear > Tactical belts"
+      "Tactical gear > Tactical belts",
+      "kleding"
     ],
     "skull-stopper-bead-5040": [
       "paracord",
