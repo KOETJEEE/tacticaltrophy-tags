@@ -28,7 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazine-laugo-arms-alien-creator-22-rounds": [],
+  "magazine-laugo-arms-alien": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -13913,6 +13913,12 @@
       "survival",
       "veldspaden",
       "schoppen"
+    ],
+    "magazine-laugo-arms-alien": [
+      "vuurwapen-magazijnen"
+    ],
+    "magazine-laugo-arms-alien-creator-17-rounds": [
+      "vuurwapen-magazijnen"
     ],
     "magazine-laugo-arms-alien-creator-22-rounds": [
       "vuurwapen-magazijnen"
