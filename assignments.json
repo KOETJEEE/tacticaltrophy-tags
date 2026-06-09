@@ -12616,8 +12616,7 @@
     "tactical-vests"
   ],
   "plate-carrier-cuirass-qrs-xl-564": [
-    "plate-carriers",
-    "tactical-vests"
+    "plate-carriers"
   ],
   "plate-carrier-cuirass-qrs-xl-genii-569": [
     "plate-carriers"
@@ -14488,7 +14487,8 @@
     ],
     "plate-carrier-cuirass-qrs-xl-genii-569": [
       "m-tac",
-      "Tactical gear > Tactical vests > Plate Carrier"
+      "Tactical gear > Tactical vests > Plate Carrier",
+      "tactical-vests"
     ],
     "plate-carrier-cuirass-tiger-elite-8685": [
       "tactical-vests",
