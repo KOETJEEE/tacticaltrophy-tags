@@ -12678,8 +12678,7 @@
     "magazijn-pouches"
   ],
   "pouch-for-3-vog-type-grenade-985": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "magazijn-pouches"
   ],
   "pouch-for-cartridges-12-gauge-horizontal-laser-cut-10032": [
     "admin-pouches",
@@ -14483,6 +14482,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "pouch-for-3-vog-type-grenade-985": [
+      "grenade-pouches"
     ],
     "pouch-for-cartridges-cal-12-for-10-cartridges-elite-10403": [
       "m-tac",
