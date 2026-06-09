@@ -12768,9 +12768,7 @@
   "raglan-odin-mystery-3901": [
     "truien"
   ],
-  "raglan-sleeve-t-shirt-ua-side-3908": [
-    "shirts"
-  ],
+  "raglan-sleeve-t-shirt-ua-side-3908": [],
   "range-belt-d-ring-cobra-buckle-geniv-1023": [
     "tactical-riemen"
   ],
@@ -14483,7 +14481,9 @@
     "raglan-sleeve-t-shirt-ua-side-3908": [
       "Clothing > Sweater",
       "sweaters",
-      "m-tac"
+      "m-tac",
+      "truien",
+      "shirts"
     ],
     "range-belt-d-ring-cobra-buckle-geniv-1023": [
       "bretels",
