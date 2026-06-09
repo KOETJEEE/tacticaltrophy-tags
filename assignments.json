@@ -481,10 +481,6 @@
     "koffers",
     "wapenkoffers"
   ],
-  "explorer-cases-multi-utility-box-zwart-mub78-254001": [
-    "koffers",
-    "wapenkoffers"
-  ],
   "explorer-cases-plukschuim-set-voor-koffer-13513-255193": [
     "koffers",
     "wapenkoffers"
@@ -646,9 +642,6 @@
   ],
   "konus-kompas-konuspoint-6-434089": [
     "kompassen"
-  ],
-  "konus-loep-10x-met-led-433025": [
-    "loepen"
   ],
   "konus-montage-ringen-22-rail-en-airgun-254-mm-hoog-437415": [
     "montage-accessoires"
@@ -982,9 +975,6 @@
     "verrekijkers"
   ],
   "kowa-wide-oculair-30x-tse14-wd-voor-tsn600660-445031": [
-    "oculairs"
-  ],
-  "kowa-zoom-oculair-20x-60x-tse-z9b-voor-tsn600660-445060": [
     "oculairs"
   ],
   "kowa-zoom-oculair-te-11wz-ii-25-60x30-70x-440995": [
@@ -2269,9 +2259,6 @@
     "oogbescherming"
   ],
   "bril-wiley-x-detection-clear-yellow-orange-purple-copper-black-frame": [
-    "oogbescherming"
-  ],
-  "glasses-wiley-x-founder-captivate-polarized-black-mirror-lenses-matte-black-frame": [
     "oogbescherming"
   ],
   "glasses-wiley-x-founder-captivate-polarized-blue-mirror-lenses-gloss-crystal-grey-frame": [
@@ -11228,10 +11215,6 @@
   "m-tac-sphaera-hex-hardsling-bag-genii-elite-353": [
     "tassen-rugzakken"
   ],
-  "m-tac-summer-pro-sneakers-7445": [
-    "tactical-sneakers",
-    "schoenen"
-  ],
   "m-tac-t-shirt-937-lady-8791": [
     "t-shirts-polos",
     "shirts",
@@ -13638,6 +13621,9 @@
   "braun-wildcamera-scouting-cam-black400-wifi-solar-535659": [
     "wildcameras"
   ],
+  "glasses-wiley-x-founder-captivate-polarized-black-mirror-lenses-matte-black-frame": [
+    "oogbescherming"
+  ],
   "camo-screen-foldable-wetland": [
     "camouflagenetten",
     "schuiltenten"
@@ -13678,6 +13664,10 @@
     "wapenkoffers"
   ],
   "explorer-cases-multi-utility-box-groen-mub78ge-254002": [
+    "koffers",
+    "wapenkoffers"
+  ],
+  "explorer-cases-multi-utility-box-zwart-mub78-254001": [
     "koffers",
     "wapenkoffers"
   ],
@@ -13736,6 +13726,9 @@
   "konus-kompas-konustar-11-434075": [
     "kompassen"
   ],
+  "konus-loep-10x-met-led-433025": [
+    "loepen"
+  ],
   "konus-richtkijker-empire-3-18x50-sfp-550-ballistic-moa-437186": [
     "richtkijkers"
   ],
@@ -13789,6 +13782,9 @@
   "kowa-verrekijker-bd56-xd-12x56-440858": [
     "verrekijkers"
   ],
+  "kowa-zoom-oculair-20x-60x-tse-z9b-voor-tsn600660-445060": [
+    "oculairs"
+  ],
   "luna-optics-stargazer-digitale-binoculaire-nachtkijker-6-36x50-411361": [
     "nachtzicht-handheld"
   ],
@@ -13797,6 +13793,10 @@
   ],
   "m-tac-seating-pad-with-belt-18": [
     "slaapzakken-matten"
+  ],
+  "m-tac-summer-pro-sneakers-7445": [
+    "tactical-sneakers",
+    "schoenen"
   ],
   "magazijn-ataman-m2": [
     "magazijnen"
