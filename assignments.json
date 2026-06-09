@@ -14447,9 +14447,14 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
+    "patch-m270-pvc-9019": [
+      "m-tac",
+      "Equipment and gear > Patches"
+    ],
     "patch-m67-3d-pvc-5254": [
       "Equipment and gear > Patches",
-      "Military Line"
+      "Military Line",
+      "m-tac"
     ],
     "patch-m777-pvc-5433": [
       "Equipment and gear > Patches",
