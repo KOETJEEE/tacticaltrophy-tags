@@ -12918,9 +12918,7 @@
   "spark-gouging-device-7618": [
     "vuurmakers"
   ],
-  "sphaera-hardsling-bag-large-elite-5716": [
-    "tassen-rugzakken"
-  ],
+  "sphaera-hardsling-bag-large-elite-5716": [],
   "sphaera-hardsling-bag-largewith-velcro-closure-elite-5834": [
     "waist-packs"
   ],
@@ -14326,7 +14324,10 @@
       "permit-wwm"
     ],
     "sphaera-hardsling-bag-large-elite-5716": [
-      "Equipment and gear > Bags and backpacks > Bags"
+      "Equipment and gear > Bags and backpacks > Bags",
+      "tassen",
+      "rugzakken",
+      "m-tac"
     ],
     "sphaera-hardsling-bag-largewith-velcro-closure-elite-5834": [
       "Equipment and gear > Bags and backpacks > Bags",
