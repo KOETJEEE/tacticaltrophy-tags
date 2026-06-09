@@ -12171,8 +12171,7 @@
     "patches"
   ],
   "patch-panel-142": [
-    "patch-panels",
-    "patches"
+    "patch-panels"
   ],
   "patch-panel-flag-jolly-roger-7769": [
     "patch-panels"
@@ -14453,7 +14452,8 @@
     "patch-panel-142": [
       "Equipment and gear > Patches",
       "Military Line",
-      "molle"
+      "molle",
+      "m-tac"
     ],
     "patch-panel-flag-jolly-roger-7769": [
       "Equipment and gear > Patches",
