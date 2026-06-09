@@ -13033,10 +13033,11 @@
     "tactical-shirts"
   ],
   "t-shirt-gold-samurai-oversize-9271": [
-    "shirts",
     "tactical-shirts"
   ],
-  "t-shirt-odin-6893": [],
+  "t-shirt-odin-6893": [
+    "t-shirts-polos"
+  ],
   "t-shirt-omega-10002": [
     "tactical-shirts"
   ],
