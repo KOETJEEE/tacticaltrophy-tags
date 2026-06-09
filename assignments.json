@@ -14483,7 +14483,10 @@
       "permit-wwm"
     ],
     "pouch-for-frag-grenade-laser-cut-1003": [
-      "grenade-pouches"
+      "grenade-pouches",
+      "pouches",
+      "m-tac",
+      "Tactical gear > Pouches > grenade pouch"
     ],
     "pouch-for-m249-cartridge-box-closed-5894": [
       "m-tac",
