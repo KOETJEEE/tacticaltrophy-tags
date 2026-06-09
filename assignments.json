@@ -14449,7 +14449,9 @@
       "permit-wwm"
     ],
     "patch-odin-tactical-3d-pvc-5788": [
-      "Equipment and gear > Patches"
+      "Equipment and gear > Patches",
+      "m-tac",
+      "tactical-bags"
     ],
     "patch-old-skull-5241": [
       "m-tac",
