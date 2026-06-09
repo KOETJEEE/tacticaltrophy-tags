@@ -28,7 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazine-laugo-arms-alien": [],
+  "magazine-krale-victrix-22-lr-single-shot": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -13914,6 +13914,9 @@
       "veldspaden",
       "schoppen"
     ],
+    "magazine-krale-victrix-22-lr-single-shot": [
+      "vuurwapen-magazijnen"
+    ],
     "magazine-laugo-arms-alien": [
       "vuurwapen-magazijnen"
     ],
@@ -14396,6 +14399,9 @@
       "permit-wwm"
     ],
     "magazijn-kmr-s-01-s-02-cz-75-sp-01-shadow-2-22-lr-10-schots": [
+      "permit-wwm"
+    ],
+    "magazine-krale-victrix-22-lr-single-shot": [
       "permit-wwm"
     ],
     "magazine-laugo-arms-alien": [
