@@ -12175,8 +12175,7 @@
     "patches"
   ],
   "patch-panel-flag-jolly-roger-7769": [
-    "patch-panels",
-    "patches"
+    "patch-panels"
   ],
   "patch-panel-rug-845x1350-10411": [
     "patch-panels"
@@ -14453,7 +14452,8 @@
     ],
     "patch-panel-rug-845x1350-10411": [
       "patches",
-      "Equipment and gear > Patches"
+      "Equipment and gear > Patches",
+      "m-tac"
     ],
     "patch-paramedic-5691": [
       "Military Line",
