@@ -13843,7 +13843,8 @@
     "tactical-handschoenen"
   ],
   "stealth-gear-handschoenen-maat-l-710017": [
-    "tactical-handschoenen"
+    "vingerloze-handschoenen",
+    "winter-handschoenen"
   ],
   "stealth-gear-handschoenen-maat-m-710016": [
     "jacht-handschoenen",
@@ -14366,7 +14367,8 @@
       "m-tac"
     ],
     "stealth-gear-handschoenen-maat-l-710017": [
-      "outdoor-kleding"
+      "outdoor-kleding",
+      "stealth-gear"
     ],
     "stealth-gear-handschoenen-maat-m-710016": [
       "tactical-handschoenen",
