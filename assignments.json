@@ -12846,7 +12846,6 @@
     "tassen-rugzakken"
   ],
   "sling-pistol-bag-hex-10183": [
-    "geweerriemen",
     "tassen-rugzakken"
   ],
   "sling-pistol-bag-hex-with-velcro-10179": [
@@ -14343,7 +14342,8 @@
       "schietsport",
       "tassen-rugzakken",
       "wapen-toebehoren",
-      "rugzakken"
+      "rugzakken",
+      "tassen"
     ],
     "small-tactical-ruler-nato-blue-10191": [
       "tactical-bags",
