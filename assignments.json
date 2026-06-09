@@ -11420,6 +11420,9 @@
   "m-tac-utility-travel-case-elite-small-22x14-cm-458": [
     "utility-pouches"
   ],
+  "m-tac-velcro-wallet-elite-genii-hex-689": [
+    "admin-pouches"
+  ],
   "m-tac-vilha-helmet-cover-744": [
     "helmen"
   ],
@@ -14427,7 +14430,8 @@
     ],
     "m-tac-vilha-helmet-cover-744": [
       "helm-covers",
-      "Tactical gear > Covers for helmets"
+      "Tactical gear > Covers for helmets",
+      "m-tac"
     ],
     "m-tac-vilha-helmet-cover-fast-746": [
       "helm-covers",
