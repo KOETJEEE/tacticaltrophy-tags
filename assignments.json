@@ -13066,7 +13066,9 @@
     "t-shirts-polos",
     "tactical-shirts"
   ],
-  "t-shirt-ultra-light-polartec-5593": [],
+  "t-shirt-ultra-light-polartec-5593": [
+    "shirts"
+  ],
   "t-shirt-ultra-light-polartec-lady-5629": [
     "thermokleding",
     "thermoshirts"
@@ -14328,7 +14330,8 @@
     "t-shirt-ultra-light-polartec-5593": [
       "Clothing > Underwear > Thermal shirts",
       "m-tac",
-      "thermokleding"
+      "thermokleding",
+      "tactical-gear"
     ],
     "t-shirt-ultra-light-polartec-lady-5629": [
       "Clothing > Underwear > Thermal shirts",
