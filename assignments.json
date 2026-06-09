@@ -12612,8 +12612,7 @@
     "tactical-vests"
   ],
   "plate-carrier-cuirass-qrs-genii-451": [
-    "plate-carriers",
-    "tactical-vests"
+    "plate-carriers"
   ],
   "plate-carrier-cuirass-qrs-xl-564": [
     "plate-carriers"
@@ -14486,7 +14485,8 @@
       "permit-wwm"
     ],
     "plate-carrier-cuirass-qrs-genii-451": [
-      "m-tac"
+      "m-tac",
+      "Tactical gear > Tactical vests > Plate Carrier"
     ],
     "plate-carrier-cuirass-qrs-xl-564": [
       "m-tac",
