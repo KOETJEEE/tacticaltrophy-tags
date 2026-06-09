@@ -13113,7 +13113,6 @@
   "tactical-boots-caiman-9600": [
     "laarzen",
     "schoenen",
-    "tactical-bags",
     "tactical-sneakers"
   ],
   "tactical-cotton-shirt-10048": [
@@ -14341,6 +14340,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "tactical-cotton-shirt-10048": [
+      "tactical-bags"
     ],
     "tactical-demi-season-boots-4149": [
       "laarzen",
