@@ -12347,8 +12347,7 @@
     "patches"
   ],
   "patch-tactical-girl-1-yakuza-pvc-5164": [
-    "patches",
-    "tactical-bags"
+    "patches"
   ],
   "patch-tactical-girl-10-pvc-skandinavik-7951": [
     "patches"
@@ -14456,7 +14455,8 @@
       "permit-wwm"
     ],
     "patch-tactical-girl-10-pvc-skandinavik-7951": [
-      "tactical-bags"
+      "tactical-bags",
+      "m-tac"
     ],
     "patch-tactical-girl-11-7992": [
       "m-tac",
