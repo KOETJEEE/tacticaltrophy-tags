@@ -12560,8 +12560,7 @@
     "tactical-vests"
   ],
   "plate-carrier-cuirass-elite-8178": [
-    "plate-carriers",
-    "tactical-vests"
+    "plate-carriers"
   ],
   "plate-carrier-cuirass-elite-genii-7941": [
     "plate-carriers"
@@ -14471,6 +14470,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "plate-carrier-cuirass-elite-8178": [
+      "tactical-vests"
     ],
     "plate-carrier-cuirass-elite-genii-7941": [
       "Tactical gear > Tactical vests > Plate Carrier",
