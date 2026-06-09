@@ -14414,8 +14414,7 @@
     ],
     "pants-field-nyco-1350": [
       "Clothing > Pants > Military Pants",
-      "military-broeken",
-      "maattabel-mtac"
+      "military-broeken"
     ],
     "pants-fleece-delta-level-2-hex-10061": [
       "Clothing > Underwear > Thermoactive pants"
@@ -17572,6 +17571,9 @@
     ],
     "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
       "permit-wwm"
+    ],
+    "pants-field-nyco-1350": [
+      "maattabel-mtac"
     ],
     "pants-fleece-delta-level-2-lady-5837": [
       "maattabel-mtac"
