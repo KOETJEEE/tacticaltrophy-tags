@@ -12725,7 +12725,9 @@
     "utility-pouches",
     "tactical-bags"
   ],
-  "pouch-open-under-the-sapper-probe-700x22x6-8163": [],
+  "pouch-open-under-the-sapper-probe-700x22x6-8163": [
+    "utility-pouches"
+  ],
   "pouch-open-under-the-sapper-probe-700x22x6-left-8164": [
     "utility-pouches"
   ],
@@ -14477,6 +14479,11 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "pouch-modular-assault-pack-elite-7953": [
+      "m-tac",
+      "pouches",
+      "Tactical gear > Pouches > Utility Pouches"
     ],
     "pouch-open-under-the-sapper-probe-700x22x6-8163": [
       "m-tac",
