@@ -13781,7 +13781,6 @@
   "m-tac-cobra-buckle-belt-627": [
     "riemen-bretels"
   ],
-  "m-tac-double-pouch-for-the-aps-laser-cut-pistol-magazine-genii-771": [],
   "m-tac-seating-pad-with-belt-18": [
     "slaapzakken-matten"
   ],
@@ -14387,7 +14386,9 @@
       "m-tac"
     ],
     "m-tac-double-pouch-for-the-aps-laser-cut-pistol-magazine-genii-771": [
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > Pistol Pouches",
+      "pistol-pouches"
     ],
     "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
       "airsoft-magazijn-toebehoren",
