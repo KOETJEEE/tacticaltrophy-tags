@@ -12592,8 +12592,7 @@
     "tactical-vests"
   ],
   "plate-carrier-cuirass-fast-qrs-genii-5878": [
-    "plate-carriers",
-    "tactical-vests"
+    "plate-carriers"
   ],
   "plate-carrier-cuirass-fast-qrs-xl-genii-5883": [
     "plate-carriers"
@@ -14481,7 +14480,8 @@
       "permit-wwm"
     ],
     "plate-carrier-cuirass-fast-qrs-genii-5878": [
-      "m-tac"
+      "m-tac",
+      "Tactical gear > Tactical vests > Plate Carrier"
     ],
     "plate-carrier-cuirass-fast-qrs-xl-genii-5883": [
       "m-tac",
