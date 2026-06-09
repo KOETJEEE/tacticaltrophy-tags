@@ -12506,8 +12506,7 @@
     "patches"
   ],
   "patch-you-only-die-once-3d-pvc-5280": [
-    "patches",
-    "herlaadkits"
+    "patches"
   ],
   "patch-young-tiger-pvc-7856": [
     "patches"
@@ -14470,7 +14469,8 @@
       "permit-wwm"
     ],
     "patch-you-only-die-once-3d-pvc-5280": [
-      "Equipment and gear > Patches"
+      "Equipment and gear > Patches",
+      "m-tac"
     ],
     "patch-young-tiger-pvc-7856": [
       "Equipment and gear > Patches",
