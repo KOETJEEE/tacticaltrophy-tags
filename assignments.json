@@ -28,6 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
+  "magazijn-walther-ssp-e-22-lr": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14419,6 +14420,9 @@
       "permit-wwm"
     ],
     "magazijn-walther-ppq-m2-9-mm-15-2-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-walther-ssp-e-22-lr": [
       "permit-wwm"
     ]
   }
