@@ -14426,7 +14426,9 @@
     "m-tac-tactical-morale-patches-hook-and-loop-display-board-molle-160x85-707": [
       "Equipment and gear > Patches",
       "molle",
-      "Military Line"
+      "Military Line",
+      "m-tac",
+      "patches"
     ],
     "m-tac-tactical-morale-patches-hook-and-loop-display-board-molle-80x85-298": [
       "patches",
