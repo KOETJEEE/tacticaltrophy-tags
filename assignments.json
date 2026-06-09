@@ -14416,10 +14416,15 @@
       "m-tac",
       "magazijn-pouches"
     ],
+    "medic-bag-cls-elite-997": [
+      "m-tac",
+      "Equipment and gear > Bags and backpacks > Bags"
+    ],
     "medical-pouch-rip-off-55": [
       "emt-pouches",
       "m-tac",
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > EMT Pouches"
     ],
     "medical-pouch-vertical-large-genii-elite-10011": [
       "emt-pouches",
