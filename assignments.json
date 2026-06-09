@@ -12371,8 +12371,7 @@
     "tactical-bags"
   ],
   "patch-tactical-girl-4-pvc-5175": [
-    "patches",
-    "tactical-bags"
+    "patches"
   ],
   "patch-tactical-girl-5-pvc-5773": [
     "patches"
@@ -14462,7 +14461,8 @@
       "permit-wwm"
     ],
     "patch-tactical-girl-4-pvc-5175": [
-      "m-tac"
+      "m-tac",
+      "tactical-bags"
     ],
     "patch-tactical-girl-5-pvc-5773": [
       "m-tac",
