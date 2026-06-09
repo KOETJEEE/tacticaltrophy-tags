@@ -32,7 +32,8 @@
     "seating-pad-with-belt-20",
     "m-tac-seating-pad-with-belt-18",
     "konus-warmtebeeldcamera-flame-06x-24x-437953",
-    "flir-scion-otm366-warmtebeeldcamera-13460336"
+    "flir-scion-otm366-warmtebeeldcamera-13460336",
+    "flir-scion-otm266-warmtebeeldcamera-13460266"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -13691,7 +13692,6 @@
   "flir-reserve-lenskap-voor-scout-en-ls-series-4127306-134127310": [
     "beschermkappen"
   ],
-  "flir-scion-otm266-warmtebeeldcamera-13460266": [],
   "flir-tg165-x-warmtebeeldcamera-13461470": [
     "inspectie-cameras"
   ],
@@ -14382,6 +14382,9 @@
     ],
     "watch-tactical-compass-2233-8186": [
       "m-tac"
+    ],
+    "flir-reserve-lenskap-voor-scout-en-ls-series-4127306-134127310": [
+      "nachtzicht-en-warmtebeeldaccessoires"
     ],
     "flir-scion-otm266-warmtebeeldcamera-13460266": [
       "warmtebeeld",
