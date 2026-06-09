@@ -13495,7 +13495,7 @@
     "tassen-rugzakken"
   ],
   "waist-bag-elite-hex-624": [
-    "tassen-rugzakken"
+    "utility-pouches"
   ],
   "waist-bag-hex-8658": [
     "utility-pouches"
@@ -14380,7 +14380,10 @@
       "Urban Line",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport",
+      "tassen-rugzakken",
+      "jacht"
     ],
     "waist-bag-hex-8658": [
       "Equipment and gear > Bags and backpacks > Bags",
