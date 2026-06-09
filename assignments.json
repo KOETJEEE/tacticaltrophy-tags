@@ -13085,8 +13085,7 @@
     "tactical-shirts"
   ],
   "tactical-bag-shoulder-chest-pack-with-sling-152": [
-    "shoulder-messengers",
-    "tassen-rugzakken"
+    "shoulder-messengers"
   ],
   "tactical-bag-shoulder-chest-pack-with-sling-155": [
     "shoulder-messengers"
@@ -14338,7 +14337,9 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "rugzakken",
       "tassen",
-      "m-tac"
+      "m-tac",
+      "schietsport",
+      "jacht"
     ],
     "tactical-bag-shoulder-chest-pack-with-sling-155": [
       "Tactical Line",
