@@ -11601,7 +11601,8 @@
     "winterjassen"
   ],
   "paladin-jacket-primaloft-toray-9860": [
-    "jassen"
+    "jassen",
+    "winterjassen"
   ],
   "panama-genii-flex-rip-stop-4983": [
     "boonie-hoed"
@@ -14408,6 +14409,9 @@
       "magazine-pouches",
       "m-tac",
       "magazijn-pouches"
+    ],
+    "paladin-jacket-3572": [
+      "Clothing > Jackets > Winter jackets"
     ],
     "paladin-jacket-primaloft-toray-9860": [
       "Clothing > Jackets > Fleece jackets",
