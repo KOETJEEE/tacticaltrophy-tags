@@ -12556,8 +12556,7 @@
     "karabijnhaken"
   ],
   "plate-carrier-corset-elite-plate-size-m-9557": [
-    "plate-carriers",
-    "tactical-vests"
+    "plate-carriers"
   ],
   "plate-carrier-cuirass-elite-8178": [
     "plate-carriers"
@@ -14470,6 +14469,11 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "plate-carrier-corset-elite-plate-size-m-9557": [
+      "m-tac",
+      "Tactical gear > Tactical vests",
+      "tactical-vests"
     ],
     "plate-carrier-cuirass-elite-8178": [
       "tactical-vests",
