@@ -13421,7 +13421,8 @@
     "admin-pouches"
   ],
   "wallet-with-patch-panel-elite-genii-3184": [
-    "admin-pouches"
+    "admin-pouches",
+    "patch-panels"
   ],
   "war-belt-armor-84": [
     "riemen-bretels",
@@ -17303,7 +17304,8 @@
     "wallet-with-patch-panel-elite-genii-3184": [
       "Equipment and gear > Bags and backpacks > Wallets",
       "m-tac",
-      "portemonnees"
+      "portemonnees",
+      "patches"
     ],
     "war-belt-armor-84": [
       "m-tac",
