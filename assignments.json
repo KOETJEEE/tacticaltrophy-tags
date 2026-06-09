@@ -5139,12 +5139,15 @@
   "powder-measure-frankford-arsenal-bench-top": [
     "kruitmolens"
   ],
-  "powder-measure-frankford-arsenal-x-10-case-activated": [],
+  "powder-measure-frankford-arsenal-x-10-case-activated": [
+    "kruitmolens"
+  ],
   "powder-reservoir-frankford-arsenal": [
     "herlaadkits"
   ],
   "powder-funnel-kit-frankford-arsenal-aluminium": [
-    "herlaadkits"
+    "herlaadkits",
+    "kruittrechters"
   ],
   "boot-jack": [
     "laarzen",
