@@ -11576,7 +11576,9 @@
   "neck-gaiter-lightweight-samurai-10175": [
     "bivakmuts"
   ],
-  "neck-gaiter-lightweight-war-camo-10176": [],
+  "neck-gaiter-lightweight-war-camo-10176": [
+    "sjaal-nekwarmer"
+  ],
   "norman-windblock-fleece-jacket-1196": [
     "fleece",
     "jassen"
@@ -14407,6 +14409,9 @@
       "magazine-pouches",
       "m-tac",
       "magazijn-pouches"
+    ],
+    "neck-gaiter-lightweight-war-camo-10176": [
+      "balaclava"
     ],
     "norman-windblock-fleece-jacket-1196": [
       "Clothing > Jackets > Fleece jackets",
