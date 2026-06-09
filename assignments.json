@@ -13184,7 +13184,6 @@
   ],
   "tactical-pen-type-5-5962": [
     "tactical-pens",
-    "tactical-bags",
     "veldnotitie"
   ],
   "tactical-pen-type-6-titanium-9742": [
@@ -14360,7 +14359,8 @@
       "permit-wwm"
     ],
     "tactical-pen-type-6-titanium-9742": [
-      "tactical-bags"
+      "tactical-bags",
+      "m-tac"
     ],
     "tactical-polo-shirt-6535-6633": [
       "tactical-bags",
