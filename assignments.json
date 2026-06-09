@@ -11376,7 +11376,6 @@
     "tactical-bags"
   ],
   "m-tac-tactical-morale-patches-hook-and-loop-display-board-molle-120x85-290": [
-    "patches",
     "patch-panels"
   ],
   "m-tac-tactical-morale-patches-hook-and-loop-display-board-molle-160x85-707": [
@@ -14428,7 +14427,8 @@
       "Tactical Line",
       "molle",
       "m-tac",
-      "patch-panels"
+      "patch-panels",
+      "patches"
     ],
     "m-tac-tactical-morale-patches-hook-and-loop-display-board-molle-160x85-707": [
       "Equipment and gear > Patches",
