@@ -13503,7 +13503,10 @@
   "waist-bag-x-pac-elite-8503": [
     "tassen-rugzakken"
   ],
-  "wallet-horizontal-x-pac-elite-9005": [],
+  "wallet-horizontal-with-carabiner-x-pac-elite-9251": [],
+  "wallet-horizontal-x-pac-elite-9005": [
+    "admin-pouches"
+  ],
   "wallet-slim-elite-528": [
     "admin-pouches"
   ],
@@ -14366,6 +14369,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "wallet-horizontal-with-carabiner-x-pac-elite-9251": [
+      "m-tac"
     ],
     "wallet-horizontal-x-pac-elite-9005": [
       "tactical-gear",
