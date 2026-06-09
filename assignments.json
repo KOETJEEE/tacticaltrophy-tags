@@ -12841,9 +12841,7 @@
     "geweerriemen",
     "tassen-rugzakken"
   ],
-  "sling-pistol-bag-elite-hex-with-velcro-closure-5587": [
-    "tassen-rugzakken"
-  ],
+  "sling-pistol-bag-elite-hex-with-velcro-closure-5587": [],
   "sling-pistol-bag-hex-10183": [
     "shoulder-messengers"
   ],
@@ -14333,6 +14331,12 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "sling-pistol-bag-elite-hex-with-velcro-closure-5587": [
+      "geweerriemen",
+      "airsoft",
+      "jacht",
+      "schietsport"
     ],
     "sling-pistol-bag-hex-10183": [
       "jacht",
