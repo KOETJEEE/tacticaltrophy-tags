@@ -28,7 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazine-victrix-pugio-t-gladio-t-gladio-x-10-rounds": [],
+  "magazine-utg-ar15-223-rem-30-rounds": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -13913,6 +13913,12 @@
       "survival",
       "veldspaden",
       "schoppen"
+    ],
+    "magazine-utg-ar15-223-rem-30-rounds": [
+      "vuurwapen-magazijnen"
+    ],
+    "magazine-victrix-308-win-7-rounds": [
+      "vuurwapen-magazijnen"
     ],
     "magazine-victrix-pugio-t-gladio-t-gladio-x-10-rounds": [
       "vuurwapen-magazijnen"
