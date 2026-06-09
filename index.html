@@ -609,20 +609,13 @@ function renderDetail() {
     const tip   = col ? col.title : ch;
     return `<span class="tag-chip" title="${h(tip)}">${h(label)}<button class="tag-chip-x" onclick="removeTag('${j(ch)}')" title="Verwijder collectie">✕</button></span>`;
   }).join('');
-  // Alle mogelijke catTag-waarden (hoofdcategorieën zoals airsoft, jacht, …)
-  const allCatTagValues = new Set();
-  for (const col of COLLECTIONS) col.catTags.forEach(t => allCatTagValues.add(t.toLowerCase()));
-  // Blauwe chips (auto): catTags van assignments + snapshot-tags die een hoofdcat-waarde zijn
+  // Blauwe chips (auto): catTags van assignments (alleen als er een collectie is toegewezen)
   const catTagSet = new Set();
   for (const ch of assigned) {
     const col = COLLECTIONS.find(c => c.handle === ch);
     if (col) col.catTags.forEach(t => catTagSet.add(t));
   }
   const allShopifyTags = [...new Set([...p.colTags, ...p.nonColTags])];
-  // Snapshot-tags die een hoofdcat-waarde zijn → altijd blauw (niet grijs)
-  for (const t of allShopifyTags) {
-    if (allCatTagValues.has(t.toLowerCase())) catTagSet.add(t);
-  }
   const catChips = [...catTagSet].map(t =>
     `<span class="tag-chip tag-chip-cat" title="Hoofdcategorie-tag (automatisch meegenomen)">${h(t)}</span>`
   ).join('');
