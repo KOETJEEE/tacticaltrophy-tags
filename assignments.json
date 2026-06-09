@@ -14447,8 +14447,13 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
+    "patch-husaria-3d-pvc-5124": [
+      "m-tac"
+    ],
     "patch-joker-skull-3d-pvc-5209": [
-      "Equipment and gear > Patches"
+      "Equipment and gear > Patches",
+      "Military Line",
+      "m-tac"
     ],
     "patch-jolly-roger-pvc-5204": [
       "Equipment and gear > Patches",
