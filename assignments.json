@@ -11627,8 +11627,7 @@
     "boonie-hoed"
   ],
   "panel-for-patches-universal-roll-8068": [
-    "patch-panels",
-    "patches"
+    "patch-panels"
   ],
   "panel-for-patches-universal-roll-65x95-8071": [
     "patch-panels"
@@ -14413,7 +14412,8 @@
       "magazijn-pouches"
     ],
     "panel-for-patches-universal-roll-8068": [
-      "Equipment and gear > Patches"
+      "Equipment and gear > Patches",
+      "molle"
     ],
     "panel-for-patches-universal-roll-65x95-8071": [
       "Equipment and gear > Patches",
