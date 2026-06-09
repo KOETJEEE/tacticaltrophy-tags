@@ -14481,9 +14481,13 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
+    "plate-carrier-cuirass-fast-qrs-xl-genii-5883": [
+      "m-tac"
+    ],
     "plate-carrier-cuirass-qrs-446": [
       "Tactical gear > Tactical vests > Plate Carrier",
-      "m-tac"
+      "m-tac",
+      "tactical-vests"
     ],
     "plate-carrier-cuirass-qrs-447": [
       "m-tac",
