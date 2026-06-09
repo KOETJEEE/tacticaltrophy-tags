@@ -13350,7 +13350,9 @@
   "thermos-750-ml-7719": [
     "drinkflessen-thermos"
   ],
-  "thermos-type-2-7725": [],
+  "thermos-type-2-7725": [
+    "drinkflessen-thermos"
+  ],
   "thors-hammer-belt-3385": [
     "riemen-bretels",
     "tactical-riemen"
@@ -14376,6 +14378,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "thermal-t-shirt-ultra-vent-6167": [
+      "Clothing > Underwear > Thermal shirts"
     ],
     "thors-hammer-belt-3385": [
       "Clothing > Belt",
