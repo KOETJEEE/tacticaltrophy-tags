@@ -12395,8 +12395,7 @@
     "tactical-bags"
   ],
   "patch-tactical-girl-no-7-yakuza-tattoo-pvc-mc-8343": [
-    "patches",
-    "tactical-bags"
+    "patches"
   ],
   "patch-tank-5399": [
     "patches"
@@ -14468,7 +14467,8 @@
       "permit-wwm"
     ],
     "patch-tactical-girl-no-7-yakuza-tattoo-pvc-mc-8343": [
-      "Equipment and gear > Patches"
+      "Equipment and gear > Patches",
+      "m-tac"
     ],
     "patch-tank-5399": [
       "m-tac"
