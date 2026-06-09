@@ -11392,8 +11392,7 @@
     "tactical-bags"
   ],
   "m-tac-tactical-sweat-wicking-t-shirt-summer-6822": [
-    "tactical-shirts",
-    "tactical-bags"
+    "tactical-shirts"
   ],
   "m-tac-thermo-pants-polartec-winter-baselayer-vent-6399": [
     "tactical-broeken",
@@ -14429,7 +14428,8 @@
     ],
     "m-tac-tactical-sweat-wicking-t-shirt-summer-6822": [
       "Clothing > T-shirts",
-      "Polo > One color"
+      "Polo > One color",
+      "m-tac"
     ],
     "m-tac-thermo-pants-polartec-winter-baselayer-vent-6399": [
       "broeken",
