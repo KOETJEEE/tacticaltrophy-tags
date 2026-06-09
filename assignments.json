@@ -11574,7 +11574,6 @@
     "multitools"
   ],
   "neck-gaiter-lightweight-samurai-10175": [
-    "bivakmuts",
     "sjaal-nekwarmer"
   ],
   "neck-gaiter-lightweight-war-camo-10176": [
@@ -14412,7 +14411,9 @@
       "magazijn-pouches"
     ],
     "neck-gaiter-lightweight-samurai-10175": [
-      "headwear"
+      "headwear",
+      "m-tac",
+      "balaclava"
     ],
     "neck-gaiter-lightweight-war-camo-10176": [
       "balaclava",
