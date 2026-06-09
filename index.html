@@ -319,6 +319,9 @@ let tagFilter       = [];
 let dragHandle      = null;
 let activeCat       = '';
 
+// Tags die nooit verwijderd mogen worden, ook niet als ze in _removed staan
+const PRESERVE_FREE_TAGS = new Set(['vuurwapen-magazijnen']);
+
 // ── Init ──
 function init() {
   // Build colTagMap
@@ -1052,7 +1055,7 @@ async function syncFromGitHub() {
         if (_dirty.has(p.handle)) continue;
         let src = ghData._removed[p.handle];
         if (!src) { for (const pfx of SUPPLIER_PREFIXES) { if (ghData._removed[pfx+p.handle]) { src = ghData._removed[pfx+p.handle]; break; } } }
-        const ghRem = new Set(src || []);
+        const ghRem = new Set((src || []).filter(t => !PRESERVE_FREE_TAGS.has(t)));
         const cur = removedTags[p.handle];
         const same = ghRem.size === cur.size && [...ghRem].every(x => cur.has(x));
         if (!same) { removedTags[p.handle] = ghRem; changed = true; }
@@ -1125,7 +1128,7 @@ function computeNewTagsForProduct(p) {
   const assigned = assignments[p.handle] || new Set();
   const removed  = removedTags[p.handle] || new Set();
   const added    = addedTags[p.handle]   || new Set();
-  const nonCol = new Set(p.nonColTags.filter(t => !removed.has(t)));
+  const nonCol = new Set(p.nonColTags.filter(t => !removed.has(t) || PRESERVE_FREE_TAGS.has(t)));
   for (const t of added) nonCol.add(t);
   // Geen collectie-assignment: bewaar bestaande col-tags, pas alleen _added/_removed toe
   if (assigned.size === 0) {
