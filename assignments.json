@@ -13712,7 +13712,8 @@
     "wapenkoffers"
   ],
   "geweersteun-bog-fieldpod": [
-    "geweersteunen"
+    "geweersteunen",
+    "statieven"
   ],
   "geweersteun-caldwell-stinger": [
     "geweersteunen"
@@ -14388,7 +14389,8 @@
     ],
     "konus-spotting-scope-konuspot-50-15-40x50-437124": [
       "konus",
-      "monoculairs"
+      "monoculairs",
+      "richtkijkers"
     ],
     "konus-warmtebeeldcamera-flame-06x-24x-437953": [
       "warmtebeeld",
