@@ -11705,7 +11705,8 @@
     "tactical-broeken"
   ],
   "pants-soft-shell-vent-3452": [
-    "broeken"
+    "broeken",
+    "joggingbroeken"
   ],
   "pants-soft-shell-winter-3026": [
     "broeken"
@@ -14414,7 +14415,8 @@
       "Clothing > Pants > Winter Pants",
       "maattabel-mtac",
       "winter-broeken",
-      "Outdoor Line"
+      "Outdoor Line",
+      "m-tac"
     ],
     "pants-soft-shell-winter-3026": [
       "Clothing > Pants > Winter Pants",
