@@ -13752,7 +13752,6 @@
     "spotting-scopes"
   ],
   "kowa-spotting-scope-body-tsn-82sv-440820": [
-    "monoculairs",
     "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-55s-prominar-incl-17-40x-oculair-441556": [
@@ -14383,7 +14382,9 @@
       "m-tac"
     ],
     "kowa-spotting-scope-body-tsn-82sv-440820": [
-      "kowa"
+      "kowa",
+      "richtkijkers",
+      "monoculairs"
     ],
     "kowa-spotting-scope-tsn-55s-prominar-incl-17-40x-oculair-441556": [
       "monoculairs",
