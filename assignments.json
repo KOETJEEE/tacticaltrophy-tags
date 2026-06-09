@@ -11464,7 +11464,6 @@
   "map-compass-7418": [
     "kompassen"
   ],
-  "medic-bag-cls-elite-997": [],
   "medical-pouch-rip-off-55": [
     "ehbo",
     "medical-pouches"
@@ -14419,7 +14418,8 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
       "rugzakken",
-      "Military Line"
+      "Military Line",
+      "schietsport"
     ],
     "medical-pouch-rip-off-55": [
       "emt-pouches",
