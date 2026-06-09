@@ -13478,7 +13478,9 @@
   "vest-vityaz-genii-primaloft-10389": [
     "bodywarmer"
   ],
-  "vest-vytyaz-primaloft-4025": [],
+  "vest-vytyaz-primaloft-4025": [
+    "bodywarmer"
+  ],
   "viburnum-t-shirt-long-sleeve-6976": [
     "t-shirts-polos"
   ],
@@ -14371,6 +14373,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "vest-vityaz-genii-primaloft-10389": [
+      "Clothing > Vest"
     ],
     "vest-vytyaz-primaloft-4025": [
       "Clothing > Vest",
