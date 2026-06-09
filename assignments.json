@@ -13026,9 +13026,7 @@
   "t-shirt-937-summer-lady-10317": [
     "tactical-shirts"
   ],
-  "t-shirt-death-from-above-7903": [
-    "tactical-shirts"
-  ],
+  "t-shirt-death-from-above-7903": [],
   "t-shirt-drakar-8893": [
     "t-shirts-polos"
   ],
@@ -14325,7 +14323,10 @@
     ],
     "t-shirt-death-from-above-7903": [
       "Clothing > T-shirts",
-      "Polo > Printing"
+      "Polo > Printing",
+      "m-tac",
+      "tactical-gear",
+      "tactical-shirts"
     ],
     "t-shirt-drakar-8893": [
       "Clothing > T-shirts",
