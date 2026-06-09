@@ -11668,8 +11668,7 @@
   ],
   "pants-army-genii-nyco-extreme-2759": [
     "tactical-broeken",
-    "broeken",
-    "winterjassen"
+    "broeken"
   ],
   "pants-cotton-classic-7990": [
     "joggingbroeken",
@@ -14415,7 +14414,8 @@
     "pants-army-genii-nyco-extreme-2759": [
       "Clothing > Pants > Military Pants",
       "military-broeken",
-      "m-tac"
+      "m-tac",
+      "maattabel-mtac"
     ],
     "pants-cotton-classic-7990": [
       "Clothing > Pants",
