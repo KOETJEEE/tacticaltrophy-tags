@@ -13032,9 +13032,7 @@
   "t-shirt-drakar-8893": [
     "tactical-shirts"
   ],
-  "t-shirt-gold-samurai-oversize-9271": [
-    "tactical-shirts"
-  ],
+  "t-shirt-gold-samurai-oversize-9271": [],
   "t-shirt-odin-6893": [
     "t-shirts-polos"
   ],
@@ -14322,6 +14320,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "t-shirt-gold-samurai-oversize-9271": [
+      "kleding"
     ],
     "t-shirt-odin-6893": [
       "Clothing > T-shirts",
