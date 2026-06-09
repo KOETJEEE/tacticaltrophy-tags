@@ -13264,7 +13264,9 @@
     "schoenen",
     "tactical-sneakers"
   ],
-  "tactical-waist-bag-genii-elite-219": [],
+  "tactical-waist-bag-genii-elite-219": [
+    "utility-pouches"
+  ],
   "tactical-wallet-elite-9763": [
     "admin-pouches"
   ],
@@ -14382,7 +14384,8 @@
       "tactical-bags",
       "tactical-gear",
       "tassen-rugzakken",
-      "rugzakken"
+      "rugzakken",
+      "tassen"
     ],
     "tactical-wallet-elite-9763": [
       "tactical-gear",
