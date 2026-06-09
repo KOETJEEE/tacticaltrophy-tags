@@ -13699,6 +13699,9 @@
   "flir-tg165-x-warmtebeeldcamera-13461470": [
     "warmtebeeld-handheld"
   ],
+  "flir-tg267-warmtebeeldcamera-13461471": [
+    "inspectie-cameras"
+  ],
   "flir-tg275-warmtebeeldcamera-13461472": [
     "inspectie-cameras"
   ],
@@ -14384,9 +14387,13 @@
     "watch-tactical-compass-2233-8186": [
       "m-tac"
     ],
+    "flir-tg165-x-warmtebeeldcamera-13461470": [
+      "warmtebeeld"
+    ],
     "flir-tg267-warmtebeeldcamera-13461471": [
       "warmtebeeld",
-      "optiek"
+      "optiek",
+      "warmtebeeld-handheld"
     ],
     "flir-tg275-warmtebeeldcamera-13461472": [
       "warmtebeeld",
