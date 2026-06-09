@@ -11682,8 +11682,7 @@
     "thermokleding"
   ],
   "pants-fleece-delta-level-2-lady-5837": [
-    "thermokleding",
-    "thermobroeken"
+    "thermokleding"
   ],
   "pants-patrol-flex-9215": [
     "broeken"
@@ -14412,7 +14411,8 @@
     ],
     "pants-fleece-delta-level-2-lady-5837": [
       "broeken",
-      "Clothing > Underwear > Thermoactive pants"
+      "Clothing > Underwear > Thermoactive pants",
+      "m-tac"
     ],
     "pants-patrol-flex-9215": [
       "Clothing > Pants > Tactical Pants",
