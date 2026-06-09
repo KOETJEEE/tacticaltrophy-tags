@@ -28,7 +28,6 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazine-utg-ar15-223-rem-30-rounds": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -13913,6 +13912,12 @@
       "survival",
       "veldspaden",
       "schoppen"
+    ],
+    "magazine-schmeisser-ar15-9": [
+      "vuurwapen-magazijnen"
+    ],
+    "magazine-utg-ar15-223-rem-10-rounds": [
+      "vuurwapen-magazijnen"
     ],
     "magazine-utg-ar15-223-rem-30-rounds": [
       "vuurwapen-magazijnen"
