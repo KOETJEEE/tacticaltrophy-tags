@@ -13174,7 +13174,6 @@
   ],
   "tactical-pen-type-3-5960": [
     "tactical-pens",
-    "tactical-bags",
     "veldnotitie"
   ],
   "tactical-pen-type-4-5961": [
@@ -14358,7 +14357,8 @@
       "permit-wwm"
     ],
     "tactical-pen-type-3-5960": [
-      "Equipment and gear > Tactical pens"
+      "Equipment and gear > Tactical pens",
+      "tactical-bags"
     ],
     "tactical-pen-type-4-5961": [
       "tactical-bags"
