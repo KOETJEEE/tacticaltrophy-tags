@@ -28,7 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazine-walther-pdp-full-size-18-rounds": [],
+  "magazine-walther-ppq-m1-9x19-mm-15-rounds": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -14411,6 +14411,12 @@
       "permit-wwm"
     ],
     "magazine-walther-pdp-full-size-18-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-walther-pdp-full-size-9x19-mm-18-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-walther-ppq-m1-9x19-mm-15-rounds": [
       "permit-wwm"
     ]
   }
