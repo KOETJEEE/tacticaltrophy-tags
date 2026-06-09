@@ -11398,7 +11398,8 @@
   "m-tac-thermo-pants-polartec-winter-baselayer-vent-6399": [
     "thermobroeken",
     "tactical-broeken",
-    "thermokleding"
+    "thermokleding",
+    "thermoshirts"
   ],
   "m-tac-urban-line-city-patrol-carabiner-bag-7438": [
     "shoulder-messengers"
@@ -14429,7 +14430,8 @@
     ],
     "m-tac-thermo-pants-polartec-winter-baselayer-vent-6399": [
       "broeken",
-      "Clothing > Underwear > Thermoactive pants"
+      "Clothing > Underwear > Thermoactive pants",
+      "m-tac"
     ],
     "m-tac-urban-line-city-patrol-carabiner-bag-7438": [
       "jacht",
