@@ -12672,7 +12672,8 @@
     "magazijn-pouches"
   ],
   "pouch-for-1-vog-type-grenade-979": [
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "admin-pouches"
   ],
   "pouch-for-2-vog-type-grenade-982": [
     "magazijn-pouches"
@@ -14486,7 +14487,8 @@
     "pouch-for-1-vog-type-grenade-979": [
       "grenade-pouches",
       "pouches",
-      "Tactical gear > Pouches > grenade pouch"
+      "Tactical gear > Pouches > grenade pouch",
+      "m-tac"
     ],
     "pouch-for-2-vog-type-grenade-982": [
       "grenade-pouches",
