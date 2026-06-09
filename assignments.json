@@ -12739,9 +12739,7 @@
     "tactical-handschoenen",
     "tactical-bags"
   ],
-  "seat-mat-with-belt-attachment-armor-5769": [
-    "riemen-bretels"
-  ],
+  "seat-mat-with-belt-attachment-armor-5769": [],
   "seat-pad-with-belt-armor-8095": [
     "tactical-riemen"
   ],
@@ -14346,7 +14344,11 @@
       "m-tac",
       "Military Line",
       "riemen-bretels",
-      "slaapzakken"
+      "slaapzakken",
+      "tourism > Mats",
+      "kleding",
+      "bretels",
+      "belts"
     ],
     "seat-pad-with-belt-armor-8095": [
       "bretels",
