@@ -12728,6 +12728,7 @@
   "satellite-magnet-bag-elite-hex-378": [
     "tassen-rugzakken"
   ],
+  "satellite-magnet-bag-genii-elite-hex-379": [],
   "scout-tactical-mk2-gloves-7288": [
     "tactical-handschoenen"
   ],
@@ -14336,7 +14337,10 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "jacht",
+      "schietsport",
+      "tassen-rugzakken"
     ],
     "scout-tactical-mk2-gloves-7288": [
       "tactical-bags",
