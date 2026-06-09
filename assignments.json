@@ -11388,8 +11388,7 @@
     "patch-panels"
   ],
   "m-tac-tactical-polo-shirt-6535-lady-7969": [
-    "tactical-shirts",
-    "tactical-bags"
+    "tactical-shirts"
   ],
   "m-tac-tactical-sweat-wicking-t-shirt-summer-6822": [
     "thermoshirts"
@@ -14428,7 +14427,8 @@
     ],
     "m-tac-tactical-polo-shirt-6535-lady-7969": [
       "Clothing > T-shirts",
-      "Polo > Printing"
+      "Polo > Printing",
+      "m-tac"
     ],
     "m-tac-tactical-sweat-wicking-t-shirt-summer-6822": [
       "Clothing > T-shirts",
