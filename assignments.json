@@ -12318,8 +12318,7 @@
     "patches"
   ],
   "patch-spartan-helmet-5129": [
-    "patches",
-    "helmen"
+    "patches"
   ],
   "patch-spartan-helmet-embroidery-5384": [
     "patches"
@@ -14456,7 +14455,8 @@
     "patch-spartan-helmet-5129": [
       "Equipment and gear > Patches",
       "Military Line",
-      "m-tac"
+      "m-tac",
+      "helmen"
     ],
     "patch-spartan-helmet-embroidery-5384": [
       "helmen",
