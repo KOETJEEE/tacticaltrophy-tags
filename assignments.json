@@ -14448,8 +14448,14 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
+    "patch-medic-pvc-5226": [
+      "Equipment and gear > Patches",
+      "Military Line",
+      "m-tac"
+    ],
     "patch-mg-operator-print-pvc-5415": [
-      "Equipment and gear > Patches"
+      "Equipment and gear > Patches",
+      "m-tac"
     ],
     "patch-mg-operator-print-pvc-5417": [
       "Equipment and gear > Patches",
