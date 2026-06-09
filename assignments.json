@@ -13029,7 +13029,9 @@
   "t-shirt-death-from-above-7903": [
     "tactical-shirts"
   ],
-  "t-shirt-drakar-8893": [],
+  "t-shirt-drakar-8893": [
+    "t-shirts-polos"
+  ],
   "t-shirt-gold-samurai-oversize-9271": [
     "t-shirts-polos"
   ],
@@ -14321,11 +14323,15 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
+    "t-shirt-death-from-above-7903": [
+      "Clothing > T-shirts"
+    ],
     "t-shirt-drakar-8893": [
       "Clothing > T-shirts",
       "m-tac",
       "Polo > Printing",
-      "tactical-gear"
+      "tactical-gear",
+      "tactical-shirts"
     ],
     "t-shirt-gold-samurai-oversize-9271": [
       "kleding",
