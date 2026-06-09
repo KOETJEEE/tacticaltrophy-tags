@@ -14391,7 +14391,9 @@
       "m-tac"
     ],
     "m-tac-cobra-buckle-belt-627": [
-      "Clothing > Belt"
+      "Clothing > Belt",
+      "m-tac",
+      "riemen-bretels"
     ],
     "m-tac-double-pouch-for-the-aps-laser-cut-pistol-magazine-genii-771": [
       "pouches",
