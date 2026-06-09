@@ -12837,10 +12837,6 @@
     "geweerriemen",
     "tassen-rugzakken"
   ],
-  "sling-pistol-bag-elite-220": [
-    "geweerriemen",
-    "tassen-rugzakken"
-  ],
   "sling-pistol-bag-elite-hex-with-velcro-closure-5587": [
     "holsters",
     "shoulder-messengers"
@@ -14341,7 +14337,8 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "Tactical Line",
       "tassen",
-      "rugzakken"
+      "rugzakken",
+      "m-tac"
     ],
     "sling-pistol-bag-elite-hex-with-velcro-closure-5587": [
       "geweerriemen",
