@@ -13497,10 +13497,10 @@
   "waist-bag-elite-hex-624": [
     "waist-packs"
   ],
-  "waist-bag-hex-8658": [],
-  "waist-bag-x-pac-elite-8503": [
-    "utility-pouches"
+  "waist-bag-hex-8658": [
+    "waist-packs"
   ],
+  "waist-bag-x-pac-elite-8503": [],
   "wallet-elite-genii-3176": [
     "admin-pouches"
   ],
