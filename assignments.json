@@ -4694,6 +4694,9 @@
   "inner-barrel-prometheus-eg-krytac-pdw": [
     "airsoft-accessoires"
   ],
+  "inner-barrel-prometheus-eg-krytac-spr": [
+    "airsoft-accessoires"
+  ],
   "inner-barrel-prometheus-eg-next-gen-hk416d": [
     "airsoft-accessoires"
   ],
@@ -9283,7 +9286,6 @@
   "gun-cloth-birchwood-rig-rag-universal-grease-applicator": [
     "olien-vetten"
   ],
-  "gun-safe-griffon-ge-450k-l-black-cr": [],
   "gun-safe-griffon-gg-700-e": [
     "wapenkluizen"
   ],
@@ -10005,9 +10007,7 @@
     "tourniquets",
     "ehbo"
   ],
-  "compass-army-7346": [
-    "kompassen"
-  ],
+  "compass-army-7346": [],
   "compression-sack-medium-952": [
     "slaapzakken-matten",
     "compressors"
