@@ -12534,7 +12534,6 @@
     "hoodies",
     "truien"
   ],
-  "pistol-belt-4428": [],
   "pistol-mag-pouch-gen3-383": [
     "magazijn-pouches"
   ],
@@ -14467,6 +14466,10 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "pistol-belt-4428": [
+      "Clothing > Belt",
+      "kleding"
     ],
     "pistol-mag-pouch-kolchan-604": [
       "m-tac",
