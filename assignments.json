@@ -11588,7 +11588,8 @@
     "tactical-bags"
   ],
   "organiser-a5-elite-8543": [
-    "tactical-bags"
+    "tactical-bags",
+    "admin-pouches"
   ],
   "organizer-hardshell-utility-box-l-9958": [
     "utility-pouches"
@@ -14412,7 +14413,8 @@
     ],
     "organiser-a5-elite-8543": [
       "m-tac",
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches"
     ],
     "organizer-hardshell-utility-box-s-9962": [
       "m-tac",
