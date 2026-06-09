@@ -13316,7 +13316,6 @@
   ],
   "thermal-rasguard-t-shirt-6305": [
     "thermoshirts",
-    "shirts",
     "thermokleding"
   ],
   "thermal-shirt-delta-level-2-5989": [
@@ -14382,7 +14381,8 @@
       "permit-wwm"
     ],
     "thermal-shirt-delta-level-2-5989": [
-      "shirts"
+      "shirts",
+      "Clothing > Underwear > Thermal shirts"
     ],
     "thermal-t-shirt-ultra-vent-6167": [
       "Clothing > Underwear > Thermal shirts",
