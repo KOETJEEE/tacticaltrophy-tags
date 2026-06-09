@@ -13359,7 +13359,6 @@
   "tiger-belt-cobra-buckle-811": [
     "riemen-bretels"
   ],
-  "toiletry-kit-elite-genii-274": [],
   "touring-thermos-1600-ml-stainless-7721": [
     "drinkflessen-thermos"
   ],
@@ -14367,7 +14366,9 @@
       "permit-wwm"
     ],
     "toiletry-kit-elite-genii-274": [
-      "survival"
+      "survival",
+      "bushcraft",
+      "Equipment and gear > Survival"
     ],
     "tourist-hanging-flashlight-7631": [
       "Equipment and gear > Flashlights",
