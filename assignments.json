@@ -13497,6 +13497,7 @@
   "waist-bag-elite-hex-624": [
     "tassen-rugzakken"
   ],
+  "waist-bag-hex-8658": [],
   "waist-bag-x-pac-elite-8503": [
     "utility-pouches"
   ],
@@ -14373,7 +14374,12 @@
       "permit-wwm"
     ],
     "waist-bag-hex-8658": [
-      "Equipment and gear > Bags and backpacks > Bags"
+      "Equipment and gear > Bags and backpacks > Bags",
+      "tassen",
+      "rugzakken",
+      "m-tac",
+      "tassen-rugzakken",
+      "schietsport"
     ],
     "waist-bag-x-pac-elite-8503": [
       "Equipment and gear > Bags and backpacks > Bags",
