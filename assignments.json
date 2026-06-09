@@ -13881,7 +13881,9 @@
   "red-dot-vector-optics-maverick-gen-ii": [
     "red-dots"
   ],
-  "pocket-knife-kershaw-concierge": [],
+  "pocket-knife-kershaw-concierge": [
+    "messenslijpers"
+  ],
   "_removed": {
     "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
       "airsoft-onderdelen"
