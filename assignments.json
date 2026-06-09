@@ -11426,9 +11426,7 @@
   "m-tac-vilha-helmet-cover-fast-746": [
     "helmen"
   ],
-  "m-tac-waist-bag-7656": [
-    "tassen-rugzakken"
-  ],
+  "m-tac-waist-bag-7656": [],
   "m-tac-waist-bag-elite-hex-621": [
     "tassen-rugzakken"
   ],
@@ -14430,7 +14428,8 @@
       "tassen",
       "Tactical Line",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "tassen-rugzakken"
     ],
     "m-tac-waist-bag-elite-hex-621": [
       "Equipment and gear > Bags and backpacks > Bags",
