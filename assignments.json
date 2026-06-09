@@ -12534,6 +12534,7 @@
     "hoodies",
     "truien"
   ],
+  "pistol-belt-4428": [],
   "pistol-mag-pouch-gen3-383": [
     "magazijn-pouches"
   ],
@@ -14469,7 +14470,11 @@
     ],
     "pistol-belt-4428": [
       "Clothing > Belt",
-      "kleding"
+      "kleding",
+      "belts",
+      "m-tac",
+      "bretels",
+      "riemen-bretels"
     ],
     "pistol-mag-pouch-kolchan-604": [
       "m-tac",
