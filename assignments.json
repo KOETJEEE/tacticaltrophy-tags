@@ -13334,7 +13334,6 @@
     "thermokleding"
   ],
   "thermal-t-shirt-ultra-vent-6167": [
-    "shirts",
     "thermokleding"
   ],
   "thermo-mug-with-carabiner-5926": [
@@ -14384,7 +14383,8 @@
       "longsleeve",
       "maattabel-mtac",
       "t-shirts",
-      "polos"
+      "polos",
+      "t-shirts-polos"
     ],
     "thors-hammer-belt-3385": [
       "Clothing > Belt",
