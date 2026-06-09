@@ -12604,8 +12604,7 @@
     "tactical-vests"
   ],
   "plate-carrier-cuirass-qrs-447": [
-    "plate-carriers",
-    "tactical-vests"
+    "plate-carriers"
   ],
   "plate-carrier-cuirass-qrs-fast-xl-5873": [
     "plate-carriers"
@@ -14485,7 +14484,8 @@
     ],
     "plate-carrier-cuirass-qrs-447": [
       "m-tac",
-      "Tactical gear > Tactical vests > Plate Carrier"
+      "Tactical gear > Tactical vests > Plate Carrier",
+      "tactical-vests"
     ],
     "plate-carrier-cuirass-qrs-fast-xl-5873": [
       "m-tac",
