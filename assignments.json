@@ -14469,9 +14469,13 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
+    "pc-utility-pouch-elite-hex-442": [
+      "pouches"
+    ],
     "pc-utility-pouch-elite-hex-genii-444": [
       "pouches",
-      "m-tac"
+      "m-tac",
+      "Tactical gear > Pouches > Utility Pouches"
     ],
     "pilgrim-jacket-3756": [
       "hoodies",
