@@ -13786,7 +13786,6 @@
   "magazijn-ataman-m2": [
     "magazijnen"
   ],
-  "microfiber-towel-weapon-150x75-10405": [],
   "microfiber-towel-weapon-150x75-10406": [
     "onderhoudshulpmiddelen"
   ],
@@ -14378,7 +14377,9 @@
     ],
     "microfiber-towel-weapon-150x75-10405": [
       "tourism",
-      "Equipment and gear > Survival"
+      "Equipment and gear > Survival",
+      "bushcraft",
+      "survival"
     ],
     "microfiber-towel-weapon-150x75-10406": [
       "survival",
