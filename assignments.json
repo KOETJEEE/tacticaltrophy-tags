@@ -12643,7 +12643,6 @@
     "tassen-rugzakken"
   ],
   "satellite-magnet-bag-elite-hex-378": [
-    "tassen-rugzakken",
     "sling-bags"
   ],
   "satellite-magnet-bag-genii-elite-hex-379": [
@@ -16336,7 +16335,9 @@
       "Tactical Line",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport",
+      "jacht"
     ],
     "satellite-magnet-bag-genii-elite-hex-379": [
       "Equipment and gear > Bags and backpacks > Bags",
