@@ -14482,10 +14482,14 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
+    "pouch-for-frag-grenade-laser-cut-1003": [
+      "grenade-pouches"
+    ],
     "pouch-for-m249-cartridge-box-closed-5894": [
       "m-tac",
       "magazine-pouches",
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > Magazine Pouches"
     ],
     "pouch-for-medical-scissors-laser-cut-8205": [
       "m-tac",
