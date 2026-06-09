@@ -12749,7 +12749,9 @@
   "pouch-utility-elite-hex-5534": [
     "utility-pouches"
   ],
-  "radio-pouch-motorola-44004800-322": [],
+  "radio-pouch-motorola-44004800-322": [
+    "admin-pouches"
+  ],
   "raglan-athlete-3407": [
     "truien"
   ],
@@ -14476,6 +14478,9 @@
     "patch-ar-15-velcropvc-8158": [
       "Equipment and gear > Patches",
       "permit-wwm"
+    ],
+    "radio-pouch-motorola-44004800-322": [
+      "radio-pouches"
     ],
     "raglan-athlete-3407": [
       "Clothing > Sweater",
