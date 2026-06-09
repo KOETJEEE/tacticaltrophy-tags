@@ -13370,7 +13370,9 @@
     "utility-pouches",
     "admin-pouches"
   ],
-  "utility-travel-case-elite-medium-26x11-cm-457": [],
+  "utility-travel-case-elite-medium-26x11-cm-457": [
+    "utility-pouches"
+  ],
   "velcro-panel-for-a-car-sun-visor-elite-10022": [
     "patch-panels",
     "patches"
@@ -17215,7 +17217,8 @@
     "utility-travel-case-elite-medium-26x11-cm-457": [
       "m-tac",
       "pouches",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "admin-pouches"
     ],
     "velcro-panel-for-a-car-sun-visor-elite-10022": [
       "Equipment and gear > Patches",
