@@ -13032,7 +13032,6 @@
   "t-shirt-drakar-8893": [
     "tactical-shirts"
   ],
-  "t-shirt-gold-samurai-oversize-9271": [],
   "t-shirt-odin-6893": [
     "t-shirts-polos"
   ],
@@ -14322,7 +14321,9 @@
       "permit-wwm"
     ],
     "t-shirt-gold-samurai-oversize-9271": [
-      "kleding"
+      "kleding",
+      "tactical-gear",
+      "shirts"
     ],
     "t-shirt-odin-6893": [
       "Clothing > T-shirts",
