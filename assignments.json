@@ -13268,7 +13268,9 @@
     "tactical-bags",
     "tassen-rugzakken"
   ],
-  "tactical-wallet-elite-9763": [],
+  "tactical-wallet-elite-9763": [
+    "admin-pouches"
+  ],
   "tactical-war-belt-tiger-d-ring-cobra-947": [
     "riemen-bretels",
     "tactical-riemen"
@@ -14379,7 +14381,8 @@
     ],
     "tactical-wallet-elite-9763": [
       "tactical-gear",
-      "tactical-bags"
+      "tactical-bags",
+      "Equipment and gear > Bags and backpacks > Wallets"
     ],
     "tactical-war-belt-tiger-d-ring-cobra-947": [
       "m-tac",
