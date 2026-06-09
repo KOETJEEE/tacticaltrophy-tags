@@ -12363,8 +12363,7 @@
     "tactical-bags"
   ],
   "patch-tactical-girl-2-yakuza-brunet-pvc-5170": [
-    "patches",
-    "tactical-bags"
+    "patches"
   ],
   "patch-tactical-girl-3-watterfall-5190": [
     "patches"
@@ -14459,8 +14458,12 @@
       "Equipment and gear > Patches",
       "permit-wwm"
     ],
+    "patch-tactical-girl-2-yakuza-brunet-pvc-5170": [
+      "m-tac"
+    ],
     "patch-tactical-girl-3-watterfall-5190": [
-      "tactical-bags"
+      "tactical-bags",
+      "m-tac"
     ],
     "patch-tactical-girl-4-pvc-5175": [
       "m-tac",
