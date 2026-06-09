@@ -58,6 +58,9 @@
     "pas-pkm-8042",
     "m-tac-waterproof-case-for-documents-16x12-cm-7604"
   ],
+  "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
+    "warmtebeeld"
+  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -132,15 +135,12 @@
     "nachtzicht-handheld"
   ],
   "agm-reachir-lrf-25-384-warmtebeeldcamera-met-laser-rangefinder-121308": [
-    "warmtebeeld-handheld",
     "afstandsmeters"
   ],
   "agm-reachir-lrf-35-640-warmtebeeldcamera-met-laser-rangefinder-121309": [
-    "warmtebeeld-handheld",
     "afstandsmeters"
   ],
   "agm-reachir-lrf-50-640-warmtebeeldcamera-met-laser-rangefinder-121310": [
-    "warmtebeeld-handheld",
     "afstandsmeters"
   ],
   "agm-sioux850-long-range-infraroodstraler-850nm1000mw-121100": [
@@ -152,27 +152,6 @@
     "observatie-accessoires",
     "richtmiddel-accessoires",
     "nachtzicht-handheld"
-  ],
-  "agm-taipan-tm15-384-warmtebeeldcamera-121207": [
-    "warmtebeeld-handheld"
-  ],
-  "agm-taipanv2-10-256-warmtebeeldcamera-121312": [
-    "warmtebeeld-handheld"
-  ],
-  "agm-taipanv2-15-256-warmtebeeldcamera-121313": [
-    "warmtebeeld-handheld"
-  ],
-  "agm-taipanv2-15-384-warmtebeeldcamera-121315": [
-    "warmtebeeld-handheld"
-  ],
-  "agm-taipanv2-19-320-warmtebeeldcamera-121314": [
-    "warmtebeeld-handheld"
-  ],
-  "agm-taipanv2-19-384-warmtebeeldcamera-121316": [
-    "warmtebeeld-handheld"
-  ],
-  "agm-taipanv2-25-384-warmtebeeldcamera-121317": [
-    "warmtebeeld-handheld"
   ],
   "agm-wolf-14-nl1-monoculaire-nachtkijker-gen2-green-phosphor-121060": [
     "nachtzicht-handheld"
@@ -618,54 +597,10 @@
     "gaffer-tape"
   ],
   "flir-breach-ptq136-adapter-voor-dual-helm-bridge-dovetail-13431909": [
-    "helmen",
-    "warmtebeeld-handheld"
+    "helmen"
   ],
   "flir-breach-ptq136-objectief-beschermlens-13431910": [
-    "beschermkappen",
-    "warmtebeeld-handheld"
-  ],
-  "flir-breach-ptq136-warmtebeeldcamera-13431913": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-c3-x-warmtebeeldcamera-13461469": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-c5-warmtebeeldcamera-13431960": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-c8-warmtebeeldcamera-13461485": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-one-edge-pro-warmtebeeldcamera-13431953": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-one-edge-warmtebeeldcamera-13461468": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-one-pro-warmtebeeldcamera-voor-android-usb-c-13431951": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-one-pro-warmtebeeldcamera-voor-ios-13431950": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-scout-pro-charging-station-13461484": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-scout-pro-ii-warmtebeeldcamera-13461482": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-scout-pro-iii-warmtebeeldcamera-13461483": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-scout-pro-warmtebeeldcamera-13461478": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-tg268-warmtebeeldcamera-13461479": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-tg298-warmtebeeldcamera-13461480": [
-    "warmtebeeld-handheld"
+    "beschermkappen"
   ],
   "konus-cantilever-montage-universeel-437219": [
     "montage-accessoires"
@@ -821,9 +756,6 @@
   ],
   "konus-verrekijker-vivisport-16x32-432040": [
     "verrekijkers"
-  ],
-  "konus-warmtebeeldcamera-fiery-2x-16x-437957": [
-    "warmtebeeld-handheld"
   ],
   "konus-zaklamp-konuscap-433911": [
     "zaklampen-hoofdlampen",
@@ -2812,25 +2744,13 @@
   "display-hikmicro-handheld-screen-hs17p": [
     "inspectie-cameras"
   ],
-  "dnt-hound-h315r-warmtebeeldkijker": [
-    "warmtebeeld-handheld"
-  ],
-  "dnt-hound-h325r-thermal-imaging-camera": [
-    "warmtebeeld-handheld"
-  ],
-  "dnt-hound-h635r-thermal-imaging-camera": [
-    "warmtebeeld-handheld"
-  ],
   "thermal-imaging-camera-dnt-hydra-hs225": [
-    "warmtebeeld-handheld",
     "warmtebeeld-richtkijkers"
   ],
   "thermal-imaging-camera-dnt-hydra-hs325": [
-    "warmtebeeld-handheld",
     "warmtebeeld-richtkijkers"
   ],
   "thermal-imaging-camera-dnt-hydra-hs635": [
-    "warmtebeeld-handheld",
     "warmtebeeld-richtkijkers"
   ],
   "dnt-nvmd-c200-standard-multi-purpose-night-vision-scope": [
@@ -4348,24 +4268,6 @@
   "night-vision-scope-hikmicro-cheetah-lrf-clip-on-940-nm-ir-no-reticle": [
     "voorzetkijkers"
   ],
-  "thermal-imaging-camera-hikmicro-condor-2-0-cq35l": [
-    "warmtebeeld-handheld"
-  ],
-  "warmtebeeldkijker-hikmicro-condor-2-0-ch35l": [
-    "warmtebeeld-handheld"
-  ],
-  "thermal-imaging-camera-hikmicro-explorer-e20plus": [
-    "warmtebeeld-handheld"
-  ],
-  "thermal-imaging-camera-hikmicro-falcon-2-0-fq35": [
-    "warmtebeeld-handheld"
-  ],
-  "thermal-imaging-camera-hikmicro-falcon-2-0-fq50": [
-    "warmtebeeld-handheld"
-  ],
-  "thermal-imaging-camera-hikmicro-falcon-2-0-fq50l": [
-    "warmtebeeld-handheld"
-  ],
   "hikmicro-habrok-4k-2-0-he25l-multispectral-binoculars": [
     "multispectral"
   ],
@@ -4381,39 +4283,6 @@
   "night-vision-camera-hikmicro-heimdal-h4d": [
     "cameras",
     "inspectie-cameras"
-  ],
-  "warmtebeeldkijker-hikmicro-lynx-pro-lh15": [
-    "warmtebeeld-handheld"
-  ],
-  "warmtebeeldkijker-hikmicro-lynx-pro-lh25": [
-    "warmtebeeld-handheld"
-  ],
-  "hikmicro-lynx-3-0-le10-thermal-imaging-camera": [
-    "warmtebeeld-handheld"
-  ],
-  "hikmicro-lynx-3-0-le15-thermal-imaging-camera": [
-    "warmtebeeld-handheld"
-  ],
-  "hikmicro-lynx-3-0-lh15-thermal-imaging-camera": [
-    "warmtebeeld-handheld"
-  ],
-  "hikmicro-lynx-3-0-lh19-thermal-imaging-camera": [
-    "warmtebeeld-handheld"
-  ],
-  "hikmicro-lynx-3-0-lh25-thermal-imaging-camera": [
-    "warmtebeeld-handheld"
-  ],
-  "hikmicro-lynx-3-0-lh35-thermal-imaging-camera": [
-    "warmtebeeld-handheld"
-  ],
-  "hikmicro-lynx-3-0-lq35-thermal-imaging-camera": [
-    "warmtebeeld-handheld"
-  ],
-  "hikmicro-lynx-3-0-lq35l-thermal-imaging-camera": [
-    "warmtebeeld-handheld"
-  ],
-  "warmtebeeldkijker-hikmicro-lynx-lc06": [
-    "warmtebeeld-handheld"
   ],
   "hikmicro-neos-ne25-thermal-imaging-rifle-scope": [
     "warmtebeeld-richtkijkers"
@@ -4434,7 +4303,6 @@
     "warmtebeeld-richtkijkers"
   ],
   "thermal-imaging-rifle-scope-hikmicro-stellar-3-0-sq35l": [
-    "warmtebeeld-handheld",
     "warmtebeeld-richtkijkers"
   ],
   "thermal-imaging-rifle-scope-hikmicro-stellar-3-0-sq50l": [
@@ -13735,12 +13603,6 @@
     "beschermkappen",
     "observatie-accessoires"
   ],
-  "flir-scion-otm266-warmtebeeldcamera-13460266": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-scion-otm366-warmtebeeldcamera-13460336": [
-    "warmtebeeld-handheld"
-  ],
   "flir-tg165-x-warmtebeeldcamera-13461470": [
     "inspectie-cameras"
   ],
@@ -13783,9 +13645,6 @@
   ],
   "konus-spotting-scope-konuspot-50-15-40x50-437124": [
     "spotting-scopes"
-  ],
-  "konus-warmtebeeldcamera-flame-06x-24x-437953": [
-    "warmtebeeld-handheld"
   ],
   "kowa-adapter-ring-tsn-ar500a-40mm-440236": [
     "observatie-accessoires",
