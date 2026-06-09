@@ -57,21 +57,6 @@
     "tactical-polo-shirt-ranger-6535-9260",
     "pas-pkm-8042"
   ],
-  "satellite-magnet-bag-genii-elite-hex-379": [
-    "tassen-rugzakken"
-  ],
-  "skull-stopper-bead-5040": [
-    "paracord"
-  ],
-  "flir-scion-otm266-warmtebeeldcamera-13460266": [
-    "warmtebeeld-handheld"
-  ],
-  "flir-scion-otm366-warmtebeeldcamera-13460336": [
-    "warmtebeeld-handheld"
-  ],
-  "konus-warmtebeeldcamera-flame-06x-24x-437953": [
-    "warmtebeeld-handheld"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -12806,6 +12791,9 @@
   "satellite-magnet-bag-elite-hex-378": [
     "tassen-rugzakken"
   ],
+  "satellite-magnet-bag-genii-elite-hex-379": [
+    "tassen-rugzakken"
+  ],
   "scout-tactical-mk2-gloves-7288": [
     "tactical-handschoenen"
   ],
@@ -12888,6 +12876,9 @@
   "shoulder-straps-for-tactical-belt-laser-cut-803": [
     "tactical-riemen",
     "tactical-vests"
+  ],
+  "skull-stopper-bead-5040": [
+    "paracord"
   ],
   "sleeping-bag-with-compression-cover-6487": [
     "slaapzakken-matten",
@@ -13728,6 +13719,12 @@
     "beschermkappen",
     "observatie-accessoires"
   ],
+  "flir-scion-otm266-warmtebeeldcamera-13460266": [
+    "warmtebeeld-handheld"
+  ],
+  "flir-scion-otm366-warmtebeeldcamera-13460336": [
+    "warmtebeeld-handheld"
+  ],
   "flir-tg165-x-warmtebeeldcamera-13461470": [
     "inspectie-cameras"
   ],
@@ -13770,6 +13767,9 @@
   ],
   "konus-spotting-scope-konuspot-50-15-40x50-437124": [
     "spotting-scopes"
+  ],
+  "konus-warmtebeeldcamera-flame-06x-24x-437953": [
+    "warmtebeeld-handheld"
   ],
   "kowa-adapter-ring-tsn-ar500a-40mm-440236": [
     "observatie-accessoires",
@@ -14057,36 +14057,12 @@
       "veldspaden",
       "schoppen"
     ],
-    "satellite-magnet-bag-genii-elite-hex-379": [
-      "Equipment and gear > Bags and backpacks > Bags",
-      "tassen",
-      "rugzakken",
+    "pas-pkm-8042": [
+      "Tactical gear > Gun Sling",
       "m-tac",
-      "jacht",
-      "schietsport",
-      "tassen-rugzakken"
-    ],
-    "skull-stopper-bead-5040": [
-      "paracord",
-      "survival",
-      "Equipment and gear > Beads",
-      "paracord-accessoires",
-      "m-tac"
-    ],
-    "flir-scion-otm266-warmtebeeldcamera-13460266": [
-      "warmtebeeld",
-      "warmtebeeld-handheld",
-      "optiek"
-    ],
-    "flir-scion-otm366-warmtebeeldcamera-13460336": [
-      "warmtebeeld",
-      "warmtebeeld-handheld",
-      "optiek"
-    ],
-    "konus-warmtebeeldcamera-flame-06x-24x-437953": [
-      "warmtebeeld",
-      "warmtebeeld-handheld",
-      "optiek"
+      "geweerriemen",
+      "wapen-toebehoren",
+      "airsoft"
     ],
     "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
       "airsoft-magazijn-toebehoren",
@@ -14430,12 +14406,8 @@
       "m-tac",
       "magazijn-pouches"
     ],
-    "pas-pkm-8042": [
-      "Tactical gear > Gun Sling",
-      "m-tac",
-      "geweerriemen",
-      "wapen-toebehoren",
-      "airsoft"
+    "paracord-shock-cord-3mm-60m-9875": [
+      "bushcraft"
     ],
     "patch-see-in-the-dark-like-a-predator-pvc-7755": [
       "m-tac",
@@ -15799,6 +15771,15 @@
     "rubicon-jacket-genii-3665": [
       "Clothing > Jackets > Winter jackets"
     ],
+    "satellite-magnet-bag-genii-elite-hex-379": [
+      "Equipment and gear > Bags and backpacks > Bags",
+      "tassen",
+      "rugzakken",
+      "m-tac",
+      "jacht",
+      "schietsport",
+      "tassen-rugzakken"
+    ],
     "scout-tactical-mk2-gloves-7288": [
       "tactical-bags",
       "tactical-gear",
@@ -15896,6 +15877,13 @@
       "kleding",
       "bretels",
       "belts"
+    ],
+    "skull-stopper-bead-5040": [
+      "paracord",
+      "survival",
+      "Equipment and gear > Beads",
+      "paracord-accessoires",
+      "m-tac"
     ],
     "sling-civilian-bag-lite-nr-9766": [
       "jacht",
@@ -16967,6 +16955,16 @@
       "nachtzicht-en-warmtebeeldaccessoires",
       "warmtebeeld-accessoires"
     ],
+    "flir-scion-otm266-warmtebeeldcamera-13460266": [
+      "warmtebeeld",
+      "warmtebeeld-handheld",
+      "optiek"
+    ],
+    "flir-scion-otm366-warmtebeeldcamera-13460336": [
+      "warmtebeeld",
+      "warmtebeeld-handheld",
+      "optiek"
+    ],
     "flir-tg165-x-warmtebeeldcamera-13461470": [
       "warmtebeeld",
       "warmtebeeld-handheld",
@@ -16989,6 +16987,11 @@
       "konus",
       "monoculairs",
       "richtkijkers"
+    ],
+    "konus-warmtebeeldcamera-flame-06x-24x-437953": [
+      "warmtebeeld",
+      "warmtebeeld-handheld",
+      "optiek"
     ],
     "kowa-adapter-ring-tsn-ar500a-40mm-440236": [
       "spotting-scopes-accessoires",
