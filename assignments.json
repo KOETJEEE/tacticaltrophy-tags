@@ -12772,6 +12772,9 @@
     "shirts",
     "truien"
   ],
+  "range-belt-d-ring-cobra-buckle-geniv-1023": [
+    "tactical-riemen"
+  ],
   "redneck-cotton-shirt-9313": [
     "tactical-shirts"
   ],
@@ -14483,7 +14486,8 @@
       "belts",
       "kleding",
       "Clothing > Belt",
-      "m-tac"
+      "m-tac",
+      "riemen-bretels"
     ],
     "redneck-cotton-shirt-9313": [
       "Clothing > Shirts",
