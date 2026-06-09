@@ -13852,9 +13852,12 @@
     "tactical-handschoenen"
   ],
   "stealth-gear-handschoenen-maat-xl-710018": [
-    "tactical-handschoenen"
+    "tactical-handschoenen",
+    "jacht-handschoenen"
   ],
-  "stealth-gear-handschoenen-maat-xxl-710019": [],
+  "stealth-gear-handschoenen-maat-xxl-710019": [
+    "jacht-handschoenen"
+  ],
   "stealth-gear-nightjar-dual-cam-solar-4k-wifi-wildcamera-720133": [
     "wildcameras"
   ],
