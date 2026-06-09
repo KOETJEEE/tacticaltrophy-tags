@@ -12580,8 +12580,7 @@
     "tactical-vests"
   ],
   "plate-carrier-cuirass-fast-elite-large-8545": [
-    "plate-carriers",
-    "tactical-vests"
+    "plate-carriers"
   ],
   "plate-carrier-cuirass-fast-elite-xl-10177": [
     "plate-carriers"
@@ -14479,7 +14478,8 @@
     ],
     "plate-carrier-cuirass-fast-elite-large-8545": [
       "m-tac",
-      "Tactical gear > Tactical vests"
+      "Tactical gear > Tactical vests",
+      "tactical-vests"
     ],
     "plate-carrier-cuirass-fast-elite-xl-10177": [
       "m-tac",
