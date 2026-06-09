@@ -28,7 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "magazijn-bergara-b14-short-action-3-schots": [],
+  "magazijn-bergara-b14-hmr-bmp-5-schots": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -13913,6 +13913,12 @@
       "survival",
       "veldspaden",
       "schoppen"
+    ],
+    "magazijn-bergara-b14-hmr-bmp-5-schots": [
+      "vuurwapen-magazijnen"
+    ],
+    "magazijn-bergara-b14-long-action-3-schots": [
+      "vuurwapen-magazijnen"
     ],
     "magazijn-bergara-b14-short-action-3-schots": [
       "vuurwapen-magazijnen"
