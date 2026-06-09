@@ -12746,7 +12746,8 @@
     "slaapzakken-matten"
   ],
   "set-of-fixers-for-velcro-panel-10-pcs-8300": [
-    "diversen-kleding"
+    "diversen-kleding",
+    "velcro-strips"
   ],
   "shemagh-scarf-5008": [
     "sjaal-nekwarmer"
@@ -12757,7 +12758,9 @@
   "shemagh-scarf-spartan-5020": [
     "sjaal-nekwarmer"
   ],
-  "shemagh-scarf-til-valhall-5022": [],
+  "shemagh-scarf-til-valhall-5022": [
+    "sjaal-nekwarmer"
+  ],
   "shirt-lumberjack-cotton-shirt-9353": [
     "shirts",
     "tactical-shirts"
