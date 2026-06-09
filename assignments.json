@@ -12802,6 +12802,7 @@
   "shoulder-damper-for-plate-carrier-cuirass-qrs-560": [
     "plate-carriers"
   ],
+  "shoulder-protection-case-for-ballistic-inserts-for-cuirass-qrs-9058": [],
   "shoulder-straps-for-tactical-belt-elite-257": [
     "riemen-bretels"
   ],
@@ -14331,7 +14332,9 @@
       "permit-wwm"
     ],
     "shoulder-protection-case-for-ballistic-inserts-for-cuirass-qrs-9058": [
-      "tactical-gear"
+      "tactical-gear",
+      "shoulder-messengers",
+      "Tactical gear > Tactical vests > Accessories"
     ],
     "shoulder-straps-for-tactical-belt-elite-257": [
       "shoulder-messengers",
