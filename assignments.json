@@ -11675,7 +11675,10 @@
     "joggingbroeken",
     "broeken"
   ],
-  "pants-field-nyco-1350": [],
+  "pants-field-nyco-1350": [
+    "broeken",
+    "tactical-broeken"
+  ],
   "pants-fleece-delta-level-2-hex-10061": [
     "thermokleding",
     "thermobroeken"
