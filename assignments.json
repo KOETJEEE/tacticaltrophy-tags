@@ -13428,7 +13428,6 @@
     "tassen-rugzakken"
   ],
   "urban-line-force-pack-backpack-7377": [
-    "tactical-bags",
     "tassen-rugzakken"
   ],
   "utility-organizer-transparent-elite-large-genii-412": [
@@ -14369,7 +14368,8 @@
       "Equipment and gear > Bags and backpacks > Backpacks",
       "tassen",
       "Urban Line",
-      "rugzakken"
+      "rugzakken",
+      "m-tac"
     ],
     "utility-pouch-elite-small-78": [
       "pouches",
