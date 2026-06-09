@@ -12756,8 +12756,7 @@
     "truien"
   ],
   "raglan-avenger-8273": [
-    "truien",
-    "hoodies"
+    "truien"
   ],
   "raglan-freedom-8005": [
     "truien"
@@ -14481,7 +14480,8 @@
       "permit-wwm"
     ],
     "raglan-avenger-8273": [
-      "Clothing > Hoodie"
+      "Clothing > Hoodie",
+      "m-tac"
     ],
     "raglan-freedom-8005": [
       "Clothing > Sweater",
