@@ -28,12 +28,7 @@
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome"
   ],
-  "boya-digitale-shotgun-microfoon-by-dm200-voor-ios-350309": [],
-  "boya-handheld-microfoon-by-hm100-350283": [],
-  "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-bruin-15x3-m-720023": [],
-  "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-bruin-24x3-m-720024": [],
-  "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-groen-15x3-m-720027": [],
-  "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-groen-24x3-m-720028": [],
+  "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-woodland-15x3-m-720025": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -13891,6 +13886,9 @@
     "zakmessen"
   ],
   "_removed": {
+    "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-woodland-15x3-m-720025": [
+      "oversize"
+    ],
     "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
       "airsoft-onderdelen"
     ],
