@@ -10285,6 +10285,9 @@
     "zaklampen-hoofdlampen",
     "lampen-1"
   ],
+  "flaskbottle-pouch-elite-278": [
+    "admin-pouches"
+  ],
   "fleece-jacket-senator-polartec-3672": [
     "fleece"
   ],
@@ -14412,7 +14415,8 @@
     "fleece-jacket-senator-polartec-3672": [
       "Clothing > Fleeces",
       "fleeces",
-      "m-tac"
+      "m-tac",
+      "truien"
     ],
     "fleece-jacket-windblock-division-genii-8074": [
       "Clothing > Jackets > Fleece jackets",
