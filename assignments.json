@@ -12930,7 +12930,6 @@
     "sling-bags"
   ],
   "sling-pistol-bag-10180": [
-    "holsters",
     "sling-bags"
   ],
   "sling-pistol-bag-elite-220": [
@@ -18878,7 +18877,8 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
       "rugzakken",
-      "shoulder-messengers"
+      "shoulder-messengers",
+      "holsters"
     ],
     "sling-pistol-bag-10180": [
       "airsoft",
