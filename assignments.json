@@ -11079,6 +11079,13 @@
   "m-tac-paracord-550-type-iii-15m-785": [
     "paracord"
   ],
+  "m-tac-paracord-bracelet-7423": [
+    "paracord"
+  ],
+  "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
+    "kompassen",
+    "paracord"
+  ],
   "m-tac-paracord-survival-951": [
     "paracord"
   ],
@@ -11212,6 +11219,12 @@
   ],
   "m-tac-reinforced-tape-50-mm-10-m-8549": [
     "gaffer-tape"
+  ],
+  "m-tac-seat-pad-20-mm-7610": [
+    "slaapzakken-matten"
+  ],
+  "m-tac-seating-pad-with-belt-20": [
+    "riemen-bretels"
   ],
   "m-tac-set-of-2-duty-belt-keppers-tactical-police-law-enforcement-for-2-inch-belt-3192": [
     "karabijnhaken"
@@ -14386,6 +14399,10 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "m-tac-jacket-stalker-geniii-primaloft-8557": [
+      "m-tac",
+      "Clothing > Jackets > Mid-season jackets"
     ],
     "m-tac-knife-lanyard-scandinavian-861": [
       "Equipment and gear > Survival",
