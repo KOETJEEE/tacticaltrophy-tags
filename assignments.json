@@ -71,9 +71,6 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048"
   ],
-  "flag-odin-night-vision-630x900-5792": [
-    "nachtzicht-handheld"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -10296,6 +10293,9 @@
     "vingerloze-handschoenen",
     "tactical-bags"
   ],
+  "flag-odin-night-vision-630x900-5792": [
+    "nachtzicht-handheld"
+  ],
   "flashlight-a180-7601": [
     "zaklampen-hoofdlampen",
     "lampen-1"
@@ -14092,14 +14092,6 @@
       "bescherming",
       "m-tac"
     ],
-    "flag-odin-night-vision-630x900-5792": [
-      "optiek",
-      "nachtzicht",
-      "Equipment and gear > Flags",
-      "Military Line",
-      "m-tac",
-      "vlaggen"
-    ],
     "key-holder-elite-8653": [
       "m-tac",
       "Clothing > Accessories",
@@ -14679,6 +14671,14 @@
       "Clothing > Gloves > Fingerless",
       "m-tac",
       "handschoenen"
+    ],
+    "flag-odin-night-vision-630x900-5792": [
+      "optiek",
+      "nachtzicht",
+      "Equipment and gear > Flags",
+      "Military Line",
+      "m-tac",
+      "vlaggen"
     ],
     "flashlight-a180-7601": [
       "Equipment and gear > Flashlights",
