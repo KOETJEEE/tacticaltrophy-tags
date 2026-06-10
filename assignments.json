@@ -11060,7 +11060,6 @@
   "m-tac-paracord-550-type-iii-15m-785": [
     "paracord"
   ],
-  "m-tac-paracord-bracelet-7423": [],
   "m-tac-paracord-survival-951": [
     "paracord"
   ],
@@ -14369,13 +14368,17 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "m-tac-paracord-550-type-iii-15m-785": [
+      "bushcraft"
+    ],
     "m-tac-paracord-bracelet-7423": [
       "bushcraft",
       "paracord",
       "survival",
       "Equipment and gear > Survival",
       "m-tac",
-      "paracord-bracelets"
+      "paracord-bracelets",
+      "tourism > paracord bracelets"
     ],
     "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
       "bushcraft",
