@@ -1,5 +1,30 @@
 {
   "_flags": [
+    "batterij-nuprol-nimh-8-4v-1600mah-small",
+    "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
+    "mirage-band-attachment-rome",
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165",
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-s-710025",
+    "seating-pad-with-belt-20",
+    "m-tac-seating-pad-with-belt-18",
+    "seat-pad-with-belt-armor-8095",
+    "seat-mat-with-belt-attachment-armor-5769",
+    "safety-cord-with-d-ring-5727",
+    "safety-cord-medium-with-d-ring-and-fastex-5736",
+    "safety-cord-medium-universal-5730",
+    "safety-cord-lite-combined-with-d-ring-and-fastex-5763",
+    "safety-cord-lite-combo-5757",
+    "safety-cord-lite-combo-with-d-ring-5760",
+    "safety-cord-lite-for-carbine-5748",
+    "safety-cord-lite-for-carbine-with-d-ring-5751",
+    "safety-cord-lite-for-carbine-with-d-ring-and-fastex-5754",
+    "safety-cord-lite-universal-5745",
+    "safety-cord-medium-combined-with-d-ring-5740",
+    "safety-cord-medium-combo-5737",
+    "safety-cord-medium-combo-with-d-ring-and-fastex-5743",
+    "safety-cord-medium-for-carbine-5733",
+    "pas-pkm-8042",
+    "m-tac-waterproof-case-for-documents-16x12-cm-7604",
     "wallet-with-patch-panel-elite-genii-3184",
     "utility-travel-case-elite-medium-26x11-cm-457",
     "utility-travel-case-clear-elite-large-30x19-cm-400",
@@ -24,39 +49,14 @@
     "tactical-polo-shirt-6535-6633",
     "tactical-polo-shirt-long-sleeve-6535-6696",
     "tactical-polo-shirt-ranger-6535-9260",
-    "batterij-nuprol-nimh-8-4v-1600mah-small",
-    "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
-    "mirage-band-attachment-rome",
-    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165",
-    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-s-710025",
-    "seating-pad-with-belt-20",
-    "m-tac-seating-pad-with-belt-18",
     "konus-warmtebeeldcamera-flame-06x-24x-437953",
     "flir-scion-otm366-warmtebeeldcamera-13460336",
     "flir-scion-otm266-warmtebeeldcamera-13460266",
     "winter-parka-alpha-primaloft-mm14-10446",
     "winter-jacket-alpha-geniv-pro-pimaloft-3915",
-    "seat-pad-with-belt-armor-8095",
-    "seat-mat-with-belt-attachment-armor-5769",
     "satellite-magnet-bag-genii-elite-hex-379",
     "satellite-magnet-bag-elite-hex-378",
-    "satellite-bag-genii-7655",
-    "safety-cord-with-d-ring-5727",
-    "safety-cord-medium-with-d-ring-and-fastex-5736",
-    "safety-cord-medium-universal-5730",
-    "safety-cord-lite-combined-with-d-ring-and-fastex-5763",
-    "safety-cord-lite-combo-5757",
-    "safety-cord-lite-combo-with-d-ring-5760",
-    "safety-cord-lite-for-carbine-5748",
-    "safety-cord-lite-for-carbine-with-d-ring-5751",
-    "safety-cord-lite-for-carbine-with-d-ring-and-fastex-5754",
-    "safety-cord-lite-universal-5745",
-    "safety-cord-medium-combined-with-d-ring-5740",
-    "safety-cord-medium-combo-5737",
-    "safety-cord-medium-combo-with-d-ring-and-fastex-5743",
-    "safety-cord-medium-for-carbine-5733",
-    "pas-pkm-8042",
-    "m-tac-waterproof-case-for-documents-16x12-cm-7604"
+    "satellite-bag-genii-7655"
   ],
   "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
     "dump-pouches",
@@ -65,9 +65,9 @@
     "wapenkoffers"
   ],
   "m-tac-tactical-badge-holder-hook-surface-hanging-id-card-case-287": [
-    "wapenkoffers",
     "patches",
-    "tactical-bags"
+    "tactical-bags",
+    "wapenkoffers"
   ],
   "pas-pkm-8042": [
     "geweerriemen"
@@ -108,8 +108,8 @@
     "nachtzicht-handheld"
   ],
   "agm-observir-lrf-25-256-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121311": [
-    "cameras",
     "afstandsmeters",
+    "cameras",
     "nachtzicht-handheld"
   ],
   "agm-observir-lrf-35-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121318": [
@@ -118,13 +118,13 @@
     "nachtzicht-handheld"
   ],
   "agm-observir-lrf-50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121319": [
-    "cameras",
     "afstandsmeters",
+    "cameras",
     "nachtzicht-handheld"
   ],
   "agm-observir-lrf-60-1280-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121320": [
-    "cameras",
     "afstandsmeters",
+    "cameras",
     "nachtzicht-handheld"
   ],
   "agm-oculairdop-voor-pvs-7-pvs-14-en-sionyx-aurora-serie-504126": [
@@ -11276,8 +11276,7 @@
     "tactical-shirts"
   ],
   "m-tac-t-shirt-raglan-sweat-wicking-tactical-summer-8031": [
-    "tactical-shirts",
-    "tactical-bags"
+    "tactical-shirts"
   ],
   "m-tac-t-shirt-rex-team-7067": [
     "tactical-shirts",
@@ -11665,8 +11664,8 @@
     "broeken"
   ],
   "pants-stealth-cotton-2544": [
-    "broeken",
-    "joggingbroeken"
+    "joggingbroeken",
+    "broeken"
   ],
   "pants-sturm-nyco-extreme-genii-2501": [
     "broeken",
@@ -12648,9 +12647,9 @@
     "medical-pouches"
   ],
   "pouch-under-medical-gloves-elite-8165": [
-    "tactical-handschoenen",
+    "medical-pouches",
     "ehbo",
-    "medical-pouches"
+    "tactical-handschoenen"
   ],
   "pouch-utility-elite-hex-5534": [
     "utility-pouches"
@@ -13032,8 +13031,8 @@
   ],
   "sweat-wicking-t-shirt-genii-6561": [
     "shirts",
-    "thermokleding",
     "tactical-shirts",
+    "thermokleding",
     "thermoshirts"
   ],
   "sweater-nord-fleece-polartec-lady-3957": [
@@ -13092,9 +13091,9 @@
     "shirts"
   ],
   "t-shirt-ua-side-long-sleeve-6752": [
-    "shirts",
     "t-shirts-polos",
-    "tactical-shirts"
+    "tactical-shirts",
+    "shirts"
   ],
   "t-shirt-ultra-light-polartec-5593": [
     "t-shirts-polos"
@@ -13339,16 +13338,16 @@
     "tactical-riemen"
   ],
   "toiletry-bag-316": [
-    "admin-pouches",
-    "utility-pouches"
+    "utility-pouches",
+    "admin-pouches"
   ],
   "toiletry-kit-160": [
-    "admin-pouches",
-    "utility-pouches"
+    "utility-pouches",
+    "admin-pouches"
   ],
   "toiletry-kit-elite-genii-274": [
-    "admin-pouches",
-    "utility-pouches"
+    "utility-pouches",
+    "admin-pouches"
   ],
   "touring-thermos-1600-ml-stainless-7721": [
     "drinkflessen-thermos"
@@ -13358,8 +13357,8 @@
     "lampen-1"
   ],
   "tourist-lamp-matt-7611": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "train-hard-oversized-cotton-t-shirt-hard-10190": [
     "t-shirts-polos",
@@ -13565,8 +13564,8 @@
     "winterjassen"
   ],
   "winter-jacket-apha-basic-primaloft-9454": [
-    "jassen",
-    "winterjassen"
+    "winterjassen",
+    "jassen"
   ],
   "winter-parka-alpha-primaloft-mm14-10446": [
     "jassen",
@@ -13722,16 +13721,16 @@
     "warmtebeeld"
   ],
   "kowa-adapter-ring-tsn-ar500a-40mm-440236": [
-    "adapterringen",
-    "observatie-accessoires"
+    "observatie-accessoires",
+    "adapterringen"
   ],
   "kowa-adapter-ring-tsn-ar50l-57mm-440222": [
-    "adapterringen",
-    "observatie-accessoires"
+    "observatie-accessoires",
+    "adapterringen"
   ],
   "kowa-adapterring-tsn-ar30-440230": [
-    "adapterringen",
-    "observatie-accessoires"
+    "observatie-accessoires",
+    "adapterringen"
   ],
   "kowa-compact-spottingscope-tsn-553-prominar-15-45x55-446553": [
     "spotting-scopes"
