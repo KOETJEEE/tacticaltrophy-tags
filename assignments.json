@@ -11612,9 +11612,10 @@
     "tactical-bags",
     "admin-pouches"
   ],
-  "organizer-hardshell-utility-box-s-9962": [
-    "utility-pouches"
+  "organizer-hardshell-utility-box-l-9958": [
+    "admin-pouches"
   ],
+  "organizer-hardshell-utility-box-s-9962": [],
   "paladin-jacket-3572": [
     "jassen",
     "winterjassen"
@@ -17150,12 +17151,15 @@
       "tactical-gear",
       "utility-pouches",
       "pouches",
-      "m-tac"
+      "m-tac",
+      "Tactical gear > Pouches > Utility Pouches"
     ],
     "organizer-hardshell-utility-box-s-9962": [
       "m-tac",
       "pouches",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "tactical-gear",
+      "utility-pouches"
     ],
     "paladin-jacket-3572": [
       "Clothing > Jackets > Winter jackets",
