@@ -10323,10 +10323,7 @@
     "horloges",
     "petten"
   ],
-  "fleece-watch-cap-light-polartec-4742": [
-    "horloges",
-    "petten"
-  ],
+  "fleece-watch-cap-light-polartec-4742": [],
   "fleece-watch-cap-light-polartec-gen-ii-4758": [
     "mutsen"
   ],
@@ -14420,7 +14417,8 @@
     "fleece-watch-cap-light-polartec-4742": [
       "Clothing > Headwear > Cap",
       "m-tac",
-      "headwear"
+      "headwear",
+      "horloges"
     ],
     "fleece-watch-cap-light-polartec-gen-ii-4758": [
       "Clothing > Headwear > Cap",
