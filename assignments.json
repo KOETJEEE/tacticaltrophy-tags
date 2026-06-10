@@ -10964,7 +10964,6 @@
   "m-tac-gloves-summer-vent-8108": [
     "tactical-handschoenen"
   ],
-  "m-tac-gorget-compatible-with-active-headphones-for-ballistic-inserts-elite-9042": [],
   "m-tac-gun-backpack-case-105-cm-elite-hex-515": [
     "geweertassen-foudralen"
   ],
@@ -14408,7 +14407,9 @@
     ],
     "m-tac-gorget-compatible-with-active-headphones-for-ballistic-inserts-elite-9042": [
       "tactical-gear",
-      "m-tac"
+      "m-tac",
+      "Tactical gear > Tactical vests > Accessories",
+      "tactical-vest-accessoires"
     ],
     "m-tac-gun-backpack-case-105-cm-elite-hex-515": [
       "geweertassen",
