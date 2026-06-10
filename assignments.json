@@ -11199,9 +11199,7 @@
   "m-tac-sphaera-hex-hardsling-bag-348": [
     "tassen-rugzakken"
   ],
-  "m-tac-sphaera-hex-hardsling-bag-genii-elite-353": [
-    "tassen-rugzakken"
-  ],
+  "m-tac-sphaera-hex-hardsling-bag-genii-elite-353": [],
   "m-tac-t-shirt-937-lady-8791": [
     "t-shirts-polos"
   ],
@@ -14376,7 +14374,8 @@
       "m-tac",
       "longsleeve",
       "Polo > One color",
-      "polos"
+      "polos",
+      "t-shirts"
     ],
     "m-tac-t-shirt-belt-after-belt-10043": [
       "tactical-gear",
