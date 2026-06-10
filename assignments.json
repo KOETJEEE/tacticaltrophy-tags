@@ -10247,7 +10247,9 @@
   "edc-pocket-elite-10059": [
     "admin-pouches"
   ],
-  "edc-pocket-hex-elite-7938": [],
+  "edc-pocket-hex-elite-7938": [
+    "admin-pouches"
+  ],
   "elastic-pouch-for-1-magazine-elite-cordura-503": [
     "magazijn-pouches"
   ],
@@ -14599,7 +14601,9 @@
     "edc-pocket-hex-elite-7938": [
       "m-tac",
       "pouches",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "tactical-gear",
+      "utility-pouches"
     ],
     "elastic-pouch-for-1-magazine-elite-cordura-503": [
       "magazine-pouches",
