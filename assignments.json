@@ -11418,6 +11418,7 @@
   "m-tac-utility-pouch-elite-genii-9254": [
     "admin-pouches"
   ],
+  "m-tac-utility-pouch-elite-medium-74": [],
   "m-tac-utility-travel-case-elite-small-22x14-cm-458": [
     "utility-pouches"
   ],
@@ -16800,7 +16801,10 @@
     ],
     "m-tac-utility-pouch-elite-medium-74": [
       "tactical-gear",
-      "utility-pouches"
+      "utility-pouches",
+      "Military Line",
+      "m-tac",
+      "pouches"
     ],
     "m-tac-utility-travel-case-elite-small-22x14-cm-458": [
       "m-tac",
