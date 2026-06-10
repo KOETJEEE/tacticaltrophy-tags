@@ -10603,7 +10603,8 @@
     "jassen"
   ],
   "jacket-berserk-polartec-primaloft-9657": [
-    "jassen"
+    "jassen",
+    "tussenseizoenjassen"
   ],
   "jacket-berserk-polartec-primaloft-elite-9654": [
     "jassen",
@@ -14421,7 +14422,8 @@
     "jacket-berserk-polartec-primaloft-9657": [
       "Clothing > Jackets > Military jackets",
       "military",
-      "m-tac"
+      "m-tac",
+      "winter-jassen"
     ],
     "jacket-berserk-polartec-primaloft-elite-9654": [
       "m-tac",
