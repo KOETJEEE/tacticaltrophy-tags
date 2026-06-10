@@ -10888,11 +10888,11 @@
     "diversen-kleding"
   ],
   "m-tac-chest-rig-elite-1048": [
-    "chest-rigs",
-    "tactical-vests"
+    "chest-rigs"
   ],
   "m-tac-cobra-buckle-tactical-belt-304": [
-    "riemen-bretels"
+    "riemen-bretels",
+    "tactical-riemen"
   ],
   "m-tac-cobra-buckle-tactical-belt-genii-312": [
     "riemen-bretels",
@@ -14417,7 +14417,8 @@
       "m-tac",
       "Clothing > Belt",
       "tactical-gear",
-      "riemen-bretels"
+      "riemen-bretels",
+      "tactical-bags"
     ],
     "m-tac-cobra-buckle-tactical-belt-genii-312": [
       "tactical-bags",
