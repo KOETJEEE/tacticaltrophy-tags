@@ -14413,7 +14413,9 @@
     "m-tac-berg-buckle-tactical-belt-205": [
       "Clothing > Belt",
       "riemen-bretels",
-      "m-tac"
+      "m-tac",
+      "tactical-gear",
+      "tactical-bags"
     ],
     "m-tac-buckler-bag-elite-hex-384": [
       "Equipment and gear > Bags and backpacks > Bags",
