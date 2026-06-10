@@ -10315,9 +10315,11 @@
   "fleece-tactical-watch-cap-beanie-with-patch-panel-270gm2-4471": [
     "patches",
     "horloges",
-    "petten",
     "mutsen",
     "tactical-bags"
+  ],
+  "fleece-watch-cap-elite-260gm2-4431": [
+    "mutsen"
   ],
   "fleece-watch-cap-light-polartec-4742": [
     "mutsen"
@@ -14419,7 +14421,8 @@
       "petten",
       "survival",
       "Clothing > Headwear > Cap",
-      "headwear"
+      "headwear",
+      "m-tac"
     ],
     "fleece-watch-cap-light-polartec-4742": [
       "Clothing > Headwear > Cap",
