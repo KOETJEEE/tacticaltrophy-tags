@@ -122,6 +122,18 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .col-btn.partial{background:repeating-linear-gradient(135deg,#fef9c3 0px,#fef9c3 4px,#fff 4px,#fff 8px);color:#92400e;border-color:#fbbf24;font-weight:600}
 .col-btn.partial:hover{background:#fef3c7}
 .col-btn.drag-over{background:#f0fdf4!important;color:#15803d!important;border-color:#86efac!important}
+/* Filter tabs */
+#filter-tabs{display:flex;gap:4px;padding:6px 10px 0;flex-shrink:0}
+.ftab{padding:5px 12px;border-radius:6px 6px 0 0;border:1px solid transparent;font-size:.78rem;font-weight:600;cursor:pointer;background:transparent;color:#64748b;border-bottom:none}
+.ftab:hover{background:#f1f5f9;color:#334155}
+.ftab.active{background:#fff;border-color:#e2e8f0;color:#1d4ed8;border-bottom:1px solid #fff;margin-bottom:-1px}
+.ftab .fc{display:inline-block;min-width:20px;text-align:center;font-size:.72rem;opacity:.75}
+/* Gefilterd product */
+.pcard.pfiltered{opacity:.45}
+.pcard.pfiltered .pdot{background:#94a3b8!important}
+.pfilter-btn{margin-left:auto;padding:2px 7px;border:none;border-radius:4px;font-size:.72rem;cursor:pointer;background:transparent;color:#94a3b8;flex-shrink:0}
+.pfilter-btn:hover{background:#fee2e2;color:#dc2626}
+.pfilter-btn.active{background:#fee2e2;color:#dc2626;font-weight:700}
 .pcard.in-selection{outline:2px solid #60a5fa;background:#eff6ff}
 #bulk-banner{display:flex;align-items:center;gap:10px;padding:10px 14px;background:#eff6ff;border-bottom:1px solid #bfdbfe;flex-shrink:0}
 #bulk-banner .bulk-count{font-size:.9rem;font-weight:700;color:#1d4ed8;flex:1}
@@ -211,7 +223,13 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 
 <div id="main">
   <div id="products-panel">
-    <div id="product-search-wrap">
+    <div id="filter-tabs">
+      <button class="ftab active" data-tab="all">Alles <span class="fc" id="fc-all"></span></button>
+      <button class="ftab" data-tab="tagged">Getagd <span class="fc" id="fc-tagged"></span></button>
+      <button class="ftab" data-tab="untagged">Ongetagd <span class="fc" id="fc-untagged"></span></button>
+      <button class="ftab" data-tab="filtered">Uitgefilterd <span class="fc" id="fc-filtered"></span></button>
+    </div>
+    <div id="product-search-wrap" style="border-top:1px solid #e2e8f0">
       <input type="text" id="product-search" placeholder="Zoek product op naam…">
       <input type="text" id="tag-filter" placeholder="Filter op tag (komma voor meerdere)…">
     </div>
@@ -343,12 +361,14 @@ const assignments = {};   // product_handle → Set(col_handle)
 const removedTags = {};   // product_handle → Set(raw_tag_string) — nonColTags expliciet verwijderd
 const addedTags   = {};   // product_handle → Set(raw_tag_string) — handmatig toegevoegde tags
 const flagged     = new Set();   // gemarkeerde product_handles
+const filtered    = new Set();   // uitgefilterde product_handles
 const _dirty      = new Set();   // handles gewijzigd in deze sessie (in-memory, reset bij reload)
 let selectedHandle  = null;
 let selectedHandles = new Set();   // multi-selectie (Ctrl+klik)
 let productFilter   = '';
 let supplierFilter  = '';
 let flagFilter      = false;
+let tabFilter       = 'all';     // 'all' | 'tagged' | 'untagged' | 'filtered'
 let tagFilter       = [];
 let dragHandle      = null;
 let activeCat       = '';
@@ -366,8 +386,9 @@ function init() {
     }
   }
 
-  // Load flagged handles uit localStorage
+  // Load flagged + filtered handles uit localStorage
   loadFlagsLocal();
+  loadFilteredLocal();
 
   // Load verwijderde nonColTags uit localStorage
   const savedRemoved = loadRemovedLocal();
@@ -423,6 +444,13 @@ function init() {
   document.getElementById('col-search').addEventListener('input', () => { activeCat=''; renderCatTabs(); renderCollections(); });
   renderCatTabs();
   document.getElementById('clear-btn').addEventListener('click', clearSelection);
+  document.querySelectorAll('.ftab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      tabFilter = btn.dataset.tab;
+      document.querySelectorAll('.ftab').forEach(b => b.classList.toggle('active', b.dataset.tab === tabFilter));
+      renderList();
+    });
+  });
   document.getElementById('export-btn').addEventListener('click', exportCSV);
   document.getElementById('backup-btn').addEventListener('click', backupState);
   document.getElementById('restore-btn').addEventListener('click', () => document.getElementById('restore-input').click());
@@ -497,12 +525,20 @@ function init() {
 function renderStats() {
   let tagged = 0, untagged = 0;
   for (const p of PRODUCTS) {
+    if (filtered.has(p.handle)) continue;
     assignments[p.handle].size > 0 ? tagged++ : untagged++;
   }
+  const filtCount = filtered.size;
   const flagCount = flagged.size;
   const flagPart = flagCount > 0 ? ` &nbsp; <span style="color:#f59e0b">🚩</span> ${flagCount} gemarkeerd` : '';
   document.getElementById('stats').innerHTML =
     `<span class="stat-r">●</span> ${untagged} ongetagd &nbsp; <span class="stat-g">●</span> ${tagged} getagd${flagPart}`;
+  // Tab tellers
+  const allCount = PRODUCTS.length;
+  document.getElementById('fc-all').textContent      = allCount;
+  document.getElementById('fc-tagged').textContent   = tagged;
+  document.getElementById('fc-untagged').textContent = untagged;
+  document.getElementById('fc-filtered').textContent = filtCount || '';
 }
 
 function visibleProducts() {
@@ -516,6 +552,9 @@ function visibleProducts() {
       const allTags = new Set([...p.colTags, ...p.nonColTags].map(t => t.toLowerCase()));
       if (!tagFilter.every(t => allTags.has(t))) return false;
     }
+    if (tabFilter === 'filtered')  return filtered.has(p.handle);
+    if (tabFilter === 'tagged')    return !filtered.has(p.handle) && assignments[p.handle].size > 0;
+    if (tabFilter === 'untagged')  return !filtered.has(p.handle) && assignments[p.handle].size === 0;
     return true;
   });
 }
@@ -543,8 +582,9 @@ function renderList() {
     const imgTag = p.image
       ? `<img class="pthumb" src="${h(p.image)}" loading="lazy" alt="" onerror="this.style.display='none';this.insertAdjacentHTML('afterend','<div class=\'pthumb-ph\'>📦</div>')">`
       : `<div class="pthumb-ph">📦</div>`;
-    const isFlagged = flagged.has(p.handle);
-    return `<div class="pcard${sel?' selected':''}${inSel?' in-selection':''}${isFlagged?' flagged':''}"
+    const isFlagged  = flagged.has(p.handle);
+    const isFiltered = filtered.has(p.handle);
+    return `<div class="pcard${sel?' selected':''}${inSel?' in-selection':''}${isFlagged?' flagged':''}${isFiltered?' pfiltered':''}"
       data-handle="${h(p.handle)}"
       draggable="true"
       ondragstart="onDragStart(event,'${j(p.handle)}')"
@@ -559,6 +599,7 @@ function renderList() {
         ${catTagStr ? `<div class="pcattags">+&nbsp;${h(catTagStr)}</div>` : ''}
       </div>
       <button class="pflag${isFlagged?' active':''}" onclick="toggleFlag('${j(p.handle)}',event)" title="Markeer voor review">🚩</button>
+      <button class="pfilter-btn${isFiltered?' active':''}" onclick="toggleFiltered('${j(p.handle)}',event)" title="${isFiltered?'Haal uit filter':'Zet op uitgefilterd (sluit uit import)'}">⊘</button>
     </div>`;
   }).join('');
 }
@@ -997,6 +1038,26 @@ function loadFlagsLocal() {
   } catch(e) {}
 }
 
+function saveFilteredLocal() {
+  try { localStorage.setItem('tt-filtered-v1', JSON.stringify([...filtered])); } catch(e) {}
+}
+
+function loadFilteredLocal() {
+  try {
+    const arr = JSON.parse(localStorage.getItem('tt-filtered-v1') || '[]');
+    arr.forEach(h => filtered.add(h));
+  } catch(e) {}
+}
+
+function toggleFiltered(handle, event) {
+  event.stopPropagation();
+  filtered.has(handle) ? filtered.delete(handle) : filtered.add(handle);
+  saveFilteredLocal();
+  scheduleGitHubSave();
+  renderStats();
+  renderList();
+}
+
 // ── GitHub sync ──
 let _ghTimer = null;
 let _ghSha   = null;
@@ -1020,6 +1081,7 @@ async function saveToGitHub() {
   const addedData = {};
   for (const [h, s] of Object.entries(addedTags)) if (s.size > 0) addedData[h] = [...s];
   if (Object.keys(addedData).length) data._added = addedData;
+  if (filtered.size > 0) data._filtered = [...filtered];
   const content = btoa(unescape(encodeURIComponent(JSON.stringify(data, null, 2))));
   showSyncStatus('⟳ Opslaan…', '#94a3b8');
   try {
@@ -1125,6 +1187,11 @@ async function syncFromGitHub() {
       ghData._flags.forEach(hh => { if (!flagged.has(hh)) { flagged.add(hh); changed = true; } });
       if (changed) saveFlagsLocal();
     }
+    if (Array.isArray(ghData._filtered)) {
+      let fchanged = false;
+      ghData._filtered.forEach(hh => { if (!filtered.has(hh)) { filtered.add(hh); fchanged = true; } });
+      if (fchanged) saveFilteredLocal();
+    }
 
     // Assignments: altijd GitHub nemen, behalve handles die in déze sessie zijn gewijzigd
     // Ondersteunt ook oude krale-/benel-/mtac-/frankonia- prefix-handles in GitHub
@@ -1224,10 +1291,11 @@ function backupState() {
   const state = {
     version: 1,
     date: new Date().toISOString().slice(0, 10),
-    assignments: JSON.parse(localStorage.getItem('tt-tag-v1')   || '{}'),
-    added:       JSON.parse(localStorage.getItem('tt-added-v1') || '{}'),
-    removed:     JSON.parse(localStorage.getItem('tt-removed-v1') || '{}'),
-    flags:       JSON.parse(localStorage.getItem('tt-flags-v1') || '[]'),
+    assignments: JSON.parse(localStorage.getItem('tt-tag-v1')      || '{}'),
+    added:       JSON.parse(localStorage.getItem('tt-added-v1')    || '{}'),
+    removed:     JSON.parse(localStorage.getItem('tt-removed-v1')  || '{}'),
+    flags:       JSON.parse(localStorage.getItem('tt-flags-v1')    || '[]'),
+    filtered:    JSON.parse(localStorage.getItem('tt-filtered-v1') || '[]'),
   };
   const blob = new Blob([JSON.stringify(state, null, 2)], {type: 'application/json'});
   const url  = URL.createObjectURL(blob);
@@ -1247,17 +1315,20 @@ function restoreState(file) {
       localStorage.setItem('tt-tag-v1',      JSON.stringify(state.assignments));
       localStorage.setItem('tt-added-v1',    JSON.stringify(state.added   || {}));
       localStorage.setItem('tt-removed-v1',  JSON.stringify(state.removed || {}));
-      localStorage.setItem('tt-flags-v1',    JSON.stringify(state.flags   || []));
+      localStorage.setItem('tt-flags-v1',    JSON.stringify(state.flags    || []));
+      localStorage.setItem('tt-filtered-v1', JSON.stringify(state.filtered || []));
       // Herlaad de state in geheugen
       for (const [h, cols] of Object.entries(state.assignments)) {
         assignments[h] = new Set(cols);
       }
       for (const [h, tags] of Object.entries(state.added   || {})) addedTags[h]   = new Set(tags);
       for (const [h, tags] of Object.entries(state.removed || {})) removedTags[h] = new Set(tags);
-      flagged = new Set(state.flags || []);
+      flagged.clear();  (state.flags    || []).forEach(h => flagged.add(h));
+      filtered.clear(); (state.filtered || []).forEach(h => filtered.add(h));
       renderStats(); renderList();
       if (selectedHandle) renderCollections();
-      alert(`✓ Backup hersteld (${state.date}) — ${Object.keys(state.assignments).length} producten`);
+      const filt = (state.filtered || []).length;
+      alert(`✓ Backup hersteld (${state.date}) — ${Object.keys(state.assignments).length} producten${filt ? ', '+filt+' uitgefilterd' : ''}`);
     } catch(err) {
       alert('Fout bij inladen backup: ' + err.message);
     }
