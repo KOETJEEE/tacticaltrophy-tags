@@ -10913,9 +10913,7 @@
   "m-tac-buckler-bag-elite-hex-384": [
     "sling-bags"
   ],
-  "m-tac-carry-sling-bag-elite-geniv-82": [
-    "shoulder-messengers"
-  ],
+  "m-tac-carry-sling-bag-elite-geniv-82": [],
   "m-tac-carry-sling-bag-elite-geniv-with-velcro-110": [
     "sling-bags"
   ],
@@ -14579,7 +14577,8 @@
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048": [
       "m-tac",
       "Tactical gear > Tactical vests > Accessories",
-      "tactical-vest-accessoires"
+      "tactical-vest-accessoires",
+      "shoulder-messengers"
     ],
     "eva-knee-pad-inserts-pair-genii-grey-517": [
       "tactical-gear",
