@@ -14425,10 +14425,14 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "horizontal-medical-pouch-elite-483": [
+      "emt-pouches"
+    ],
     "horizontal-medical-pouch-large-elite-750": [
       "emt-pouches",
       "pouches",
-      "m-tac"
+      "m-tac",
+      "Tactical gear > Pouches > EMT Pouches"
     ],
     "horizontal-medical-pouch-roll-elite-5889": [
       "emt-pouches",
