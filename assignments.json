@@ -10477,7 +10477,9 @@
   "gun-sling-two-point-263": [
     "geweerriemen"
   ],
-  "hat-thin-viscous-100-acrylic-4696": [],
+  "hat-thin-viscous-100-acrylic-4696": [
+    "mutsen"
+  ],
   "headlamp-41-led-7622": [
     "zaklampen-hoofdlampen"
   ],
@@ -14414,6 +14416,9 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "gun-sling-two-point-263": [
+      "m-tac"
     ],
     "hat-thin-viscous-100-acrylic-4696": [
       "Clothing > Headwear > Cap",
