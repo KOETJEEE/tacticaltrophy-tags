@@ -565,8 +565,8 @@ function visibleProducts() {
     }
     if (tabFilter === 'filtered')  return filtered.has(p.handle);
     if (tabFilter === 'done')      return done.has(p.handle);
-    if (tabFilter === 'tagged')    return !filtered.has(p.handle) && assignments[p.handle].size > 0;
-    if (tabFilter === 'untagged')  return !filtered.has(p.handle) && assignments[p.handle].size === 0;
+    if (tabFilter === 'tagged')    return !filtered.has(p.handle) && !done.has(p.handle) && assignments[p.handle].size > 0;
+    if (tabFilter === 'untagged')  return !filtered.has(p.handle) && !done.has(p.handle) && assignments[p.handle].size === 0;
     return true;
   });
 }
@@ -1090,12 +1090,9 @@ function toggleDone(handle, event) {
   const wasDone = done.has(handle);
   wasDone ? done.delete(handle) : done.add(handle);
   saveDoneLocal();
-  if (!wasDone) {
-    tabFilter = 'done';
-    document.querySelectorAll('.ftab').forEach(b => b.classList.toggle('active', b.dataset.tab === 'done'));
-  }
   renderStats();
   renderList();
+  if (!wasDone) stepProduct(1);
 }
 
 // ── GitHub sync ──
