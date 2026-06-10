@@ -10944,8 +10944,7 @@
     "plate-carriers"
   ],
   "m-tac-gloves-assault-tactical-mk3-7137": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-handschoenen"
   ],
   "m-tac-gloves-assault-tactical-mk4-7147": [
     "tactical-handschoenen"
@@ -14409,7 +14408,9 @@
     "m-tac-gloves-assault-tactical-mk4-7147": [
       "tactical-bags",
       "tactical-gear",
-      "Clothing > Gloves > Tactical"
+      "Clothing > Gloves > Tactical",
+      "m-tac",
+      "handschoenen"
     ],
     "m-tac-gloves-assault-tactical-mk5-7235": [
       "tactical-bags",
