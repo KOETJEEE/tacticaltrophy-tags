@@ -11018,8 +11018,7 @@
     "magazijn-pouches"
   ],
   "m-tac-magazine-dump-pouch-lite-elite-728": [
-    "magazijn-pouches",
-    "dump-pouches"
+    "magazijn-pouches"
   ],
   "m-tac-magnet-bag-elite-hex-genii-430": [
     "tassen-rugzakken"
@@ -14389,7 +14388,8 @@
     ],
     "m-tac-magazine-dump-pouch-lite-elite-728": [
       "m-tac",
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > Dump Pouches"
     ],
     "m-tac-magnet-bag-elite-hex-genii-430": [
       "Equipment and gear > Bags and backpacks > Bags",
