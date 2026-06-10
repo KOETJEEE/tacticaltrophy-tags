@@ -10984,7 +10984,9 @@
   "m-tac-hydration-bladder-15l-8553": [
     "drinkflessen-thermos"
   ],
-  "m-tac-internal-tiger-belt-for-range-belt-817": [],
+  "m-tac-internal-tiger-belt-for-range-belt-817": [
+    "tactical-riemen"
+  ],
   "m-tac-jacket-stalker-geniii-primaloft-8557": [
     "jassen",
     "tussenseizoenjassen",
@@ -14403,7 +14405,8 @@
       "riemen-bretels",
       "m-tac",
       "bretels",
-      "belts"
+      "belts",
+      "kleding"
     ],
     "m-tac-jacket-stalker-geniii-primaloft-8557": [
       "m-tac",
