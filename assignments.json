@@ -10502,8 +10502,7 @@
     "holsters"
   ],
   "hoodie-born-by-revolution-9071": [
-    "hoodies",
-    "truien"
+    "hoodies"
   ],
   "hoodie-born-by-revolution-hard-8844": [
     "hoodies"
@@ -14420,7 +14419,9 @@
       "wapen-accessoires"
     ],
     "hoodie-born-by-revolution-9071": [
-      "Clothing > Hoodie"
+      "Clothing > Hoodie",
+      "m-tac",
+      "truien"
     ],
     "hoodie-born-by-revolution-hard-8844": [
       "Clothing > Hoodie",
