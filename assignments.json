@@ -10855,7 +10855,10 @@
     "tactical-bags",
     "tassen-rugzakken"
   ],
-  "m-tac-backpack-case-for-weapons-105-cm-genii-elite-8199": [],
+  "m-tac-backpack-case-for-weapons-105-cm-genii-elite-8199": [
+    "tactical-bags",
+    "geweertassen-foudralen"
+  ],
   "m-tac-bag-magnet-bag-x-pac-elite-9399": [
     "sling-bags"
   ],
