@@ -12514,7 +12514,9 @@
   "pc-utility-pouch-elite-hex-442": [
     "admin-pouches"
   ],
-  "pc-utility-pouch-elite-hex-genii-444": [],
+  "pc-utility-pouch-elite-hex-genii-444": [
+    "admin-pouches"
+  ],
   "pilgrim-jacket-3756": [
     "tussenseizoenjassen",
     "softshell-jassen"
@@ -12595,7 +12597,6 @@
     "plate-carriers"
   ],
   "plate-carrier-lower-accessory-pouch-genii-elite-228": [
-    "plate-carriers",
     "utility-pouches"
   ],
   "pocket-bag-hardsling-lite-nr-9701": [
