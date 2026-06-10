@@ -10239,6 +10239,9 @@
   "fanny-bag-10024": [
     "tassen-rugzakken"
   ],
+  "fastening-with-d-ring-677": [
+    "velcro-strips"
+  ],
   "field-jacket-patrol-ranger-flex-9497": [
     "tactical-shirts"
   ],
@@ -14413,7 +14416,8 @@
       "wapen-accessoires"
     ],
     "field-jacket-patrol-ranger-flex-9497": [
-      "Clothing > Shirts"
+      "Clothing > Shirts",
+      "m-tac"
     ],
     "field-maintenance-tray-24x24cm-747": [
       "wapen-accessoires",
