@@ -10899,9 +10899,7 @@
     "riemen-bretels",
     "tactical-bags"
   ],
-  "m-tac-cross-bag-slim-elite-hex-698": [
-    "tassen-rugzakken"
-  ],
+  "m-tac-cross-bag-slim-elite-hex-698": [],
   "m-tac-damper-on-the-shoulder-strap-40-mm-elite-474": [
     "shoulder-messengers"
   ],
@@ -14413,7 +14411,11 @@
     "m-tac-cross-bag-slim-elite-hex-698": [
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
-      "m-tac"
+      "m-tac",
+      "rugzakken",
+      "tassen-rugzakken",
+      "schietsport",
+      "jacht"
     ],
     "m-tac-damper-on-the-shoulder-strap-40-mm-elite-474": [
       "Equipment and gear > Bags and backpacks > Backpack accessories",
