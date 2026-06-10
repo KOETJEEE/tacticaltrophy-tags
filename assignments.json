@@ -11287,7 +11287,9 @@
   "m-tac-sling-bag-large-elite-genii-782": [
     "sling-bags"
   ],
-  "m-tac-sling-pistol-bag-elite-hex-543": [],
+  "m-tac-sling-pistol-bag-elite-hex-543": [
+    "sling-bags"
+  ],
   "m-tac-socks-coolmax-35-7408": [
     "sokken"
   ],
@@ -11409,9 +11411,7 @@
     "thermokleding",
     "thermoshirts"
   ],
-  "m-tac-urban-line-city-patrol-carabiner-bag-7438": [
-    "shoulder-messengers"
-  ],
+  "m-tac-urban-line-city-patrol-carabiner-bag-7438": [],
   "m-tac-usa-tokens-with-rubber-bands-8312": [
     "diversen-kleding"
   ],
@@ -16455,7 +16455,8 @@
       "m-tac",
       "rugzakken",
       "Tactical Line",
-      "tassen"
+      "tassen",
+      "shoulder-messengers"
     ],
     "m-tac-socks-coolmax-35-7408": [
       "Clothing > Socks",
@@ -16708,7 +16709,8 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "shoulder-messengers"
     ],
     "m-tac-utility-travel-case-elite-small-22x14-cm-458": [
       "m-tac",
