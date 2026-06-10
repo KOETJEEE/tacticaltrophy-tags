@@ -10967,6 +10967,9 @@
   "m-tac-gun-backpack-case-105-cm-elite-hex-515": [
     "geweertassen-foudralen"
   ],
+  "m-tac-gun-belt-single-point-669": [
+    "geweerriemen"
+  ],
   "m-tac-hoodie-combat-black-edition-8707": [
     "hoodies",
     "truien"
@@ -14410,7 +14413,8 @@
       "kleding",
       "wapen-toebehoren",
       "m-tac",
-      "riemen-bretels"
+      "riemen-bretels",
+      "Tactical gear > Gun Sling"
     ],
     "m-tac-hoodie-combat-black-edition-8707": [
       "Clothing > Hoodie",
