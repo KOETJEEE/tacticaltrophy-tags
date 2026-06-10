@@ -13184,9 +13184,7 @@
   "t-shirt-worn-to-the-bone-oversize-9365": [
     "shirts"
   ],
-  "tactical-bag-shoulder-chest-pack-with-sling-152": [
-    "shoulder-messengers"
-  ],
+  "tactical-bag-shoulder-chest-pack-with-sling-152": [],
   "tactical-bag-shoulder-chest-pack-with-sling-155": [
     "shoulder-messengers"
   ],
@@ -19251,7 +19249,8 @@
       "m-tac",
       "schietsport",
       "jacht",
-      "tassen-rugzakken"
+      "tassen-rugzakken",
+      "shoulder-messengers"
     ],
     "tactical-bag-shoulder-chest-pack-with-sling-155": [
       "Tactical Line",
