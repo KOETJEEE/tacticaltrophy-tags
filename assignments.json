@@ -10204,9 +10204,7 @@
     "veldnotitie",
     "tactical-bags"
   ],
-  "edc-bag-elite-7963": [
-    "tassen-rugzakken"
-  ],
+  "edc-bag-elite-7963": [],
   "edc-bag-elite-hex-7998": [
     "sling-bags"
   ],
@@ -14423,7 +14421,10 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "rugzakken",
       "m-tac",
-      "tassen"
+      "tassen",
+      "schietsport",
+      "jacht",
+      "tassen-rugzakken"
     ],
     "edc-bag-elite-hex-7998": [
       "Equipment and gear > Bags and backpacks > Bags",
