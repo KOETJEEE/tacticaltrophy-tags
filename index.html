@@ -235,6 +235,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <button class="ftab" data-tab="tagged">Getagd <span class="fc" id="fc-tagged"></span></button>
       <button class="ftab" data-tab="untagged">Ongetagd <span class="fc" id="fc-untagged"></span></button>
       <button class="ftab" data-tab="filtered">Uitgefilterd <span class="fc" id="fc-filtered"></span></button>
+      <button class="ftab" data-tab="done">Afgerond <span class="fc" id="fc-done"></span></button>
     </div>
     <div id="product-search-wrap" style="border-top:1px solid #e2e8f0">
       <input type="text" id="product-search" placeholder="Zoek product op naam…">
@@ -548,6 +549,7 @@ function renderStats() {
   document.getElementById('fc-tagged').textContent   = tagged;
   document.getElementById('fc-untagged').textContent = untagged;
   document.getElementById('fc-filtered').textContent = filtCount || '';
+  document.getElementById('fc-done').textContent     = done.size || '';
 }
 
 function visibleProducts() {
@@ -562,6 +564,7 @@ function visibleProducts() {
       if (!tagFilter.every(t => allTags.has(t))) return false;
     }
     if (tabFilter === 'filtered')  return filtered.has(p.handle);
+    if (tabFilter === 'done')      return done.has(p.handle);
     if (tabFilter === 'tagged')    return !filtered.has(p.handle) && assignments[p.handle].size > 0;
     if (tabFilter === 'untagged')  return !filtered.has(p.handle) && assignments[p.handle].size === 0;
     return true;
