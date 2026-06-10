@@ -10952,8 +10952,7 @@
     "tactical-bags"
   ],
   "m-tac-gloves-assault-tactical-mk5-7235": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-handschoenen"
   ],
   "m-tac-gloves-nomex-sport-leather-8120": [
     "tactical-handschoenen"
@@ -14410,7 +14409,8 @@
     ],
     "m-tac-gloves-nomex-sport-leather-8120": [
       "Clothing > Gloves",
-      "handschoenen"
+      "handschoenen",
+      "m-tac"
     ],
     "m-tac-gloves-police-7222": [
       "Clothing > Gloves > Tactical",
