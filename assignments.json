@@ -13500,10 +13500,10 @@
   "utility-organizer-transparent-elite-small-genii-414": [
     "admin-pouches"
   ],
-  "utility-pouch-elite-small-78": [],
-  "utility-shoulder-pouch-elite-genii-347": [
-    "utility-pouches"
+  "utility-pouch-elite-small-78": [
+    "admin-pouches"
   ],
+  "utility-shoulder-pouch-elite-genii-347": [],
   "utility-travel-case-clear-elite-large-30x19-cm-400": [
     "utility-pouches"
   ],
