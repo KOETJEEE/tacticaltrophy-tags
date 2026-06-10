@@ -10873,6 +10873,9 @@
   "m-tac-buckler-bag-elite-hex-384": [
     "tassen-rugzakken"
   ],
+  "m-tac-carry-sling-bag-elite-geniv-82": [
+    "shoulder-messengers"
+  ],
   "m-tac-carry-sling-bag-elite-geniv-with-velcro-110": [
     "sling-bags"
   ],
@@ -14407,6 +14410,12 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "m-tac-buckler-bag-elite-hex-384": [
+      "Equipment and gear > Bags and backpacks > Bags",
+      "tassen",
+      "Tactical Line",
+      "rugzakken"
     ],
     "m-tac-carry-sling-bag-elite-geniv-82": [
       "Equipment and gear > Bags and backpacks > Bags",
