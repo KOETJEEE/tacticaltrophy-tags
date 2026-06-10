@@ -147,6 +147,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 #bulk-banner .bulk-titles{font-size:.75rem;color:#3b82f6;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:280px}
 #bulk-banner .bulk-desel{padding:4px 10px;border:1px solid #93c5fd;border-radius:6px;background:#fff;color:#1d4ed8;font-size:.78rem;cursor:pointer;white-space:nowrap}
 #bulk-banner .bulk-desel:hover{background:#dbeafe}
+#bulk-banner .bulk-action{padding:4px 10px;border:1px solid #d1d5db;border-radius:6px;background:#fff;font-size:.78rem;cursor:pointer;white-space:nowrap}
+#bulk-banner .bulk-action:hover{filter:brightness(.95)}
 
 /* Drag overlay hint */
 #drag-hint{position:fixed;bottom:16px;left:50%;transform:translateX(-50%);background:#1e293b;color:#fff;padding:8px 16px;border-radius:20px;font-size:.8rem;pointer-events:none;opacity:0;transition:opacity .2s;z-index:100}
@@ -255,6 +257,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
           <div class="bulk-count"></div>
           <div class="bulk-titles"></div>
         </div>
+        <button class="bulk-action" onclick="bulkFlag()" style="color:#b45309">🚩 Markeer alles</button>
+        <button class="bulk-action" onclick="bulkFilter()" style="color:#dc2626">⊘ Uitfilteren alles</button>
+        <button class="bulk-action" onclick="bulkDone()" style="color:#16a34a">✓ Afgerond alles</button>
         <button class="bulk-desel" onclick="deselectAll()">✕ Deselecteer alles</button>
       </div>
       <div id="detail-info">
@@ -1072,6 +1077,28 @@ function toggleFiltered(handle, event) {
   scheduleGitHubSave();
   renderStats();
   renderList();
+}
+
+function bulkFlag() {
+  const allFlagged = [...selectedHandles].every(h => flagged.has(h));
+  selectedHandles.forEach(h => allFlagged ? flagged.delete(h) : flagged.add(h));
+  saveFlagsLocal();
+  renderStats(); renderList();
+}
+
+function bulkFilter() {
+  const allFiltered = [...selectedHandles].every(h => filtered.has(h));
+  selectedHandles.forEach(h => allFiltered ? filtered.delete(h) : filtered.add(h));
+  saveFilteredLocal();
+  scheduleGitHubSave();
+  renderStats(); renderList();
+}
+
+function bulkDone() {
+  const allDone = [...selectedHandles].every(h => done.has(h));
+  selectedHandles.forEach(h => allDone ? done.delete(h) : done.add(h));
+  saveDoneLocal();
+  renderStats(); renderList();
 }
 
 function saveDoneLocal() {
