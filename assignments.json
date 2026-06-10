@@ -8793,9 +8793,7 @@
   "red-dot-utg-4-2-ita": [
     "red-dots"
   ],
-  "utility-pouch-nuprol-medium-pmc-green": [
-    "utility-pouches"
-  ],
+  "utility-pouch-nuprol-medium-pmc-green": [],
   "utility-pouch-nuprol-medium-pmc-tan": [
     "utility-pouches"
   ],
@@ -14162,7 +14160,8 @@
       "pouches"
     ],
     "admin-pouch-nuprol-tan": [
-      "pouches"
+      "pouches",
+      "utility-pouches"
     ],
     "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
       "vochtontrekkers",
@@ -14411,6 +14410,10 @@
       "rookgranaten",
       "airsoft",
       "schietsport"
+    ],
+    "utility-pouch-nuprol-medium-pmc-green": [
+      "tactical-gear",
+      "utility-pouches"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
