@@ -10804,6 +10804,9 @@
     "tactical-bags",
     "tassen-rugzakken"
   ],
+  "laser-cut-shotgun-shell-pouch-for-12-gauge-9768": [
+    "magazijn-pouches"
+  ],
   "led-mini-flashlight-5923": [
     "zaklampen-hoofdlampen"
   ],
@@ -14430,7 +14433,8 @@
       "lampen-en-lasers",
       "m-tac",
       "Tactical Line",
-      "lampen"
+      "lampen",
+      "tactical-gear"
     ],
     "light-sticks-45x40-mm-10-items-6482": [
       "bushcraft",
