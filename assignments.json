@@ -10621,8 +10621,7 @@
     "truien"
   ],
   "jacket-combat-fleece-polartec-lady-3977": [
-    "fleece",
-    "truien"
+    "fleece"
   ],
   "jacket-field-nyco-2688": [
     "tactical-shirts"
@@ -14425,7 +14424,8 @@
     "jacket-combat-fleece-polartec-lady-3977": [
       "Clothing > Fleeces",
       "m-tac",
-      "fleeces"
+      "fleeces",
+      "truien"
     ],
     "jacket-field-nyco-2688": [
       "Clothing > Shirts",
