@@ -10867,8 +10867,7 @@
     "tassen-rugzakken"
   ],
   "m-tac-berg-buckle-tactical-belt-205": [
-    "riemen-bretels",
-    "tactical-bags"
+    "riemen-bretels"
   ],
   "m-tac-buckler-bag-elite-hex-384": [
     "sling-bags"
@@ -14413,7 +14412,8 @@
     ],
     "m-tac-berg-buckle-tactical-belt-205": [
       "Clothing > Belt",
-      "riemen-bretels"
+      "riemen-bretels",
+      "m-tac"
     ],
     "m-tac-buckler-bag-elite-hex-384": [
       "Equipment and gear > Bags and backpacks > Bags",
