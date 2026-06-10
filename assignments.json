@@ -14419,6 +14419,11 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "edc-pocket-elite-10059": [
+      "m-tac",
+      "pouches",
+      "Tactical gear > Pouches > Utility Pouches"
+    ],
     "edc-pocket-hex-elite-7938": [
       "m-tac",
       "pouches",
@@ -14427,7 +14432,8 @@
     "elastic-pouch-for-1-magazine-elite-cordura-503": [
       "magazine-pouches",
       "pouches",
-      "m-tac"
+      "m-tac",
+      "Tactical gear > Pouches > Magazine Pouches"
     ],
     "elastic-tourniquet-holder-geniii-359": [
       "emt-pouches",
