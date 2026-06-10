@@ -14422,9 +14422,14 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "jacket-field-nyco-2688": [
+      "Clothing > Shirts"
+    ],
     "jacket-field-nyco-extreme-2643": [
       "Clothing > Shirts",
-      "winter-jassen"
+      "winter-jassen",
+      "m-tac",
+      "kleding"
     ],
     "jacket-flash-3685": [
       "Clothing > Jackets > Windbreaker jackets",
