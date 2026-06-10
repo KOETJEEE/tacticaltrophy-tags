@@ -10910,7 +10910,8 @@
   ],
   "m-tac-double-duty-tactical-belt-163": [
     "riemen-bretels",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-riemen"
   ],
   "m-tac-double-mag-pouch-hook-backed-magazine-284": [
     "magazijn-pouches"
@@ -14415,7 +14416,8 @@
       "Equipment and gear > Bags and backpacks > Backpack accessories",
       "pouches",
       "m-tac",
-      "rugzak-accessoires"
+      "rugzak-accessoires",
+      "Tactical Line"
     ],
     "m-tac-drop-leg-platform-gen3-150": [
       "m-tac",
