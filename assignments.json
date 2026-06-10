@@ -11034,7 +11034,6 @@
     "shirts",
     "tactical-shirts"
   ],
-  "m-tac-open-double-pouch-for-ak-36": [],
   "m-tac-open-double-pouch-for-ak-laser-cut-614": [
     "magazijn-pouches"
   ],
@@ -14375,7 +14374,9 @@
     ],
     "m-tac-open-double-pouch-for-ak-36": [
       "m-tac",
-      "tactical-gear"
+      "tactical-gear",
+      "magazine-pouches",
+      "pouches"
     ],
     "m-tac-open-double-pouch-for-ak-laser-cut-614": [
       "m-tac",
