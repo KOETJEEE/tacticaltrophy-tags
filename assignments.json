@@ -26,16 +26,13 @@
     "pas-pkm-8042",
     "m-tac-waterproof-case-for-documents-16x12-cm-7604"
   ],
-  "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
-    "warmtebeeld"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
-    "voorzetvergrotingen",
-    "nachtzicht-handheld"
+    "nachtzicht-handheld",
+    "voorzetvergrotingen"
   ],
   "agm-5x-afocal-vergrootlens-61025xa1-121105": [
-    "voorzetvergrotingen",
-    "nachtzicht-handheld"
+    "nachtzicht-handheld",
+    "voorzetvergrotingen"
   ],
   "agm-foxbat-5-nl1-nachtzicht-verrekijker-5x-vergroting-gen2-green-phosphor-121090": [
     "nachtzicht-handheld"
@@ -65,8 +62,8 @@
     "nachtzicht-handheld"
   ],
   "agm-observir-lrf-25-256-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121311": [
-    "cameras",
     "afstandsmeters",
+    "cameras",
     "nachtzicht-handheld"
   ],
   "agm-observir-lrf-35-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121318": [
@@ -75,13 +72,13 @@
     "nachtzicht-handheld"
   ],
   "agm-observir-lrf-50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121319": [
-    "cameras",
     "afstandsmeters",
+    "cameras",
     "nachtzicht-handheld"
   ],
   "agm-observir-lrf-60-1280-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121320": [
-    "cameras",
     "afstandsmeters",
+    "cameras",
     "nachtzicht-handheld"
   ],
   "agm-oculairdop-voor-pvs-7-pvs-14-en-sionyx-aurora-serie-504126": [
@@ -95,12 +92,12 @@
     "nachtzicht-handheld"
   ],
   "agm-pvs-7-nl1-nachtkijker-goggles-bi-oculair-gen2-green-phosphor-121072": [
-    "oculairs",
-    "nachtzicht-handheld"
+    "nachtzicht-handheld",
+    "oculairs"
   ],
   "agm-pvs-7-nw1-nachtkijker-goggles-bi-oculair-gen2-white-phosphor-121073": [
-    "oculairs",
-    "nachtzicht-handheld"
+    "nachtzicht-handheld",
+    "oculairs"
   ],
   "agm-reachir-lrf-25-384-warmtebeeldcamera-met-laser-rangefinder-121308": [
     "afstandsmeters"
@@ -112,14 +109,35 @@
     "afstandsmeters"
   ],
   "agm-sioux850-long-range-infraroodstraler-850nm1000mw-121100": [
-    "richtmiddel-accessoires",
+    "nachtzicht-handheld",
     "observatie-accessoires",
-    "nachtzicht-handheld"
+    "richtmiddel-accessoires"
   ],
   "agm-sioux940-long-range-infraroodstraler-940nm-800mw-v2-121321": [
+    "nachtzicht-handheld",
     "observatie-accessoires",
-    "richtmiddel-accessoires",
-    "nachtzicht-handheld"
+    "richtmiddel-accessoires"
+  ],
+  "agm-taipan-tm15-384-warmtebeeldcamera-121207": [
+    "warmtebeeld"
+  ],
+  "agm-taipanv2-10-256-warmtebeeldcamera-121312": [
+    "warmtebeeld"
+  ],
+  "agm-taipanv2-15-256-warmtebeeldcamera-121313": [
+    "warmtebeeld"
+  ],
+  "agm-taipanv2-15-384-warmtebeeldcamera-121315": [
+    "warmtebeeld"
+  ],
+  "agm-taipanv2-19-320-warmtebeeldcamera-121314": [
+    "warmtebeeld"
+  ],
+  "agm-taipanv2-19-384-warmtebeeldcamera-121316": [
+    "warmtebeeld"
+  ],
+  "agm-taipanv2-25-384-warmtebeeldcamera-121317": [
+    "warmtebeeld"
   ],
   "agm-wolf-14-nl1-monoculaire-nachtkijker-gen2-green-phosphor-121060": [
     "nachtzicht-handheld"
@@ -135,6 +153,9 @@
   ],
   "aparo-rgbww-led-air-tube-ht-20c-291307": [
     "dames-signaalkleding"
+  ],
+  "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
+    "warmtebeeld"
   ],
   "buteo-photo-gear-3d-blaadjes-handschoenen-720101": [
     "tactical-handschoenen"
@@ -197,19 +218,19 @@
     "nachtzicht-handheld"
   ],
   "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
-    "voorzetkijkers",
-    "loepen"
+    "loepen",
+    "voorzetkijkers"
   ],
   "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [
-    "voorzetkijkers",
-    "loepen"
+    "loepen",
+    "voorzetkijkers"
   ],
   "carson-magnigrip-mg-88-loep-met-pincet-186154": [
     "loepen"
   ],
   "carson-uv-led-zaklamp-uvsight-pro-186300": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "carson-verrekijker-wildcat-7x18-186459": [
     "verrekijkers"
@@ -425,20 +446,20 @@
     "wapenkoffers"
   ],
   "explorer-cases-bph53-fotovideo-rugzak-met-vakverdeler-250850": [
+    "koffers",
     "tactical-bags",
     "tassen-rugzakken",
-    "koffers",
     "wapenkoffers"
   ],
   "explorer-cases-combinatieslot-255415": [
-    "wapensloten",
     "koffers",
-    "wapenkoffers"
+    "wapenkoffers",
+    "wapensloten"
   ],
   "explorer-cases-combinatieslot-tsa-gekeurd-255420": [
-    "wapensloten",
     "koffers",
-    "wapenkoffers"
+    "wapenkoffers",
+    "wapensloten"
   ],
   "explorer-cases-div4820-divider-set-voor-4820-255107": [
     "koffers",
@@ -570,6 +591,45 @@
   "flir-breach-ptq136-objectief-beschermlens-13431910": [
     "beschermkappen"
   ],
+  "flir-breach-ptq136-warmtebeeldcamera-13431913": [
+    "warmtebeeld"
+  ],
+  "flir-c3-x-warmtebeeldcamera-13461469": [
+    "warmtebeeld"
+  ],
+  "flir-c5-warmtebeeldcamera-13431960": [
+    "warmtebeeld"
+  ],
+  "flir-c8-warmtebeeldcamera-13461485": [
+    "warmtebeeld"
+  ],
+  "flir-one-edge-pro-warmtebeeldcamera-13431953": [
+    "warmtebeeld"
+  ],
+  "flir-one-edge-warmtebeeldcamera-13461468": [
+    "warmtebeeld"
+  ],
+  "flir-one-pro-warmtebeeldcamera-voor-android-usb-c-13431951": [
+    "warmtebeeld"
+  ],
+  "flir-one-pro-warmtebeeldcamera-voor-ios-13431950": [
+    "warmtebeeld"
+  ],
+  "flir-scout-pro-ii-warmtebeeldcamera-13461482": [
+    "warmtebeeld"
+  ],
+  "flir-scout-pro-iii-warmtebeeldcamera-13461483": [
+    "warmtebeeld"
+  ],
+  "flir-scout-pro-warmtebeeldcamera-13461478": [
+    "warmtebeeld"
+  ],
+  "flir-tg268-warmtebeeldcamera-13461479": [
+    "warmtebeeld"
+  ],
+  "flir-tg298-warmtebeeldcamera-13461480": [
+    "warmtebeeld"
+  ],
   "konus-cantilever-montage-universeel-437219": [
     "montage-accessoires"
   ],
@@ -589,28 +649,28 @@
     "montage-accessoires"
   ],
   "konus-oplaadbare-zaklamp-konuslight-rc-5-433928": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "konus-red-green-dot-richtkijker-konusight-437338": [
-    "richtkijkers",
-    "red-dots"
+    "red-dots",
+    "richtkijkers"
   ],
   "konus-red-green-dot-richtkijker-sight-pro-r8-437337": [
-    "richtkijkers",
-    "red-dots"
+    "red-dots",
+    "richtkijkers"
   ],
   "konus-red-dot-richtkijker-fission-mr-437335": [
-    "richtkijkers",
-    "red-dots"
+    "red-dots",
+    "richtkijkers"
   ],
   "konus-red-dot-richtkijker-nuclear-1x22-437217": [
-    "richtkijkers",
-    "red-dots"
+    "red-dots",
+    "richtkijkers"
   ],
   "konus-red-dot-richtkijker-sight-pro-pts2-437203": [
-    "richtkijkers",
-    "red-dots"
+    "red-dots",
+    "richtkijkers"
   ],
   "konus-richtkijker-event-1-10x24-437183": [
     "richtkijkers"
@@ -676,24 +736,24 @@
     "richtkijkers"
   ],
   "konus-spotting-scope-konuspot-100c-20-60x100-437127": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "konus-spotting-scope-konuspot-65c-15-45x65-437128": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "konus-spotting-scope-konuspot-70b-20-60x70-437336": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "konus-spotting-scope-konuspot-80c-20-60x80-437126": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "konus-statief-3-pod-9-431959": [
     "statieven"
@@ -725,9 +785,12 @@
   "konus-verrekijker-vivisport-16x32-432040": [
     "verrekijkers"
   ],
+  "konus-warmtebeeldcamera-fiery-2x-16x-437957": [
+    "warmtebeeld"
+  ],
   "konus-zaklamp-konuscap-433911": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "kowa-21x-groothoek-oculair-tse-21wh-voor-highlander-446006": [
     "oculairs"
@@ -767,105 +830,105 @@
     "adapterringen"
   ],
   "kowa-compact-spotting-scope-tsn-501-20-40x50-446501": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-compact-spotting-scope-tsn-502-20-40x50-446502": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-groothoek-oculair-te-80xw-35x40x-440996": [
     "oculairs"
   ],
   "kowa-spotting-scope-body-tsn-66a-prominar-441667": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-body-tsn-66s-prominar-441668": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-body-tsn-88a-prominar-441887": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-body-tsn-99a-prominar-440993": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-body-tsn-99s-prominar-440994": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-55a-prominar-incl-17-40x-oculair-441555": [
-    "spotting-scopes",
-    "oculairs",
     "monoculairs",
-    "richtkijkers"
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-601-tse-z9b-20-60x-oculair-440606": [
-    "spotting-scopes",
-    "oculairs",
     "monoculairs",
-    "richtkijkers"
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-66a-prominar-incl-te-11wz-ii-wa-oculair-441665": [
-    "spotting-scopes",
-    "oculairs",
     "monoculairs",
-    "richtkijkers"
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-66s-prominar-incl-te-11wz-ii-wa-oculair-441666": [
-    "spotting-scopes",
-    "oculairs",
     "monoculairs",
-    "richtkijkers"
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-82sv-tse-z9b-20-60x-oculair-440818": [
-    "spotting-scopes",
-    "oculairs",
     "monoculairs",
-    "richtkijkers"
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-88a-prominar-incl-te-11wz-ii-wa-oculair-441885": [
-    "spotting-scopes",
-    "oculairs",
     "monoculairs",
-    "richtkijkers"
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-88s-prominar-incl-te-11wz-ii-wa-oculair-441886": [
-    "spotting-scopes",
-    "oculairs",
     "monoculairs",
-    "richtkijkers"
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-99a-prominar-kit-met-te-11wz-ii-wa-oculair-440991": [
-    "spotting-scopes",
-    "oculairs",
     "monoculairs",
-    "richtkijkers"
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-99s-prominar-kit-met-te-11wz-ii-wa-oculair-440992": [
-    "spotting-scopes",
-    "oculairs",
     "monoculairs",
-    "richtkijkers"
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-tsn-arzh-adapter-ring-voor-zeiss-harpia-440971": [
     "adapterringen"
   ],
   "kowa-twist-up-voor-spotting-scope-oculair-te-10zte11wz-en-te17w-446600": [
-    "spotting-scopes",
-    "oculairs",
     "monoculairs",
-    "richtkijkers"
+    "oculairs",
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "kowa-verrekijker-bd25-10x25-441025": [
     "verrekijkers"
@@ -1000,8 +1063,8 @@
     "richtkijkers"
   ],
   "objectief-beschermlens-voor-vortex-red-dot-crossfire-2-42900281": [
-    "red-dots",
-    "beschermkappen"
+    "beschermkappen",
+    "red-dots"
   ],
   "sionyx-aurora-top-hat-voor-montage-eyecup-504125": [
     "cameras",
@@ -1029,8 +1092,8 @@
     "nachtzicht-handheld"
   ],
   "sionyx-objectief-beschermlens-504121": [
-    "cameras",
     "beschermkappen",
+    "cameras",
     "nachtzicht-handheld"
   ],
   "sionyx-opsin-digitale-full-color-nachtkijker-goggles-504108": [
@@ -1039,8 +1102,8 @@
   ],
   "sionyx-picatinny-rail-montage-504106": [
     "cameras",
-    "picatinny-rails",
-    "nachtzicht-handheld"
+    "nachtzicht-handheld",
+    "picatinny-rails"
   ],
   "sirui-sportich-b1042b-md-bk-verrekijker-10x42-met-laser-afstandsmeter-610521": [
     "afstandsmeters",
@@ -1063,14 +1126,14 @@
     "verrekijkers"
   ],
   "sirui-sportich-s6080a-bk-spotting-scope-20-60x80-610541": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "sirui-sportich-s6080a-gn-spotting-scope-20-60x80-610542": [
-    "spotting-scopes",
     "monoculairs",
-    "richtkijkers"
+    "richtkijkers",
+    "spotting-scopes"
   ],
   "sirui-sportich-statief-sp004g5x-groen-610401": [
     "statieven",
@@ -1150,8 +1213,8 @@
     "nachtzicht-handheld"
   ],
   "yukon-weaverpicatinny-rail-montage-5026114": [
-    "picatinny-rails",
-    "nachtzicht-handheld"
+    "nachtzicht-handheld",
+    "picatinny-rails"
   ],
   "hunting-stool-bog-deathgrip-360": [
     "aanzitstoelen"
@@ -2782,8 +2845,8 @@
     "tassen-rugzakken"
   ],
   "carrying-bag-bog-tripod": [
-    "tassen-rugzakken",
-    "statieven"
+    "statieven",
+    "tassen-rugzakken"
   ],
   "pouch-hikmicro": [
     "tassen-rugzakken"
@@ -5023,12 +5086,12 @@
     "schoenen"
   ],
   "flashlight-element-x300-pistol": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-vaide-pistol": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "large-swage-prime-pin-assembly-frankford-x-10": [
     "persen-onderdelen"
@@ -8190,8 +8253,8 @@
     "wapenkoffers"
   ],
   "tacstack-24l-backpack": [
-    "tassen-rugzakken",
-    "tactical-bags"
+    "tactical-bags",
+    "tassen-rugzakken"
   ],
   "tacstack-32x22-pistol-case-green": [
     "wapenkoffers"
@@ -9594,32 +9657,32 @@
     "tassen-rugzakken"
   ],
   "admin-pouch-bag-medium-elite-8107": [
-    "utility-pouches",
-    "tassen-rugzakken"
+    "tassen-rugzakken",
+    "utility-pouches"
   ],
   "admin-pouch-bag-with-velcro-8298": [
-    "utility-pouches",
-    "tassen-rugzakken"
+    "tassen-rugzakken",
+    "utility-pouches"
   ],
   "admin-pouch-elite-583": [
-    "utility-pouches",
-    "admin-pouches"
+    "admin-pouches",
+    "utility-pouches"
   ],
   "admin-pouch-large-elite-genii-5868": [
-    "utility-pouches",
-    "admin-pouches"
+    "admin-pouches",
+    "utility-pouches"
   ],
   "alpha-geniii-pro-primaloft-winter-jacket-8324": [
-    "winterjassen",
-    "jassen"
+    "jassen",
+    "winterjassen"
   ],
   "alpha-geniii-pro-winter-jacket-3250": [
     "jassen",
     "winterjassen"
   ],
   "alpha-geniii-winter-jacket-3205": [
-    "winterjassen",
-    "jassen"
+    "jassen",
+    "winterjassen"
   ],
   "anatomic-tube-scarf-with-a-drawstring-polartec-4794": [
     "bivakmuts"
@@ -9648,9 +9711,9 @@
     "tassen-rugzakken"
   ],
   "assault-tactical-mk3-fingerless-gloves-7192": [
-    "tactical-handschoenen",
     "vingerloze-handschoenen",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-handschoenen"
   ],
   "assistant-bag-7388": [
     "tassen-rugzakken"
@@ -9692,8 +9755,8 @@
     "tassen-rugzakken"
   ],
   "backpack-recon-elite-10444": [
-    "tassen-rugzakken",
-    "tactical-bags"
+    "tactical-bags",
+    "tassen-rugzakken"
   ],
   "backpack-single-strap-agent-elite-hex-black-10199": [
     "tactical-bags",
@@ -9716,13 +9779,13 @@
     "tassen-rugzakken"
   ],
   "backpack-case-for-weapons-105-cm-genii-elite-hex-8200": [
+    "geweertassen-foudralen",
     "tactical-bags",
-    "tassen-rugzakken",
-    "geweertassen-foudralen"
+    "tassen-rugzakken"
   ],
   "backpack-cover-for-weapons-85-cm-genii-elite-hex-8201": [
-    "tactical-bags",
-    "geweertassen-foudralen"
+    "geweertassen-foudralen",
+    "tactical-bags"
   ],
   "bag-run-pack-9397": [
     "tassen-rugzakken"
@@ -9873,19 +9936,19 @@
     "tactical-shirts"
   ],
   "compact-tourniquet-pouch-49": [
-    "tourniquets",
-    "ehbo"
+    "ehbo",
+    "tourniquets"
   ],
   "compact-tourniquet-pouch-gen3-54": [
-    "tourniquets",
-    "ehbo"
+    "ehbo",
+    "tourniquets"
   ],
   "compass-army-7346": [
     "kompassen"
   ],
   "compression-sack-medium-952": [
-    "slaapzakken-matten",
-    "compressors"
+    "compressors",
+    "slaapzakken-matten"
   ],
   "compression-thermal-pants-9980": [
     "broeken",
@@ -9893,8 +9956,8 @@
     "thermokleding"
   ],
   "compression-thermal-shirt-10040": [
-    "shirts",
     "compressors",
+    "shirts",
     "thermokleding"
   ],
   "compressive-strap-3100": [
@@ -9972,117 +10035,117 @@
     "geweerriemen"
   ],
   "ecopybook-big-tactical-ruler-nato-blue-9552": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-big-tactical-ruler-protractor-nato-8195": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-small-tactical-ruler-protractor-nato-8196": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-accuracy-shot-chart-852": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-an-all-weather-notebook-849": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-an-all-weather-notebook-regular-maxi-269-x-190-mm-8629": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-card-firing-position-nato-5-pcs-8039": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-card-wounded-tccc-hato-10-pcs-8040": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-combat-pencil-854": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-linijka-prokurator-okraga-130-mm-nato-8041": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-notebook-of-an-intelligence-agent-8194": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-pencil-survival-gen2-9755": [
     "tactical-pens",
     "veldnotitie"
   ],
   "ecopybook-tactical-protractor-pr-r-850": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-request-for-fire-support-5-pcs-8633": [
-    "veldnotitie",
     "ehbo",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-btr-8635": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-echelons-nato-8197": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-gta-nato-blue-border-9785": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-reconnaissance-btr-8634": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-ts-nato-853": [
     "tactical-bags"
   ],
   "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-scouts-ruler-natoua-blue-border-9783": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-set-of-rulers-tsm-nato-blue-border-9786": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-sharpener-sharpenere-857": [
     "messenslijpers",
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-sight-reticle-set-ua-8631": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-stencil-symbols-nato-8038": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-tip-replacement-set-for-pencils-3-pcs-859": [
-    "veldnotitie",
-    "replacement-mesjes"
+    "replacement-mesjes",
+    "veldnotitie"
   ],
   "ecopybook-tactical-topographic-pencil-856": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "ecopybook-tactical-topography-series-pencil-855": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "edc-bag-elite-7963": [
     "tassen-rugzakken"
@@ -10100,8 +10163,8 @@
     "utility-pouches"
   ],
   "elastic-tourniquet-holder-geniii-359": [
-    "tourniquets",
-    "ehbo"
+    "ehbo",
+    "tourniquets"
   ],
   "elite-ballistic-forearm-protection-class-1-fms-9554": [
     "tactical-vests"
@@ -10111,8 +10174,8 @@
     "tactical-bags"
   ],
   "eod-response-log-a6-9791": [
-    "veldnotitie",
-    "ehbo"
+    "ehbo",
+    "veldnotitie"
   ],
   "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048": [
     "shoulder-messengers"
@@ -10128,44 +10191,44 @@
     "jeans"
   ],
   "fingerless-gloves-assault-tactical-mk1-7162": [
-    "tactical-handschoenen",
     "vingerloze-handschoenen",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-handschoenen"
   ],
   "flag-odin-night-vision-630x900-5792": [
     "nachtzicht-handheld"
   ],
   "flashlight-a180-7601": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-k2-7627": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-m22-c-7641": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-ml-8-7645": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-p180-7647": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-p21-7648": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-p4-7649": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-ux11-7670": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "fleece-jacket-senator-polartec-3672": [
     "fleece",
@@ -10195,10 +10258,10 @@
     "jassen"
   ],
   "fleece-tactical-watch-cap-beanie-with-patch-panel-270gm2-4471": [
-    "patches",
     "horloges",
-    "petten",
     "mutsen",
+    "patches",
+    "petten",
     "tactical-bags"
   ],
   "fleece-watch-cap-elite-260gm2-4431": [
@@ -10305,24 +10368,24 @@
     "tactical-handschoenen"
   ],
   "gloves-assault-tactical-mk2-7122": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-handschoenen"
   ],
   "gloves-assault-tactical-mk6-7243": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-handschoenen"
   ],
   "gloves-assault-tactical-mk8-7177": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-handschoenen"
   ],
   "gloves-fleece-thinsulate-7275": [
     "tactical-handschoenen",
     "winter-handschoenen"
   ],
   "gloves-nomex-assault-tactical-mk7-7255": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-handschoenen"
   ],
   "gloves-police-gen2-5963": [
     "tactical-handschoenen"
@@ -10335,8 +10398,8 @@
     "winter-handschoenen"
   ],
   "gloves-winter-extreme-tactical-7284": [
-    "tactical-handschoenen",
     "tactical-bags",
+    "tactical-handschoenen",
     "winter-handschoenen"
   ],
   "gloves-winter-leather-7313": [
@@ -10363,15 +10426,15 @@
     "petten"
   ],
   "headlamp-41-led-7622": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "helmet-cover-shroud-9790": [
     "helmen"
   ],
   "helmet-watch-cap-polartec-4914": [
-    "horloges",
     "helmen",
+    "horloges",
     "petten"
   ],
   "hermetic-container-matches-7729": [
@@ -10485,12 +10548,12 @@
     "jassen"
   ],
   "jacket-berserk-polartec-primaloft-9657": [
-    "winterjassen",
-    "jassen"
+    "jassen",
+    "winterjassen"
   ],
   "jacket-berserk-polartec-primaloft-elite-9654": [
-    "winterjassen",
-    "jassen"
+    "jassen",
+    "winterjassen"
   ],
   "jacket-berserk-primaloft-toray-10119": [
     "winterjassen",
@@ -10509,8 +10572,8 @@
     "tactical-shirts"
   ],
   "jacket-field-nyco-extreme-2643": [
-    "winterjassen",
-    "tactical-shirts"
+    "tactical-shirts",
+    "winterjassen"
   ],
   "jacket-flash-3685": [
     "jassen",
@@ -10525,12 +10588,12 @@
     "tussenseizoenjassen"
   ],
   "jacket-knight-primaloft-8442": [
-    "winterjassen",
-    "jassen"
+    "jassen",
+    "winterjassen"
   ],
   "jacket-konung-primaloft-9477": [
-    "winterjassen",
-    "jassen"
+    "jassen",
+    "winterjassen"
   ],
   "jacket-legatus-microfleece-9729": [
     "truien"
@@ -10539,8 +10602,8 @@
     "tactical-shirts"
   ],
   "jacket-military-elite-nyco-extreme-8538": [
-    "winterjassen",
-    "tactical-shirts"
+    "tactical-shirts",
+    "winterjassen"
   ],
   "jacket-nord-polartec-3504": [
     "truien"
@@ -10565,26 +10628,26 @@
     "tussenseizoenjassen"
   ],
   "jacket-sturm-genii-nyco-extreme-7874": [
-    "winterjassen",
-    "tactical-shirts"
+    "tactical-shirts",
+    "winterjassen"
   ],
   "jacket-sturm-nyco-extreme-2958": [
-    "winterjassen",
-    "tactical-shirts"
+    "tactical-shirts",
+    "winterjassen"
   ],
   "jacket-sturm-nyco-extreme-8531": [
-    "winterjassen",
-    "tactical-shirts"
+    "tactical-shirts",
+    "winterjassen"
   ],
   "jeans-aggressor-2782": [
     "broeken",
     "jeans"
   ],
   "jeans-tactical-geni-cordura-regular-3388": [
-    "tactical-broeken",
     "broeken",
     "jeans",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-broeken"
   ],
   "kettle-12-l-7617": [
     "kookgerei"
@@ -10683,8 +10746,8 @@
     "tassen-rugzakken"
   ],
   "led-mini-flashlight-5923": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "light-sticks-45x40-mm-10-items-6482": [
     "knicklights"
@@ -10736,9 +10799,9 @@
     "tassen-rugzakken"
   ],
   "m-tac-backpack-case-for-weapons-105-cm-genii-elite-8199": [
+    "geweertassen-foudralen",
     "tactical-bags",
-    "tassen-rugzakken",
-    "geweertassen-foudralen"
+    "tassen-rugzakken"
   ],
   "m-tac-baseball-cap-flex-rip-stop-4664": [
     "petten"
@@ -10799,24 +10862,24 @@
     "holsters"
   ],
   "m-tac-ecopybook-tactical-an-all-weather-notebook-fireteam-squad-8630": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "m-tac-ecopybook-tactical-an-all-weather-notebook-a5-8628": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "m-tac-ecopybook-tactical-ruler-protractor-nato-chicken-8096": [
-    "veldnotitie",
-    "tactical-bags"
+    "tactical-bags",
+    "veldnotitie"
   ],
   "m-tac-elastic-suspenders-l7-260": [
     "diversen-kleding"
   ],
   "m-tac-fingerless-gloves-assault-tactical-mk4-7207": [
-    "tactical-handschoenen",
     "vingerloze-handschoenen",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-handschoenen"
   ],
   "m-tac-front-panel-for-plate-carrier-cuirass-qrs-519": [
     "plate-carriers"
@@ -10825,16 +10888,16 @@
     "plate-carriers"
   ],
   "m-tac-gloves-assault-tactical-mk3-7137": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-handschoenen"
   ],
   "m-tac-gloves-assault-tactical-mk4-7147": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-handschoenen"
   ],
   "m-tac-gloves-assault-tactical-mk5-7235": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-handschoenen"
   ],
   "m-tac-gloves-nomex-sport-leather-8120": [
     "tactical-handschoenen"
@@ -10891,15 +10954,15 @@
     "sjaal-nekwarmer"
   ],
   "m-tac-mag-drop-pouch-elite-209": [
-    "magazijn-pouches",
-    "dump-pouches"
+    "dump-pouches",
+    "magazijn-pouches"
   ],
   "m-tac-mag-pouch-kolchan-for-akar-mini-599": [
     "magazijn-pouches"
   ],
   "m-tac-magazine-dump-pouch-lite-elite-728": [
-    "magazijn-pouches",
-    "dump-pouches"
+    "dump-pouches",
+    "magazijn-pouches"
   ],
   "m-tac-magnet-bag-elite-hex-genii-430": [
     "tassen-rugzakken"
@@ -10911,32 +10974,32 @@
     "tassen-rugzakken"
   ],
   "m-tac-my-edc-t-shirt-8693": [
-    "t-shirts-polos",
     "shirts",
+    "t-shirts-polos",
     "tactical-shirts"
   ],
   "m-tac-organizer-pouch-elite-267": [
     "utility-pouches"
   ],
   "m-tac-panel-for-patches-on-molle-120x26-799": [
-    "patches",
-    "patch-panels"
+    "patch-panels",
+    "patches"
   ],
   "m-tac-panel-for-patches-on-molle-80x26-801": [
-    "patches",
-    "patch-panels"
+    "patch-panels",
+    "patches"
   ],
   "m-tac-pants-army-nyco-extreme-2738": [
     "broeken",
     "tactical-broeken"
   ],
   "m-tac-pants-patrol-geniii-nyco-extreme-8907": [
-    "tactical-broeken",
-    "broeken"
+    "broeken",
+    "tactical-broeken"
   ],
   "m-tac-pants-patrol-geniii-special-edition-8934": [
-    "tactical-broeken",
-    "broeken"
+    "broeken",
+    "tactical-broeken"
   ],
   "m-tac-paracord-550-type-iii-15m-785": [
     "paracord"
@@ -10945,8 +11008,8 @@
     "paracord"
   ],
   "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
-    "paracord",
-    "kompassen"
+    "kompassen",
+    "paracord"
   ],
   "m-tac-paracord-survival-951": [
     "paracord"
@@ -11030,19 +11093,19 @@
     "utility-pouches"
   ],
   "m-tac-pouch-for-tourniquet-elastic-molle-geniii-355": [
-    "tourniquets",
-    "ehbo"
+    "ehbo",
+    "tourniquets"
   ],
   "m-tac-pouch-medical-vertical-large-elite-754": [
-    "medical-pouches",
-    "ehbo"
+    "ehbo",
+    "medical-pouches"
   ],
   "m-tac-pouch-sukharka-gen3-767": [
     "utility-pouches"
   ],
   "m-tac-pouch-tourniquet-elastic-molle-attachment-genii-349": [
-    "tourniquets",
-    "ehbo"
+    "ehbo",
+    "tourniquets"
   ],
   "m-tac-pouch-utility-large-7654": [
     "utility-pouches"
@@ -11054,8 +11117,8 @@
     "tactical-shirts"
   ],
   "m-tac-raglan-t-shirt-937-6766": [
-    "tactical-shirts",
-    "shirts"
+    "shirts",
+    "tactical-shirts"
   ],
   "m-tac-seat-pad-20-mm-7610": [
     "slaapzakken-matten"
@@ -11071,8 +11134,8 @@
     "diversen-kleding"
   ],
   "m-tac-sling-bag-large-elite-genii-782": [
-    "sling-bags",
     "geweerriemen",
+    "sling-bags",
     "tactical-bags"
   ],
   "m-tac-sling-pistol-bag-elite-hex-543": [
@@ -11089,13 +11152,13 @@
     "tassen-rugzakken"
   ],
   "m-tac-t-shirt-937-lady-8791": [
-    "t-shirts-polos",
     "shirts",
+    "t-shirts-polos",
     "tactical-shirts"
   ],
   "m-tac-t-shirt-belt-after-belt-10043": [
-    "t-shirts-polos",
     "riemen-bretels",
+    "t-shirts-polos",
     "tactical-shirts"
   ],
   "m-tac-t-shirt-black-sea-expedition-6717": [
@@ -11103,13 +11166,13 @@
     "tactical-shirts"
   ],
   "m-tac-t-shirt-comics-drone-girl-7004": [
-    "t-shirts-polos",
     "shirts",
+    "t-shirts-polos",
     "tactical-shirts"
   ],
   "m-tac-t-shirt-cotton-hard-8151": [
-    "t-shirts-polos",
     "shirts",
+    "t-shirts-polos",
     "tactical-shirts"
   ],
   "m-tac-t-shirt-delivery-service-6955": [
@@ -11125,8 +11188,8 @@
     "tactical-shirts"
   ],
   "m-tac-t-shirt-keep-calm-7025": [
-    "t-shirts-polos",
     "shirts",
+    "t-shirts-polos",
     "tactical-shirts"
   ],
   "m-tac-t-shirt-logo-6927": [
@@ -11143,8 +11206,8 @@
     "tactical-shirts"
   ],
   "m-tac-t-shirt-motanka-6997": [
-    "t-shirts-polos",
     "shirts",
+    "t-shirts-polos",
     "tactical-shirts"
   ],
   "m-tac-t-shirt-odin-mystery-long-sleeve-7060": [
@@ -11155,19 +11218,19 @@
     "tactical-shirts"
   ],
   "m-tac-t-shirt-phoenix-7018": [
-    "tactical-shirts",
-    "shirts"
+    "shirts",
+    "tactical-shirts"
   ],
   "m-tac-t-shirt-quadcopter-6859": [
     "tactical-shirts"
   ],
   "m-tac-t-shirt-raglan-sweat-wicking-tactical-summer-8031": [
-    "tactical-shirts",
-    "tactical-bags"
+    "tactical-bags",
+    "tactical-shirts"
   ],
   "m-tac-t-shirt-rex-team-7067": [
-    "tactical-shirts",
-    "shirts"
+    "shirts",
+    "tactical-shirts"
   ],
   "m-tac-t-shirt-steel-knight-6920": [
     "tactical-shirts"
@@ -11181,13 +11244,13 @@
     "tactical-shirts"
   ],
   "m-tac-t-shirt-ua-side-6742": [
-    "t-shirts-polos",
     "shirts",
+    "t-shirts-polos",
     "tactical-shirts"
   ],
   "m-tac-t-shirt-warrior-8636": [
-    "t-shirts-polos",
     "shirts",
+    "t-shirts-polos",
     "tactical-shirts"
   ],
   "m-tac-tablet-bag-laser-cut-hex-763": [
@@ -11216,8 +11279,8 @@
   ],
   "m-tac-thermo-pants-polartec-winter-baselayer-vent-6399": [
     "tactical-broeken",
-    "thermokleding",
-    "thermoshirts"
+    "thermoshirts",
+    "thermokleding"
   ],
   "m-tac-urban-line-city-patrol-carabiner-bag-7438": [
     "shoulder-messengers"
@@ -11229,8 +11292,8 @@
     "utility-pouches"
   ],
   "m-tac-utility-pouch-elite-genii-9254": [
-    "utility-pouches",
-    "tassen-rugzakken"
+    "tassen-rugzakken",
+    "utility-pouches"
   ],
   "m-tac-utility-pouch-elite-medium-74": [
     "utility-pouches"
@@ -11294,8 +11357,8 @@
     "kompassen"
   ],
   "medic-bag-cls-elite-997": [
-    "medical-pouches",
-    "ehbo"
+    "ehbo",
+    "medical-pouches"
   ],
   "medical-pouch-rip-off-55": [
     "ehbo",
@@ -11423,8 +11486,8 @@
     "veldnotitie"
   ],
   "organiser-a5-elite-8543": [
-    "tactical-bags",
-    "admin-pouches"
+    "admin-pouches",
+    "tactical-bags"
   ],
   "organizer-hardshell-utility-box-l-9958": [
     "utility-pouches"
@@ -11502,24 +11565,24 @@
     "broeken"
   ],
   "pants-army-genii-nyco-extreme-2759": [
-    "tactical-broeken",
-    "broeken"
+    "broeken",
+    "tactical-broeken"
   ],
   "pants-cotton-classic-7990": [
-    "joggingbroeken",
-    "broeken"
+    "broeken",
+    "joggingbroeken"
   ],
   "pants-field-nyco-1350": [
     "broeken",
     "tactical-broeken"
   ],
   "pants-fleece-delta-level-2-hex-10061": [
-    "thermokleding",
-    "thermobroeken"
+    "thermobroeken",
+    "thermokleding"
   ],
   "pants-fleece-delta-level-2-lady-5837": [
-    "thermokleding",
-    "thermobroeken"
+    "thermobroeken",
+    "thermokleding"
   ],
   "pants-patrol-flex-9215": [
     "broeken"
@@ -11547,12 +11610,12 @@
     "broeken"
   ],
   "pants-stealth-active-7857": [
-    "joggingbroeken",
-    "broeken"
+    "broeken",
+    "joggingbroeken"
   ],
   "pants-stealth-cotton-2544": [
-    "joggingbroeken",
-    "broeken"
+    "broeken",
+    "joggingbroeken"
   ],
   "pants-sturm-nyco-extreme-genii-2501": [
     "broeken",
@@ -11560,12 +11623,12 @@
     "thermokleding"
   ],
   "pants-winter-baselayer-6322": [
-    "thermokleding",
-    "thermobroeken"
+    "thermobroeken",
+    "thermokleding"
   ],
   "pants-winter-baselayer-34-6310": [
-    "thermokleding",
-    "thermobroeken"
+    "thermobroeken",
+    "thermokleding"
   ],
   "paracord-475-9619": [
     "paracord"
@@ -11838,20 +11901,20 @@
     "patches"
   ],
   "patch-gladiator-helmet-embroidery-5521": [
-    "patches",
-    "helmen"
+    "helmen",
+    "patches"
   ],
   "patch-helm-of-terror-laser-cut-5314": [
-    "patches",
-    "helmen"
+    "helmen",
+    "patches"
   ],
   "patch-helmet-of-horror-horizontal-laser-cut-5323": [
-    "patches",
-    "helmen"
+    "helmen",
+    "patches"
   ],
   "patch-helmet-skull-5394": [
-    "patches",
-    "helmen"
+    "helmen",
+    "patches"
   ],
   "patch-hmmwv-pvc-7850": [
     "patches"
@@ -12286,8 +12349,8 @@
     "patches"
   ],
   "patch-vikingt-helmet-embroidery-5366": [
-    "patches",
-    "helmen"
+    "helmen",
+    "patches"
   ],
   "patch-vikings-drakkar-5816": [
     "patches"
@@ -12433,8 +12496,8 @@
     "tactical-shirts"
   ],
   "polo-elite-tactical-coolmax-6533": [
-    "tactical-shirts",
-    "t-shirts-polos"
+    "t-shirts-polos",
+    "tactical-shirts"
   ],
   "poncho-3022": [
     "ponchos"
@@ -12448,24 +12511,24 @@
     "magazijn-pouches"
   ],
   "pouch-ak-mag-with-cover-gen3-938": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "admin-pouches",
+    "magazijn-pouches"
   ],
   "pouch-double-magazine-for-pistol-aps-laser-cut-386": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "admin-pouches",
+    "magazijn-pouches"
   ],
   "pouch-for-1-vog-type-grenade-979": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "admin-pouches",
+    "magazijn-pouches"
   ],
   "pouch-for-2-vog-type-grenade-982": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "admin-pouches",
+    "magazijn-pouches"
   ],
   "pouch-for-3-vog-type-grenade-985": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "admin-pouches",
+    "magazijn-pouches"
   ],
   "pouch-for-cartridges-12-gauge-horizontal-laser-cut-10032": [
     "admin-pouches",
@@ -12475,8 +12538,8 @@
     "admin-pouches"
   ],
   "pouch-for-folding-shovel-143": [
-    "veldspaden",
-    "admin-pouches"
+    "admin-pouches",
+    "veldspaden"
   ],
   "pouch-for-frag-grenade-laser-cut-1003": [
     "admin-pouches"
@@ -12491,26 +12554,26 @@
     "magazijn-pouches"
   ],
   "pouch-for-tourniquet-closed-flap-7993": [
-    "tourniquets",
     "ehbo",
-    "medical-pouches"
+    "medical-pouches",
+    "tourniquets"
   ],
   "pouch-for-tourniquet-elastic-with-a-velcro-gen5-796": [
-    "tourniquets",
     "ehbo",
-    "medical-pouches"
+    "medical-pouches",
+    "tourniquets"
   ],
   "pouch-for-turnise-closed-993": [
     "ehbo",
     "medical-pouches"
   ],
   "pouch-medical-elite-rip-off-genii-8177": [
-    "medical-pouches",
-    "ehbo"
+    "ehbo",
+    "medical-pouches"
   ],
   "pouch-medical-small-vertical-elite-1027": [
-    "medical-pouches",
-    "ehbo"
+    "ehbo",
+    "medical-pouches"
   ],
   "pouch-modular-assault-pack-elite-7953": [
     "utility-pouches"
@@ -12528,13 +12591,13 @@
     "utility-pouches"
   ],
   "pouch-tourniquet-elastic-velcro-genii-339": [
-    "tourniquets",
     "ehbo",
-    "medical-pouches"
+    "medical-pouches",
+    "tourniquets"
   ],
   "pouch-under-medical-gloves-elite-8165": [
-    "medical-pouches",
     "ehbo",
+    "medical-pouches",
     "tactical-handschoenen"
   ],
   "pouch-utility-elite-hex-5534": [
@@ -12721,8 +12784,8 @@
     "paracord"
   ],
   "sleeping-bag-with-compression-cover-6487": [
-    "slaapzakken-matten",
-    "compressors"
+    "compressors",
+    "slaapzakken-matten"
   ],
   "sleeping-pad-15-mm-60x180-cm-7608": [
     "slaapzakken-matten"
@@ -12738,31 +12801,31 @@
     "shoulder-messengers"
   ],
   "sling-pistol-bag-10180": [
-    "shoulder-messengers",
-    "holsters"
+    "holsters",
+    "shoulder-messengers"
   ],
   "sling-pistol-bag-elite-220": [
-    "shoulder-messengers",
-    "holsters"
+    "holsters",
+    "shoulder-messengers"
   ],
   "sling-pistol-bag-elite-hex-with-velcro-closure-5587": [
     "holsters",
     "shoulder-messengers"
   ],
   "sling-pistol-bag-hex-10183": [
-    "shoulder-messengers",
-    "holsters"
+    "holsters",
+    "shoulder-messengers"
   ],
   "sling-pistol-bag-hex-with-velcro-10179": [
-    "shoulder-messengers",
-    "holsters"
+    "holsters",
+    "shoulder-messengers"
   ],
   "small-carabiner-9726": [
     "karabijnhaken"
   ],
   "small-folding-knife-7-tools-5935": [
-    "zakmessen",
-    "multitools"
+    "multitools",
+    "zakmessen"
   ],
   "small-tactical-ruler-nato-blue-10191": [
     "veldnotitie"
@@ -12780,24 +12843,24 @@
     "admin-pouches"
   ],
   "sneakers-7074": [
-    "tactical-sneakers",
-    "schoenen"
+    "schoenen",
+    "tactical-sneakers"
   ],
   "sneakers-tactical-caiman-10414": [
-    "tactical-sneakers",
-    "schoenen"
+    "schoenen",
+    "tactical-sneakers"
   ],
   "sneakers-tactical-demi-season-4182": [
-    "tactical-sneakers",
-    "schoenen"
+    "schoenen",
+    "tactical-sneakers"
   ],
   "sneakers-tactical-demi-season-pro-line-7786": [
-    "tactical-sneakers",
-    "schoenen"
+    "schoenen",
+    "tactical-sneakers"
   ],
   "sniper-t-shirt-6682": [
-    "tactical-shirts",
-    "t-shirts-polos"
+    "t-shirts-polos",
+    "tactical-shirts"
   ],
   "snoode-elite-short-adjustable-flecce-320m2-4890": [
     "sjaal-nekwarmer"
@@ -12810,13 +12873,13 @@
   ],
   "soft-shell-jacket-2976": [
     "jassen",
-    "softshell-jassen",
-    "tussenseizoenjassen"
+    "tussenseizoenjassen",
+    "softshell-jassen"
   ],
   "soft-shell-jacket-lady-9837": [
     "jassen",
-    "softshell-jassen",
-    "tussenseizoenjassen"
+    "tussenseizoenjassen",
+    "softshell-jassen"
   ],
   "soft-shell-jacket-with-liner-3929": [
     "jassen",
@@ -12824,8 +12887,8 @@
   ],
   "soft-shell-police-jacket-3004": [
     "jassen",
-    "softshell-jassen",
-    "tussenseizoenjassen"
+    "tussenseizoenjassen",
+    "softshell-jassen"
   ],
   "space-armor-jacket-genii-1378": [
     "jassen",
@@ -12895,8 +12958,8 @@
     "tactical-shirts"
   ],
   "summer-light-sneakers-7541": [
-    "tactical-sneakers",
-    "schoenen"
+    "schoenen",
+    "tactical-sneakers"
   ],
   "summer-sleeping-bag-10033": [
     "slaapzakken-matten"
@@ -12906,19 +12969,19 @@
   ],
   "sweat-wicking-t-shirt-athletic-6488": [
     "t-shirts-polos",
-    "thermokleding",
-    "thermoshirts"
+    "thermoshirts",
+    "thermokleding"
   ],
   "sweat-wicking-t-shirt-athletic-tactical-genii-6513": [
     "tactical-shirts",
-    "thermokleding",
-    "thermoshirts"
+    "thermoshirts",
+    "thermokleding"
   ],
   "sweat-wicking-t-shirt-genii-6561": [
     "shirts",
     "tactical-shirts",
-    "thermokleding",
-    "thermoshirts"
+    "thermoshirts",
+    "thermokleding"
   ],
   "sweater-nord-fleece-polartec-lady-3957": [
     "truien"
@@ -12976,16 +13039,16 @@
     "shirts"
   ],
   "t-shirt-ua-side-long-sleeve-6752": [
+    "shirts",
     "t-shirts-polos",
-    "tactical-shirts",
-    "shirts"
+    "tactical-shirts"
   ],
   "t-shirt-ultra-light-polartec-5593": [
     "t-shirts-polos"
   ],
   "t-shirt-ultra-light-polartec-lady-5629": [
-    "thermokleding",
-    "thermoshirts"
+    "thermoshirts",
+    "thermokleding"
   ],
   "t-shirt-viking-2853": [
     "shirts"
@@ -13030,24 +13093,24 @@
     "jeans"
   ],
   "tactical-morale-patches-hook-and-loop-display-board-molle-80x135-294": [
-    "patches",
-    "patch-panels"
+    "patch-panels",
+    "patches"
   ],
   "tactical-pants-aggressor-genii-flex-1492": [
-    "tactical-broeken",
-    "broeken"
+    "broeken",
+    "tactical-broeken"
   ],
   "tactical-pants-conquistador-gen-i-flex-1697": [
-    "tactical-broeken",
-    "broeken"
+    "broeken",
+    "tactical-broeken"
   ],
   "tactical-pants-patriot-gen-ii-flex-1379": [
-    "tactical-broeken",
-    "broeken"
+    "broeken",
+    "tactical-broeken"
   ],
   "tactical-pants-patrol-gen-ii-flex-2018": [
-    "tactical-broeken",
-    "broeken"
+    "broeken",
+    "tactical-broeken"
   ],
   "tactical-pen-tp-01-5958": [
     "tactical-pens",
@@ -13074,12 +13137,12 @@
     "veldnotitie"
   ],
   "tactical-polo-shirt-6535-6633": [
-    "tactical-shirts",
-    "t-shirts-polos"
+    "t-shirts-polos",
+    "tactical-shirts"
   ],
   "tactical-polo-shirt-long-sleeve-6535-6696": [
-    "tactical-shirts",
-    "t-shirts-polos"
+    "t-shirts-polos",
+    "tactical-shirts"
   ],
   "tactical-polo-shirt-ranger-6535-9260": [
     "t-shirts-polos",
@@ -13120,8 +13183,8 @@
     "tactical-bags"
   ],
   "tactical-summer-boots-iva-4281": [
-    "tactical-sneakers",
-    "schoenen"
+    "schoenen",
+    "tactical-sneakers"
   ],
   "tactical-summer-sport-sneakers-7493": [
     "schoenen",
@@ -13153,51 +13216,51 @@
   ],
   "thermal-blanket-7345": [
     "ehbo",
-    "noodfolie",
-    "lichaamsverwarming"
+    "lichaamsverwarming",
+    "noodfolie"
   ],
   "thermal-fleece-shirt-delta-level-2-hex-10077": [
-    "thermoshirts",
     "fleece",
+    "thermoshirts",
     "thermokleding"
   ],
   "thermal-fleece-shirt-delta-level-2-lady-5849": [
+    "fleece",
     "thermoshirts",
-    "thermokleding",
-    "fleece"
+    "thermokleding"
   ],
   "thermal-merino-9793": [
-    "thermokleding",
-    "thermobroeken"
+    "thermobroeken",
+    "thermokleding"
   ],
   "thermal-pants-level-i-polartec-6369": [
-    "thermokleding",
-    "thermobroeken"
+    "thermobroeken",
+    "thermokleding"
   ],
   "thermal-rasguard-t-shirt-6305": [
     "thermoshirts",
     "thermokleding"
   ],
   "thermal-shirt-delta-level-2-5989": [
-    "thermokleding",
-    "thermoshirts"
+    "thermoshirts",
+    "thermokleding"
   ],
   "thermal-shirt-level-i-polartec-6416": [
-    "thermokleding",
-    "thermoshirts"
+    "thermoshirts",
+    "thermokleding"
   ],
   "thermal-shirt-polartec-winter-baselayer-vent-6443": [
-    "thermokleding",
-    "thermoshirts"
+    "thermoshirts",
+    "thermokleding"
   ],
   "thermal-shirt-winter-baselayer-6292": [
-    "thermokleding",
-    "thermoshirts"
+    "thermoshirts",
+    "thermokleding"
   ],
   "thermal-t-shirt-ultra-vent-6167": [
-    "thermokleding",
     "shirts",
-    "thermoshirts"
+    "thermoshirts",
+    "thermokleding"
   ],
   "thermo-mug-with-carabiner-5926": [
     "kookgerei"
@@ -13223,31 +13286,31 @@
     "tactical-riemen"
   ],
   "toiletry-bag-316": [
-    "utility-pouches",
-    "admin-pouches"
+    "admin-pouches",
+    "utility-pouches"
   ],
   "toiletry-kit-160": [
-    "utility-pouches",
-    "admin-pouches"
+    "admin-pouches",
+    "utility-pouches"
   ],
   "toiletry-kit-elite-genii-274": [
-    "utility-pouches",
-    "admin-pouches"
+    "admin-pouches",
+    "utility-pouches"
   ],
   "touring-thermos-1600-ml-stainless-7721": [
     "drinkflessen-thermos"
   ],
   "tourist-hanging-flashlight-7631": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "lampen-1",
+    "zaklampen-hoofdlampen"
   ],
   "tourist-lamp-matt-7611": [
     "lampen-1",
     "zaklampen-hoofdlampen"
   ],
   "train-hard-oversized-cotton-t-shirt-hard-10190": [
-    "t-shirts-polos",
-    "shirts"
+    "shirts",
+    "t-shirts-polos"
   ],
   "training-shorts-10468": [
     "ondergoed"
@@ -13449,8 +13512,8 @@
     "winterjassen"
   ],
   "winter-jacket-apha-basic-primaloft-9454": [
-    "winterjassen",
-    "jassen"
+    "jassen",
+    "winterjassen"
   ],
   "winter-parka-alpha-primaloft-mm14-10446": [
     "jassen",
@@ -13461,8 +13524,8 @@
     "winter-schoenen"
   ],
   "womens-vest-primaloft-8499": [
-    "bodywarmer",
-    "dames-jachtvesten"
+    "dames-jachtvesten",
+    "bodywarmer"
   ],
   "zip-pocket-organizer-set-elite-8979": [
     "utility-pouches"
@@ -13473,8 +13536,8 @@
   "agm-rusan-quick-release-clip-on-montage-voor-comanche-22-121108": [
     "montage-accessoires",
     "nachtzicht-handheld",
-    "voorzetkijkers",
-    "observatie-accessoires"
+    "observatie-accessoires",
+    "voorzetkijkers"
   ],
   "agm-pvs-14-ap-monoculaire-nachtkijker-gen2-green-phosphor-121070": [
     "nachtzicht-handheld"
@@ -13549,8 +13612,8 @@
     "gaffer-tape"
   ],
   "flir-oculair-ooggedeelte-voor-scout-134127309": [
-    "oculairs",
-    "observatie-accessoires"
+    "observatie-accessoires",
+    "oculairs"
   ],
   "flir-reserve-lenskap-voor-scout-en-ls-series-4127306-134127310": [
     "beschermkappen",
@@ -13609,16 +13672,16 @@
     "warmtebeeld"
   ],
   "kowa-adapter-ring-tsn-ar500a-40mm-440236": [
-    "observatie-accessoires",
-    "adapterringen"
+    "adapterringen",
+    "observatie-accessoires"
   ],
   "kowa-adapter-ring-tsn-ar50l-57mm-440222": [
-    "observatie-accessoires",
-    "adapterringen"
+    "adapterringen",
+    "observatie-accessoires"
   ],
   "kowa-adapterring-tsn-ar30-440230": [
-    "observatie-accessoires",
-    "adapterringen"
+    "adapterringen",
+    "observatie-accessoires"
   ],
   "kowa-compact-spottingscope-tsn-553-prominar-15-45x55-446553": [
     "spotting-scopes"
@@ -13649,8 +13712,8 @@
     "tactical-riemen"
   ],
   "m-tac-double-pouch-for-the-aps-laser-cut-pistol-magazine-genii-771": [
-    "magazijn-pouches",
-    "holsters"
+    "holsters",
+    "magazijn-pouches"
   ],
   "m-tac-seating-pad-with-belt-18": [
     "slaapzakken-matten"
@@ -13727,33 +13790,33 @@
     "nachtzicht-handheld"
   ],
   "stealth-gear-handschoenen-eagle-maat-xl-xxl-710024": [
+    "vingerloze-handschoenen",
     "jacht-handschoenen",
-    "winter-handschoenen",
-    "vingerloze-handschoenen"
+    "winter-handschoenen"
   ],
   "stealth-gear-handschoenen-maat-l-710017": [
     "vingerloze-handschoenen",
-    "winter-handschoenen",
-    "jacht-handschoenen"
+    "jacht-handschoenen",
+    "winter-handschoenen"
   ],
   "stealth-gear-handschoenen-maat-m-710016": [
+    "vingerloze-handschoenen",
     "jacht-handschoenen",
-    "winter-handschoenen",
-    "vingerloze-handschoenen"
+    "winter-handschoenen"
   ],
   "stealth-gear-handschoenen-maat-s-710015": [
-    "winter-handschoenen",
     "vingerloze-handschoenen",
-    "jacht-handschoenen"
+    "jacht-handschoenen",
+    "winter-handschoenen"
   ],
   "stealth-gear-handschoenen-maat-xl-710018": [
-    "tactical-handschoenen",
-    "jacht-handschoenen"
+    "jacht-handschoenen",
+    "tactical-handschoenen"
   ],
   "stealth-gear-handschoenen-maat-xxl-710019": [
+    "vingerloze-handschoenen",
     "jacht-handschoenen",
-    "winter-handschoenen",
-    "vingerloze-handschoenen"
+    "winter-handschoenen"
   ],
   "stealth-gear-nightjar-dual-cam-solar-4k-wifi-wildcamera-720133": [
     "wildcameras",
@@ -13893,6 +13956,34 @@
       "survival",
       "veldspaden",
       "schoppen"
+    ],
+    "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
+      "dump-pouches",
+      "airsoft",
+      "patches",
+      "jacht",
+      "schietsport",
+      "tactical-bags",
+      "tactical-gear",
+      "wapenkoffers",
+      "Equipment and gear > Patches",
+      "id-holders",
+      "pouches",
+      "m-tac",
+      "Tactical Line"
+    ],
+    "m-tac-tactical-badge-holder-hook-surface-hanging-id-card-case-287": [
+      "airsoft",
+      "jacht",
+      "schietsport",
+      "tactical-bags",
+      "wapenkoffers",
+      "Equipment and gear > Patches",
+      "m-tac",
+      "id-holders",
+      "pouches",
+      "tactical-gear",
+      "patches"
     ],
     "pas-pkm-8042": [
       "Tactical gear > Gun Sling",
@@ -14242,34 +14333,6 @@
       "magazine-pouches",
       "m-tac",
       "magazijn-pouches"
-    ],
-    "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
-      "dump-pouches",
-      "airsoft",
-      "patches",
-      "jacht",
-      "schietsport",
-      "tactical-bags",
-      "tactical-gear",
-      "wapenkoffers",
-      "Equipment and gear > Patches",
-      "id-holders",
-      "pouches",
-      "m-tac",
-      "Tactical Line"
-    ],
-    "m-tac-tactical-badge-holder-hook-surface-hanging-id-card-case-287": [
-      "airsoft",
-      "jacht",
-      "schietsport",
-      "tactical-bags",
-      "wapenkoffers",
-      "Equipment and gear > Patches",
-      "m-tac",
-      "id-holders",
-      "pouches",
-      "tactical-gear",
-      "patches"
     ],
     "m-tac-tactical-hand-warmer-elite-536": [
       "tactical-bags",
