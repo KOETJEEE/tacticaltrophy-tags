@@ -13485,9 +13485,7 @@
     "tactical-rugzakken",
     "zakmessen"
   ],
-  "utility-organizer-transparent-elite-large-genii-412": [
-    "utility-pouches"
-  ],
+  "utility-organizer-transparent-elite-large-genii-412": [],
   "utility-organizer-transparent-elite-medium-26x11-cm-401": [
     "utility-pouches"
   ],
@@ -19659,7 +19657,8 @@
       "Equipment and gear > Survival",
       "m-tac",
       "tourism > Tourist hygiene",
-      "hygiene"
+      "hygiene",
+      "utility-pouches"
     ],
     "tourist-hanging-flashlight-7631": [
       "Equipment and gear > Flashlights",
