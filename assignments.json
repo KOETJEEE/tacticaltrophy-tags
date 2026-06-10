@@ -11189,9 +11189,7 @@
     "geweerriemen",
     "tactical-bags"
   ],
-  "m-tac-sling-pistol-bag-elite-hex-543": [
-    "shoulder-messengers"
-  ],
+  "m-tac-sling-pistol-bag-elite-hex-543": [],
   "m-tac-socks-coolmax-35-7408": [
     "sokken"
   ],
@@ -14366,6 +14364,10 @@
       "magazine-pouches",
       "m-tac",
       "magazijn-pouches"
+    ],
+    "m-tac-sling-pistol-bag-elite-hex-543": [
+      "jacht",
+      "geweerriemen"
     ],
     "m-tac-socks-coolmax-35-7408": [
       "Clothing > Socks",
