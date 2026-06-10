@@ -1639,7 +1639,8 @@
     "admin-pouches"
   ],
   "admin-pouch-nuprol-tan": [
-    "utility-pouches"
+    "utility-pouches",
+    "admin-pouches"
   ],
   "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
     "gearboxen"
