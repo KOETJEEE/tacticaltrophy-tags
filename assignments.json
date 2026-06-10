@@ -10237,7 +10237,6 @@
     "shoulder-messengers"
   ],
   "fanny-bag-10024": [
-    "tassen-rugzakken",
     "waist-packs"
   ],
   "fastening-with-d-ring-677": [
@@ -14420,7 +14419,10 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "rugzakken",
       "tassen",
-      "m-tac"
+      "m-tac",
+      "tassen-rugzakken",
+      "schietsport",
+      "jacht"
     ],
     "fastening-with-d-ring-677": [
       "survival",
