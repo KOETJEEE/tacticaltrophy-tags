@@ -13488,6 +13488,9 @@
   "utility-organizer-transparent-elite-large-genii-412": [
     "admin-pouches"
   ],
+  "utility-organizer-transparent-elite-medium-26x11-cm-401": [
+    "admin-pouches"
+  ],
   "utility-organizer-transparent-elite-medium-genii-413": [
     "utility-pouches"
   ],
@@ -19791,7 +19794,8 @@
     "utility-organizer-transparent-elite-medium-26x11-cm-401": [
       "pouches",
       "m-tac",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "utility-pouches"
     ],
     "utility-organizer-transparent-elite-medium-genii-413": [
       "m-tac",
