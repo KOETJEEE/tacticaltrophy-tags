@@ -10207,9 +10207,7 @@
   "edc-bag-elite-7963": [
     "tassen-rugzakken"
   ],
-  "edc-bag-elite-hex-7998": [
-    "tassen-rugzakken"
-  ],
+  "edc-bag-elite-hex-7998": [],
   "edc-bag-x-pac-elite-8935": [
     "sling-bags"
   ],
@@ -14423,7 +14421,10 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "rugzakken",
       "m-tac",
-      "tassen"
+      "tassen",
+      "tassen-rugzakken",
+      "schietsport",
+      "jacht"
     ],
     "edc-bag-x-pac-elite-8935": [
       "schietsport",
