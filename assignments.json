@@ -13503,7 +13503,9 @@
   "utility-pouch-elite-small-78": [
     "admin-pouches"
   ],
-  "utility-shoulder-pouch-elite-genii-347": [],
+  "utility-shoulder-pouch-elite-genii-347": [
+    "admin-pouches"
+  ],
   "utility-travel-case-clear-elite-large-30x19-cm-400": [
     "utility-pouches"
   ],
@@ -19824,7 +19826,8 @@
       "m-tac",
       "pouches",
       "Tactical gear > Pouches > Utility Pouches",
-      "shoulder-messengers"
+      "shoulder-messengers",
+      "utility-pouches"
     ],
     "utility-travel-case-clear-elite-large-30x19-cm-400": [
       "admin-pouches",
