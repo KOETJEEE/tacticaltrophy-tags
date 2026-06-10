@@ -11104,7 +11104,7 @@
     "magazijn-pouches"
   ],
   "m-tac-organizer-pouch-elite-267": [
-    "utility-pouches"
+    "admin-pouches"
   ],
   "m-tac-panel-for-patches-on-molle-120x26-799": [
     "patch-panels"
@@ -16179,7 +16179,9 @@
       "m-tac",
       "Military Line",
       "pouches",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "utility-pouches",
+      "tactical-gear"
     ],
     "m-tac-panel-for-patches-on-molle-120x26-799": [
       "Equipment and gear > Patches",
