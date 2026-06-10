@@ -11031,6 +11031,7 @@
   "m-tac-mission-pack-elite-592": [
     "tassen-rugzakken"
   ],
+  "m-tac-module-insert-molle-195x11-lasser-cut-684": [],
   "m-tac-my-edc-t-shirt-8693": [
     "t-shirts-polos",
     "shirts"
@@ -14376,10 +14377,14 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "m-tac-module-insert-molle-195x11-lasser-cut-684": [
+      "wapen-accessoires"
+    ],
     "m-tac-module-insert-molle-27x165-lasser-cut-683": [
       "wapen-accessoires",
       "Equipment and gear > Bags and backpacks > Backpack accessories",
-      "rugzak-accessoires"
+      "rugzak-accessoires",
+      "m-tac"
     ],
     "m-tac-my-edc-t-shirt-8693": [
       "Clothing > T-shirts",
