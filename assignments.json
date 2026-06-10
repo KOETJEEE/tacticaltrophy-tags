@@ -11034,6 +11034,7 @@
     "shirts",
     "tactical-shirts"
   ],
+  "m-tac-open-double-pouch-for-ak-laser-cut-gen3-662": [],
   "m-tac-organizer-pouch-elite-267": [
     "utility-pouches"
   ],
@@ -14366,10 +14367,14 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "m-tac-open-double-pouch-for-ak-laser-cut-gen3-662": [
+      "magazine-pouches"
+    ],
     "m-tac-organizer-pouch-elite-267": [
       "m-tac",
       "Military Line",
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > Utility Pouches"
     ],
     "m-tac-panel-for-patches-on-molle-120x26-799": [
       "Equipment and gear > Patches",
