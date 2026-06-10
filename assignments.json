@@ -10995,6 +10995,9 @@
   "m-tac-knife-lanyard-scandinavian-861": [
     "messenkoorden"
   ],
+  "m-tac-konvert-bag-elite-616": [
+    "sling-bags"
+  ],
   "m-tac-lanyard-scandinavian-volya-7934": [
     "messenkoorden"
   ],
@@ -14391,7 +14394,8 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "Tactical Line",
       "tassen",
-      "rugzakken"
+      "rugzakken",
+      "m-tac"
     ],
     "m-tac-lanyard-scandinavian-volya-7934": [
       "bushcraft",
