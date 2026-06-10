@@ -10210,6 +10210,7 @@
   "edc-bag-elite-hex-7998": [
     "tassen-rugzakken"
   ],
+  "edc-bag-x-pac-elite-8935": [],
   "edc-pocket-elite-10059": [
     "utility-pouches"
   ],
@@ -14417,7 +14418,9 @@
       "wapen-accessoires"
     ],
     "edc-bag-x-pac-elite-8935": [
-      "schietsport"
+      "schietsport",
+      "jacht",
+      "tassen-rugzakken"
     ],
     "edc-pocket-elite-10059": [
       "m-tac",
