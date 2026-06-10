@@ -10855,9 +10855,7 @@
     "tactical-bags",
     "tassen-rugzakken"
   ],
-  "m-tac-backpack-case-for-weapons-105-cm-genii-elite-8199": [
-    "tactical-bags"
-  ],
+  "m-tac-backpack-case-for-weapons-105-cm-genii-elite-8199": [],
   "m-tac-bag-magnet-bag-x-pac-elite-9399": [
     "sling-bags"
   ],
@@ -14430,7 +14428,8 @@
       "rugzakken",
       "m-tac",
       "Tactical gear > Weapon covers",
-      "wapenhoezen"
+      "wapenhoezen",
+      "tassen"
     ],
     "m-tac-bag-magnet-bag-x-pac-elite-9399": [
       "Tactical gear > Pouches",
