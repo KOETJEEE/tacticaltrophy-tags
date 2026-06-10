@@ -10765,9 +10765,7 @@
   "knife-lanyard-zeus-stainless-steel-935": [
     "messenkoorden"
   ],
-  "konvert-bag-x-pac-elite-8611": [
-    "tassen-rugzakken"
-  ],
+  "konvert-bag-x-pac-elite-8611": [],
   "lanyard-loopy-snake-scandinavian-silver-886": [
     "messenkoorden"
   ],
@@ -14431,7 +14429,9 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "tassen-rugzakken",
+      "schietsport"
     ],
     "lanyard-loopy-snake-scandinavian-silver-886": [
       "bushcraft",
