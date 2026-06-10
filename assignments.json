@@ -10653,7 +10653,9 @@
     "winterjassen",
     "jassen"
   ],
-  "jacket-legatus-microfleece-9729": [],
+  "jacket-legatus-microfleece-9729": [
+    "fleece"
+  ],
   "jacket-military-elite-nyco-1143": [
     "tactical-shirts",
     "jassen"
@@ -14422,7 +14424,10 @@
       "wapen-accessoires"
     ],
     "jacket-legatus-microfleece-9729": [
-      "Clothing > Fleeces"
+      "Clothing > Fleeces",
+      "truien",
+      "fleeces",
+      "m-tac"
     ],
     "jacket-military-elite-nyco-1143": [
       "Clothing > Shirts",
