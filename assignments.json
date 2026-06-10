@@ -11034,6 +11034,9 @@
     "shirts",
     "tactical-shirts"
   ],
+  "m-tac-open-double-pouch-for-ak-36": [
+    "magazijn-pouches"
+  ],
   "m-tac-open-double-pouch-for-ak-laser-cut-614": [
     "magazijn-pouches"
   ],
@@ -14372,11 +14375,16 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "m-tac-my-edc-t-shirt-8693": [
+      "Clothing > T-shirts",
+      "longsleeve"
+    ],
     "m-tac-open-double-pouch-for-ak-36": [
       "m-tac",
       "tactical-gear",
       "magazine-pouches",
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > Magazine Pouches"
     ],
     "m-tac-open-double-pouch-for-ak-laser-cut-614": [
       "m-tac",
