@@ -14413,8 +14413,13 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "m-tac-case-for-weapons-128-cm-7650": [
+      "foudralen",
+      "geweertassen"
+    ],
     "m-tac-chain-for-tokens-10-cm-8315": [
-      "Clothing > Accessories"
+      "Clothing > Accessories",
+      "m-tac"
     ],
     "m-tac-chest-rig-elite-1048": [
       "tactical-vests",
