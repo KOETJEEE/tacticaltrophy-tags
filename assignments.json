@@ -14418,11 +14418,15 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "gloves-assault-tactical-mk2-7122": [
+      "Clothing > Gloves > Tactical"
+    ],
     "gloves-assault-tactical-mk6-7243": [
       "Clothing > Gloves > Tactical",
       "handschoenen",
       "m-tac",
-      "tactical-gear"
+      "tactical-gear",
+      "tactical-bags"
     ],
     "gloves-assault-tactical-mk8-7177": [
       "Clothing > Gloves > Tactical",
