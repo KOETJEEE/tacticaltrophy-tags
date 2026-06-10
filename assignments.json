@@ -11142,7 +11142,6 @@
     "utility-pouches"
   ],
   "m-tac-pouch-for-night-vision-monocular-pvs-14-59": [
-    "monoculairs",
     "utility-pouches"
   ],
   "m-tac-pouch-for-pk-ammo-box-fast-9093": [
@@ -14378,7 +14377,8 @@
     ],
     "m-tac-pouch-for-night-vision-monocular-pvs-14-59": [
       "m-tac",
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > Utility Pouches"
     ],
     "m-tac-pouch-for-pk-ammo-box-fast-9093": [
       "m-tac",
