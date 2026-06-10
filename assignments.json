@@ -11415,7 +11415,9 @@
   "m-tac-utility-organizer-slim-elite-571": [
     "admin-pouches"
   ],
-  "m-tac-utility-pouch-elite-genii-9254": [],
+  "m-tac-utility-pouch-elite-genii-9254": [
+    "admin-pouches"
+  ],
   "m-tac-utility-pouch-elite-medium-74": [
     "utility-pouches"
   ],
@@ -16796,7 +16798,8 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "pouches",
       "m-tac",
-      "rugzakken"
+      "rugzakken",
+      "tassen"
     ],
     "m-tac-utility-travel-case-elite-small-22x14-cm-458": [
       "m-tac",
