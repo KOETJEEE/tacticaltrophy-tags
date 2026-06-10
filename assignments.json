@@ -10818,7 +10818,6 @@
     "sjaal-nekwarmer"
   ],
   "lite-microfleece-hoodie-1166": [
-    "truien",
     "hoodies"
   ],
   "lite-tactical-belt-genii-3310": [
@@ -14429,7 +14428,8 @@
     "lite-microfleece-hoodie-1166": [
       "Clothing > Fleeces",
       "m-tac",
-      "fleeces"
+      "fleeces",
+      "truien"
     ],
     "lite-tactical-belt-genii-3310": [
       "m-tac",
