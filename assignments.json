@@ -11412,7 +11412,9 @@
   "m-tac-usa-tokens-with-rubber-bands-8312": [
     "diversen-kleding"
   ],
-  "m-tac-utility-organizer-slim-elite-571": [],
+  "m-tac-utility-organizer-slim-elite-571": [
+    "admin-pouches"
+  ],
   "m-tac-utility-pouch-elite-genii-9254": [
     "utility-pouches",
     "tassen-rugzakken"
@@ -16780,6 +16782,13 @@
       "rugzakken",
       "m-tac",
       "shoulder-messengers"
+    ],
+    "m-tac-utility-organizer-slim-elite-571": [
+      "utility-pouches",
+      "tactical-gear",
+      "pouches",
+      "m-tac",
+      "Tactical gear > Pouches > Utility Pouches"
     ],
     "m-tac-utility-travel-case-elite-small-22x14-cm-458": [
       "m-tac",
