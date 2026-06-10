@@ -8799,6 +8799,9 @@
   "utility-pouch-nuprol-medium-pmc-tan": [
     "admin-pouches"
   ],
+  "utility-pouch-nuprol-medium-zipped-green": [
+    "admin-pouches"
+  ],
   "uv-slip-over-jacket-sillosocks-for-pigeon-12-pack": [
     "lokmiddel-toebehoren"
   ],
@@ -14422,7 +14425,8 @@
     ],
     "utility-pouch-nuprol-medium-zipped-green": [
       "tactical-gear",
-      "utility-pouches"
+      "utility-pouches",
+      "pouches"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
