@@ -11221,7 +11221,7 @@
     "magazijn-pouches"
   ],
   "m-tac-pouch-for-night-vision-monocular-pvs-14-59": [
-    "utility-pouches"
+    "admin-pouches"
   ],
   "m-tac-pouch-for-pk-ammo-box-fast-9093": [
     "magazijn-pouches",
@@ -16397,7 +16397,9 @@
       "m-tac",
       "pouches",
       "Tactical gear > Pouches > Utility Pouches",
-      "optiek"
+      "optiek",
+      "utility-pouches",
+      "tactical-gear"
     ],
     "m-tac-pouch-for-pk-ammo-box-fast-9093": [
       "m-tac",
