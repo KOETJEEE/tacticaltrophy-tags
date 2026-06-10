@@ -10301,7 +10301,6 @@
     "sjaal-nekwarmer"
   ],
   "fleece-pants-delta-level-2-6080": [
-    "broeken",
     "thermokleding"
   ],
   "fleece-rip-stop-helmet-liner-genii-4854": [
@@ -14411,7 +14410,8 @@
       "wapen-accessoires"
     ],
     "fleece-pants-delta-level-2-6080": [
-      "Clothing > Underwear > Thermoactive pants"
+      "Clothing > Underwear > Thermoactive pants",
+      "m-tac"
     ],
     "fleece-rip-stop-helmet-liner-genii-4854": [
       "Clothing > Headwear > Cap",
