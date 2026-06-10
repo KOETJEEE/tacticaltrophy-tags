@@ -11141,6 +11141,7 @@
     "die-accessoires",
     "utility-pouches"
   ],
+  "m-tac-pouch-double-magazine-closure-fastex-27": [],
   "m-tac-pouch-elastic-triple-magazine-elite-laser-cut-391": [
     "magazijn-pouches"
   ],
@@ -14380,6 +14381,10 @@
       "magazine-pouches",
       "m-tac",
       "magazijn-pouches"
+    ],
+    "m-tac-pouch-double-magazine-closure-fastex-27": [
+      "tactical-gear",
+      "m-tac"
     ],
     "m-tac-pouch-elastic-triple-magazine-elite-laser-cut-391": [
       "m-tac",
