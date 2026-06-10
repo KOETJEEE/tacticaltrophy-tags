@@ -11145,6 +11145,9 @@
     "monoculairs",
     "utility-pouches"
   ],
+  "m-tac-pouch-for-sleeping-mat-bundeswehry-39": [
+    "slaapzakken-matten"
+  ],
   "m-tac-pouch-for-tourniquet-elastic-molle-geniii-355": [
     "tourniquets",
     "ehbo"
@@ -14372,7 +14375,9 @@
     "m-tac-pouch-for-sleeping-mat-bundeswehry-39": [
       "tactical-gear",
       "m-tac",
-      "Military Line"
+      "Military Line",
+      "pouches",
+      "Tactical gear > Pouches"
     ],
     "m-tac-pouch-for-tourniquet-elastic-molle-geniii-355": [
       "Tactical gear > Pouches > EMT Pouches",
