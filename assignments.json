@@ -70,62 +70,6 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048"
   ],
-  "konus-monokijker-konusmall-10x25-432060": [
-    "monoculairs"
-  ],
-  "konus-monokijker-konusmall-2-7-17x30-432062": [
-    "monoculairs"
-  ],
-  "konus-montageringen-254-mm-hoog-437400": [
-    "2-delige-montages"
-  ],
-  "konus-montageringen-254-mm-laag-437402": [
-    "2-delige-montages"
-  ],
-  "konus-montageringen-254-mm-medium-437401": [
-    "2-delige-montages"
-  ],
-  "konus-montageringen-30-mm-hoog-437403": [
-    "2-delige-montages"
-  ],
-  "konus-montageringen-30-mm-laag-437405": [
-    "2-delige-montages"
-  ],
-  "konus-montageringen-30-mm-medium-437404": [
-    "2-delige-montages"
-  ],
-  "konus-quick-release-montageringen-254-mm-hoog-437406": [
-    "2-delige-montages"
-  ],
-  "konus-quick-release-montageringen-254-mm-laag-437408": [
-    "2-delige-montages"
-  ],
-  "konus-quick-release-montageringen-254-mm-medium-437407": [
-    "2-delige-montages"
-  ],
-  "konus-quick-release-montageringen-30-mm-hoog-437409": [
-    "2-delige-montages"
-  ],
-  "konus-quick-release-montageringen-30-mm-laag-437411": [
-    "2-delige-montages"
-  ],
-  "konus-quick-release-montageringen-30-mm-medium-437410": [
-    "2-delige-montages"
-  ],
-  "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
-    "dump-pouches",
-    "patches",
-    "tactical-bags",
-    "wapenkoffers"
-  ],
-  "m-tac-tactical-badge-holder-hook-surface-hanging-id-card-case-287": [
-    "patches",
-    "tactical-bags",
-    "wapenkoffers"
-  ],
-  "pas-pkm-8042": [
-    "geweerriemen"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -742,6 +686,12 @@
   "konus-kompas-konustar-11-434075": [
     "kompassen"
   ],
+  "konus-monokijker-konusmall-10x25-432060": [
+    "monoculairs"
+  ],
+  "konus-monokijker-konusmall-2-7-17x30-432062": [
+    "monoculairs"
+  ],
   "konus-montage-ringen-22-rail-en-airgun-254-mm-hoog-437415": [
     "montage-accessoires"
   ],
@@ -751,9 +701,45 @@
   "konus-montage-set-25-30mm-dual-t-437218": [
     "montage-accessoires"
   ],
+  "konus-montageringen-254-mm-hoog-437400": [
+    "2-delige-montages"
+  ],
+  "konus-montageringen-254-mm-laag-437402": [
+    "2-delige-montages"
+  ],
+  "konus-montageringen-254-mm-medium-437401": [
+    "2-delige-montages"
+  ],
+  "konus-montageringen-30-mm-hoog-437403": [
+    "2-delige-montages"
+  ],
+  "konus-montageringen-30-mm-laag-437405": [
+    "2-delige-montages"
+  ],
+  "konus-montageringen-30-mm-medium-437404": [
+    "2-delige-montages"
+  ],
   "konus-oplaadbare-zaklamp-konuslight-rc-5-433928": [
     "zaklampen-hoofdlampen",
     "lampen-1"
+  ],
+  "konus-quick-release-montageringen-254-mm-hoog-437406": [
+    "2-delige-montages"
+  ],
+  "konus-quick-release-montageringen-254-mm-laag-437408": [
+    "2-delige-montages"
+  ],
+  "konus-quick-release-montageringen-254-mm-medium-437407": [
+    "2-delige-montages"
+  ],
+  "konus-quick-release-montageringen-30-mm-hoog-437409": [
+    "2-delige-montages"
+  ],
+  "konus-quick-release-montageringen-30-mm-laag-437411": [
+    "2-delige-montages"
+  ],
+  "konus-quick-release-montageringen-30-mm-medium-437410": [
+    "2-delige-montages"
   ],
   "konus-red-green-dot-richtkijker-konusight-437338": [
     "richtkijkers",
@@ -7265,6 +7251,10 @@
   "poetsstokgeleider-bore-tech-17-25-gold": [
     "schoonmaakstokken"
   ],
+  "poetsstokgeleider-bore-tech-25-30-red": [
+    "schoonmaaksetjes",
+    "schoonmaakstokken"
+  ],
   "poetsstokgeleider-bore-tech-8-mm-416-green": [
     "schoonmaaksetjes",
     "schoonmaakstokken"
@@ -7976,6 +7966,9 @@
     "schouderkussens"
   ],
   "butt-stock-bag-rider-saber-tactical-rfb-precision-fx-impact": [
+    "kolven"
+  ],
+  "schouderstuk-anschutz-4709a": [
     "kolven"
   ],
   "butt-plate-ctm-type-b": [
@@ -11224,8 +11217,7 @@
     "admin-pouches"
   ],
   "m-tac-pouch-for-pk-ammo-box-fast-9093": [
-    "magazijn-pouches",
-    "utility-pouches"
+    "magazijn-pouches"
   ],
   "m-tac-pouch-for-sleeping-mat-bundeswehry-39": [
     "slaapzakken-matten"
@@ -11379,6 +11371,17 @@
   ],
   "m-tac-tablet-bag-laser-cut-hex-763": [
     "tassen-rugzakken"
+  ],
+  "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
+    "dump-pouches",
+    "patches",
+    "tactical-bags",
+    "wapenkoffers"
+  ],
+  "m-tac-tactical-badge-holder-hook-surface-hanging-id-card-case-287": [
+    "patches",
+    "tactical-bags",
+    "wapenkoffers"
   ],
   "m-tac-tactical-hand-warmer-elite-536": [
     "sling-bags"
@@ -11824,6 +11827,9 @@
   ],
   "paracord-shock-cord-3mm-60m-9875": [
     "paracord"
+  ],
+  "pas-pkm-8042": [
+    "geweerriemen"
   ],
   "patch-see-in-the-dark-like-a-predator-pvc-7755": [
     "patches"
@@ -12932,9 +12938,6 @@
   "sling-pistol-bag-elite-hex-with-velcro-closure-5587": [
     "sling-bags"
   ],
-  "sling-pistol-bag-hex-10183": [
-    "shoulder-messengers"
-  ],
   "sling-pistol-bag-hex-with-velcro-10179": [
     "sling-bags"
   ],
@@ -13898,9 +13901,6 @@
     "cameras",
     "nachtzicht-handheld"
   ],
-  "spare-shield-laylax-direct-mount-aegis-hg": [
-    "montage-accessoires"
-  ],
   "stealth-gear-handschoenen-eagle-maat-xl-xxl-710024": [
     "jacht-handschoenen",
     "winter-handschoenen",
@@ -14069,40 +14069,24 @@
       "veldspaden",
       "schoppen"
     ],
-    "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
-      "dump-pouches",
-      "airsoft",
-      "patches",
-      "jacht",
-      "schietsport",
-      "tactical-bags",
+    "eva-knee-pad-inserts-pair-genii-grey-517": [
       "tactical-gear",
-      "wapenkoffers",
-      "Equipment and gear > Patches",
-      "id-holders",
-      "pouches",
-      "m-tac",
-      "Tactical Line"
+      "bescherming",
+      "m-tac"
     ],
-    "m-tac-tactical-badge-holder-hook-surface-hanging-id-card-case-287": [
-      "airsoft",
-      "jacht",
-      "schietsport",
-      "tactical-bags",
-      "wapenkoffers",
-      "Equipment and gear > Patches",
+    "flag-odin-night-vision-630x900-5792": [
+      "optiek",
+      "nachtzicht",
+      "Equipment and gear > Flags",
+      "Military Line",
       "m-tac",
-      "id-holders",
-      "pouches",
-      "tactical-gear",
-      "patches"
+      "vlaggen"
     ],
-    "pas-pkm-8042": [
-      "Tactical gear > Gun Sling",
+    "key-holder-elite-8653": [
       "m-tac",
-      "geweerriemen",
-      "wapen-toebehoren",
-      "airsoft"
+      "Clothing > Accessories",
+      "kleding-accessoires",
+      "kleding"
     ],
     "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
       "airsoft-magazijn-toebehoren",
@@ -14633,11 +14617,6 @@
       "tactical-vest-accessoires",
       "shoulder-messengers"
     ],
-    "eva-knee-pad-inserts-pair-genii-grey-517": [
-      "tactical-gear",
-      "bescherming",
-      "m-tac"
-    ],
     "fanny-bag-10024": [
       "Equipment and gear > Bags and backpacks > Bags",
       "rugzakken",
@@ -14674,14 +14653,6 @@
       "Clothing > Gloves > Fingerless",
       "m-tac",
       "handschoenen"
-    ],
-    "flag-odin-night-vision-630x900-5792": [
-      "optiek",
-      "nachtzicht",
-      "Equipment and gear > Flags",
-      "Military Line",
-      "m-tac",
-      "vlaggen"
     ],
     "flashlight-a180-7601": [
       "Equipment and gear > Flashlights",
@@ -15422,12 +15393,6 @@
       "Equipment and gear > Survival",
       "tourism > Dishes",
       "m-tac"
-    ],
-    "key-holder-elite-8653": [
-      "m-tac",
-      "Clothing > Accessories",
-      "kleding-accessoires",
-      "kleding"
     ],
     "key-lock-carabiner-7621": [
       "bushcraft",
@@ -16715,6 +16680,34 @@
       "Polo > One color",
       "m-tac"
     ],
+    "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
+      "dump-pouches",
+      "airsoft",
+      "patches",
+      "jacht",
+      "schietsport",
+      "tactical-bags",
+      "tactical-gear",
+      "wapenkoffers",
+      "Equipment and gear > Patches",
+      "id-holders",
+      "pouches",
+      "m-tac",
+      "Tactical Line"
+    ],
+    "m-tac-tactical-badge-holder-hook-surface-hanging-id-card-case-287": [
+      "airsoft",
+      "jacht",
+      "schietsport",
+      "tactical-bags",
+      "wapenkoffers",
+      "Equipment and gear > Patches",
+      "m-tac",
+      "id-holders",
+      "pouches",
+      "tactical-gear",
+      "patches"
+    ],
     "m-tac-tactical-hand-warmer-elite-536": [
       "tactical-bags",
       "m-tac",
@@ -17480,6 +17473,13 @@
       "Equipment and gear > Survival",
       "tourism > Paracord",
       "m-tac"
+    ],
+    "pas-pkm-8042": [
+      "Tactical gear > Gun Sling",
+      "m-tac",
+      "geweerriemen",
+      "wapen-toebehoren",
+      "airsoft"
     ],
     "patch-see-in-the-dark-like-a-predator-pvc-7755": [
       "m-tac",
