@@ -11189,7 +11189,6 @@
     "geweerriemen",
     "tactical-bags"
   ],
-  "m-tac-sling-pistol-bag-elite-hex-543": [],
   "m-tac-socks-coolmax-35-7408": [
     "sokken"
   ],
@@ -14370,7 +14369,8 @@
       "geweerriemen",
       "airsoft",
       "schietsport",
-      "tassen-rugzakken"
+      "tassen-rugzakken",
+      "wapen-toebehoren"
     ],
     "m-tac-socks-coolmax-35-7408": [
       "Clothing > Socks",
