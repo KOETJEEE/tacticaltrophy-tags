@@ -11038,7 +11038,6 @@
     "utility-pouches"
   ],
   "m-tac-panel-for-patches-on-molle-120x26-799": [
-    "patches",
     "patch-panels"
   ],
   "m-tac-panel-for-patches-on-molle-80x26-801": [
@@ -14370,7 +14369,8 @@
     "m-tac-panel-for-patches-on-molle-120x26-799": [
       "Equipment and gear > Patches",
       "molle",
-      "m-tac"
+      "m-tac",
+      "patches"
     ],
     "m-tac-panel-for-patches-on-molle-80x26-801": [
       "Equipment and gear > Patches",
