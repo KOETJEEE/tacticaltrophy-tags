@@ -1408,7 +1408,7 @@ function writeToShopify() {
   // Diff berekenen vanuit het toolsnapshot (geen Shopify API nodig)
   // permit-wwm, age-18, airsoft-membership worden door write_shopify_tags.py afzonderlijk
   // beheerd via assignments.json._added — niet tonen als diff in de write modal
-  const PERMIT_TAGS = new Set(['permit-wwm', 'age-18', 'airsoft-membership']);
+  const PERMIT_TAGS = new Set();
   const diffs = [];
   for (const p of PRODUCTS) {
     const newTags  = computeNewTagsForProduct(p);
