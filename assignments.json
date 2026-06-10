@@ -10922,8 +10922,7 @@
     "tactical-bags"
   ],
   "m-tac-ecopybook-tactical-an-all-weather-notebook-a5-8628": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "m-tac-ecopybook-tactical-ruler-protractor-nato-chicken-8096": [
     "veldnotitie"
@@ -14411,7 +14410,9 @@
       "wapen-accessoires"
     ],
     "m-tac-ecopybook-tactical-an-all-weather-notebook-a5-8628": [
-      "Equipment and gear > Office supplies"
+      "Equipment and gear > Office supplies",
+      "m-tac",
+      "tactical-bags"
     ],
     "m-tac-ecopybook-tactical-ruler-protractor-nato-chicken-8096": [
       "m-tac",
