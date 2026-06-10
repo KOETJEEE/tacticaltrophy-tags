@@ -10863,7 +10863,9 @@
   "m-tac-baseball-cap-flex-rip-stop-4664": [
     "petten"
   ],
-  "m-tac-bat-wing-bag-elite-hex-424": [],
+  "m-tac-bat-wing-bag-elite-hex-424": [
+    "sling-bags"
+  ],
   "m-tac-berg-buckle-tactical-belt-205": [
     "riemen-bretels",
     "tactical-riemen"
@@ -14408,6 +14410,9 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "m-tac-baseball-cap-flex-rip-stop-4664": [
+      "Clothing > Headwear > Caps"
     ],
     "m-tac-bat-wing-bag-elite-hex-424": [
       "Equipment and gear > Bags and backpacks > Bags",
