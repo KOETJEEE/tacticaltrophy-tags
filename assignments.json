@@ -11612,7 +11612,6 @@
     "tactical-bags",
     "admin-pouches"
   ],
-  "organizer-hardshell-utility-box-l-9958": [],
   "organizer-hardshell-utility-box-s-9962": [
     "utility-pouches"
   ],
@@ -17148,7 +17147,9 @@
       "Tactical gear > Pouches"
     ],
     "organizer-hardshell-utility-box-l-9958": [
-      "tactical-gear"
+      "tactical-gear",
+      "utility-pouches",
+      "pouches"
     ],
     "organizer-hardshell-utility-box-s-9962": [
       "m-tac",
