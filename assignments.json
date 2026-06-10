@@ -10827,7 +10827,8 @@
     "tactical-shirts"
   ],
   "m-tac-alder-camouflage-suit-693": [
-    "camouflagenetten"
+    "camouflagenetten",
+    "diversen-kleding"
   ],
   "m-tac-alpha-geniii-winter-jacket-3217": [
     "jassen",
@@ -14427,7 +14428,8 @@
       "camouflage",
       "Equipment and gear > Sniper camouflage",
       "sniper",
-      "Military Line"
+      "Military Line",
+      "m-tac"
     ],
     "m-tac-alpha-geniii-winter-jacket-3217": [
       "Clothing > Jackets",
