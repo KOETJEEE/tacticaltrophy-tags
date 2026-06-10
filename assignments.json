@@ -11134,7 +11134,6 @@
   "m-tac-pcc-mag-pouch-kolchan-609": [
     "magazijn-pouches"
   ],
-  "m-tac-pocket-bag-elite-hex-748": [],
   "m-tac-pouch-accessory-lower-large-elite-714": [
     "die-accessoires",
     "utility-pouches"
@@ -14381,6 +14380,9 @@
       "magazine-pouches",
       "m-tac",
       "magazijn-pouches"
+    ],
+    "m-tac-pocket-bag-elite-hex-748": [
+      "jacht"
     ],
     "m-tac-pouch-accessory-lower-large-elite-714": [
       "m-tac",
