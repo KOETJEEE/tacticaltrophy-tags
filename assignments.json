@@ -10642,7 +10642,8 @@
   "jacket-jarl-primaloft-8517": [
     "jassen",
     "tussenseizoenjassen",
-    "softshell-jassen"
+    "softshell-jassen",
+    "winterjassen"
   ],
   "jacket-knight-primaloft-8442": [
     "winterjassen",
@@ -14421,6 +14422,9 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "jacket-jarl-primaloft-8517": [
+      "Clothing > Jackets > Mid-season jackets"
     ],
     "jacket-knight-primaloft-8442": [
       "Clothing > Jackets > Winter jackets",
