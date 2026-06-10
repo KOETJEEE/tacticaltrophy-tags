@@ -10712,7 +10712,6 @@
   "kettle-12-l-7617": [
     "kookgerei"
   ],
-  "key-holder-elite-8653": [],
   "key-lock-carabiner-7621": [
     "karabijnhaken"
   ],
@@ -14428,7 +14427,9 @@
     ],
     "key-holder-elite-8653": [
       "m-tac",
-      "Clothing > Accessories"
+      "Clothing > Accessories",
+      "kleding-accessoires",
+      "kleding"
     ],
     "key-lock-carabiner-7621": [
       "bushcraft",
