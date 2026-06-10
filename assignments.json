@@ -10548,6 +10548,7 @@
     "hoodies",
     "truien"
   ],
+  "hook-loop-low-profile-admin-panel-197": [],
   "horizontal-medical-pouch-elite-483": [
     "ehbo",
     "medical-pouches"
@@ -14424,6 +14425,10 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "hook-loop-low-profile-admin-panel-197": [
+      "wapen-accessoires",
+      "Equipment and gear > Bags and backpacks > Backpack accessories"
     ],
     "horizontal-medical-pouch-elite-483": [
       "emt-pouches",
