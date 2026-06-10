@@ -12596,7 +12596,9 @@
   "plate-carrier-cuirass-tiger-elite-8685": [
     "plate-carriers"
   ],
-  "plate-carrier-lower-accessory-pouch-genii-elite-228": [],
+  "plate-carrier-lower-accessory-pouch-genii-elite-228": [
+    "plate-carriers"
+  ],
   "pocket-bag-hardsling-lite-nr-9701": [
     "tassen-rugzakken"
   ],
@@ -18621,7 +18623,10 @@
       "die-accessoires",
       "pouches",
       "m-tac",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "plate-carriers",
+      "tactical-gear",
+      "utility-pouches"
     ],
     "pocket-bag-hardsling-lite-nr-9701": [
       "Equipment and gear > Bags and backpacks > Bags",
