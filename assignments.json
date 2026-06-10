@@ -11153,7 +11153,6 @@
     "medical-pouches",
     "ehbo"
   ],
-  "m-tac-pouch-single-elastic-magazine-elite-laser-cut-395": [],
   "m-tac-pouch-sukharka-gen3-767": [
     "utility-pouches"
   ],
@@ -14368,7 +14367,9 @@
       "magazijn-pouches"
     ],
     "m-tac-pouch-single-elastic-magazine-elite-laser-cut-395": [
-      "m-tac"
+      "m-tac",
+      "tactical-gear",
+      "magazine-pouches"
     ],
     "m-tac-pouch-sukharka-gen3-767": [
       "m-tac",
