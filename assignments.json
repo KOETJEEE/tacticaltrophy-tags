@@ -13643,7 +13643,9 @@
     "bodywarmer",
     "dames-jachtvesten"
   ],
-  "zip-pocket-organizer-set-elite-8979": [],
+  "zip-pocket-organizer-set-elite-8979": [
+    "admin-pouches"
+  ],
   "mounting-base-kmr-s-02-or-shield": [
     "montage-accessoires"
   ],
@@ -20063,7 +20065,8 @@
     "zip-pocket-organizer-set-elite-8979": [
       "m-tac",
       "pouches",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "utility-pouches"
     ],
     "mounting-base-kmr-s-02-or-shield": [
       "richtmiddel-accessoires"
