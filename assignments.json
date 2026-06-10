@@ -14369,10 +14369,15 @@
       "m-tac",
       "magazijn-pouches"
     ],
+    "m-tac-pouch-for-tourniquet-elastic-molle-geniii-355": [
+      "Tactical gear > Pouches > EMT Pouches",
+      "pouches"
+    ],
     "m-tac-pouch-medical-vertical-large-elite-754": [
       "emt-pouches",
       "pouches",
-      "m-tac"
+      "m-tac",
+      "Tactical gear > Pouches > EMT Pouches"
     ],
     "m-tac-pouch-single-elastic-magazine-elite-laser-cut-395": [
       "m-tac",
