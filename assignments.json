@@ -59,7 +59,9 @@
     "satellite-bag-genii-7655",
     "m-tac-seating-pad-with-belt-20",
     "m-tac-seat-pad-20-mm-7610",
-    "m-tac-passport-cover-722"
+    "m-tac-passport-cover-722",
+    "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419",
+    "m-tac-paracord-bracelet-7423"
   ],
   "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
     "dump-pouches",
@@ -11061,7 +11063,6 @@
   "m-tac-paracord-bracelet-7423": [
     "paracord"
   ],
-  "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [],
   "m-tac-paracord-survival-951": [
     "paracord"
   ],
@@ -14379,7 +14380,8 @@
       "tourism > paracord bracelets",
       "airsoft",
       "kompassen",
-      "survival"
+      "survival",
+      "paracord"
     ],
     "m-tac-paracord-survival-951": [
       "bushcraft",
