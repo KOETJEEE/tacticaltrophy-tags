@@ -10628,7 +10628,6 @@
     "tactical-shirts"
   ],
   "jacket-field-nyco-extreme-2643": [
-    "winterjassen",
     "tactical-shirts"
   ],
   "jacket-flash-3685": [
@@ -14424,7 +14423,8 @@
       "wapen-accessoires"
     ],
     "jacket-flash-3685": [
-      "Clothing > Jackets > Windbreaker jackets"
+      "Clothing > Jackets > Windbreaker jackets",
+      "m-tac"
     ],
     "jacket-jarl-2806": [
       "Clothing > Jackets",
