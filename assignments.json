@@ -13509,7 +13509,9 @@
   "utility-travel-case-clear-elite-large-30x19-cm-400": [
     "admin-pouches"
   ],
-  "utility-travel-case-elite-medium-26x11-cm-457": [],
+  "utility-travel-case-elite-medium-26x11-cm-457": [
+    "admin-pouches"
+  ],
   "velcro-panel-for-a-car-sun-visor-elite-10022": [
     "patch-panels",
     "patches"
@@ -13641,9 +13643,7 @@
     "bodywarmer",
     "dames-jachtvesten"
   ],
-  "zip-pocket-organizer-set-elite-8979": [
-    "utility-pouches"
-  ],
+  "zip-pocket-organizer-set-elite-8979": [],
   "mounting-base-kmr-s-02-or-shield": [
     "montage-accessoires"
   ],
