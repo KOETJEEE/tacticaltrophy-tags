@@ -11068,7 +11068,9 @@
   "m-tac-paracord-survival-951": [
     "paracord"
   ],
-  "m-tac-paratrooper-belt-644": [],
+  "m-tac-paratrooper-belt-644": [
+    "tactical-riemen"
+  ],
   "m-tac-pas-range-belt-cobra-buckle-geniv-1032": [
     "tactical-riemen"
   ],
@@ -14371,12 +14373,16 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "m-tac-paracord-survival-951": [
+      "bushcraft"
+    ],
     "m-tac-paratrooper-belt-644": [
       "Clothing > Belt",
       "riemen-bretels",
       "m-tac",
       "kleding",
-      "bretels"
+      "bretels",
+      "belts"
     ],
     "m-tac-pas-range-belt-cobra-buckle-geniv-1032": [
       "Tactical gear > Tactical belts",
