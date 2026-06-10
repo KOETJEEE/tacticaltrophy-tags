@@ -11241,9 +11241,7 @@
   "m-tac-pouch-single-elastic-magazine-elite-laser-cut-395": [
     "magazijn-pouches"
   ],
-  "m-tac-pouch-sukharka-gen3-767": [
-    "utility-pouches"
-  ],
+  "m-tac-pouch-sukharka-gen3-767": [],
   "m-tac-pouch-tourniquet-elastic-molle-attachment-genii-349": [
     "tourniquets",
     "ehbo",
@@ -16436,7 +16434,8 @@
     "m-tac-pouch-sukharka-gen3-767": [
       "m-tac",
       "pouches",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "utility-pouches"
     ],
     "m-tac-pouch-tourniquet-elastic-molle-attachment-genii-349": [
       "emt-pouches",
