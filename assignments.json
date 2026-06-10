@@ -11231,8 +11231,7 @@
     "tactical-shirts"
   ],
   "m-tac-t-shirt-freedom-6983": [
-    "t-shirts-polos",
-    "tactical-shirts"
+    "t-shirts-polos"
   ],
   "m-tac-t-shirt-kamikaze-spirit-6866": [
     "t-shirts-polos"
@@ -14384,7 +14383,8 @@
       "m-tac",
       "longsleeve",
       "Polo > Printing",
-      "polos"
+      "polos",
+      "t-shirts"
     ],
     "m-tac-t-shirt-kamikaze-spirit-6866": [
       "Clothing > T-shirts",
