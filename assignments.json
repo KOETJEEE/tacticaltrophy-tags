@@ -11017,9 +11017,11 @@
     "hoodies",
     "truien"
   ],
-  "m-tac-hook-loop-utility-panel-200": [],
+  "m-tac-hook-loop-utility-panel-200": [
+    "admin-pouches"
+  ],
   "m-tac-horizontal-utility-pouch-65": [
-    "utility-pouches"
+    "admin-pouches"
   ],
   "m-tac-hydration-bladder-15l-8553": [
     "drinkflessen-thermos"
@@ -16008,7 +16010,9 @@
     "m-tac-horizontal-utility-pouch-65": [
       "m-tac",
       "pouches",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "utility-pouches",
+      "tactical-gear"
     ],
     "m-tac-hydration-bladder-15l-8553": [
       "bushcraft",
