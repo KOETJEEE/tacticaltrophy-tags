@@ -11470,6 +11470,9 @@
   "magnet-bag-elite-151": [
     "admin-pouches"
   ],
+  "magnet-xl-bag-elite-256": [
+    "admin-pouches"
+  ],
   "magnetic-panel-for-patches-290x95-8363": [
     "patch-panels"
   ],
@@ -11609,9 +11612,7 @@
     "tactical-bags",
     "admin-pouches"
   ],
-  "organizer-hardshell-utility-box-l-9958": [
-    "utility-pouches"
-  ],
+  "organizer-hardshell-utility-box-l-9958": [],
   "organizer-hardshell-utility-box-s-9962": [
     "utility-pouches"
   ],
@@ -17145,6 +17146,9 @@
       "m-tac",
       "pouches",
       "Tactical gear > Pouches"
+    ],
+    "organizer-hardshell-utility-box-l-9958": [
+      "tactical-gear"
     ],
     "organizer-hardshell-utility-box-s-9962": [
       "m-tac",
