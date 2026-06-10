@@ -10929,9 +10929,7 @@
     "veldnotitie",
     "tactical-bags"
   ],
-  "m-tac-elastic-suspenders-l7-260": [
-    "diversen-kleding"
-  ],
+  "m-tac-elastic-suspenders-l7-260": [],
   "m-tac-field-maintenance-tray-18x30cm-745": [
     "onderhoudshulpmiddelen"
   ],
@@ -14410,7 +14408,8 @@
     "m-tac-elastic-suspenders-l7-260": [
       "Clothing > Accessories",
       "m-tac",
-      "Military Line"
+      "Military Line",
+      "kleding-accessoires"
     ],
     "m-tac-field-maintenance-tray-18x30cm-745": [
       "onderhoud",
