@@ -10870,9 +10870,7 @@
     "riemen-bretels",
     "tactical-bags"
   ],
-  "m-tac-buckler-bag-elite-hex-384": [
-    "tassen-rugzakken"
-  ],
+  "m-tac-buckler-bag-elite-hex-384": [],
   "m-tac-carry-sling-bag-elite-geniv-82": [
     "shoulder-messengers"
   ],
@@ -14415,7 +14413,10 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
       "Tactical Line",
-      "rugzakken"
+      "rugzakken",
+      "m-tac",
+      "schietsport",
+      "jacht"
     ],
     "m-tac-carry-sling-bag-elite-geniv-82": [
       "Equipment and gear > Bags and backpacks > Bags",
