@@ -13487,9 +13487,7 @@
   "urban-line-city-hunter-hexagon-bag-7374": [
     "sling-bags"
   ],
-  "urban-line-city-patrol-fastex-bag-black-7440": [
-    "shoulder-messengers"
-  ],
+  "urban-line-city-patrol-fastex-bag-black-7440": [],
   "urban-line-force-pack-backpack-7377": [
     "tactical-rugzakken",
     "zakmessen"
@@ -19622,7 +19620,8 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "shoulder-messengers"
     ],
     "urban-line-force-pack-backpack-7377": [
       "Equipment and gear > Bags and backpacks > Backpacks",
