@@ -14376,10 +14376,15 @@
       "m-tac",
       "magazijn-pouches"
     ],
+    "m-tac-pouch-for-night-vision-monocular-pvs-14-59": [
+      "m-tac",
+      "pouches"
+    ],
     "m-tac-pouch-for-pk-ammo-box-fast-9093": [
       "m-tac",
       "magazine-pouches",
-      "Tactical gear > Pouches > Magazine Pouches"
+      "Tactical gear > Pouches > Magazine Pouches",
+      "pouches"
     ],
     "m-tac-pouch-for-sleeping-mat-bundeswehry-39": [
       "tactical-gear",
