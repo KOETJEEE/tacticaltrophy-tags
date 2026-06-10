@@ -10642,7 +10642,6 @@
   "jacket-jarl-primaloft-8517": [
     "jassen",
     "softshell-jassen",
-    "winterjassen",
     "tussenseizoenjassen"
   ],
   "jacket-knight-primaloft-8442": [
@@ -14425,7 +14424,8 @@
     ],
     "jacket-jarl-primaloft-8517": [
       "Clothing > Jackets > Mid-season jackets",
-      "m-tac"
+      "m-tac",
+      "winter-jassen"
     ],
     "jacket-knight-primaloft-8442": [
       "Clothing > Jackets > Winter jackets",
