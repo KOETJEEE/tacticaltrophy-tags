@@ -13184,9 +13184,11 @@
   "t-shirt-worn-to-the-bone-oversize-9365": [
     "shirts"
   ],
-  "tactical-bag-shoulder-chest-pack-with-sling-152": [],
+  "tactical-bag-shoulder-chest-pack-with-sling-152": [
+    "sling-bags"
+  ],
   "tactical-bag-shoulder-chest-pack-with-sling-155": [
-    "shoulder-messengers"
+    "sling-bags"
   ],
   "tactical-bag-shoulder-chest-pack-with-sling-158": [
     "shoulder-messengers"
@@ -19264,7 +19266,9 @@
       "tactical-bags",
       "wapen-toebehoren",
       "Equipment and gear > Bags and backpacks > Bags",
-      "m-tac"
+      "m-tac",
+      "shoulder-messengers",
+      "tactical-gear"
     ],
     "tactical-bag-shoulder-chest-pack-with-sling-158": [
       "rugzakken",
