@@ -14409,7 +14409,9 @@
       "wapen-accessoires"
     ],
     "m-tac-gloves-police-7222": [
-      "Clothing > Gloves > Tactical"
+      "Clothing > Gloves > Tactical",
+      "m-tac",
+      "handschoenen"
     ],
     "m-tac-gloves-summer-vent-8108": [
       "Clothing > Gloves",
