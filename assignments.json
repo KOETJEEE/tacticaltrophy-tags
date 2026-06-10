@@ -11227,8 +11227,7 @@
     "tactical-shirts"
   ],
   "m-tac-t-shirt-delivery-service-6955": [
-    "t-shirts-polos",
-    "tactical-shirts"
+    "t-shirts-polos"
   ],
   "m-tac-t-shirt-freedom-6983": [
     "t-shirts-polos"
@@ -14382,7 +14381,9 @@
       "Clothing > T-shirts",
       "m-tac",
       "longsleeve",
-      "Polo > Printing"
+      "Polo > Printing",
+      "t-shirts",
+      "polos"
     ],
     "m-tac-t-shirt-freedom-6983": [
       "Clothing > T-shirts",
