@@ -11196,6 +11196,9 @@
   "m-tac-socks-coolmax-35-7408": [
     "sokken"
   ],
+  "m-tac-sphaera-hex-hardsling-bag-348": [
+    "waist-packs"
+  ],
   "m-tac-sphaera-hex-hardsling-bag-genii-elite-353": [
     "waist-packs"
   ],
@@ -14372,7 +14375,8 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "Tactical Line",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "tassen"
     ],
     "m-tac-sphaera-hex-hardsling-bag-genii-elite-353": [
       "jacht",
