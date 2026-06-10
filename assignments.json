@@ -10244,7 +10244,6 @@
   "edc-bag-x-pac-elite-8935": [
     "sling-bags"
   ],
-  "edc-pocket-elite-10059": [],
   "edc-pocket-hex-elite-7938": [
     "utility-pouches"
   ],
@@ -14593,7 +14592,8 @@
     "edc-pocket-elite-10059": [
       "m-tac",
       "pouches",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "utility-pouches"
     ],
     "edc-pocket-hex-elite-7938": [
       "m-tac",
