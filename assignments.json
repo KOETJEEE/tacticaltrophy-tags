@@ -10221,7 +10221,8 @@
   ],
   "elastic-tourniquet-holder-geniii-359": [
     "tourniquets",
-    "ehbo"
+    "ehbo",
+    "medical-pouches"
   ],
   "elite-ballistic-forearm-protection-class-1-fms-9554": [
     "tactical-vests"
@@ -14418,7 +14419,8 @@
     "elastic-tourniquet-holder-geniii-359": [
       "emt-pouches",
       "pouches",
-      "m-tac"
+      "m-tac",
+      "Tactical gear > Pouches > EMT Pouches"
     ],
     "elite-ballistic-forearm-protection-class-1-fms-9554": [
       "m-tac",
