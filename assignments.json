@@ -12942,8 +12942,7 @@
     "shoulder-messengers"
   ],
   "sling-pistol-bag-hex-with-velcro-10179": [
-    "shoulder-messengers",
-    "holsters"
+    "shoulder-messengers"
   ],
   "small-carabiner-9726": [
     "karabijnhaken"
@@ -18918,7 +18917,8 @@
       "rugzakken",
       "tassen",
       "m-tac",
-      "shoulder-messengers"
+      "shoulder-messengers",
+      "holsters"
     ],
     "sling-pistol-bag-hex-10183": [
       "jacht",
@@ -18941,7 +18941,8 @@
       "tassen-rugzakken",
       "wapen-toebehoren",
       "rugzakken",
-      "tassen"
+      "tassen",
+      "Equipment and gear > Bags and backpacks > Bags"
     ],
     "small-tactical-ruler-nato-blue-10191": [
       "tactical-bags",
