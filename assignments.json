@@ -14387,10 +14387,15 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "m-tac-mag-drop-pouch-elite-209": [
+      "m-tac",
+      "pouches"
+    ],
     "m-tac-mag-pouch-kolchan-for-akar-mini-599": [
       "m-tac",
       "magazine-pouches",
-      "Tactical gear > Pouches > Magazine Pouches"
+      "Tactical gear > Pouches > Magazine Pouches",
+      "pouches"
     ],
     "m-tac-magazine-dump-pouch-lite-elite-728": [
       "m-tac",
