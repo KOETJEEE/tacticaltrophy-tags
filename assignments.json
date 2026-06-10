@@ -10984,7 +10984,9 @@
   "m-tac-hydration-bladder-15l-8553": [
     "drinkflessen-thermos"
   ],
-  "m-tac-insert-modular-small-2-sections-666": [],
+  "m-tac-insert-modular-small-2-sections-666": [
+    "admin-pouches"
+  ],
   "m-tac-insert-modular-small-3-sections-663": [
     "admin-pouches"
   ],
@@ -14407,7 +14409,11 @@
     "m-tac-insert-modular-small-2-sections-666": [
       "wapen-accessoires",
       "Equipment and gear > Bags and backpacks > Backpack accessories",
-      "rugzak-accessoires"
+      "rugzak-accessoires",
+      "m-tac"
+    ],
+    "m-tac-insert-modular-small-3-sections-663": [
+      "wapen-accessoires"
     ],
     "m-tac-internal-tiger-belt-for-range-belt-817": [
       "Clothing > Belt",
