@@ -10968,7 +10968,6 @@
     "geweertassen-foudralen"
   ],
   "m-tac-gun-belt-single-point-669": [
-    "riemen-bretels",
     "geweerriemen"
   ],
   "m-tac-hoodie-combat-black-edition-8707": [
@@ -14407,7 +14406,8 @@
       "wapen-accessoires"
     ],
     "m-tac-hoodie-combat-black-edition-8707": [
-      "Clothing > Hoodie"
+      "Clothing > Hoodie",
+      "m-tac"
     ],
     "m-tac-hook-loop-utility-panel-200": [
       "Equipment and gear > Bags and backpacks > Backpack accessories",
