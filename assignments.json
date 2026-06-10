@@ -10916,7 +10916,8 @@
     "magazijn-pouches"
   ],
   "m-tac-drop-leg-platform-gen3-150": [
-    "holsters"
+    "holsters",
+    "patch-panels"
   ],
   "m-tac-ecopybook-tactical-an-all-weather-notebook-fireteam-squad-8630": [
     "veldnotitie"
@@ -14411,7 +14412,8 @@
     ],
     "m-tac-drop-leg-platform-gen3-150": [
       "m-tac",
-      "Tactical gear > Thigh and hip tactical panels"
+      "Tactical gear > Thigh and hip tactical panels",
+      "tactical-panels"
     ],
     "m-tac-ecopybook-tactical-an-all-weather-notebook-fireteam-squad-8630": [
       "tactical-bags",
