@@ -511,8 +511,9 @@ function init() {
 
   // Sla direct op als pagina verborgen wordt (tab wisselen, sluiten, hard refresh)
   document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState === 'hidden') {
+    if (document.visibilityState === 'hidden' && _ghDirty) {
       clearTimeout(_ghTimer);
+      _ghTimer = null;
       saveToGitHub();
     }
   });
@@ -574,6 +575,13 @@ function visibleProducts() {
     if (tabFilter === 'untagged')  return !filtered.has(p.handle) && !done.has(p.handle) && assignments[p.handle].size === 0;
     return true;
   });
+}
+
+function renderListKeepScroll() {
+  const list = document.getElementById('products-list');
+  const scrollTop = list.scrollTop;
+  renderList();
+  requestAnimationFrame(() => { list.scrollTop = scrollTop; });
 }
 
 function renderList() {
@@ -1019,8 +1027,8 @@ function toggleFlag(handle, e) {
   else flagged.add(handle);
   saveFlagsLocal();
   scheduleGitHubSave();
-  renderList();
   renderStats();
+  renderListKeepScroll();
 }
 
 // ── Persist ──
@@ -1076,7 +1084,7 @@ function toggleFiltered(handle, event) {
   saveFilteredLocal();
   scheduleGitHubSave();
   renderStats();
-  renderList();
+  renderListKeepScroll();
 }
 
 function bulkFlag() {
@@ -1098,6 +1106,7 @@ function bulkDone() {
   const allDone = [...selectedHandles].every(h => done.has(h));
   selectedHandles.forEach(h => allDone ? done.delete(h) : done.add(h));
   saveDoneLocal();
+  scheduleGitHubSave();
   renderStats(); renderList();
 }
 
@@ -1117,19 +1126,22 @@ function toggleDone(handle, event) {
   const wasDone = done.has(handle);
   wasDone ? done.delete(handle) : done.add(handle);
   saveDoneLocal();
+  scheduleGitHubSave();
   renderStats();
-  renderList();
-  if (!wasDone) stepProduct(1);
+  renderListKeepScroll();
 }
 
 // ── GitHub sync ──
 let _ghTimer = null;
 let _ghSha   = null;
+let _ghDirty = false;
 
 function scheduleGitHubSave() {
   if (!GITHUB_TOKEN) return;
-  clearTimeout(_ghTimer);
-  _ghTimer = setTimeout(saveToGitHub, 800);
+  _ghDirty = true;
+  if (!_ghTimer) {
+    _ghTimer = setTimeout(() => { _ghTimer = null; saveToGitHub(); }, 3 * 60 * 1000);
+  }
 }
 
 async function saveToGitHub() {
@@ -1146,6 +1158,7 @@ async function saveToGitHub() {
   for (const [h, s] of Object.entries(addedTags)) if (s.size > 0) addedData[h] = [...s];
   if (Object.keys(addedData).length) data._added = addedData;
   if (filtered.size > 0) data._filtered = [...filtered];
+  if (done.size > 0) data._done = [...done];
   const content = btoa(unescape(encodeURIComponent(JSON.stringify(data, null, 2))));
   showSyncStatus('⟳ Opslaan…', '#94a3b8');
   try {
@@ -1162,13 +1175,21 @@ async function saveToGitHub() {
     if (res.ok) {
       _ghSha = (await res.json()).content.sha;
       _dirty.clear();  // succesvol opgeslagen → niet meer dirty
+      _ghDirty = false;
       showSyncStatus('✓ Opgeslagen', '#4ade80');
       return true;
     } else {
-      showSyncStatus('⚠ Opslaan mislukt', '#f87171');
+      _ghSha = null;  // reset zodat volgende poging verse SHA ophaalt
+      showSyncStatus('⚠ Conflict – opnieuw proberen…', '#f87171');
+      setTimeout(saveToGitHub, 5000);
       return false;
     }
-  } catch(e) { showSyncStatus('⚠ Geen verbinding', '#f87171'); return false; }
+  } catch(e) {
+    _ghSha = null;
+    showSyncStatus('⚠ Geen verbinding – opnieuw proberen…', '#f87171');
+    setTimeout(saveToGitHub, 5000);
+    return false;
+  }
 }
 
 async function triggerRefreshWorkflow() {
@@ -1246,16 +1267,19 @@ async function syncFromGitHub() {
     const ghData = JSON.parse(decodeURIComponent(escape(atob(fileMeta.content.replace(/\n/g, '')))));
     let changed = false;
 
-    // Vlaggen: merge (unie van lokaal en GitHub)
-    if (Array.isArray(ghData._flags)) {
-      ghData._flags.forEach(hh => { if (!flagged.has(hh)) { flagged.add(hh); changed = true; } });
-      if (changed) saveFlagsLocal();
-    }
-    if (Array.isArray(ghData._filtered)) {
-      let fchanged = false;
-      ghData._filtered.forEach(hh => { if (!filtered.has(hh)) { filtered.add(hh); fchanged = true; } });
-      if (fchanged) saveFilteredLocal();
-    }
+    // GitHub is altijd leidend voor flags, filtered en done (ook verwijderingen worden gesynchroniseerd)
+    flagged.clear();
+    if (Array.isArray(ghData._flags)) ghData._flags.forEach(hh => flagged.add(hh));
+    saveFlagsLocal();
+
+    filtered.clear();
+    if (Array.isArray(ghData._filtered)) ghData._filtered.forEach(hh => filtered.add(hh));
+    saveFilteredLocal();
+
+    done.clear();
+    if (Array.isArray(ghData._done)) ghData._done.forEach(hh => done.add(hh));
+    saveDoneLocal();
+
 
     // Assignments: altijd GitHub nemen, behalve handles die in déze sessie zijn gewijzigd
     // Ondersteunt ook oude krale-/benel-/mtac-/frankonia- prefix-handles in GitHub
@@ -1309,9 +1333,9 @@ async function syncFromGitHub() {
         for (const [h,s] of Object.entries(assignments)) if(s.size>0) d[h]=[...s];
         localStorage.setItem('tt-tag-v1', JSON.stringify(d));
       } catch(e) {}
-      renderStats(); renderList();
-      if (selectedHandle) renderCollections();
     }
+    renderStats(); renderList();
+    if (selectedHandle) renderCollections();
     showSyncStatus('✓ Gesynchroniseerd', '#4ade80');
   } catch(e) { showSyncStatus('', ''); }
 }
