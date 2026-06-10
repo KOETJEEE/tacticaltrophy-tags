@@ -14427,9 +14427,9 @@
     ],
     "hoodie-odin-mystery-8368": [
       "Clothing > Hoodie",
-      "maattabel-mtac",
       "m-tac",
-      "truien"
+      "truien",
+      "maattabel-mtac"
     ],
     "hoodie-polartec-sport-6450": [
       "Clothing > Fleeces",
@@ -19710,6 +19710,9 @@
     ],
     "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
       "permit-wwm"
+    ],
+    "hoodie-odin-mystery-8368": [
+      "maattabel-mtac"
     ],
     "jacket-sheriff-9501": [
       "maattabel-mtac"
