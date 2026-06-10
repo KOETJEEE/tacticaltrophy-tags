@@ -10423,8 +10423,7 @@
     "tactical-handschoenen"
   ],
   "gloves-assault-tactical-mk2-7122": [
-    "tactical-handschoenen",
-    "tactical-bags"
+    "tactical-handschoenen"
   ],
   "gloves-assault-tactical-mk6-7243": [
     "tactical-handschoenen"
@@ -14421,7 +14420,9 @@
     "gloves-assault-tactical-mk2-7122": [
       "Clothing > Gloves > Tactical",
       "handschoenen",
-      "m-tac"
+      "m-tac",
+      "tactical-gear",
+      "tactical-bags"
     ],
     "gloves-assault-tactical-mk6-7243": [
       "Clothing > Gloves > Tactical",
