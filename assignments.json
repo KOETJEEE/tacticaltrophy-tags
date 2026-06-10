@@ -11208,8 +11208,7 @@
     "tactical-shirts"
   ],
   "m-tac-t-shirt-belt-after-belt-10043": [
-    "t-shirts-polos",
-    "riemen-bretels"
+    "t-shirts-polos"
   ],
   "m-tac-t-shirt-black-sea-expedition-6717": [
     "t-shirts-polos"
@@ -14370,6 +14369,10 @@
       "magazine-pouches",
       "m-tac",
       "magazijn-pouches"
+    ],
+    "m-tac-t-shirt-belt-after-belt-10043": [
+      "tactical-gear",
+      "tactical-shirts"
     ],
     "m-tac-t-shirt-black-sea-expedition-6717": [
       "Clothing > T-shirts",
