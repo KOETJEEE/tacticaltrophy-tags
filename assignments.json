@@ -13497,9 +13497,10 @@
   "utility-organizer-transparent-elite-small-22x14-cm-402": [
     "admin-pouches"
   ],
-  "utility-pouch-elite-small-78": [
-    "utility-pouches"
+  "utility-organizer-transparent-elite-small-genii-414": [
+    "admin-pouches"
   ],
+  "utility-pouch-elite-small-78": [],
   "utility-shoulder-pouch-elite-genii-347": [
     "utility-pouches"
   ],
@@ -19816,7 +19817,8 @@
       "pouches",
       "Tactical gear > Pouches > Utility Pouches",
       "utility-pouches",
-      "m-tac"
+      "m-tac",
+      "tactical-gear"
     ],
     "utility-shoulder-pouch-elite-genii-347": [
       "m-tac",
