@@ -11240,8 +11240,7 @@
   ],
   "m-tac-t-shirt-keep-calm-7025": [
     "t-shirts-polos",
-    "shirts",
-    "tactical-shirts"
+    "shirts"
   ],
   "m-tac-t-shirt-logo-6927": [
     "t-shirts-polos"
@@ -14388,7 +14387,9 @@
       "Polo > Printing",
       "t-shirts",
       "polos",
-      "m-tac"
+      "m-tac",
+      "tactical-shirts",
+      "tactical-gear"
     ],
     "m-tac-t-shirt-logo-6927": [
       "Clothing > T-shirts",
