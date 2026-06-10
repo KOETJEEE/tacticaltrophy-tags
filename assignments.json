@@ -10496,7 +10496,8 @@
     "vuurmakers"
   ],
   "holster-insert-light-533": [
-    "holsters"
+    "holsters",
+    "admin-pouches"
   ],
   "holster-insert-light-555": [
     "holsters",
@@ -14418,6 +14419,9 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "hermetic-container-matches-7729": [
+      "Equipment and gear > Survival"
     ],
     "holster-insert-light-533": [
       "m-tac",
