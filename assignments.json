@@ -11209,7 +11209,9 @@
   "m-tac-pcc-mag-pouch-kolchan-609": [
     "magazijn-pouches"
   ],
-  "m-tac-pocket-bag-elite-hex-748": [],
+  "m-tac-pocket-bag-elite-hex-748": [
+    "sling-bags"
+  ],
   "m-tac-pouch-accessory-lower-large-elite-714": [
     "die-accessoires",
     "utility-pouches"
@@ -16296,7 +16298,8 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "rugzakken",
       "tassen",
-      "m-tac"
+      "m-tac",
+      "shoulder-messengers"
     ],
     "m-tac-pouch-accessory-lower-large-elite-714": [
       "m-tac",
