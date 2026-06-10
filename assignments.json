@@ -9756,10 +9756,10 @@
   "admin-pouch-bag-medium-elite-8107": [
     "admin-pouches"
   ],
-  "admin-pouch-elite-583": [
-    "utility-pouches",
+  "admin-pouch-bag-with-velcro-8298": [
     "admin-pouches"
   ],
+  "admin-pouch-elite-583": [],
   "admin-pouch-large-elite-genii-5868": [
     "utility-pouches",
     "admin-pouches"
@@ -14487,6 +14487,9 @@
       "pouches",
       "m-tac",
       "tassen"
+    ],
+    "admin-pouch-elite-583": [
+      "admin-pouches"
     ],
     "ecopybook-big-tactical-ruler-protractor-nato-8195": [
       "Equipment and gear > Office supplies",
