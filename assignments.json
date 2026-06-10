@@ -11265,7 +11265,9 @@
     "shirts",
     "tactical-shirts"
   ],
-  "m-tac-t-shirt-our-land-7017": [],
+  "m-tac-t-shirt-our-land-7017": [
+    "t-shirts-polos"
+  ],
   "m-tac-t-shirt-phoenix-7018": [
     "tactical-shirts",
     "shirts"
@@ -14384,6 +14386,9 @@
       "magazine-pouches",
       "m-tac",
       "magazijn-pouches"
+    ],
+    "m-tac-t-shirt-odin-mystery-long-sleeve-7060": [
+      "Clothing > T-shirts"
     ],
     "m-tac-t-shirt-our-land-7017": [
       "Clothing > T-shirts",
