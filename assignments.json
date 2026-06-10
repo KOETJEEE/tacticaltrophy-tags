@@ -11468,7 +11468,7 @@
     "magazijn-pouches"
   ],
   "magnet-bag-elite-151": [
-    "utility-pouches"
+    "admin-pouches"
   ],
   "magnet-xl-bag-elite-256": [
     "utility-pouches"
@@ -16918,7 +16918,9 @@
       "m-tac",
       "tassen-rugzakken",
       "schietsport",
-      "jacht"
+      "jacht",
+      "tactical-gear",
+      "utility-pouches"
     ],
     "magnet-xl-bag-elite-256": [
       "Equipment and gear > Bags and backpacks > Bags",
