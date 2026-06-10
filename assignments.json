@@ -12508,7 +12508,9 @@
   "patch-zu-23pvc-8037": [
     "patches"
   ],
-  "pc-utility-pouch-elite-343": [],
+  "pc-utility-pouch-elite-343": [
+    "admin-pouches"
+  ],
   "pc-utility-pouch-elite-hex-442": [
     "utility-pouches"
   ],
@@ -18486,7 +18488,9 @@
     "pc-utility-pouch-elite-343": [
       "pouches",
       "tactical-gear",
-      "utility-pouches"
+      "utility-pouches",
+      "m-tac",
+      "Tactical gear > Pouches > Utility Pouches"
     ],
     "pc-utility-pouch-elite-hex-442": [
       "pouches"
