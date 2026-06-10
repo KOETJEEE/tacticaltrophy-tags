@@ -11208,10 +11208,7 @@
   "m-tac-pocket-bag-elite-hex-748": [
     "sling-bags"
   ],
-  "m-tac-pouch-accessory-lower-large-elite-714": [
-    "die-accessoires",
-    "utility-pouches"
-  ],
+  "m-tac-pouch-accessory-lower-large-elite-714": [],
   "m-tac-pouch-double-magazine-closure-fastex-27": [
     "magazijn-pouches"
   ],
@@ -16367,7 +16364,9 @@
       "m-tac",
       "Military Line",
       "pouches",
-      "Tactical gear > Pouches > Utility Pouches"
+      "Tactical gear > Pouches > Utility Pouches",
+      "die-accessoires",
+      "utility-pouches"
     ],
     "m-tac-pouch-double-magazine-closure-fastex-27": [
       "tactical-gear",
