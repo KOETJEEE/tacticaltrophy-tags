@@ -11615,7 +11615,9 @@
   "organizer-hardshell-utility-box-l-9958": [
     "admin-pouches"
   ],
-  "organizer-hardshell-utility-box-s-9962": [],
+  "organizer-hardshell-utility-box-s-9962": [
+    "admin-pouches"
+  ],
   "paladin-jacket-3572": [
     "jassen",
     "winterjassen"
@@ -12506,9 +12508,7 @@
   "patch-zu-23pvc-8037": [
     "patches"
   ],
-  "pc-utility-pouch-elite-343": [
-    "utility-pouches"
-  ],
+  "pc-utility-pouch-elite-343": [],
   "pc-utility-pouch-elite-hex-442": [
     "utility-pouches"
   ],
@@ -18484,7 +18484,9 @@
       "m-tac"
     ],
     "pc-utility-pouch-elite-343": [
-      "pouches"
+      "pouches",
+      "tactical-gear",
+      "utility-pouches"
     ],
     "pc-utility-pouch-elite-hex-442": [
       "pouches"
