@@ -12511,6 +12511,9 @@
   "pc-utility-pouch-elite-343": [
     "admin-pouches"
   ],
+  "pc-utility-pouch-elite-hex-442": [
+    "admin-pouches"
+  ],
   "pc-utility-pouch-elite-hex-genii-444": [
     "utility-pouches"
   ],
@@ -18494,7 +18497,8 @@
       "tactical-gear",
       "utility-pouches",
       "Military Line",
-      "m-tac"
+      "m-tac",
+      "Tactical gear > Pouches > Utility Pouches"
     ],
     "pc-utility-pouch-elite-hex-genii-444": [
       "pouches",
