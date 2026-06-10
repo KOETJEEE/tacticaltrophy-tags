@@ -11470,7 +11470,6 @@
   "magnet-bag-elite-151": [
     "admin-pouches"
   ],
-  "magnet-xl-bag-elite-256": [],
   "magnetic-panel-for-patches-290x95-8363": [
     "patch-panels"
   ],
@@ -16929,7 +16928,8 @@
       "jacht",
       "schietsport",
       "tassen-rugzakken",
-      "tactical-gear"
+      "tactical-gear",
+      "utility-pouches"
     ],
     "magnetic-panel-for-patches-290x95-8363": [
       "Clothing > Accessories",
