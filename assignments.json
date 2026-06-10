@@ -11258,8 +11258,7 @@
   ],
   "m-tac-t-shirt-motanka-6997": [
     "t-shirts-polos",
-    "shirts",
-    "tactical-shirts"
+    "shirts"
   ],
   "m-tac-t-shirt-odin-mystery-long-sleeve-7060": [
     "shirts"
@@ -14392,7 +14391,9 @@
       "longsleeve",
       "Polo > Printing",
       "t-shirts",
-      "polos"
+      "polos",
+      "tactical-shirts",
+      "tactical-gear"
     ],
     "m-tac-t-shirt-odin-mystery-long-sleeve-7060": [
       "Clothing > T-shirts",
