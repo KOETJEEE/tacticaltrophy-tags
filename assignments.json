@@ -11061,9 +11061,7 @@
   "m-tac-paracord-bracelet-7423": [
     "paracord"
   ],
-  "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
-    "paracord"
-  ],
+  "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [],
   "m-tac-paracord-survival-951": [
     "paracord"
   ],
@@ -14379,7 +14377,9 @@
       "m-tac",
       "paracord-bracelets",
       "tourism > paracord bracelets",
-      "airsoft"
+      "airsoft",
+      "kompassen",
+      "survival"
     ],
     "m-tac-paracord-survival-951": [
       "bushcraft",
