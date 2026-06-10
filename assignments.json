@@ -11018,7 +11018,8 @@
     "magazijn-pouches"
   ],
   "m-tac-magazine-dump-pouch-lite-elite-728": [
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "dump-pouches"
   ],
   "m-tac-magnet-bag-elite-hex-genii-430": [
     "tassen-rugzakken"
@@ -14385,6 +14386,9 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "m-tac-mag-pouch-kolchan-for-akar-mini-599": [
+      "m-tac"
     ],
     "m-tac-magazine-dump-pouch-lite-elite-728": [
       "m-tac",
