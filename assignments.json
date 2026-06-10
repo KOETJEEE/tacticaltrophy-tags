@@ -8793,7 +8793,9 @@
   "red-dot-utg-4-2-ita": [
     "red-dots"
   ],
-  "utility-pouch-nuprol-medium-pmc-green": [],
+  "utility-pouch-nuprol-medium-pmc-green": [
+    "admin-pouches"
+  ],
   "utility-pouch-nuprol-medium-pmc-tan": [
     "utility-pouches"
   ],
@@ -14413,7 +14415,8 @@
     ],
     "utility-pouch-nuprol-medium-pmc-green": [
       "tactical-gear",
-      "utility-pouches"
+      "utility-pouches",
+      "pouches"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
