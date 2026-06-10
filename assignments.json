@@ -10821,7 +10821,8 @@
     "truien"
   ],
   "lite-tactical-belt-genii-3310": [
-    "riemen-bretels"
+    "riemen-bretels",
+    "tactical-riemen"
   ],
   "long-sleeve-t-shirt-937-2101": [
     "tactical-shirts"
@@ -14428,7 +14429,8 @@
       "m-tac",
       "Clothing > Belt",
       "riemen-bretels",
-      "tactical-gear"
+      "tactical-gear",
+      "tactical-bags"
     ],
     "long-sleeve-t-shirt-937-2101": [
       "Clothing > T-shirts",
