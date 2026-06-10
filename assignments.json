@@ -10860,7 +10860,6 @@
     "tassen-rugzakken",
     "geweertassen-foudralen"
   ],
-  "m-tac-bandolier-with-velcro-for-2-cartridges-cal-338-775": [],
   "m-tac-baseball-cap-flex-rip-stop-4664": [
     "petten"
   ],
@@ -14414,7 +14413,9 @@
     ],
     "m-tac-bandolier-with-velcro-for-2-cartridges-cal-338-775": [
       "jacht",
-      "tactical-gear"
+      "tactical-gear",
+      "m-tac",
+      "Military Line"
     ],
     "m-tac-baseball-cap-flex-rip-stop-4664": [
       "Clothing > Headwear > Caps",
