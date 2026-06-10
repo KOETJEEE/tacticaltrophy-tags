@@ -8796,6 +8796,9 @@
   "utility-pouch-nuprol-medium-pmc-green": [
     "admin-pouches"
   ],
+  "utility-pouch-nuprol-medium-pmc-tan": [
+    "admin-pouches"
+  ],
   "utility-pouch-nuprol-medium-zipped-green": [
     "utility-pouches"
   ],
@@ -14417,7 +14420,8 @@
     ],
     "utility-pouch-nuprol-medium-pmc-tan": [
       "tactical-gear",
-      "utility-pouches"
+      "utility-pouches",
+      "pouches"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
