@@ -11060,9 +11060,7 @@
   "m-tac-paracord-550-type-iii-15m-785": [
     "paracord"
   ],
-  "m-tac-paracord-bracelet-7423": [
-    "paracord"
-  ],
+  "m-tac-paracord-bracelet-7423": [],
   "m-tac-paracord-survival-951": [
     "paracord"
   ],
@@ -14372,7 +14370,9 @@
       "wapen-accessoires"
     ],
     "m-tac-paracord-bracelet-7423": [
-      "bushcraft"
+      "bushcraft",
+      "paracord",
+      "survival"
     ],
     "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
       "bushcraft",
