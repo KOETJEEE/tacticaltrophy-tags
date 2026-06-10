@@ -10856,8 +10856,7 @@
     "tassen-rugzakken"
   ],
   "m-tac-backpack-case-for-weapons-105-cm-genii-elite-8199": [
-    "tactical-bags",
-    "geweertassen-foudralen"
+    "tactical-bags"
   ],
   "m-tac-bag-magnet-bag-x-pac-elite-9399": [
     "sling-bags"
@@ -14420,6 +14419,14 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "m-tac-backpack-case-for-weapons-105-cm-genii-elite-8199": [
+      "tassen-rugzakken",
+      "geweertassen",
+      "foudralen",
+      "schietsport",
+      "jacht",
+      "geweertassen-foudralen"
     ],
     "m-tac-bag-magnet-bag-x-pac-elite-9399": [
       "Tactical gear > Pouches",
