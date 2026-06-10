@@ -10873,10 +10873,7 @@
   "m-tac-buckler-bag-elite-hex-384": [
     "tassen-rugzakken"
   ],
-  "m-tac-carry-sling-bag-elite-geniv-82": [
-    "geweerriemen",
-    "tassen-rugzakken"
-  ],
+  "m-tac-carry-sling-bag-elite-geniv-82": [],
   "m-tac-carry-sling-bag-elite-geniv-with-velcro-110": [
     "sling-bags"
   ],
@@ -14416,7 +14413,11 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "wapen-toebehoren",
+      "tassen-rugzakken",
+      "schietsport",
+      "jacht"
     ],
     "m-tac-carry-sling-bag-elite-geniv-with-velcro-110": [
       "schietsport",
