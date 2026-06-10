@@ -11017,9 +11017,7 @@
     "hoodies",
     "truien"
   ],
-  "m-tac-hook-loop-utility-panel-200": [
-    "utility-pouches"
-  ],
+  "m-tac-hook-loop-utility-panel-200": [],
   "m-tac-horizontal-utility-pouch-65": [
     "utility-pouches"
   ],
@@ -16003,7 +16001,9 @@
       "Equipment and gear > Bags and backpacks > Backpack accessories",
       "Tactical Line",
       "rugzak-accessoires",
-      "m-tac"
+      "m-tac",
+      "utility-pouches",
+      "tactical-gear"
     ],
     "m-tac-horizontal-utility-pouch-65": [
       "m-tac",
