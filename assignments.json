@@ -10877,6 +10877,7 @@
     "geweerriemen",
     "tassen-rugzakken"
   ],
+  "m-tac-carry-sling-bag-elite-geniv-with-velcro-110": [],
   "m-tac-case-for-weapons-128-cm-7650": [
     "geweertassen-foudralen"
   ],
@@ -14410,7 +14411,11 @@
       "wapen-accessoires"
     ],
     "m-tac-carry-sling-bag-elite-geniv-with-velcro-110": [
-      "schietsport"
+      "schietsport",
+      "jacht",
+      "geweerriemen",
+      "airsoft",
+      "tassen-rugzakken"
     ],
     "m-tac-case-for-weapons-128-cm-7650": [
       "foudralen",
