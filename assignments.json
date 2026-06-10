@@ -9753,10 +9753,7 @@
   "admin-bag-with-velcro-10182": [
     "tassen-rugzakken"
   ],
-  "admin-pouch-bag-medium-elite-8107": [
-    "utility-pouches",
-    "tassen-rugzakken"
-  ],
+  "admin-pouch-bag-medium-elite-8107": [],
   "admin-pouch-bag-with-velcro-8298": [
     "utility-pouches",
     "tassen-rugzakken"
@@ -14468,6 +14465,9 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "admin-pouch-bag-medium-elite-8107": [
+      "schietsport"
     ],
     "ecopybook-big-tactical-ruler-protractor-nato-8195": [
       "Equipment and gear > Office supplies",
