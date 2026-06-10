@@ -1087,8 +1087,14 @@ function loadDoneLocal() {
 
 function toggleDone(handle, event) {
   event.stopPropagation();
-  done.has(handle) ? done.delete(handle) : done.add(handle);
+  const wasDone = done.has(handle);
+  wasDone ? done.delete(handle) : done.add(handle);
   saveDoneLocal();
+  if (!wasDone) {
+    tabFilter = 'done';
+    document.querySelectorAll('.ftab').forEach(b => b.classList.toggle('active', b.dataset.tab === 'done'));
+  }
+  renderStats();
   renderList();
 }
 
