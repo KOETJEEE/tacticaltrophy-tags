@@ -10701,7 +10701,6 @@
     "tactical-shirts"
   ],
   "jeans-aggressor-2782": [
-    "broeken",
     "jeans"
   ],
   "jeans-tactical-geni-cordura-regular-3388": [
@@ -14425,7 +14424,8 @@
     ],
     "jeans-aggressor-2782": [
       "Clothing > Pants > Jeans",
-      "Urban Line"
+      "Urban Line",
+      "m-tac"
     ],
     "jeans-tactical-geni-cordura-regular-3388": [
       "Clothing > Pants > Jeans",
