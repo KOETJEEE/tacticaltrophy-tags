@@ -10617,8 +10617,7 @@
     "softshell-jassen"
   ],
   "jacket-combat-fleece-polartec-3850": [
-    "fleece",
-    "truien"
+    "fleece"
   ],
   "jacket-combat-fleece-polartec-lady-3977": [
     "fleece"
@@ -14424,7 +14423,8 @@
     "jacket-combat-fleece-polartec-3850": [
       "Clothing > Fleeces",
       "fleeces",
-      "m-tac"
+      "m-tac",
+      "truien"
     ],
     "jacket-combat-fleece-polartec-lady-3977": [
       "Clothing > Fleeces",
