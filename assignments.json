@@ -10477,9 +10477,7 @@
   "gun-sling-two-point-263": [
     "geweerriemen"
   ],
-  "hat-thin-viscous-100-acrylic-4696": [
-    "petten"
-  ],
+  "hat-thin-viscous-100-acrylic-4696": [],
   "headlamp-41-led-7622": [
     "zaklampen-hoofdlampen"
   ],
@@ -14422,7 +14420,8 @@
       "tactical-gear",
       "lampen-1",
       "lampen",
-      "lampen-en-lasers"
+      "lampen-en-lasers",
+      "m-tac"
     ],
     "helmet-cover-shroud-9790": [
       "helm-covers",
