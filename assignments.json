@@ -14408,9 +14408,13 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "m-tac-gloves-police-7222": [
+      "Clothing > Gloves > Tactical"
+    ],
     "m-tac-gloves-summer-vent-8108": [
       "Clothing > Gloves",
-      "handschoenen"
+      "handschoenen",
+      "m-tac"
     ],
     "m-tac-gorget-compatible-with-active-headphones-for-ballistic-inserts-elite-9042": [
       "tactical-gear",
