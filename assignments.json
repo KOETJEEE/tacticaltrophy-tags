@@ -10568,8 +10568,7 @@
   ],
   "ifak-elite-individual-tactical-medkit-10138": [
     "ehbo",
-    "medical-pouches",
-    "tactical-bags"
+    "medical-pouches"
   ],
   "individual-cookware-set-7614": [
     "kookgerei",
@@ -14429,7 +14428,8 @@
     "ifak-elite-individual-tactical-medkit-10138": [
       "emt-pouches",
       "m-tac",
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > EMT Pouches"
     ],
     "individual-cookware-set-7614": [
       "bushcraft",
