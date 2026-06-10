@@ -10572,7 +10572,8 @@
     "tactical-bags"
   ],
   "individual-cookware-set-7614": [
-    "kookgerei"
+    "kookgerei",
+    "vuurmakers"
   ],
   "individual-cookware-under-the-burner-set-7616": [
     "kookgerei",
@@ -14424,6 +14425,9 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "ifak-elite-individual-tactical-medkit-10138": [
+      "emt-pouches"
     ],
     "individual-cookware-set-7614": [
       "bushcraft",
