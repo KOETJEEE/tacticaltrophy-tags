@@ -10908,7 +10908,9 @@
   "m-tac-damper-on-the-shoulder-strap-50-mm-elite-475": [
     "shoulder-messengers"
   ],
-  "m-tac-double-duty-tactical-belt-163": [],
+  "m-tac-double-duty-tactical-belt-163": [
+    "tactical-riemen"
+  ],
   "m-tac-double-mag-pouch-hook-backed-magazine-284": [
     "magazijn-pouches"
   ],
@@ -14407,6 +14409,9 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "m-tac-damper-on-the-shoulder-strap-50-mm-elite-475": [
+      "Equipment and gear > Bags and backpacks > Backpack accessories"
     ],
     "m-tac-double-duty-tactical-belt-163": [
       "tactical-bags",
