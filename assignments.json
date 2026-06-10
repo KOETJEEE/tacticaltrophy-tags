@@ -10487,10 +10487,7 @@
   "helmet-cover-shroud-9790": [
     "helmen"
   ],
-  "helmet-watch-cap-polartec-4914": [
-    "helmen",
-    "petten"
-  ],
+  "helmet-watch-cap-polartec-4914": [],
   "hermetic-container-matches-7729": [
     "vuurmakers"
   ],
@@ -14422,7 +14419,10 @@
     "helmet-watch-cap-polartec-4914": [
       "Clothing > Headwear > Cap",
       "m-tac",
-      "headwear"
+      "headwear",
+      "horloges",
+      "helmen",
+      "airsoft"
     ],
     "hermetic-container-matches-7729": [
       "Equipment and gear > Survival",
