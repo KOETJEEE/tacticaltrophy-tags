@@ -11068,6 +11068,7 @@
   "m-tac-paracord-survival-951": [
     "paracord"
   ],
+  "m-tac-paratrooper-belt-644": [],
   "m-tac-pas-range-belt-cobra-buckle-geniv-1032": [
     "tactical-riemen"
   ],
@@ -14371,7 +14372,11 @@
       "wapen-accessoires"
     ],
     "m-tac-paratrooper-belt-644": [
-      "Clothing > Belt"
+      "Clothing > Belt",
+      "riemen-bretels",
+      "m-tac",
+      "kleding",
+      "bretels"
     ],
     "m-tac-pas-range-belt-cobra-buckle-geniv-1032": [
       "Tactical gear > Tactical belts",
