@@ -10878,8 +10878,7 @@
     "tassen-rugzakken"
   ],
   "m-tac-carry-sling-bag-elite-geniv-with-velcro-110": [
-    "geweerriemen",
-    "tassen-rugzakken"
+    "geweerriemen"
   ],
   "m-tac-case-for-weapons-128-cm-7650": [
     "geweertassen-foudralen"
@@ -14418,7 +14417,8 @@
       "geweertassen",
       "Military Line",
       "m-tac",
-      "Tactical gear > Weapon covers"
+      "Tactical gear > Weapon covers",
+      "wapenhoezen"
     ],
     "m-tac-chain-for-tokens-10-cm-8315": [
       "Clothing > Accessories",
