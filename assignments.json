@@ -11415,10 +11415,7 @@
   "m-tac-utility-organizer-slim-elite-571": [
     "admin-pouches"
   ],
-  "m-tac-utility-pouch-elite-genii-9254": [
-    "utility-pouches",
-    "tassen-rugzakken"
-  ],
+  "m-tac-utility-pouch-elite-genii-9254": [],
   "m-tac-utility-pouch-elite-medium-74": [
     "utility-pouches"
   ],
@@ -16789,6 +16786,13 @@
       "pouches",
       "m-tac",
       "Tactical gear > Pouches > Utility Pouches"
+    ],
+    "m-tac-utility-pouch-elite-genii-9254": [
+      "schietsport",
+      "jacht",
+      "tactical-gear",
+      "tassen-rugzakken",
+      "utility-pouches"
     ],
     "m-tac-utility-travel-case-elite-small-22x14-cm-458": [
       "m-tac",
