@@ -11141,7 +11141,9 @@
     "die-accessoires",
     "utility-pouches"
   ],
-  "m-tac-pouch-for-ak-open-elite-laser-cut-8627": [],
+  "m-tac-pouch-for-ak-open-elite-laser-cut-8627": [
+    "magazijn-pouches"
+  ],
   "m-tac-pouch-for-night-vision-monocular-pvs-14-59": [
     "utility-pouches"
   ],
@@ -14379,7 +14381,9 @@
     "m-tac-pouch-for-ak-open-elite-laser-cut-8627": [
       "magazine-pouches",
       "pouches",
-      "m-tac"
+      "m-tac",
+      "tactical-gear",
+      "Tactical gear > Pouches > Magazine Pouches"
     ],
     "m-tac-pouch-for-night-vision-monocular-pvs-14-59": [
       "m-tac",
