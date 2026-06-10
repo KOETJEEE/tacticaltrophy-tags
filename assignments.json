@@ -11141,6 +11141,7 @@
     "die-accessoires",
     "utility-pouches"
   ],
+  "m-tac-pouch-elastic-triple-magazine-elite-laser-cut-391": [],
   "m-tac-pouch-for-ak-open-elite-laser-cut-8627": [
     "magazijn-pouches"
   ],
@@ -14377,6 +14378,11 @@
       "magazine-pouches",
       "m-tac",
       "magazijn-pouches"
+    ],
+    "m-tac-pouch-elastic-triple-magazine-elite-laser-cut-391": [
+      "m-tac",
+      "tactical-gear",
+      "magazine-pouches"
     ],
     "m-tac-pouch-for-ak-open-elite-laser-cut-8627": [
       "magazine-pouches",
