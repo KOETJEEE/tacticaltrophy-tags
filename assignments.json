@@ -10541,8 +10541,7 @@
     "truien"
   ],
   "hoodie-time-8715": [
-    "hoodies",
-    "truien"
+    "hoodies"
   ],
   "hoodie-worn-to-the-bone-8784": [
     "hoodies"
@@ -14430,7 +14429,8 @@
     ],
     "hoodie-time-8715": [
       "Clothing > Hoodie",
-      "m-tac"
+      "m-tac",
+      "truien"
     ],
     "hoodie-worn-to-the-bone-8784": [
       "Clothing > Hoodie",
