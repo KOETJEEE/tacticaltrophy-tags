@@ -1,30 +1,5 @@
 {
   "_flags": [
-    "batterij-nuprol-nimh-8-4v-1600mah-small",
-    "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
-    "mirage-band-attachment-rome",
-    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165",
-    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-s-710025",
-    "seating-pad-with-belt-20",
-    "m-tac-seating-pad-with-belt-18",
-    "seat-pad-with-belt-armor-8095",
-    "seat-mat-with-belt-attachment-armor-5769",
-    "safety-cord-with-d-ring-5727",
-    "safety-cord-medium-with-d-ring-and-fastex-5736",
-    "safety-cord-medium-universal-5730",
-    "safety-cord-lite-combined-with-d-ring-and-fastex-5763",
-    "safety-cord-lite-combo-5757",
-    "safety-cord-lite-combo-with-d-ring-5760",
-    "safety-cord-lite-for-carbine-5748",
-    "safety-cord-lite-for-carbine-with-d-ring-5751",
-    "safety-cord-lite-for-carbine-with-d-ring-and-fastex-5754",
-    "safety-cord-lite-universal-5745",
-    "safety-cord-medium-combined-with-d-ring-5740",
-    "safety-cord-medium-combo-5737",
-    "safety-cord-medium-combo-with-d-ring-and-fastex-5743",
-    "safety-cord-medium-for-carbine-5733",
-    "pas-pkm-8042",
-    "m-tac-waterproof-case-for-documents-16x12-cm-7604",
     "wallet-with-patch-panel-elite-genii-3184",
     "utility-travel-case-elite-medium-26x11-cm-457",
     "utility-travel-case-clear-elite-large-30x19-cm-400",
@@ -49,12 +24,39 @@
     "tactical-polo-shirt-6535-6633",
     "tactical-polo-shirt-long-sleeve-6535-6696",
     "tactical-polo-shirt-ranger-6535-9260",
+    "batterij-nuprol-nimh-8-4v-1600mah-small",
+    "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
+    "mirage-band-attachment-rome",
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165",
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-s-710025",
+    "seating-pad-with-belt-20",
+    "m-tac-seating-pad-with-belt-18",
     "konus-warmtebeeldcamera-flame-06x-24x-437953",
+    "flir-scion-otm366-warmtebeeldcamera-13460336",
+    "flir-scion-otm266-warmtebeeldcamera-13460266",
     "winter-parka-alpha-primaloft-mm14-10446",
     "winter-jacket-alpha-geniv-pro-pimaloft-3915",
+    "seat-pad-with-belt-armor-8095",
+    "seat-mat-with-belt-attachment-armor-5769",
     "satellite-magnet-bag-genii-elite-hex-379",
     "satellite-magnet-bag-elite-hex-378",
     "satellite-bag-genii-7655",
+    "safety-cord-with-d-ring-5727",
+    "safety-cord-medium-with-d-ring-and-fastex-5736",
+    "safety-cord-medium-universal-5730",
+    "safety-cord-lite-combined-with-d-ring-and-fastex-5763",
+    "safety-cord-lite-combo-5757",
+    "safety-cord-lite-combo-with-d-ring-5760",
+    "safety-cord-lite-for-carbine-5748",
+    "safety-cord-lite-for-carbine-with-d-ring-5751",
+    "safety-cord-lite-for-carbine-with-d-ring-and-fastex-5754",
+    "safety-cord-lite-universal-5745",
+    "safety-cord-medium-combined-with-d-ring-5740",
+    "safety-cord-medium-combo-5737",
+    "safety-cord-medium-combo-with-d-ring-and-fastex-5743",
+    "safety-cord-medium-for-carbine-5733",
+    "pas-pkm-8042",
+    "m-tac-waterproof-case-for-documents-16x12-cm-7604",
     "m-tac-seating-pad-with-belt-20",
     "m-tac-seat-pad-20-mm-7610",
     "m-tac-passport-cover-722",
@@ -66,11 +68,9 @@
     "lower-back-protection-for-ballistic-panel-inserts-for-cuirass-qrs-9059",
     "keychain-10155",
     "key-holder-elite-8653",
-    "flag-odin-night-vision-630x900-5792",
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
-    "flir-scion-otm366-warmtebeeldcamera-13460336",
-    "flir-scion-otm266-warmtebeeldcamera-13460266"
+    "flag-odin-night-vision-630x900-5792"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -10211,8 +10211,8 @@
     "veldnotitie"
   ],
   "ecopybook-tactical-scouts-ruler-natoua-blue-border-9783": [
-    "tactical-bags",
-    "veldnotitie"
+    "veldnotitie",
+    "tactical-bags"
   ],
   "ecopybook-tactical-set-of-rulers-tsm-nato-blue-border-9786": [
     "veldnotitie"
@@ -10579,8 +10579,8 @@
     "hoodies"
   ],
   "hook-loop-low-profile-admin-panel-197": [
-    "patch-panels",
-    "admin-pouches"
+    "admin-pouches",
+    "patch-panels"
   ],
   "horizontal-medical-pouch-elite-483": [
     "ehbo",
@@ -10898,12 +10898,12 @@
     "sling-bags"
   ],
   "m-tac-bandolier-with-velcro-for-2-cartridges-cal-308-776": [
-    "velcro-strips",
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "velcro-strips"
   ],
   "m-tac-bandolier-with-velcro-for-2-cartridges-cal-338-775": [
-    "velcro-strips",
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "velcro-strips"
   ],
   "m-tac-baseball-cap-flex-rip-stop-4664": [
     "petten"
@@ -10943,8 +10943,8 @@
     "tactical-riemen"
   ],
   "m-tac-collapsible-grappling-hook-7630": [
-    "velcro-strips",
-    "karabijnhaken"
+    "karabijnhaken",
+    "velcro-strips"
   ],
   "m-tac-cross-bag-slim-elite-hex-698": [
     "sling-bags"
@@ -11143,8 +11143,8 @@
     "paracord"
   ],
   "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
-    "kompassen",
-    "paracord"
+    "paracord",
+    "kompassen"
   ],
   "m-tac-paracord-survival-951": [
     "paracord"
@@ -11398,9 +11398,9 @@
     "wapenkoffers"
   ],
   "m-tac-tactical-badge-holder-hook-surface-hanging-id-card-case-287": [
+    "wapenkoffers",
     "patches",
-    "tactical-bags",
-    "wapenkoffers"
+    "tactical-bags"
   ],
   "m-tac-tactical-hand-warmer-elite-536": [
     "sling-bags"
@@ -11759,8 +11759,8 @@
     "broeken"
   ],
   "pants-stealth-cotton-2544": [
-    "joggingbroeken",
-    "broeken"
+    "broeken",
+    "joggingbroeken"
   ],
   "pants-sturm-nyco-extreme-genii-2501": [
     "broeken",
@@ -12745,9 +12745,9 @@
     "medical-pouches"
   ],
   "pouch-under-medical-gloves-elite-8165": [
-    "medical-pouches",
+    "tactical-handschoenen",
     "ehbo",
-    "tactical-handschoenen"
+    "medical-pouches"
   ],
   "pouch-utility-elite-hex-5534": [
     "admin-pouches"
@@ -13122,8 +13122,8 @@
   ],
   "sweat-wicking-t-shirt-genii-6561": [
     "shirts",
-    "tactical-shirts",
     "thermokleding",
+    "tactical-shirts",
     "thermoshirts"
   ],
   "sweater-nord-fleece-polartec-lady-3957": [
@@ -13182,9 +13182,9 @@
     "shirts"
   ],
   "t-shirt-ua-side-long-sleeve-6752": [
+    "shirts",
     "t-shirts-polos",
-    "tactical-shirts",
-    "shirts"
+    "tactical-shirts"
   ],
   "t-shirt-ultra-light-polartec-5593": [
     "t-shirts-polos"
@@ -13445,8 +13445,8 @@
     "lampen-1"
   ],
   "tourist-lamp-matt-7611": [
-    "lampen-1",
-    "zaklampen-hoofdlampen"
+    "zaklampen-hoofdlampen",
+    "lampen-1"
   ],
   "train-hard-oversized-cotton-t-shirt-hard-10190": [
     "t-shirts-polos",
@@ -13651,8 +13651,8 @@
     "winterjassen"
   ],
   "winter-jacket-apha-basic-primaloft-9454": [
-    "winterjassen",
-    "jassen"
+    "jassen",
+    "winterjassen"
   ],
   "winter-parka-alpha-primaloft-mm14-10446": [
     "jassen",
@@ -13808,16 +13808,16 @@
     "warmtebeeld"
   ],
   "kowa-adapter-ring-tsn-ar500a-40mm-440236": [
-    "observatie-accessoires",
-    "adapterringen"
+    "adapterringen",
+    "observatie-accessoires"
   ],
   "kowa-adapter-ring-tsn-ar50l-57mm-440222": [
-    "observatie-accessoires",
-    "adapterringen"
+    "adapterringen",
+    "observatie-accessoires"
   ],
   "kowa-adapterring-tsn-ar30-440230": [
-    "observatie-accessoires",
-    "adapterringen"
+    "adapterringen",
+    "observatie-accessoires"
   ],
   "kowa-compact-spottingscope-tsn-553-prominar-15-45x55-446553": [
     "spotting-scopes"
@@ -20676,6 +20676,7 @@
     "magazine-walther-rs3",
     "magazine-walther-sf-q5-q4-ppq-m2-pdp-compact-9-mm-18-rounds",
     "magazijn-walther-ssp-e-22-lr",
+    "byomic-beginners-microscoopset-telescoop-in-koffer-260510",
     "byomic-beginners-microscoopset-100-400-en-900x-in-koffer-260509",
     "byomic-beginners-microscoopset-40x-1024x-in-koffer-260507",
     "byomic-microscoop-35-inch-lcd-deluxe-40x-1600x-in-koffer-260504",
@@ -20690,7 +20691,6 @@
     "konus-bio-microscoop-college-600x-435302",
     "konus-stereo-microscoop-diamond-435420",
     "konus-microscoop-konustudy-4-150x-450x-900x-met-smartphone-adapter-435014",
-    "konus-microscoop-konuscience-1200x-435020",
-    "byomic-beginners-microscoopset-telescoop-in-koffer-260510"
+    "konus-microscoop-konuscience-1200x-435020"
   ]
 }
