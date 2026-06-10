@@ -10913,7 +10913,9 @@
   "m-tac-buckler-bag-elite-hex-384": [
     "sling-bags"
   ],
-  "m-tac-carry-sling-bag-elite-geniv-82": [],
+  "m-tac-carry-sling-bag-elite-geniv-82": [
+    "sling-bags"
+  ],
   "m-tac-carry-sling-bag-elite-geniv-with-velcro-110": [
     "sling-bags"
   ],
@@ -15732,7 +15734,8 @@
       "schietsport",
       "jacht",
       "geweerriemen",
-      "airsoft"
+      "airsoft",
+      "shoulder-messengers"
     ],
     "m-tac-carry-sling-bag-elite-geniv-with-velcro-110": [
       "schietsport",
