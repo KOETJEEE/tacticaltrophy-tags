@@ -10510,8 +10510,7 @@
     "truien"
   ],
   "hoodie-combat-8267": [
-    "hoodies",
-    "truien"
+    "hoodies"
   ],
   "hoodie-cotton-hard-fatum-10028": [
     "hoodies"
@@ -14423,7 +14422,8 @@
     ],
     "hoodie-combat-8267": [
       "Clothing > Hoodie",
-      "m-tac"
+      "m-tac",
+      "truien"
     ],
     "hoodie-cotton-hard-fatum-10028": [
       "Clothing > Hoodie",
