@@ -12699,9 +12699,7 @@
     "medical-pouches",
     "ehbo"
   ],
-  "pouch-modular-assault-pack-elite-7953": [
-    "utility-pouches"
-  ],
+  "pouch-modular-assault-pack-elite-7953": [],
   "pouch-open-under-the-sapper-probe-700x22x6-8163": [
     "utility-pouches"
   ],
@@ -18749,7 +18747,9 @@
       "m-tac",
       "pouches",
       "Tactical gear > Pouches > Utility Pouches",
-      "tactical-bags"
+      "tactical-bags",
+      "tactical-gear",
+      "utility-pouches"
     ],
     "pouch-open-under-the-sapper-probe-700x22x6-8163": [
       "m-tac",
