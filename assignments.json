@@ -10413,7 +10413,8 @@
     "plate-carriers"
   ],
   "front-panel-for-plate-carrier-cuirass-qrs-for-4-magazine-833": [
-    "plate-carriers"
+    "plate-carriers",
+    "magazijn-pouches"
   ],
   "gas-burner-with-boiler-7619": [
     "vuurmakers",
@@ -14417,10 +14418,16 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "front-panel-for-cuirass-qrs-three-mags-plate-carrier-815": [
+      "m-tac",
+      "magazine-pouches",
+      "Military Line"
+    ],
     "front-panel-for-plate-carrier-cuirass-qrs-for-4-magazine-833": [
       "m-tac",
       "magazine-pouches",
-      "pouches"
+      "pouches",
+      "Tactical gear > Pouches > Magazine Pouches"
     ],
     "gas-burner-with-boiler-7619": [
       "bushcraft",
