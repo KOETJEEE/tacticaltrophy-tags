@@ -12927,7 +12927,6 @@
     "slaapzakken-matten"
   ],
   "sling-civilian-bag-lite-nr-9766": [
-    "holsters",
     "sling-bags"
   ],
   "sling-pistol-bag-10180": [
@@ -18931,7 +18930,8 @@
       "Equipment and gear > Bags and backpacks",
       "rugzakken",
       "tassen",
-      "m-tac"
+      "m-tac",
+      "holsters"
     ],
     "sling-pistol-bag-hex-with-velcro-10179": [
       "jacht",
