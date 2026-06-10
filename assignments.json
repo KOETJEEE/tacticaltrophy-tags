@@ -11071,6 +11071,9 @@
   "m-tac-paratrooper-belt-644": [
     "riemen-bretels"
   ],
+  "m-tac-pas-range-belt-cobra-buckle-geniv-1032": [
+    "tactical-riemen"
+  ],
   "m-tac-passport-cover-722": [
     "veldnotitie",
     "admin-pouches"
@@ -14372,7 +14375,11 @@
     ],
     "m-tac-pas-range-belt-cobra-buckle-geniv-1032": [
       "Tactical gear > Tactical belts",
-      "riemen-bretels"
+      "riemen-bretels",
+      "m-tac",
+      "kleding",
+      "bretels",
+      "belts"
     ],
     "m-tac-passport-cover-722": [
       "documenttassen",
