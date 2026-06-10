@@ -10304,7 +10304,6 @@
     "broeken",
     "thermokleding"
   ],
-  "fleece-rip-stop-helmet-liner-genii-4854": [],
   "fleece-sweatshirt-shadow-polartec-4033": [
     "fleece",
     "jassen"
@@ -14413,7 +14412,9 @@
       "m-tac",
       "headwear",
       "tactical-gear",
-      "helmen"
+      "helmen",
+      "petten",
+      "kleding"
     ],
     "fleece-sweatshirt-shadow-polartec-4033": [
       "Clothing > Jackets > Fleece jackets",
