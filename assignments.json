@@ -9756,10 +9756,7 @@
   "admin-pouch-bag-medium-elite-8107": [
     "admin-pouches"
   ],
-  "admin-pouch-bag-with-velcro-8298": [
-    "utility-pouches",
-    "tassen-rugzakken"
-  ],
+  "admin-pouch-bag-with-velcro-8298": [],
   "admin-pouch-elite-583": [
     "utility-pouches",
     "admin-pouches"
@@ -14479,6 +14476,11 @@
       "m-tac",
       "rugzakken",
       "tassen"
+    ],
+    "admin-pouch-bag-with-velcro-8298": [
+      "schietsport",
+      "jacht",
+      "tactical-gear"
     ],
     "ecopybook-big-tactical-ruler-protractor-nato-8195": [
       "Equipment and gear > Office supplies",
