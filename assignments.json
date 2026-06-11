@@ -13391,14 +13391,15 @@
   ],
   "thermal-t-shirt-ultra-vent-6167": [
     "thermokleding",
-    "shirts",
     "thermoshirts"
   ],
   "thermo-mug-with-carabiner-5926": [
-    "kookgerei"
+    "kookgerei",
+    "drinkflessen-thermos"
   ],
   "thermo-mug-with-folding-handle-7344": [
-    "kookgerei"
+    "kookgerei",
+    "drinkflessen-thermos"
   ],
   "thermos-1000ml-7717": [
     "drinkflessen-thermos"
@@ -13414,8 +13415,8 @@
     "tactical-riemen"
   ],
   "tiger-belt-cobra-buckle-811": [
-    "riemen-bretels",
-    "tactical-riemen"
+    "tactical-riemen",
+    "riemen-bretels"
   ],
   "toiletry-bag-316": [
     "admin-pouches"
@@ -19622,6 +19623,18 @@
       "Clothing > Underwear > Thermal shirts",
       "m-tac"
     ],
+    "thermal-shirt-level-i-polartec-6416": [
+      "Clothing > Underwear > Thermoactive underwear",
+      "m-tac"
+    ],
+    "thermal-shirt-polartec-winter-baselayer-vent-6443": [
+      "Clothing > Underwear > Thermal shirts",
+      "m-tac"
+    ],
+    "thermal-shirt-winter-baselayer-6292": [
+      "Clothing > Underwear > Thermoactive underwear",
+      "m-tac"
+    ],
     "thermal-t-shirt-ultra-vent-6167": [
       "Clothing > Underwear > Thermal shirts",
       "m-tac",
@@ -19631,6 +19644,50 @@
       "polos",
       "t-shirts-polos",
       "shirts"
+    ],
+    "thermo-mug-with-carabiner-5926": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "Outdoor Line",
+      "m-tac",
+      "thermosbekers",
+      "tourism > Thermal mugs"
+    ],
+    "thermo-mug-with-folding-handle-7344": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "Outdoor Line",
+      "m-tac",
+      "thermosbekers",
+      "tourism > Thermal mugs"
+    ],
+    "thermos-1000ml-7717": [
+      "bushcraft",
+      "drinkflessen",
+      "Equipment and gear > Survival",
+      "m-tac",
+      "hydratatie",
+      "thermosflessen",
+      "tourism > Thermoses"
+    ],
+    "thermos-750-ml-7719": [
+      "bushcraft",
+      "drinkflessen",
+      "Equipment and gear > Survival",
+      "m-tac",
+      "hydratatie",
+      "thermosflessen",
+      "tourism > Thermoses"
+    ],
+    "thermos-type-2-7725": [
+      "bushcraft",
+      "drinkflessen",
+      "Equipment and gear > Survival",
+      "m-tac",
+      "hydratatie",
+      "Outdoor Line",
+      "thermosflessen",
+      "tourism > Thermoses"
     ],
     "thors-hammer-belt-3385": [
       "Clothing > Belt",
@@ -19643,7 +19700,10 @@
     "tiger-belt-cobra-buckle-811": [
       "Clothing > Belt",
       "m-tac",
-      "riemen-bretels"
+      "riemen-bretels",
+      "belts",
+      "bretels",
+      "kleding"
     ],
     "toiletry-bag-316": [
       "utility-pouches",
@@ -20899,6 +20959,19 @@
     "touring-thermos-1600-ml-stainless-7721",
     "tourist-hanging-flashlight-7631",
     "tourist-lamp-matt-7611",
-    "toiletry-kit-elite-genii-274"
+    "toiletry-kit-elite-genii-274",
+    "toiletry-kit-160",
+    "toiletry-bag-316",
+    "tiger-belt-cobra-buckle-811",
+    "thors-hammer-belt-3385",
+    "thermos-type-2-7725",
+    "thermos-750-ml-7719",
+    "thermos-1000ml-7717",
+    "thermo-mug-with-carabiner-5926",
+    "thermo-mug-with-folding-handle-7344",
+    "thermal-t-shirt-ultra-vent-6167",
+    "thermal-shirt-winter-baselayer-6292",
+    "thermal-shirt-polartec-winter-baselayer-vent-6443",
+    "thermal-shirt-level-i-polartec-6416"
   ]
 }
