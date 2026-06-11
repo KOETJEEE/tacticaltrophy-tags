@@ -13438,8 +13438,7 @@
     "zaklampen-hoofdlampen"
   ],
   "train-hard-oversized-cotton-t-shirt-hard-10190": [
-    "t-shirts-polos",
-    "shirts"
+    "t-shirts-polos"
   ],
   "training-shorts-10468": [
     "ondergoed"
@@ -19699,7 +19698,8 @@
       "polos",
       "t-shirts",
       "tactical-shirts",
-      "tactical-gear"
+      "tactical-gear",
+      "shirts"
     ],
     "training-shorts-10468": [
       "m-tac",
@@ -19730,6 +19730,10 @@
       "kleding-accessoires",
       "m-tac",
       "kleding"
+    ],
+    "underwear-active-level-i-6147": [
+      "Clothing > Underwear > Thermoactive underwear",
+      "m-tac"
     ],
     "underwear-thermoline-5971": [
       "Clothing > Underwear > Thermoactive underwear",
@@ -20858,6 +20862,11 @@
     "urban-line-city-hunter-hexagon-bag-7374",
     "universal-tool-type-2-5934",
     "universal-folding-spoon-6486",
-    "universal-cutlery-3w1-5924"
+    "universal-cutlery-3w1-5924",
+    "tube-scarf-polartec-power-grid-4930",
+    "tube-scarf-polartec-4630",
+    "training-shorts-10468",
+    "train-hard-oversized-cotton-t-shirt-hard-10190",
+    "underwear-active-level-i-6147"
   ]
 }
