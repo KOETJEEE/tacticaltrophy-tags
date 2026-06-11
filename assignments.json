@@ -27,8 +27,6 @@
     "batterij-nuprol-nimh-8-4v-1600mah-small",
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome",
-    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165",
-    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-s-710025",
     "seating-pad-with-belt-20",
     "m-tac-seating-pad-with-belt-18",
     "konus-warmtebeeldcamera-flame-06x-24x-437953",
@@ -13954,10 +13952,12 @@
     "winter-handschoenen"
   ],
   "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-s-710025": [
-    "shirts"
+    "shirts",
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165": [
-    "shirts"
+    "shirts",
+    "camouflage-kleding"
   ],
   "t-shirt-68-oeb-10000": [
     "shirts"
@@ -20401,6 +20401,10 @@
       "outdoor-kleding",
       "stealth-gear"
     ],
+    "stealth-gear-handschoenen-maat-s-710015": [
+      "outdoor-kleding",
+      "stealth-gear"
+    ],
     "stealth-gear-handschoenen-maat-xl-710018": [
       "outdoor-kleding",
       "stealth-gear"
@@ -20412,6 +20416,10 @@
       "kleding"
     ],
     "stealth-gear-nightjar-dual-cam-solar-4k-wifi-wildcamera-720133": [
+      "stealth-gear"
+    ],
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-s-710025": [
+      "outdoor-kleding",
       "stealth-gear"
     ],
     "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165": [
@@ -20710,6 +20718,14 @@
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
     "agm-nvg-50-apw-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121087",
-    "agm-nvg-40-nw1-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121081"
+    "agm-nvg-40-nw1-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121081",
+    "red-dot-vector-optics-maverick-gen-ii",
+    "pocket-knife-kershaw-concierge",
+    "tactical-sneakers-shooter-10202",
+    "tactical-sneakers-patrol-r-4081",
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165",
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-s-710025",
+    "stealth-gear-handschoenen-maat-xxl-710019",
+    "stealth-gear-handschoenen-maat-xl-710018"
   ]
 }
