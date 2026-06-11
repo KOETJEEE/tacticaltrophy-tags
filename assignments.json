@@ -19466,8 +19466,15 @@
       "tactical-broeken",
       "tactical-gear"
     ],
+    "tactical-morale-patches-hook-and-loop-display-board-molle-80x135-294": [
+      "Equipment and gear > Patches",
+      "m-tac",
+      "molle"
+    ],
     "tactical-pants-aggressor-genii-flex-1492": [
-      "tactical-bags"
+      "tactical-bags",
+      "Clothing > Pants > Tactical Pants",
+      "m-tac"
     ],
     "tactical-pants-conquistador-gen-i-flex-1697": [
       "tactical-bags",
@@ -21016,6 +21023,7 @@
     "tactical-pen-tp-01-5958",
     "tactical-pants-patrol-gen-ii-flex-2018",
     "tactical-pants-patriot-gen-ii-flex-1379",
-    "tactical-pants-conquistador-gen-i-flex-1697"
+    "tactical-pants-conquistador-gen-i-flex-1697",
+    "tactical-pants-aggressor-genii-flex-1492"
   ]
 }
