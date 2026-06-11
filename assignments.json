@@ -12918,8 +12918,7 @@
     "paracord"
   ],
   "sleeping-bag-with-compression-cover-6487": [
-    "slaapzakken-matten",
-    "compressors"
+    "slaapzakken-matten"
   ],
   "sleeping-pad-15-mm-60x180-cm-7608": [
     "slaapzakken-matten"
@@ -12943,7 +12942,7 @@
     "sling-bags"
   ],
   "sling-pistol-bag-hex-10183": [
-    "holsters"
+    "sling-bags"
   ],
   "sling-pistol-bag-hex-with-velcro-10179": [
     "sling-bags"
@@ -12971,7 +12970,6 @@
     "admin-pouches"
   ],
   "sneakers-7074": [
-    "tactical-sneakers",
     "schoenen"
   ],
   "sneakers-tactical-caiman-10414": [
@@ -19001,6 +18999,43 @@
       "paracord-accessoires",
       "m-tac"
     ],
+    "sleeping-bag-with-compression-cover-6487": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "matten",
+      "m-tac",
+      "Outdoor Line",
+      "slaapzakken",
+      "tourism > Sleeping bags",
+      "schietsport",
+      "compressors",
+      "airsoft"
+    ],
+    "sleeping-pad-15-mm-60x180-cm-7608": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "matten",
+      "Outdoor Line",
+      "m-tac",
+      "slaapzakken",
+      "tourism > Mats"
+    ],
+    "sleeping-pad-195x60x5-cm-5938": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "matten",
+      "m-tac",
+      "slaapzakken",
+      "tourism > Mats"
+    ],
+    "sleeping-pad-20mm-60180cm-7609": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "m-tac",
+      "matten",
+      "slaapzakken",
+      "tourism > Mats"
+    ],
     "sling-civilian-bag-lite-nr-9766": [
       "jacht",
       "geweerriemen",
@@ -19100,7 +19135,9 @@
     ],
     "sneakers-7074": [
       "Footwear > Tactical sneakers",
-      "m-tac"
+      "m-tac",
+      "tactical-sneakers",
+      "tactical-gear"
     ],
     "snoode-elite-short-adjustable-flecce-320m2-4890": [
       "Clothing > Neck Warmer",
@@ -21113,6 +21150,17 @@
     "spark-gouging-device-7618",
     "socks-merino-trekking-10010",
     "socks-lightweight-mk3-pirate-skull-4358",
-    "snoode-elite-short-adjustable-flecce-320m2-4890"
+    "snoode-elite-short-adjustable-flecce-320m2-4890",
+    "sneakers-7074",
+    "sling-pistol-bag-hex-with-velcro-10179",
+    "sling-pistol-bag-hex-10183",
+    "sling-pistol-bag-elite-hex-with-velcro-closure-5587",
+    "sling-pistol-bag-elite-220",
+    "sling-pistol-bag-10180",
+    "sling-civilian-bag-lite-nr-9766",
+    "sleeping-pad-20mm-60180cm-7609",
+    "sleeping-pad-195x60x5-cm-5938",
+    "sleeping-pad-15-mm-60x180-cm-7608",
+    "sleeping-bag-with-compression-cover-6487"
   ]
 }
