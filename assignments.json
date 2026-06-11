@@ -13078,7 +13078,8 @@
     "tactical-bags"
   ],
   "sturm-backpack-with-ergonomic-straps-elite-genii-9002": [
-    "tactical-bags"
+    "tactical-bags",
+    "tassen-rugzakken"
   ],
   "sturm-ballistic-gorget-for-inserts-9038": [
     "tactical-vests"
@@ -19180,7 +19181,8 @@
       "jacht",
       "rugzakken",
       "tassen",
-      "Equipment and gear > Bags and backpacks > Backpacks"
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "m-tac"
     ],
     "sturm-backpack-with-ergonomic-straps-elite-genii-9002": [
       "jacht",
@@ -21060,6 +21062,8 @@
     "sweating-ninja-balaclava-4579",
     "summer-sleeping-bag-type-2-10034",
     "summer-sleeping-bag-10033",
-    "sturm-nyco-extreme-combat-shirt-9644"
+    "sturm-nyco-extreme-combat-shirt-9644",
+    "sturm-backpack-with-ergonomic-straps-elite-9004",
+    "sturm-backpack-with-ergonomic-straps-elite-genii-9002"
   ]
 }
