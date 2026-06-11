@@ -13652,8 +13652,7 @@
     "winter-schoenen"
   ],
   "womens-vest-primaloft-8499": [
-    "bodywarmer",
-    "dames-jachtvesten"
+    "bodywarmer"
   ],
   "zip-pocket-organizer-set-elite-8979": [
     "admin-pouches"
@@ -13956,9 +13955,7 @@
     "shirts",
     "camouflage-kleding"
   ],
-  "t-shirt-68-oeb-10000": [
-    "shirts"
-  ],
+  "t-shirt-68-oeb-10000": [],
   "tactical-sneakers-patrol-r-4081": [
     "schoenen",
     "tactical-sneakers"
@@ -20075,7 +20072,9 @@
     "womens-vest-primaloft-8499": [
       "Clothing > Vest",
       "m-tac",
-      "maattabel-mtac"
+      "maattabel-mtac",
+      "dames-jachtvesten",
+      "jacht"
     ],
     "zip-pocket-organizer-set-elite-8979": [
       "m-tac",
@@ -20434,7 +20433,9 @@
     ],
     "t-shirt-68-oeb-10000": [
       "Clothing > T-shirts",
-      "Polo > Printing"
+      "Polo > Printing",
+      "kleding",
+      "shirts"
     ],
     "tactical-sneakers-patrol-r-4081": [
       "sneakers"
@@ -20775,6 +20776,22 @@
     "falcon-eyes-gaffer-tape-wit-5-cm-x-50-m-2964901",
     "falcon-eyes-aluminium-statief-kop-wt-3570-h165-cm-295011",
     "rifle-case-plano-rustrictor-all-weather-2-42-113x43",
-    "geweersteun-bog-fieldpod"
+    "geweersteun-bog-fieldpod",
+    "magazijn-ataman-m2",
+    "explorer-cases-2209-koffer-oranje-met-plukschuim-250160",
+    "explorer-cases-2209-koffer-zwart-met-plukschuim-250150",
+    "explorer-cases-4412hl-koffer-zwart-met-laptop-tas-250522",
+    "explorer-cases-7726-koffer-zwart-met-plukschuim-251190",
+    "explorer-cases-multi-utility-box-groen-mub78ge-254002",
+    "explorer-cases-red-line-13513-geweer-koffer-met-plukschuim-251263",
+    "explorer-cases-15416-koffer-zwart-met-plukschuim-251501",
+    "rifle-scope-element-optics-titan-3-18x50-apr-2d",
+    "rifle-scope-element-optics-theos-6-36x56-apr-2d",
+    "rifle-scope-element-optics-helix-genii-6-24x50",
+    "rifle-scope-element-optics-helix-genii-4-16x44",
+    "agm-voyage-lrf-tb50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121241",
+    "agm-pvs-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121066",
+    "agm-pvs-14-ap-monoculaire-nachtkijker-gen2-green-phosphor-121070",
+    "winter-tactical-boots-thinsulate-4226"
   ]
 }
