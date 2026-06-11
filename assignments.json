@@ -10167,10 +10167,6 @@
     "veldnotitie",
     "tactical-bags"
   ],
-  "ecopybook-tactical-linijka-prokurator-okraga-130-mm-nato-8041": [
-    "veldnotitie",
-    "tactical-bags"
-  ],
   "ecopybook-tactical-notebook-of-an-intelligence-agent-8194": [
     "veldnotitie",
     "tactical-bags"
@@ -11479,9 +11475,6 @@
   ],
   "m-tac-water-bottle-1-l-7726": [
     "drinkflessen-thermos"
-  ],
-  "m-tac-waterproof-case-for-documents-16x12-cm-7604": [
-    "admin-pouches"
   ],
   "mag-pouch-kolchan-for-akar-594": [
     "magazijn-pouches"
@@ -13705,6 +13698,10 @@
     "fleece",
     "jacht-vesten"
   ],
+  "ecopybook-tactical-linijka-prokurator-okraga-130-mm-nato-8041": [
+    "veldnotitie",
+    "tactical-bags"
+  ],
   "rifle-scope-element-optics-helix-genii-4-16x44": [
     "richtkijkers"
   ],
@@ -13853,6 +13850,9 @@
   ],
   "m-tac-seating-pad-with-belt-18": [
     "slaapzakken-matten"
+  ],
+  "m-tac-waterproof-case-for-documents-16x12-cm-7604": [
+    "admin-pouches"
   ],
   "magazijn-ataman-m2": [
     "magazijnen"
@@ -14082,12 +14082,6 @@
     "hpa-kit-ctm-m4ximus-for-tm-hi-capa-black": [
       "airsoft-onderdelen"
     ],
-    "magazine-bergara-b14-22-lr-10-rounds": [
-      "tactical-gear",
-      "survival",
-      "veldspaden",
-      "schoppen"
-    ],
     "eva-knee-pad-inserts-pair-genii-grey-517": [
       "tactical-gear",
       "bescherming",
@@ -14099,10 +14093,14 @@
       "kleding-accessoires",
       "kleding"
     ],
-    "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
-      "airsoft-magazijn-toebehoren",
-      "airsoft",
-      "permit-wwm"
+    "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080": [
+      "binoculair"
+    ],
+    "agm-nvg-40-nw1-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121081": [
+      "binoculair"
+    ],
+    "agm-nvg-50-apw-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121087": [
+      "binoculair"
     ],
     "boya-digitale-shotgun-microfoon-by-dm200-voor-ios-350309": [
       "microfoon"
@@ -16907,13 +16905,6 @@
       "Outdoor Line",
       "thermosflessen",
       "tourism > Water bottles"
-    ],
-    "m-tac-waterproof-case-for-documents-16x12-cm-7604": [
-      "wapen-accessoires",
-      "Equipment and gear > Bags and backpacks > Waterproof bags",
-      "waterdichte-tassen",
-      "Outdoor Line",
-      "m-tac"
     ],
     "mag-pouch-kolchan-for-akar-594": [
       "m-tac",
@@ -20307,6 +20298,13 @@
       "slaapzakken",
       "tourism > Mats"
     ],
+    "m-tac-waterproof-case-for-documents-16x12-cm-7604": [
+      "wapen-accessoires",
+      "Equipment and gear > Bags and backpacks > Waterproof bags",
+      "waterdichte-tassen",
+      "Outdoor Line",
+      "m-tac"
+    ],
     "microfiber-towel-army-green-120x60cm-9724": [
       "survival",
       "bushcraft",
@@ -20426,168 +20424,20 @@
     ],
     "tactical-sneakers-patrol-r-4081": [
       "sneakers"
-    ]
-  },
-  "_added": {
-    "magazijn-anschutz-1420-u13-22-lr-10-schots": [
-      "permit-wwm"
     ],
-    "magazijn-anschutz-1420-u5-22-lr-5-schots": [
-      "permit-wwm"
-    ],
-    "magazine-anschutz-1761-22-lr-6-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-anschutz-4-rounds-1516-u4": [
-      "permit-wwm"
-    ],
-    "magazijn-anschutz-4846-22-lr-enkelschots": [
+    "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
+      "airsoft-magazijn-toebehoren",
+      "airsoft",
       "permit-wwm"
     ],
     "magazine-bergara-b14-22-lr-10-rounds": [
-      "permit-wwm"
-    ],
-    "magazijn-bergara-b14-hmr-bmp-5-schots": [
-      "permit-wwm"
-    ],
-    "magazijn-bergara-b14-long-action-3-schots": [
-      "permit-wwm"
-    ],
-    "magazijn-bergara-b14-short-action-3-schots": [
-      "permit-wwm"
-    ],
-    "magazine-bergara-bmr-22-lr-10-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-bergara-bmr-22-lr-5-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-bul-sas-ii-40-s-w-18-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-bul-sas-ii-9x19-mm-19-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-bul-sas-ii-9x19-mm-22-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-bul-sas-ii-9x19-mm-27-rounds": [
-      "permit-wwm"
-    ],
-    "magazijn-colt-1911-22-lr-10-schots": [
-      "permit-wwm"
-    ],
-    "magazijn-colt-1911-22-lr-12-schots": [
-      "permit-wwm"
-    ],
-    "magazijn-hammerli-215-208-22-lr-10-schots": [
-      "permit-wwm"
-    ],
-    "magazijn-hammerli-x-esse-22-lr-10-schots": [
-      "permit-wwm"
-    ],
-    "magazine-kmr-s-22-lr-15-rounds": [
-      "permit-wwm"
-    ],
-    "magazijn-kmr-s-01-s-02-cz-75-sp-01-shadow-2-22-lr-10-schots": [
-      "permit-wwm"
-    ],
-    "magazine-krale-victrix-22-lr-single-shot": [
-      "permit-wwm"
-    ],
-    "magazine-laugo-arms-alien": [
-      "permit-wwm"
-    ],
-    "magazine-laugo-arms-alien-creator-17-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-laugo-arms-alien-creator-22-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-mdt-aics-metal-308-win-6-5-creedmoor-10-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-mdt-aics-polymer-223-rem-10-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-mdt-aics-polymer-308-win-6-5-creedmoor-10-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-mdt-aics-polymer-308-win-6-5-creedmoor-5-rounds": [
-      "permit-wwm"
-    ],
-    "magazijn-schmeisser-223-rem-10-schots": [
-      "permit-wwm"
-    ],
-    "magazine-schmeisser-1911": [
-      "permit-wwm"
-    ],
-    "magazine-schmeisser-ar15-9": [
-      "permit-wwm"
-    ],
-    "magazine-utg-ar15-223-rem-10-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-utg-ar15-223-rem-30-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-victrix-308-win-7-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-victrix-pugio-t-gladio-t-gladio-x-10-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-victric-small-bore-polymer-10-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-walther-gsp-22-lr-5-rounds": [
-      "permit-wwm"
-    ],
-    "magazijn-walther-gsp-32-s-w-long-5-schots": [
-      "permit-wwm"
-    ],
-    "magazijn-walther-gsp-expert-22-lr-5-schots": [
-      "permit-wwm"
-    ],
-    "magazijn-walther-gsp-expert-10-schots": [
-      "permit-wwm"
-    ],
-    "magazine-walther-gsp500-22-lr": [
-      "permit-wwm"
-    ],
-    "magazine-walther-gsp500-32-s-w-long": [
-      "permit-wwm"
-    ],
-    "magazine-walther-p99-9x19-mm-15-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-walther-pdp-full-size-18-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-walther-pdp-full-size-9x19-mm-18-rounds": [
-      "permit-wwm"
-    ],
-    "magazine-walther-ppq-m1-9x19-mm-15-rounds": [
-      "permit-wwm"
-    ],
-    "magazijn-walther-ppq-m2-9-mm-15-2-schots": [
-      "permit-wwm"
-    ],
-    "magazijn-walther-ppq-m2-22-lr-12-schots": [
-      "permit-wwm"
-    ],
-    "magazine-walther-rs3": [
-      "permit-wwm"
-    ],
-    "magazine-walther-sf-q5-q4-ppq-m2-pdp-compact-9-mm-18-rounds": [
-      "permit-wwm"
-    ],
-    "magazijn-walther-ssp-e-22-lr": [
-      "permit-wwm"
-    ],
-    "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
-      "permit-wwm"
-    ],
+      "tactical-gear",
+      "survival",
+      "veldspaden",
+      "schoppen"
+    ]
+  },
+  "_added": {
     "hoodie-odin-mystery-8368": [
       "maattabel-mtac"
     ],
@@ -20620,6 +20470,165 @@
     ],
     "womens-vest-primaloft-8499": [
       "maattabel-mtac"
+    ],
+    "magazijn-anschutz-1420-u13-22-lr-10-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-anschutz-1420-u5-22-lr-5-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-anschutz-4846-22-lr-enkelschots": [
+      "permit-wwm"
+    ],
+    "magazijn-bergara-b14-hmr-bmp-5-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-bergara-b14-long-action-3-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-bergara-b14-short-action-3-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-colt-1911-22-lr-10-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-colt-1911-22-lr-12-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-hammerli-215-208-22-lr-10-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-hammerli-x-esse-22-lr-10-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-kmr-s-01-s-02-cz-75-sp-01-shadow-2-22-lr-10-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-schmeisser-223-rem-10-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-walther-gsp-32-s-w-long-5-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-walther-gsp-expert-10-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-walther-gsp-expert-22-lr-5-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-walther-ppq-m2-22-lr-12-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-walther-ppq-m2-9-mm-15-2-schots": [
+      "permit-wwm"
+    ],
+    "magazijn-walther-ssp-e-22-lr": [
+      "permit-wwm"
+    ],
+    "magazine-anschutz-1761-22-lr-6-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-anschutz-4-rounds-1516-u4": [
+      "permit-wwm"
+    ],
+    "magazine-bergara-b14-22-lr-10-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-bergara-bmr-22-lr-10-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-bergara-bmr-22-lr-5-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-bul-sas-ii-40-s-w-18-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-bul-sas-ii-9x19-mm-19-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-bul-sas-ii-9x19-mm-22-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-bul-sas-ii-9x19-mm-27-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-kmr-s-22-lr-15-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-krale-victrix-22-lr-single-shot": [
+      "permit-wwm"
+    ],
+    "magazine-laugo-arms-alien": [
+      "permit-wwm"
+    ],
+    "magazine-laugo-arms-alien-creator-17-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-laugo-arms-alien-creator-22-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-mdt-aics-metal-308-win-6-5-creedmoor-10-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-mdt-aics-polymer-223-rem-10-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-mdt-aics-polymer-308-win-6-5-creedmoor-10-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-mdt-aics-polymer-308-win-6-5-creedmoor-5-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-schmeisser-1911": [
+      "permit-wwm"
+    ],
+    "magazine-schmeisser-ar15-9": [
+      "permit-wwm"
+    ],
+    "magazine-utg-ar15-223-rem-10-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-utg-ar15-223-rem-30-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-victric-small-bore-polymer-10-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-victrix-308-win-7-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-victrix-pugio-t-gladio-t-gladio-x-10-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-walther-gsp-22-lr-5-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-walther-gsp500-22-lr": [
+      "permit-wwm"
+    ],
+    "magazine-walther-gsp500-32-s-w-long": [
+      "permit-wwm"
+    ],
+    "magazine-walther-p99-9x19-mm-15-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-walther-pdp-full-size-18-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-walther-pdp-full-size-9x19-mm-18-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-walther-ppq-m1-9x19-mm-15-rounds": [
+      "permit-wwm"
+    ],
+    "magazine-walther-rs3": [
+      "permit-wwm"
+    ],
+    "magazine-walther-sf-q5-q4-ppq-m2-pdp-compact-9-mm-18-rounds": [
+      "permit-wwm"
     ]
   },
   "_filtered": [
@@ -20697,5 +20706,10 @@
     "byomic-kids-insect-explorer-set-18-delig-269953",
     "byomic-kids-insect-explorer-set-22-delig-269952",
     "byomic-kids-insect-explorer-set-xl-21-delig-269954"
+  ],
+  "_done": [
+    "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
+    "agm-nvg-50-apw-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121087",
+    "agm-nvg-40-nw1-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121081"
   ]
 }
