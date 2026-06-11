@@ -12,9 +12,6 @@
     "utility-organizer-transparent-elite-large-genii-412",
     "urban-line-force-pack-backpack-7377",
     "type-3-folding-knife-5-tools-3-steel-5936",
-    "thermal-rasguard-t-shirt-6305",
-    "thermal-shirt-delta-level-2-5989",
-    "tactical-war-belt-tiger-d-ring-cobra-947",
     "tactical-wallet-elite-9763",
     "tactical-waist-bag-genii-elite-219",
     "tactical-summer-boots-iva-4281",
@@ -19473,7 +19470,9 @@
       "tactical-bags"
     ],
     "tactical-pants-conquistador-gen-i-flex-1697": [
-      "tactical-bags"
+      "tactical-bags",
+      "Clothing > Pants > Tactical Pants",
+      "m-tac"
     ],
     "tactical-pants-patriot-gen-ii-flex-1379": [
       "Clothing > Pants > Tactical Pants",
@@ -19487,20 +19486,33 @@
       "tactical-bags"
     ],
     "tactical-pen-tp-01-5958": [
-      "tactical-bags"
+      "tactical-bags",
+      "Equipment and gear > Tactical pens",
+      "Tactical Line",
+      "m-tac"
     ],
     "tactical-pen-tp-17-5959": [
-      "tactical-bags"
+      "tactical-bags",
+      "Equipment and gear > Tactical pens",
+      "m-tac"
     ],
     "tactical-pen-type-3-5960": [
       "Equipment and gear > Tactical pens",
-      "tactical-bags"
+      "tactical-bags",
+      "m-tac",
+      "Tactical Line"
     ],
     "tactical-pen-type-4-5961": [
-      "tactical-bags"
+      "tactical-bags",
+      "Equipment and gear > Tactical pens",
+      "Tactical Line",
+      "m-tac"
     ],
     "tactical-pen-type-5-5962": [
-      "tactical-bags"
+      "tactical-bags",
+      "Equipment and gear > Tactical pens",
+      "m-tac",
+      "Tactical Line"
     ],
     "tactical-pen-type-6-titanium-9742": [
       "tactical-bags",
@@ -19615,8 +19627,21 @@
     "thermal-fleece-shirt-delta-level-2-hex-10077": [
       "truien"
     ],
+    "thermal-fleece-shirt-delta-level-2-lady-5849": [
+      "Clothing > Underwear > Thermal shirts",
+      "m-tac"
+    ],
+    "thermal-merino-9793": [
+      "Clothing > Underwear > Thermoactive pants",
+      "m-tac"
+    ],
     "thermal-pants-level-i-polartec-6369": [
-      "Clothing > Underwear > Thermoactive pants"
+      "Clothing > Underwear > Thermoactive pants",
+      "m-tac"
+    ],
+    "thermal-rasguard-t-shirt-6305": [
+      "Clothing > Underwear > Thermal shirts",
+      "m-tac"
     ],
     "thermal-shirt-delta-level-2-5989": [
       "shirts",
@@ -20972,6 +20997,25 @@
     "thermal-t-shirt-ultra-vent-6167",
     "thermal-shirt-winter-baselayer-6292",
     "thermal-shirt-polartec-winter-baselayer-vent-6443",
-    "thermal-shirt-level-i-polartec-6416"
+    "thermal-shirt-level-i-polartec-6416",
+    "thermal-shirt-delta-level-2-5989",
+    "thermal-rasguard-t-shirt-6305",
+    "thermal-pants-level-i-polartec-6369",
+    "thermal-merino-9793",
+    "thermal-fleece-shirt-delta-level-2-lady-5849",
+    "tactical-winter-boots-8217",
+    "tactical-weapon-case-backpack-125-cm-elite-hex-genii-272",
+    "tactical-watch-with-pedometer-5037",
+    "tactical-watch-2147-8182",
+    "tactical-war-belt-tiger-d-ring-cobra-947",
+    "tactical-pen-type-6-titanium-9742",
+    "tactical-pen-type-5-5962",
+    "tactical-pen-type-4-5961",
+    "tactical-pen-type-3-5960",
+    "tactical-pen-tp-17-5959",
+    "tactical-pen-tp-01-5958",
+    "tactical-pants-patrol-gen-ii-flex-2018",
+    "tactical-pants-patriot-gen-ii-flex-1379",
+    "tactical-pants-conquistador-gen-i-flex-1697"
   ]
 }
