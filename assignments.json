@@ -13457,7 +13457,7 @@
     "zakmessen"
   ],
   "us-millitary-dog-tags-witch-rubber-silencers-8310": [
-    "velcro-strips"
+    "kleding-accessoires"
   ],
   "underwear-active-level-i-6147": [
     "thermokleding"
@@ -19729,10 +19729,16 @@
       "Clothing > Accessories",
       "kleding-accessoires",
       "m-tac",
-      "kleding"
+      "kleding",
+      "velcro-strips",
+      "tactical-gear"
     ],
     "underwear-active-level-i-6147": [
       "Clothing > Underwear > Thermoactive underwear",
+      "m-tac"
+    ],
+    "underwear-hexagon-6185": [
+      "Clothing > Underwear > Everyday underwear",
       "m-tac"
     ],
     "underwear-thermoline-5971": [
@@ -20867,6 +20873,9 @@
     "tube-scarf-polartec-4630",
     "training-shorts-10468",
     "train-hard-oversized-cotton-t-shirt-hard-10190",
-    "underwear-active-level-i-6147"
+    "underwear-active-level-i-6147",
+    "travel-case-elite-large-30x19-cm-456",
+    "us-millitary-dog-tags-witch-rubber-silencers-8310",
+    "underwear-hexagon-6185"
   ]
 }
