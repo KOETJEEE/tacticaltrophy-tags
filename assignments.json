@@ -13212,7 +13212,7 @@
   ],
   "tactical-demi-season-boots-4149": [
     "schoenen",
-    "tactical-bags"
+    "tactical-sneakers"
   ],
   "tactical-demi-season-boots-pro-line-7814": [
     "schoenen",
@@ -19453,18 +19453,25 @@
     ],
     "tactical-demi-season-boots-4149": [
       "laarzen",
-      "tactical-sneakers"
+      "tactical-sneakers",
+      "Footwear > Tactical sneakers",
+      "m-tac",
+      "tactical-bags",
+      "tactical-gear"
     ],
     "tactical-demi-season-boots-pro-line-7814": [
       "laarzen",
       "tactical-sneakers",
-      "Footwear > Tactical sneakers"
+      "Footwear > Tactical sneakers",
+      "m-tac"
     ],
     "tactical-geni-regular-fit-jeans-1282": [
       "tactical-bags",
       "broeken",
       "tactical-broeken",
-      "tactical-gear"
+      "tactical-gear",
+      "Clothing > Pants > Jeans",
+      "m-tac"
     ],
     "tactical-morale-patches-hook-and-loop-display-board-molle-80x135-294": [
       "Equipment and gear > Patches",
@@ -21024,6 +21031,9 @@
     "tactical-pants-patrol-gen-ii-flex-2018",
     "tactical-pants-patriot-gen-ii-flex-1379",
     "tactical-pants-conquistador-gen-i-flex-1697",
-    "tactical-pants-aggressor-genii-flex-1492"
+    "tactical-pants-aggressor-genii-flex-1492",
+    "tactical-geni-regular-fit-jeans-1282",
+    "tactical-demi-season-boots-pro-line-7814",
+    "tactical-demi-season-boots-4149"
   ]
 }
