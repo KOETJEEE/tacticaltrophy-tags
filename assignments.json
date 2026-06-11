@@ -20392,6 +20392,10 @@
       "Clothing > Shorts",
       "m-tac"
     ],
+    "stealth-gear-handschoenen-eagle-maat-xl-xxl-710024": [
+      "stealth-gear",
+      "outdoor-kleding"
+    ],
     "stealth-gear-handschoenen-maat-l-710017": [
       "outdoor-kleding",
       "stealth-gear"
@@ -20726,6 +20730,11 @@
     "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165",
     "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-s-710025",
     "stealth-gear-handschoenen-maat-xxl-710019",
-    "stealth-gear-handschoenen-maat-xl-710018"
+    "stealth-gear-handschoenen-maat-xl-710018",
+    "stealth-gear-handschoenen-maat-s-710015",
+    "stealth-gear-handschoenen-maat-l-710017",
+    "stealth-gear-handschoenen-maat-m-710016",
+    "stealth-gear-handschoenen-eagle-maat-xl-xxl-710024",
+    "shooting-target-caldwell-ar500-prairie-dog-auto-reset"
   ]
 }
