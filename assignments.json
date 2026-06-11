@@ -13430,12 +13430,10 @@
     "drinkflessen-thermos"
   ],
   "tourist-hanging-flashlight-7631": [
-    "zaklampen-hoofdlampen",
     "lampen-1"
   ],
   "tourist-lamp-matt-7611": [
-    "lampen-1",
-    "zaklampen-hoofdlampen"
+    "lampen-1"
   ],
   "train-hard-oversized-cotton-t-shirt-hard-10190": [
     "t-shirts-polos"
@@ -19672,11 +19670,26 @@
       "hygiene",
       "utility-pouches"
     ],
+    "touring-thermos-1600-ml-stainless-7721": [
+      "bushcraft",
+      "drinkflessen",
+      "Equipment and gear > Survival",
+      "hydratatie",
+      "m-tac",
+      "Outdoor Line",
+      "thermosflessen",
+      "tourism > Thermoses"
+    ],
     "tourist-hanging-flashlight-7631": [
       "Equipment and gear > Flashlights",
       "lampen-en-lasers",
       "m-tac",
-      "lampen-1"
+      "lampen-1",
+      "zaklampen-hoofdlampen",
+      "airsoft",
+      "jacht",
+      "schietsport",
+      "survival"
     ],
     "tourist-lamp-matt-7611": [
       "zaklampen-hoofdlampen",
@@ -19738,6 +19751,10 @@
       "m-tac"
     ],
     "underwear-hexagon-6185": [
+      "Clothing > Underwear > Everyday underwear",
+      "m-tac"
+    ],
+    "underwear-men-cotton-stretch-boxer-briefs-9913": [
       "Clothing > Underwear > Everyday underwear",
       "m-tac"
     ],
@@ -20876,6 +20893,11 @@
     "underwear-active-level-i-6147",
     "travel-case-elite-large-30x19-cm-456",
     "us-millitary-dog-tags-witch-rubber-silencers-8310",
-    "underwear-hexagon-6185"
+    "underwear-hexagon-6185",
+    "underwear-men-cotton-stretch-boxer-briefs-9913",
+    "underwear-thermoline-5971",
+    "touring-thermos-1600-ml-stainless-7721",
+    "tourist-hanging-flashlight-7631",
+    "tourist-lamp-matt-7611"
   ]
 }
