@@ -60,7 +60,8 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
     "flag-odin-night-vision-630x900-5792",
-    "adapter-mantisx-picatinny-3m"
+    "adapter-mantisx-picatinny-3m",
+    "butt-pad-mdt-adjustable"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -2333,12 +2334,8 @@
   "butt-pad-mdt-adjustable": [
     "kolven"
   ],
-  "camera-adapter-eagle-vision-side-cam-gopro-5-6-7-25-x75": [
-    "stokadapters"
-  ],
-  "camera-adapter-eagle-vision-side-cam-gopro-9-10-11-12-13-25x75": [
-    "stokadapters"
-  ],
+  "camera-adapter-eagle-vision-side-cam-gopro-5-6-7-25-x75": [],
+  "camera-adapter-eagle-vision-side-cam-gopro-9-10-11-12-13-25x75": [],
   "camo-net-treestand": [
     "aanzitladders-hoogzitten"
   ],
@@ -15519,6 +15516,16 @@
     "bronzen-kamerborstel-bore-tech-proof-positive-ar15": [
       "schoonmaak-onderhoud",
       "schoonmaaksetjes"
+    ],
+    "camera-adapter-eagle-vision-side-cam-gopro-5-6-7-25-x75": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
+    "camera-adapter-eagle-vision-side-cam-gopro-9-10-11-12-13-25x75": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
     ],
     "carousel-with-3-crows": [
       "lokkraaien"
