@@ -6702,7 +6702,7 @@
     "persluchtfles-accessoires"
   ],
   "persluchtkraan-mde-jubilee-300-bar-din-met-manometer-en-slang": [
-    "manometers"
+    "persluchtfles-accessoires"
   ],
   "fill-line-best-fittings-micro-bore-1-8-bsp-female": [
     "persluchtfles-accessoires"
@@ -16913,6 +16913,10 @@
       "airsoft",
       "co2-patronen"
     ],
+    "persluchtkraan-mde-jubilee-300-bar-din-met-manometer-en-slang": [
+      "manometers",
+      "wapen-toebehoren"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25569,6 +25573,26 @@
     "persluchtfles-10-liter-300-bar-met-standaard-kraan",
     "persluchtfles-20-liter-300-bar-met-standaard-kraan",
     "persluchtfles-7-liter-300-bar-met-standaard-kraan",
-    "persluchtfles-tas-saber-tactical"
+    "persluchtfles-tas-saber-tactical",
+    "persluchtkraan-mde-jubilee-300-bar-din-met-manometer-en-slang",
+    "fill-line-best-fittings-micro-bore-1-8-bsp-female",
+    "fill-line-best-fittings-ultima-1-8-bsp-female",
+    "fill-line-dominator-hpa-qd-braided-36",
+    "replacement-hose-hill-pumps-450-mm-1-8-bsp-male-female",
+    "persluchtslang-mde-met-din-aansluiting-200-300-bar",
+    "fill-line-wolverine-remote-flex-line-standard-36",
+    "picatinny-mounting-rail-saber-tactical-for-air-venturi-avenger",
+    "picatinny-rail-atlas-bt15-3-35",
+    "picatinny-rail-atlas-bt17-4",
+    "picatinny-rail-atlas-bt49-2-05-inch",
+    "picatinny-rail-fx",
+    "picatinny-rail-pts-keymod-5-slots-black",
+    "picatinny-rail-pts-keymod-9-slots-black",
+    "picatinny-rail-pts-m-lok-5-slots-black",
+    "picatinny-rail-pts-m-lok-9-slots-black",
+    "picatinny-rail-set-utg-1-lang-2-kort",
+    "picatinny-rail-set-utg-2-stuks-kort",
+    "picatinny-rail-set-utg-3-stuks-lang",
+    "picatinny-verhoging-utg-super-slim"
   ]
 }
