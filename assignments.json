@@ -6,12 +6,6 @@
     "m-tac-seating-pad-with-belt-18",
     "seat-pad-with-belt-armor-8095",
     "seat-mat-with-belt-attachment-armor-5769",
-    "m-tac-seating-pad-with-belt-20",
-    "m-tac-seat-pad-20-mm-7610",
-    "m-tac-passport-cover-722",
-    "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419",
-    "m-tac-paracord-bracelet-7423",
-    "m-tac-modular-insert-for-pepper-spray-685",
     "m-tac-drop-leg-platform-gen3-150",
     "lower-back-protection-for-ballistic-panel-inserts-xl-for-cuirass-qrs-9046",
     "lower-back-protection-for-ballistic-panel-inserts-for-cuirass-qrs-9059",
@@ -10175,16 +10169,14 @@
     "transport-accessoires"
   ],
   "m-tac-insert-modular-small-3-sections-663": [
-    "admin-pouches",
     "transport-accessoires"
   ],
   "m-tac-internal-tiger-belt-for-range-belt-817": [
-    "tactical-riemen"
+    "riemen-bretels"
   ],
   "m-tac-jacket-stalker-geniii-primaloft-8557": [
-    "jassen",
-    "tussenseizoenjassen",
-    "softshell-jassen"
+    "softshell-jassen",
+    "tussenseizoenjassen"
   ],
   "m-tac-knife-lanyard-scandinavian-861": [
     "messenkoorden"
@@ -10228,17 +10220,16 @@
     "admin-pouches"
   ],
   "m-tac-module-insert-molle-11x195-laser-cut-682": [
-    "tassen-rugzakken"
+    "transport-accessoires"
   ],
   "m-tac-module-insert-molle-195x11-lasser-cut-684": [
-    "tassen-rugzakken"
+    "transport-accessoires"
   ],
   "m-tac-module-insert-molle-27x165-lasser-cut-683": [
-    "tassen-rugzakken"
+    "transport-accessoires"
   ],
   "m-tac-my-edc-t-shirt-8693": [
-    "t-shirts-polos",
-    "shirts"
+    "t-shirts-polos"
   ],
   "m-tac-open-double-pouch-for-ak-36": [
     "magazijn-pouches"
@@ -10398,7 +10389,7 @@
     "admin-pouches"
   ],
   "m-tac-pullover-4-seasons-1301": [
-    "truien"
+    "shirts"
   ],
   "m-tac-raglan-sweat-wicking-t-shirt-summer-6841": [
     "t-shirts-polos"
@@ -10416,7 +10407,7 @@
     "slaapzakken-matten"
   ],
   "m-tac-seating-pad-with-belt-20": [
-    "riemen-bretels"
+    "slaapzakken-matten"
   ],
   "m-tac-set-of-2-duty-belt-keppers-tactical-police-law-enforcement-for-2-inch-belt-3192": [
     "karabijnhaken"
@@ -19535,7 +19526,10 @@
       "wapen-accessoires",
       "Equipment and gear > Bags and backpacks > Backpack accessories",
       "rugzak-accessoires",
-      "m-tac"
+      "m-tac",
+      "admin-pouches",
+      "survival",
+      "tactical-gear"
     ],
     "m-tac-internal-tiger-belt-for-range-belt-817": [
       "Clothing > Belt",
@@ -19543,11 +19537,17 @@
       "m-tac",
       "bretels",
       "belts",
-      "kleding"
+      "kleding",
+      "tactical-gear",
+      "tactical-riemen"
     ],
     "m-tac-jacket-stalker-geniii-primaloft-8557": [
       "m-tac",
-      "Clothing > Jackets > Mid-season jackets"
+      "Clothing > Jackets > Mid-season jackets",
+      "jassen",
+      "mid-season",
+      "windbreaker",
+      "maattabel-mtac"
     ],
     "m-tac-knife-lanyard-scandinavian-861": [
       "Equipment and gear > Survival",
@@ -19632,19 +19632,22 @@
       "wapen-accessoires",
       "Equipment and gear > Bags and backpacks > Backpack accessories",
       "rugzak-accessoires",
-      "m-tac"
+      "m-tac",
+      "tassen-rugzakken"
     ],
     "m-tac-module-insert-molle-195x11-lasser-cut-684": [
       "wapen-accessoires",
       "Equipment and gear > Bags and backpacks > Backpack accessories",
       "rugzak-accessoires",
-      "m-tac"
+      "m-tac",
+      "tassen-rugzakken"
     ],
     "m-tac-module-insert-molle-27x165-lasser-cut-683": [
       "wapen-accessoires",
       "Equipment and gear > Bags and backpacks > Backpack accessories",
       "rugzak-accessoires",
-      "m-tac"
+      "m-tac",
+      "tassen-rugzakken"
     ],
     "m-tac-my-edc-t-shirt-8693": [
       "Clothing > T-shirts",
@@ -19654,7 +19657,8 @@
       "polos",
       "t-shirts",
       "tactical-gear",
-      "tactical-shirts"
+      "tactical-shirts",
+      "shirts"
     ],
     "m-tac-open-double-pouch-for-ak-36": [
       "m-tac",
@@ -19959,7 +19963,8 @@
       "m-tac",
       "Clothing > Sweater",
       "Urban Line",
-      "sweaters"
+      "sweaters",
+      "truien"
     ],
     "m-tac-raglan-sweat-wicking-t-shirt-summer-6841": [
       "Clothing > T-shirts",
@@ -27957,6 +27962,80 @@
     "m-tac-hook-loop-utility-panel-200",
     "m-tac-horizontal-utility-pouch-65",
     "m-tac-hydration-bladder-15l-8553",
-    "m-tac-insert-modular-small-2-sections-666"
+    "m-tac-insert-modular-small-2-sections-666",
+    "m-tac-insert-modular-small-3-sections-663",
+    "m-tac-internal-tiger-belt-for-range-belt-817",
+    "m-tac-jacket-stalker-geniii-primaloft-8557",
+    "m-tac-knife-lanyard-scandinavian-861",
+    "m-tac-konvert-bag-elite-616",
+    "m-tac-lanyard-scandinavian-volya-7934",
+    "m-tac-lanyard-viper-cossack-cross-v2-steel-7668",
+    "m-tac-lightweight-tube-scarf-7396",
+    "m-tac-lightweight-tube-scarf-reaper-punisher-7402",
+    "m-tac-mag-drop-pouch-elite-209",
+    "m-tac-mag-pouch-kolchan-for-akar-mini-599",
+    "m-tac-magazine-dump-pouch-lite-elite-728",
+    "m-tac-magnet-bag-elite-hex-genii-430",
+    "m-tac-magnet-xl-bag-elite-hex-388",
+    "m-tac-mission-pack-elite-592",
+    "m-tac-modular-insert-for-pepper-spray-685",
+    "m-tac-module-insert-molle-11x195-laser-cut-682",
+    "m-tac-module-insert-molle-195x11-lasser-cut-684",
+    "m-tac-module-insert-molle-27x165-lasser-cut-683",
+    "m-tac-my-edc-t-shirt-8693",
+    "m-tac-open-double-pouch-for-ak-36",
+    "m-tac-open-double-pouch-for-ak-laser-cut-614",
+    "m-tac-open-double-pouch-for-ak-laser-cut-gen3-662",
+    "m-tac-organizer-pouch-elite-267",
+    "m-tac-panel-for-patches-on-molle-120x26-799",
+    "m-tac-panel-for-patches-on-molle-80x26-801",
+    "m-tac-pants-army-nyco-extreme-2738",
+    "m-tac-pants-patrol-geniii-nyco-extreme-8907",
+    "m-tac-pants-patrol-geniii-special-edition-8934",
+    "m-tac-paracord-550-type-iii-15m-785",
+    "m-tac-paracord-bracelet-7423",
+    "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419",
+    "m-tac-paracord-survival-951",
+    "m-tac-paratrooper-belt-644",
+    "m-tac-pas-range-belt-cobra-buckle-geniv-1032",
+    "m-tac-passport-cover-722",
+    "m-tac-patch-ar-15-american-rifle-80x50-mm-5452",
+    "m-tac-patch-emoji-13-5465",
+    "m-tac-patch-emoji-2-5454",
+    "m-tac-patch-emoji-22-5473",
+    "m-tac-patch-emoji-27-5478",
+    "m-tac-patch-emoji-3-5455",
+    "m-tac-patch-emoji-7-5459",
+    "m-tac-patch-emoji-9-5461",
+    "m-tac-patch-emoji-usa-5497",
+    "m-tac-patch-emoji-usa-girl-1-5495",
+    "m-tac-patch-orange-cat-pvc-mm14-cover-10445",
+    "m-tac-patch-polska-end-to-end-25x80-laser-cut-5064",
+    "m-tac-patch-press-type-2-7333",
+    "m-tac-patch-surprise-pvc-8355",
+    "m-tac-patch-us-flag-reverse-80x50mm-5348",
+    "m-tac-patch-us-flag-reverse-vintage-80x50mm-5341",
+    "m-tac-patch-zu-23-4-pvc-8624",
+    "m-tac-patch-see-in-the-dark-like-a-predator-pvc-blackcoyote-10201",
+    "m-tac-pcc-mag-pouch-kolchan-609",
+    "m-tac-pocket-bag-elite-hex-748",
+    "m-tac-pouch-accessory-lower-large-elite-714",
+    "m-tac-pouch-double-magazine-closure-fastex-27",
+    "m-tac-pouch-elastic-triple-magazine-elite-laser-cut-391",
+    "m-tac-pouch-for-ak-open-elite-laser-cut-8627",
+    "m-tac-pouch-for-night-vision-monocular-pvs-14-59",
+    "m-tac-pouch-for-pk-ammo-box-fast-9093",
+    "m-tac-pouch-for-sleeping-mat-bundeswehry-39",
+    "m-tac-pouch-for-tourniquet-elastic-molle-geniii-355",
+    "m-tac-pouch-medical-vertical-large-elite-754",
+    "m-tac-pouch-single-elastic-magazine-elite-laser-cut-395",
+    "m-tac-pouch-sukharka-gen3-767",
+    "m-tac-pouch-tourniquet-elastic-molle-attachment-genii-349",
+    "m-tac-pouch-utility-large-7654",
+    "m-tac-pullover-4-seasons-1301",
+    "m-tac-raglan-sweat-wicking-t-shirt-summer-6841",
+    "m-tac-raglan-t-shirt-937-6766",
+    "m-tac-seat-pad-20-mm-7610",
+    "m-tac-seating-pad-with-belt-20"
   ]
 }
