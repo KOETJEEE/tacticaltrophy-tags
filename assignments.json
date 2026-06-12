@@ -25943,6 +25943,9 @@
     ]
   },
   "_added": {
+    "umarex-t4e-tp50-gen2": [
+      "permit-wwm"
+    ],
     "brief-active-level-i-6160": [
       "maattabel-mtac"
     ],
@@ -26299,7 +26302,8 @@
     "buteo-photo-gear-snoot-lens-cover-voor-schuiltent-720081",
     "buteo-photo-gear-snoot-lens-cover-groen-voor-schuiltent-720083",
     "buteo-photo-gear-snoot-lens-cover-riet-voor-mark-iii-720191",
-    "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-mark-iii-720193"
+    "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-mark-iii-720193",
+    "umarex-t4e-tp50-gen2"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
