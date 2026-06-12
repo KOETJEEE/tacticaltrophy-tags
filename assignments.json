@@ -63,12 +63,7 @@
     "adapter-mantisx-picatinny-3m",
     "bipod-adapter-bf-voor-50-mm-drukbuis",
     "bipod-adapter-bf-voor-60-mm-drukbuis",
-    "bipod-stud-hw100",
-    "bipod-adapter-caldwell-sling-swivel-stud-pic-rail",
-    "bipod-adapter-harris-ar15-no-5",
-    "beschermvoetjes-caldwell-br-feet",
-    "battery-sillosocks-large-12-ah-12v",
-    "battery-sillosocks-small-1-2-ah-12v"
+    "bipod-adapter-caldwell-sling-swivel-stud-pic-rail"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -1808,7 +1803,7 @@
     "beschermkappen"
   ],
   "beschermvoetjes-caldwell-br-feet": [
-    "beschermkappen"
+    "bipod-toebehoren"
   ],
   "bipod-accu-tac-br-4-g2": [
     "bipods"
@@ -1853,46 +1848,48 @@
     "bipods"
   ],
   "bipod-stud-hw100": [
-    "bipods"
+    "bipod-toebehoren",
+    "riembeugels"
   ],
   "bipod-adapter-caldwell-sling-swivel-stud-pic-rail": [
     "bipods"
   ],
   "bipod-adapter-harris-ar15-no-5": [
-    "bipods"
+    "bipod-toebehoren",
+    "riembeugels"
   ],
   "bipod-adapter-harris-houtschroef": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-harris-no-2a": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-harris-no-2": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-harris-no-2r": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-harris-no-4": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-harris-voor-uit-rail-no-6": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-saber-tactical-34-mm": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-saber-tactical-52-mm": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-saber-tactical-60-mm": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-set-grs-spigot": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-utg-swivel-stud": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-atlas-5h-heavy-duty-bt35-lw17": [
     "bipods"
@@ -15307,6 +15304,88 @@
       "voorzetadapterring",
       "voorzetkijkers"
     ],
+    "beschermvoetjes-caldwell-br-feet": [
+      "beschermkappen",
+      "optiek"
+    ],
+    "bipod-stud-hw100": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-harris-ar15-no-5": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-harris-houtschroef": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-harris-no-2a": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-harris-no-2": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-harris-no-2r": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-harris-no-4": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-harris-voor-uit-rail-no-6": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-saber-tactical-34-mm": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-saber-tactical-52-mm": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-saber-tactical-60-mm": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-set-grs-spigot": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-utg-swivel-stud": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
     "mouth-guard-sisu-max-charcoal-black": [
       "mondstukken",
       "gebitsbeschermers"
@@ -23319,6 +23398,27 @@
     "battery-grip-wolverine-for-mtw",
     "bearings-g-g-bushing-8-mm",
     "bearings-prometheus-8-mm",
-    "benchrest-feinwerkbau-p8-p44"
+    "benchrest-feinwerkbau-p8-p44",
+    "protective-sleeve-best-fittings-for-air-cylinder-50-60-mm",
+    "leg-wrap-manfrotto-alpha-shot-tripod",
+    "battery-sillosocks-large-12-ah-12v",
+    "battery-sillosocks-small-1-2-ah-12v",
+    "beschermvoetjes-caldwell-br-feet",
+    "bipod-stud-hw100",
+    "bipod-adapter-harris-ar15-no-5",
+    "bipod-adapter-harris-houtschroef",
+    "bipod-adapter-harris-no-2a",
+    "bipod-adapter-harris-no-2",
+    "bipod-adapter-harris-no-2r",
+    "bipod-adapter-harris-no-4",
+    "bipod-adapter-harris-voor-uit-rail-no-6",
+    "bipod-adapter-saber-tactical-34-mm",
+    "bipod-adapter-saber-tactical-52-mm",
+    "bipod-adapter-saber-tactical-60-mm",
+    "bipod-adapter-set-grs-spigot",
+    "bipod-adapter-utg-swivel-stud",
+    "bipod-atlas-5h-heavy-duty-bt35-lw17",
+    "bipod-atlas-v8-bt46-lw17-psr",
+    "bipod-audere-shadow"
   ]
 }
