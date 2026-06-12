@@ -1282,7 +1282,7 @@
     "aanzitstoelen"
   ],
   "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2": [
-    "picatinny-rails"
+    "montage-accessoires"
   ],
   "accessory-rail-air-marksman-anvil-arca": [
     "picatinny-rails"
@@ -14349,7 +14349,8 @@
       "nachtzicht-en-warmtebeeldaccessoires"
     ],
     "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "picatinny-rails"
     ],
     "accessory-rail-air-marksman-anvil-arca": [
       "wapen-accessoires"
@@ -21565,6 +21566,7 @@
     "hunting-stool-wood-4-legged-55-cm",
     "sionyx-objectief-beschermlens-504121",
     "yukon-losdovetail-montage-5026110",
-    "yukon-weaverpicatinny-rail-montage-5026114"
+    "yukon-weaverpicatinny-rail-montage-5026114",
+    "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2"
   ]
 }
