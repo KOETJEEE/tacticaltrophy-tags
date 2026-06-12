@@ -1276,7 +1276,7 @@
     "bipod-toebehoren"
   ],
   "adapter-amomax-molle-fde": [
-    "stokadapters"
+    "holsters"
   ],
   "adapter-bergara-ar": [
     "stokadapters"
@@ -14727,6 +14727,11 @@
       "stokadapters",
       "schoonmaak-onderhoud"
     ],
+    "adapter-amomax-molle-fde": [
+      "schoonmaak-onderhoud",
+      "onderhoud",
+      "stokadapters"
+    ],
     "adapter-bf-1-4-bsp-female-female": [
       "stokadapters",
       "onderhoud",
@@ -26474,6 +26479,7 @@
     "adapter-bf-1-8-bsp-female-female",
     "adapter-bf-1-4-bsp-male-male",
     "adapter-mantisx-picatinny-3m",
-    "adapter-bf-1-4-bsp-female-female"
+    "adapter-bf-1-4-bsp-female-female",
+    "adapter-amomax-molle-fde"
   ]
 }
