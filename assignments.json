@@ -183,7 +183,8 @@
     "filmen-opnemen"
   ],
   "buteo-photo-gear-3d-blaadjes-handschoenen-720101": [
-    "tactical-handschoenen"
+    "tactical-handschoenen",
+    "camouflage-kleding"
   ],
   "buteo-photo-gear-camouflage-tape-720038": [
     "gaffer-tape"
@@ -314,52 +315,40 @@
     "wapenkoffers"
   ],
   "explorer-cases-2209-koffer-oranje-250161": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-2209-koffer-zwart-250151": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-2214-koffer-groen-met-plukschuim-250200": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-2712hl-koffer-zwart-250251": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-2712hl-koffer-zwart-met-plukschuim-250250": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-2717hl-koffer-zwart-met-plukschuim-250310": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-3005-koffer-zwart-met-plukschuim-250305": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-3317hl-koffer-groen-met-plukschuim-250395": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-3317hl-koffer-zwart-250391": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-3818hl-koffer-oranje-250481": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-3818hl-koffer-zwart-250471": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-3818hl-zwart-met-plukschuim-250470": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-4412hl-koffer-zwart-250521": [
     "koffers",
@@ -619,6 +608,9 @@
   "flir-breach-ptq136-objectief-beschermlens-13431910": [
     "beschermkappen",
     "nachtzicht-warmtebeeld-accessoires"
+  ],
+  "flir-breach-ptq136-warmtebeeldcamera-13431913": [
+    "warmtebeeld"
   ],
   "flir-c3-x-warmtebeeldcamera-13461469": [
     "inspectie-cameras"
@@ -13820,6 +13812,9 @@
     "boya-digitale-shotgun-microfoon-by-dm200-voor-ios-350309": [
       "microfoon"
     ],
+    "buteo-photo-gear-3d-blaadjes-handschoenen-720101": [
+      "camouflage"
+    ],
     "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-mark-iii-720193": [
       "oversize"
     ],
@@ -13834,6 +13829,90 @@
     "carson-digitale-pocket-nachtkijker-186449": [
       "carson",
       "monoculair"
+    ],
+    "explorer-cases-2209-koffer-oranje-250161": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-2209-koffer-zwart-250151": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "explorer-cases-2214-koffer-groen-met-plukschuim-250200": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-2712hl-koffer-zwart-250251": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-2712hl-koffer-zwart-met-plukschuim-250250": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-2717hl-koffer-zwart-met-plukschuim-250310": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-3005-koffer-zwart-met-plukschuim-250305": [
+      "wapenkoffers",
+      "airsoft",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-3317hl-koffer-groen-met-plukschuim-250395": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-3317hl-koffer-zwart-250391": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-3818hl-koffer-oranje-250481": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-3818hl-koffer-zwart-250471": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-3818hl-zwart-met-plukschuim-250470": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
     ],
     "flir-breach-ptq136-objectief-beschermlens-13431910": [
       "nachtzicht-en-warmtebeeldaccessoires",
@@ -21584,6 +21663,19 @@
     "accessory-rail-air-marksman-anvil-arca",
     "sionyx-nightwave-maritieme-full-color-nachtzicht-camera-504109",
     "sionyx-nightwave-c014900-maritieme-full-color-nachtzicht-camera-zwart-504110",
-    "sionyx-nightwave-c014700-maritieme-full-color-nachtzicht-camera-grijs-504111"
+    "sionyx-nightwave-c014700-maritieme-full-color-nachtzicht-camera-grijs-504111",
+    "buteo-photo-gear-3d-blaadjes-handschoenen-720101",
+    "explorer-cases-2209-koffer-zwart-250151",
+    "explorer-cases-2214-koffer-groen-met-plukschuim-250200",
+    "explorer-cases-2712hl-koffer-zwart-250251",
+    "explorer-cases-2209-koffer-oranje-250161",
+    "explorer-cases-2712hl-koffer-zwart-met-plukschuim-250250",
+    "explorer-cases-2717hl-koffer-zwart-met-plukschuim-250310",
+    "explorer-cases-3005-koffer-zwart-met-plukschuim-250305",
+    "explorer-cases-3317hl-koffer-groen-met-plukschuim-250395",
+    "explorer-cases-3317hl-koffer-zwart-250391",
+    "explorer-cases-3818hl-koffer-oranje-250481",
+    "explorer-cases-3818hl-koffer-zwart-250471",
+    "explorer-cases-3818hl-zwart-met-plukschuim-250470"
   ]
 }
