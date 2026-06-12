@@ -7259,7 +7259,7 @@
     "airsoft-diversen-1"
   ],
   "shroud-bushing-saber-tactical-trs": [
-    "tactical-bags"
+    "loopkits-toebehoren"
   ],
   "shroud-clamp-saber-tactical-trs": [
     "loopkits-toebehoren"
@@ -17994,6 +17994,10 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "shroud-bushing-saber-tactical-trs": [
+      "tactical-bags",
+      "tactical-gear"
     ],
     "shroud-clamp-saber-tactical-trs": [
       "tactical-bags",
@@ -30455,6 +30459,7 @@
     "smartphone-adapter-eagle-vision-side-cam-universal-25-x75",
     "small-swage-prime-pin-assembly-frankford-x-10",
     "sled-feet-accu-tac",
-    "shroud-clamp-saber-tactical-trs"
+    "shroud-clamp-saber-tactical-trs",
+    "shroud-bushing-saber-tactical-trs"
   ]
 }
