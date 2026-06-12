@@ -1310,12 +1310,12 @@
     "stokadapters"
   ],
   "adapter-fx-klapkolf": [
-    "kolven",
-    "stokadapters"
+    "stokadapters",
+    "chassis-1"
   ],
   "adapter-fx-folding-stock-panthera": [
-    "kolven",
-    "stokadapters"
+    "stokadapters",
+    "chassis-1"
   ],
   "adapter-mantisx-luchtgeweer": [
     "stokadapters"
@@ -14729,6 +14729,14 @@
       "stokadapters",
       "schoonmaak-onderhoud"
     ],
+    "adapter-fx-klapkolf": [
+      "kolven",
+      "schoonmaak-onderhoud"
+    ],
+    "adapter-fx-folding-stock-panthera": [
+      "kolven",
+      "schoonmaak-onderhoud"
+    ],
     "adapter-mantisx-picatinny-3m": [
       "onderhoud",
       "stokadapters",
@@ -26389,6 +26397,8 @@
     "montage-caldwell-picatinny-rail-voor-hulzenvanger",
     "adaptor-accu-tac-arca-swiss-mount-qd",
     "poetsstokgeleider-bore-tech-17-25-gold",
-    "adapter-vfg-voor-us-poetsstokken"
+    "adapter-vfg-voor-us-poetsstokken",
+    "adapter-fx-klapkolf",
+    "adapter-fx-folding-stock-panthera"
   ]
 }
