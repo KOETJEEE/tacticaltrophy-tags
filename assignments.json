@@ -7269,25 +7269,16 @@
     "schoonmaakstations"
   ],
   "service-kit-hill-ec-3000-100-hours": [
-    "gereedschap",
-    "persluchtfles-accessoires",
-    "schoonmaaksetjes"
+    "compressors"
   ],
   "service-kit-hill-ec-3000-50-hours": [
-    "gereedschap",
-    "persluchtfles-accessoires",
-    "schoonmaaksetjes"
+    "compressors"
   ],
   "service-kit-hill-ec-3000-evo-dry-pac-pro-air-dryer-filter-4-pack": [
-    "gereedschap",
-    "persluchtfles-accessoires",
-    "revisiesetjes",
-    "schoonmaaksetjes"
+    "compressors"
   ],
   "service-kit-hill-ec-3000-extended": [
-    "gereedschap",
-    "persluchtfles-accessoires",
-    "schoonmaaksetjes"
+    "compressors"
   ],
   "service-kit-hill-hand-pump-mk2": [
     "pcp-handpompen"
@@ -7299,8 +7290,7 @@
     "pcp-handpompen"
   ],
   "service-kit-hill-mk5": [
-    "gereedschap",
-    "persluchtfles-accessoires"
+    "pcp-handpompen"
   ],
   "service-box-plano-shooter-s-case-camo": [
     "schoonmaakstations"
@@ -17599,6 +17589,36 @@
       "jacht",
       "schietsport"
     ],
+    "service-kit-hill-ec-3000-100-hours": [
+      "gereedschap",
+      "onderhoud",
+      "persluchtfles-accessoires",
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "service-kit-hill-ec-3000-50-hours": [
+      "gereedschap",
+      "onderhoud",
+      "persluchtfles-accessoires",
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "service-kit-hill-ec-3000-evo-dry-pac-pro-air-dryer-filter-4-pack": [
+      "gereedschap",
+      "onderhoud",
+      "persluchtfles-accessoires",
+      "revisiesets",
+      "schoonmaaksetjes",
+      "wapen-toebehoren",
+      "schoonmaak-onderhoud"
+    ],
+    "service-kit-hill-ec-3000-extended": [
+      "gereedschap",
+      "onderhoud",
+      "persluchtfles-accessoires",
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
     "service-kit-hill-hand-pump-mk2": [
       "gereedschap",
       "onderhoud",
@@ -17619,6 +17639,12 @@
       "persluchtfles-accessoires",
       "schietsport",
       "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "service-kit-hill-mk5": [
+      "persluchtfles-accessoires",
+      "gereedschap",
+      "onderhoud",
       "schoonmaak-onderhoud"
     ],
     "service-box-plano-shooter-s-case-camo": [
@@ -29812,6 +29838,12 @@
     "tactical-vest-nuprol-molle-harness-pmc-black",
     "tactical-kit-fx-dreamline",
     "service-kit-hill-hand-pump-mk2",
-    "service-kit-hill-hand-pump-mk3"
+    "service-kit-hill-hand-pump-mk3",
+    "service-kit-hill-ec-3000-extended",
+    "service-kit-hill-hand-pump-mk4",
+    "service-kit-hill-mk5",
+    "service-kit-hill-ec-3000-evo-dry-pac-pro-air-dryer-filter-4-pack",
+    "service-kit-hill-ec-3000-50-hours",
+    "service-kit-hill-ec-3000-100-hours"
   ]
 }
