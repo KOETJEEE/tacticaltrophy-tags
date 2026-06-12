@@ -7407,7 +7407,7 @@
     "kolfolien"
   ],
   "speaker-mic-baofeng-bs-uv25-tactical": [
-    "portofoons"
+    "headsets-toebehoren"
   ],
   "speaker-mic-code-red-hot-shot-kenwood-2-pin": [
     "portofoons"
@@ -18009,6 +18009,11 @@
     "spray-birchwood-synthetic-stock-cleaner-protectant-60-ml": [
       "kolven",
       "wapen-toebehoren"
+    ],
+    "speaker-mic-baofeng-bs-uv25-tactical": [
+      "jacht",
+      "portofoons",
+      "schietsport"
     ],
     "steeksleutel-element-delta-ring-butt-stock": [
       "kolven"
@@ -30297,6 +30302,7 @@
     "speedloader-pts-odin-m12-sidewinder-black",
     "speedloader-pts-odin-m12-sidewinder-dark-earth",
     "speedloader-pts-odin-m12-sidewinder-od-green",
-    "sporttas-walther-met-wielen"
+    "sporttas-walther-met-wielen",
+    "speaker-mic-baofeng-bs-uv25-tactical"
   ]
 }
