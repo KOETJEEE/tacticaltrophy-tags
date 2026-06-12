@@ -2730,7 +2730,7 @@
     "korrels"
   ],
   "front-bottle-adapter-saber-tactical-fx-panthera": [
-    "persluchtfles-accessoires"
+    "persluchtcilinders"
   ],
   "front-bottle-drop-down-adapter-saber-tactical-fx-panthera": [
     "persluchtfles-accessoires"
@@ -15622,6 +15622,9 @@
     "rifle-bag-plano-tactical-gunbag-105x31": [
       "foudralen",
       "geweertassen"
+    ],
+    "front-bottle-adapter-saber-tactical-fx-panthera": [
+      "persluchtfles-accessoires"
     ],
     "decoy-sillosocks-3d-pink-foot-grey-lag-goose-feeding": [
       "lokmiddel-toebehoren"
@@ -30204,6 +30207,7 @@
     "flash-hider-pts-griffin-m4sd-flashcomp-14mm-ccw-black",
     "bottle-adapter-epic-airguns-two-for-cfb",
     "flesadapter-fx-dreamline",
-    "foresight-holder-fx"
+    "foresight-holder-fx",
+    "front-bottle-adapter-saber-tactical-fx-panthera"
   ]
 }
