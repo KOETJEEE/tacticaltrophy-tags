@@ -1135,8 +1135,8 @@
     "beschermkappen"
   ],
   "sionyx-aurora-top-hat-voor-montage-eyecup-504125": [
-    "montage-accessoires",
-    "observatie-accessoires"
+    "filmen-opnemen",
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "sionyx-digitale-full-color-nachtkijker-aurora-pro-504104": [
     "nachtzicht-handheld"
@@ -1161,45 +1161,35 @@
     "nachtzicht-handheld"
   ],
   "sionyx-picatinny-rail-montage-504106": [
-    "picatinny-rails",
-    "nachtzicht-handheld"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "sirui-sportich-b1042b-md-bk-verrekijker-10x42-met-laser-afstandsmeter-610521": [
-    "afstandsmeters",
     "verrekijkers"
   ],
   "sirui-sportich-b1042b-md-gn-verrekijker-10x42-met-laser-afstandsmeter-610522": [
-    "afstandsmeters",
     "verrekijkers"
   ],
   "sirui-sportich-carbon-statief-sp024b5x-610402": [
-    "statieven",
-    "verrekijkers"
+    "statieven"
   ],
   "sirui-sportich-carbon-statief-sp124b5x-610403": [
-    "statieven",
-    "verrekijkers"
+    "statieven"
   ],
   "sirui-sportich-carbon-statief-sp324bh-10-610404": [
-    "statieven",
-    "verrekijkers"
+    "statieven"
   ],
   "sirui-sportich-s6080a-bk-spotting-scope-20-60x80-610541": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "sirui-sportich-s6080a-gn-spotting-scope-20-60x80-610542": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "sirui-sportich-statief-sp004g5x-groen-610401": [
-    "statieven",
-    "verrekijkers"
+    "statieven"
   ],
   "stealth-gear-3d-blaadjes-handschoenen-720114": [
-    "tactical-handschoenen"
+    "camouflage-kleding",
+    "jacht-handschoenen"
   ],
   "stealth-gear-bat-4k-wildcamera-720131": [
     "wildcameras"
@@ -14095,6 +14085,14 @@
       "adapterring",
       "voorzetadapterring"
     ],
+    "kowa-wide-oculair-30x-tse14-wd-voor-tsn600660-445031": [
+      "kowa",
+      "spotting-scopes-accessoires"
+    ],
+    "kowa-zoom-oculair-te-11wz-ii-25-60x30-70x-440995": [
+      "kowa",
+      "spotting-scopes-accessoires"
+    ],
     "luna-optics-ln-qd-b50-pro-digitale-binoculaire-nachtkijker-6-36x50-gen-3-411362": [
       "binoculair"
     ],
@@ -14169,7 +14167,65 @@
     ],
     "sionyx-aurora-top-hat-voor-montage-eyecup-504125": [
       "nachtzicht-en-warmtebeeldaccessoires",
-      "warmtebeeld-accessoires"
+      "warmtebeeld-accessoires",
+      "montage-accessoires",
+      "observatie-accessoires"
+    ],
+    "sionyx-digitale-full-color-nachtkijker-aurora-pro-504104": [
+      "monoculair"
+    ],
+    "sionyx-picatinny-rail-montage-504106": [
+      "nachtzicht",
+      "picatinny-rails",
+      "nachtzicht-en-warmtebeeldaccessoires"
+    ],
+    "sirui-sportich-b1042b-md-bk-verrekijker-10x42-met-laser-afstandsmeter-610521": [
+      "afstandsmeters"
+    ],
+    "sirui-sportich-b1042b-md-gn-verrekijker-10x42-met-laser-afstandsmeter-610522": [
+      "afstandsmeters"
+    ],
+    "sirui-sportich-carbon-statief-sp024b5x-610402": [
+      "optiek-accessoires",
+      "sirui",
+      "tripods",
+      "verrekijkers"
+    ],
+    "sirui-sportich-carbon-statief-sp124b5x-610403": [
+      "optiek-accessoires",
+      "sirui",
+      "tripods",
+      "verrekijkers"
+    ],
+    "sirui-sportich-carbon-statief-sp324bh-10-610404": [
+      "optiek-accessoires",
+      "sirui",
+      "tripods",
+      "verrekijkers"
+    ],
+    "sirui-sportich-s6080a-bk-spotting-scope-20-60x80-610541": [
+      "monoculairs",
+      "richtkijkers"
+    ],
+    "sirui-sportich-s6080a-gn-spotting-scope-20-60x80-610542": [
+      "monoculairs",
+      "richtkijkers"
+    ],
+    "sirui-sportich-statief-sp004g5x-groen-610401": [
+      "optiek-accessoires",
+      "sirui",
+      "tripods",
+      "verrekijkers"
+    ],
+    "stealth-gear-3d-blaadjes-handschoenen-720114": [
+      "camouflage",
+      "stealth-gear",
+      "kleding",
+      "tactical-gear",
+      "tactical-handschoenen"
+    ],
+    "stealth-gear-bat-4k-wildcamera-720131": [
+      "stealth-gear"
     ],
     "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2": [
       "wapen-accessoires"
@@ -21342,6 +21398,20 @@
     "nest-monopod-wt-1003-h171-cm-295810",
     "nest-video-monopod-nt-329m-h145-cm-295837",
     "nest-video-monopod-wt-3958m-h146-cm-295811",
-    "objectief-beschermlens-voor-vortex-red-dot-crossfire-2-42900281"
+    "objectief-beschermlens-voor-vortex-red-dot-crossfire-2-42900281",
+    "sionyx-aurora-top-hat-voor-montage-eyecup-504125",
+    "sionyx-digitale-full-color-nachtkijker-aurora-pro-504104",
+    "kowa-zoom-oculair-te-11wz-ii-25-60x30-70x-440995",
+    "kowa-wide-oculair-30x-tse14-wd-voor-tsn600660-445031",
+    "sirui-sportich-b1042b-md-bk-verrekijker-10x42-met-laser-afstandsmeter-610521",
+    "sirui-sportich-b1042b-md-gn-verrekijker-10x42-met-laser-afstandsmeter-610522",
+    "sirui-sportich-carbon-statief-sp024b5x-610402",
+    "sirui-sportich-carbon-statief-sp124b5x-610403",
+    "sirui-sportich-carbon-statief-sp324bh-10-610404",
+    "sirui-sportich-s6080a-bk-spotting-scope-20-60x80-610541",
+    "sirui-sportich-s6080a-gn-spotting-scope-20-60x80-610542",
+    "sirui-sportich-statief-sp004g5x-groen-610401",
+    "stealth-gear-3d-blaadjes-handschoenen-720114",
+    "stealth-gear-bat-4k-wildcamera-720131"
   ]
 }
