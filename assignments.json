@@ -2297,8 +2297,8 @@
     "persluchtfles-accessoires"
   ],
   "burst-disk-kit-hill-ec-3000": [
-    "persluchtfles-accessoires",
-    "revisiesetjes"
+    "revisiesetjes",
+    "compressors"
   ],
   "butt-pad-mdt-adjustable": [
     "kolven"
@@ -15263,6 +15263,9 @@
       "revisiesets",
       "wapen-toebehoren"
     ],
+    "burst-disk-kit-hill-ec-3000": [
+      "persluchtfles-accessoires"
+    ],
     "camera-adapter-eagle-vision-side-cam-gopro-5-6-7-25-x75": [
       "onderhoud",
       "stokadapters",
@@ -26983,6 +26986,7 @@
     "burst-disk-dominator-1-8k",
     "burst-disk-dominator-3k",
     "burst-disk-dominator-4-5k",
-    "burst-disk-dominator-7-5k"
+    "burst-disk-dominator-7-5k",
+    "burst-disk-kit-hill-ec-3000"
   ]
 }
