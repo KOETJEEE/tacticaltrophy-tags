@@ -122,6 +122,7 @@
   "agm-wolf-7-pro-binoculaire-nachtkijker-goggle-kit-gen2-white-phosphor-121051": [
     "nachtzicht-handheld"
   ],
+  "aparo-rgbww-led-air-tube-ht-20c-291307": [],
   "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
     "filmen-opnemen"
   ],
@@ -138,6 +139,20 @@
   "buteo-photo-gear-camouflage-tape-720038": [
     "tape"
   ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208": [],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-groen-720210": [],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-riet-720209": [],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-sneeuw-720213": [],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-bruin-720205": [],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-groen-720207": [],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-riet-720206": [],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-sneeuw-720212": [],
+  "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190": [
+    "beschermkappen"
+  ],
+  "buteo-photo-gear-snoot-lens-cover-groen-voor-mark-iii-720192": [
+    "beschermkappen"
+  ],
   "buteo-photo-gear-snoot-lens-cover-groen-voor-schuiltent-720083": [
     "beschermkappen"
   ],
@@ -153,6 +168,7 @@
   "buteo-photo-gear-snoot-lens-cover-voor-schuiltent-720081": [
     "beschermkappen"
   ],
+  "byomic-omkeerprisma-erecting-eyepiece-15x-260402": [],
   "carson-bol-loep-2x75mm-186111": [
     "loepen"
   ],
@@ -168,6 +184,9 @@
   "carson-drijvende-brillenkoord-fa-1002-oranje-186182": [
     "brillenkoorden"
   ],
+  "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [],
+  "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [],
+  "carson-magnigrip-mg-88-loep-met-pincet-186154": [],
   "carson-uv-led-zaklamp-uvsight-pro-186300": [
     "zaklampen-hoofdlampen"
   ],
@@ -1269,6 +1288,7 @@
   "adapter-saber-tactical-fx-impact-bag-rider": [
     "schoudersteunen"
   ],
+  "adaptor-saber-tactical-huben-gk1-stock-brace": [],
   "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss": [
     "geweersteunen"
   ],
@@ -1281,10 +1301,7 @@
   "adapter-vfg-voor-vfg-schoonmaakproppen": [
     "stokadapters"
   ],
-  "adapter-wolverine-drop-stock-universal": [
-    "kolven",
-    "stokadapters"
-  ],
+  "adapter-wolverine-drop-stock-universal": [],
   "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw": [
     "vulbenodigdheden"
   ],
@@ -2182,9 +2199,7 @@
   "bronzen-kamerborstel-bore-tech-proof-positive-ar15": [
     "schoonmaakborstels"
   ],
-  "buffer-tube-key-arma-key-501-for-ar15-mil-spec-black": [
-    "airsoft-accessoires"
-  ],
+  "buffer-tube-key-arma-key-501-for-ar15-mil-spec-black": [],
   "red-dot-bul-b-a-o-1-4-moa": [
     "red-dots"
   ],
@@ -6488,15 +6503,6 @@
   ],
   "powder-trickler-frankford-arsenal": [
     "kruitdispensers"
-  ],
-  "presslug-crown-die-cover": [
-    "luchtdrukmunitie-accessoires"
-  ],
-  "presslug-cut-lead-wire-cutter": [
-    "luchtdrukmunitie-accessoires"
-  ],
-  "presslug-die": [
-    "luchtdrukmunitie-accessoires"
   ],
   "primer-pocket-swager-frankford-arsenal": [
     "overige-gereedschappen"
@@ -14785,7 +14791,8 @@
       "kolven",
       "stokadapters",
       "wapen-toebehoren",
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "wapen-accessoires"
     ],
     "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss": [
       "onderhoud",
@@ -26475,7 +26482,9 @@
     "buteo-photo-gear-snoot-lens-cover-groen-voor-schuiltent-720083",
     "buteo-photo-gear-snoot-lens-cover-riet-voor-mark-iii-720191",
     "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-mark-iii-720193",
-    "umarex-t4e-tp50-gen2"
+    "umarex-t4e-tp50-gen2",
+    "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190",
+    "buteo-photo-gear-snoot-lens-cover-groen-voor-mark-iii-720192"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -30562,6 +30571,7 @@
     "afdekdop-bf-voor-foster-aansluiting",
     "angled-stock-adaptor-ctm",
     "camera-adapter-eagle-vision-side-cam-gopro-5-6-7-25-x75",
-    "camera-adapter-eagle-vision-side-cam-gopro-9-10-11-12-13-25x75"
+    "camera-adapter-eagle-vision-side-cam-gopro-9-10-11-12-13-25x75",
+    "insert-wiley-x-twist-lock"
   ]
 }
