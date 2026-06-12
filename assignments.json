@@ -6511,7 +6511,7 @@
     "oogbescherming"
   ],
   "push-to-talk-bypass-code-red-modular": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-code-red-modular-puck-waterproof": [
     "portofoons"
@@ -6520,34 +6520,34 @@
     "portofoons"
   ],
   "push-to-talk-code-red-nx-dual-ptt-amplified": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-code-red-nx-single-ptt": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-code-red-nx-single-ptt-amplified": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-code-red-uv82-nx-dual-ptt-k-b": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-code-red-uv82-nx-dual-ptt-k-b-amplified": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-z-tactical-tea-e-switch-tactical-ptt": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-z-tactical-u94-ptt": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-z-tactical-zpeltor-ptt-military-standard": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-z-tactical-zu94-ptt-military-standard": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "quick-release-adapter-amomax": [
-    "stokadapters"
+    "holsters-toebehoren"
   ],
   "range-bag-plano-x2-medium": [
     "range-bags"
@@ -17510,6 +17510,61 @@
     ],
     "powder-trickler-frankford-arsenal": [
       "herlaadkits"
+    ],
+    "push-to-talk-bypass-code-red-modular": [
+      "schietsport",
+      "portofoons",
+      "jacht"
+    ],
+    "push-to-talk-code-red-nx-dual-ptt-amplified": [
+      "schietsport",
+      "portofoons",
+      "jacht"
+    ],
+    "push-to-talk-code-red-nx-single-ptt": [
+      "portofoons",
+      "jacht",
+      "schietsport"
+    ],
+    "push-to-talk-code-red-nx-single-ptt-amplified": [
+      "schietsport",
+      "portofoons",
+      "jacht"
+    ],
+    "push-to-talk-code-red-uv82-nx-dual-ptt-k-b": [
+      "jacht",
+      "portofoons",
+      "schietsport"
+    ],
+    "push-to-talk-code-red-uv82-nx-dual-ptt-k-b-amplified": [
+      "portofoons",
+      "jacht",
+      "schietsport"
+    ],
+    "push-to-talk-z-tactical-tea-e-switch-tactical-ptt": [
+      "portofoons",
+      "jacht",
+      "schietsport"
+    ],
+    "push-to-talk-z-tactical-u94-ptt": [
+      "schietsport",
+      "portofoons",
+      "jacht"
+    ],
+    "push-to-talk-z-tactical-zpeltor-ptt-military-standard": [
+      "portofoons",
+      "jacht",
+      "schietsport"
+    ],
+    "push-to-talk-z-tactical-zu94-ptt-military-standard": [
+      "jacht",
+      "portofoons",
+      "schietsport"
+    ],
+    "quick-release-adapter-amomax": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
     ],
     "suppressor-cleaner-bore-tech-decimator": [
       "schoonmaaksetjes",
@@ -30477,6 +30532,17 @@
     "shotgun-shells-nuprol-15-schots-6-pack-od-green",
     "shotgun-shells-nuprol-15-schots-6-pack-blue",
     "shells-g-g-g980",
-    "rifle-bullet-collator-frankford-arsenal-x-10"
+    "rifle-bullet-collator-frankford-arsenal-x-10",
+    "quick-release-adapter-amomax",
+    "push-to-talk-z-tactical-zu94-ptt-military-standard",
+    "push-to-talk-z-tactical-zpeltor-ptt-military-standard",
+    "push-to-talk-code-red-nx-single-ptt-amplified",
+    "push-to-talk-code-red-uv82-nx-dual-ptt-k-b",
+    "push-to-talk-code-red-uv82-nx-dual-ptt-k-b-amplified",
+    "push-to-talk-z-tactical-tea-e-switch-tactical-ptt",
+    "push-to-talk-code-red-nx-single-ptt",
+    "push-to-talk-code-red-nx-dual-ptt-amplified",
+    "push-to-talk-z-tactical-u94-ptt",
+    "push-to-talk-bypass-code-red-modular"
   ]
 }
