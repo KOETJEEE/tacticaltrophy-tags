@@ -7358,7 +7358,7 @@
     "persluchtfles-accessoires"
   ],
   "snelkoppeling-foster-male": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "snelkoppelingset-bf-starter-kit": [
     "vulbenodigdheden"
@@ -17994,6 +17994,9 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "snelkoppeling-foster-male": [
+      "persluchtfles-accessoires"
     ],
     "snelkoppelingset-bf-starter-kit": [
       "persluchtfles-accessoires"
@@ -30383,6 +30386,7 @@
     "vilha-cover-sticker-set-5pc-1022",
     "snelontluchting-bf-1-8-bsp-voor-mde-vulset",
     "snelontluchting-bf-m10x1-voor-mde-kraan",
-    "snelkoppelingset-bf-starter-kit"
+    "snelkoppelingset-bf-starter-kit",
+    "snelkoppeling-foster-male"
   ]
 }
