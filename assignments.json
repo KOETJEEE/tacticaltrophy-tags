@@ -1318,10 +1318,10 @@
     "chassis-1"
   ],
   "adapter-mantisx-luchtgeweer": [
-    "stokadapters"
+    "trainingssystemen"
   ],
   "adapter-mantisx-luchtpistool": [
-    "stokadapters"
+    "trainingssystemen"
   ],
   "adapter-mantisx-picatinny-3m": [
     "kolven"
@@ -14737,6 +14737,16 @@
       "kolven",
       "schoonmaak-onderhoud"
     ],
+    "adapter-mantisx-luchtgeweer": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
+    "adapter-mantisx-luchtpistool": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
     "adapter-mantisx-picatinny-3m": [
       "onderhoud",
       "stokadapters",
@@ -26399,6 +26409,8 @@
     "poetsstokgeleider-bore-tech-17-25-gold",
     "adapter-vfg-voor-us-poetsstokken",
     "adapter-fx-klapkolf",
-    "adapter-fx-folding-stock-panthera"
+    "adapter-fx-folding-stock-panthera",
+    "adapter-mantisx-luchtgeweer",
+    "adapter-mantisx-luchtpistool"
   ]
 }
