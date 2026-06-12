@@ -474,15 +474,12 @@
     "koffers"
   ],
   "explorer-cases-plukschuim-set-voor-koffer-5822-255186": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-red-line-11413-geweer-koffer-met-plukschuim-251262": [
-    "koffers",
     "wapenkoffers"
   ],
   "explorer-cases-red-line-9413-geweer-koffer-met-plukschuim-251261": [
-    "koffers",
     "wapenkoffers"
   ],
   "explorer-cases-rugtas-kit-voor-geweertassen-255150": [
@@ -14224,6 +14221,25 @@
       "airsoft",
       "wapenkoffers"
     ],
+    "explorer-cases-plukschuim-set-voor-koffer-5822-255186": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "explorer-cases-red-line-11413-geweer-koffer-met-plukschuim-251262": [
+      "koffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-red-line-9413-geweer-koffer-met-plukschuim-251261": [
+      "koffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
     "flir-breach-ptq136-objectief-beschermlens-13431910": [
       "nachtzicht-en-warmtebeeldaccessoires",
       "warmtebeeld-accessoires"
@@ -22037,6 +22053,9 @@
     "explorer-cases-plukschuim-set-voor-koffer-3818-255179",
     "explorer-cases-plukschuim-set-voor-koffer-4412-255180",
     "explorer-cases-plukschuim-set-voor-koffer-4820-255182",
-    "explorer-cases-plukschuim-set-voor-koffer-5122-255184"
+    "explorer-cases-plukschuim-set-voor-koffer-5122-255184",
+    "explorer-cases-plukschuim-set-voor-koffer-5822-255186",
+    "explorer-cases-red-line-11413-geweer-koffer-met-plukschuim-251262",
+    "explorer-cases-red-line-9413-geweer-koffer-met-plukschuim-251261"
   ]
 }
