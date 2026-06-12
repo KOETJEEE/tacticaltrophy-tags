@@ -1762,10 +1762,10 @@
     "persluchtcilinders"
   ],
   "protective-cover-jsb-pellet-box-big": [
-    "beschermkappen"
+    "luchtdrukmunitie"
   ],
   "protective-cover-jsb-pellet-box-small": [
-    "beschermkappen"
+    "luchtdrukmunitie"
   ],
   "leg-wrap-manfrotto-alpha-shot-tripod": [
     "statieven"
@@ -15230,6 +15230,14 @@
     "bb-grenade-tokyo-marui-m320a1": [
       "airsoft-bbs"
     ],
+    "protective-cover-jsb-pellet-box-big": [
+      "beschermkappen",
+      "optiek"
+    ],
+    "protective-cover-jsb-pellet-box-small": [
+      "beschermkappen",
+      "optiek"
+    ],
     "cover-rusan-modular-for-connector-clip-on": [
       "adapterring",
       "voorzetadapterring",
@@ -22618,6 +22626,32 @@
     "bb-s-g-g-bio-0-33-grey-2000-st",
     "bb-s-g-g-bio-0-33-grey-5600-st",
     "bb-s-g-g-bio-tracer-0-20-green-bag-1000-pcs",
-    "bb-s-g-g-bio-white-2000-st"
+    "bb-s-g-g-bio-white-2000-st",
+    "protective-cover-jsb-pellet-box-big",
+    "protective-cover-jsb-pellet-box-small",
+    "protective-cover-sekhmet-carbon-fiber-for-pressure-gauge-25-mm",
+    "protective-cover-sekhmet-carbon-fiber-for-pressure-gauge-28-mm",
+    "protective-cover-for-wika-pressure-gauge-27-mm",
+    "lens-covers-arken-ep8",
+    "beschermkappen-arken-flip-its-voor-ep-5-5-25x56",
+    "lens-covers-arken-flip-its-for-ep-5-gen-2-7-35x56",
+    "lens-covers-arken-flip-its-for-epl-4-4-16x44",
+    "beschermkappen-arken-flip-its-voor-epl-4-4-16x44-sh-4-4-16x50",
+    "beschermkappen-arken-flip-its-voor-sh-4-epl-4-6-24x50",
+    "scope-covers-element-optics-tenebraex-for-nexus",
+    "scope-covers-element-optics-for-theos",
+    "beschermkappen-fx-voor-wika-manometer-27-mm-fde",
+    "bipod-accu-tac-br-4-g2",
+    "bipod-accu-tac-br-4-g2-arca-swiss",
+    "bipod-accu-tac-fc-4-g2",
+    "bipod-accu-tac-fc-4-g2-arca-swiss",
+    "bipod-accu-tac-fc-5-g2",
+    "bipod-accu-tac-fc-5-g2-arca-swiss",
+    "bipod-accu-tac-pc-4",
+    "bipod-accu-tac-pc-5",
+    "bipod-accu-tac-sr-5-g2-arca-swiss",
+    "bipod-accu-tac-sr-5-g2",
+    "bipod-accu-tac-wb-4",
+    "bipod-accu-tac-wb-4-arca-swiss"
   ]
 }
