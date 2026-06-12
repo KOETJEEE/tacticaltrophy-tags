@@ -1223,8 +1223,7 @@
     "bipod-toebehoren"
   ],
   "adapter-bergara-ar": [
-    "stokadapters",
-    "chassis-1"
+    "buttstockadapters"
   ],
   "adapter-bf-1-4-bsp-female-female": [
     "vulbenodigdheden"
@@ -1254,12 +1253,10 @@
     "vulbenodigdheden"
   ],
   "adapter-fx-klapkolf": [
-    "stokadapters",
-    "chassis-1"
+    "buttstockadapters"
   ],
   "adapter-fx-folding-stock-panthera": [
-    "stokadapters",
-    "chassis-1"
+    "buttstockadapters"
   ],
   "adapter-mantisx-luchtgeweer": [
     "trainingssystemen"
@@ -1271,13 +1268,13 @@
     "trainingssystemen"
   ],
   "adapter-mdt-carbine-to-fixed-stock": [
-    "chassis-1"
+    "buttstockadapters"
   ],
   "adapter-mdt-folding-stock-carbine-to-carbine": [
-    "chassis-1"
+    "buttstockadapters"
   ],
   "adapter-mdt-folding-stock-carbine-to-fixed": [
-    "chassis-1"
+    "buttstockadapters"
   ],
   "adapter-mdt-m-lok-to-v-mount": [
     "waterpassen"
@@ -4196,10 +4193,10 @@
     "kolven"
   ],
   "kolf-hogue-ar15-omc-mil-spec": [
-    "buttstocks"
+    "kolven"
   ],
   "kolf-hogue-ar15-omc-mil-spec-met-buffertube": [
-    "buttstocks"
+    "kolven"
   ],
   "stock-hogue-ar15-omcb-mil-spec-with-grip-aqua": [
     "kolven"
@@ -14640,6 +14637,12 @@
       "onderhoud",
       "stokadapters"
     ],
+    "adapter-bergara-ar": [
+      "chassis",
+      "schoonmaak-onderhoud",
+      "onderhoud",
+      "stokadapters"
+    ],
     "adapter-bf-1-4-bsp-female-female": [
       "stokadapters",
       "onderhoud",
@@ -14687,11 +14690,17 @@
     ],
     "adapter-fx-klapkolf": [
       "kolven",
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "onderhoud",
+      "stokadapters",
+      "chassis"
     ],
     "adapter-fx-folding-stock-panthera": [
       "kolven",
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "chassis",
+      "onderhoud",
+      "stokadapters"
     ],
     "adapter-mantisx-luchtgeweer": [
       "onderhoud",
@@ -14714,19 +14723,22 @@
       "kolven",
       "onderhoud",
       "stokadapters",
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "chassis"
     ],
     "adapter-mdt-folding-stock-carbine-to-carbine": [
       "kolven",
       "onderhoud",
       "stokadapters",
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "chassis"
     ],
     "adapter-mdt-folding-stock-carbine-to-fixed": [
       "schoonmaak-onderhoud",
       "kolven",
       "onderhoud",
-      "stokadapters"
+      "stokadapters",
+      "chassis"
     ],
     "adapter-mdt-m-lok-to-v-mount": [
       "montage-accessoires",
@@ -16362,6 +16374,30 @@
       "kolven"
     ],
     "kolf-hogue-ar15-omc-mil-spec-met-buffertube": [
+      "kolven"
+    ],
+    "stock-hogue-ar15-omcb-mil-spec-with-grip-aqua": [
+      "kolven"
+    ],
+    "kolf-hogue-ar15-omcb-mil-spec-met-grip-fde": [
+      "kolven"
+    ],
+    "kolf-hogue-ar15-omcb-mil-spec-met-grip-ghilly-green": [
+      "kolven"
+    ],
+    "stock-hogue-ar15-omcb-mil-spec-with-grip-pink": [
+      "kolven"
+    ],
+    "stock-hogue-ar15-omcb-mil-spec-with-grip-purple": [
+      "kolven"
+    ],
+    "kolf-hogue-ar15-omcb-mil-spec-met-grip-red-lava": [
+      "kolven"
+    ],
+    "stock-hogue-ar15-omcb-mil-spec-with-grip-slate-grey": [
+      "kolven"
+    ],
+    "stock-key-arma-alpha-for-ar-ak-black": [
       "kolven"
     ],
     "stock-oil-birchwood-genuine-oil-90-ml": [
