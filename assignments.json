@@ -2570,7 +2570,7 @@
     "persen-onderdelen"
   ],
   "dielocker-lock-rings-frankford-with-wrench": [
-    "herlaadkits"
+    "dies"
   ],
   "digitale-manometer-fx": [
     "manometers"
@@ -15694,6 +15694,9 @@
     "suppressor-g-g-kwa-kriss-vector": [
       "luchtbuks"
     ],
+    "dielocker-lock-rings-frankford-with-wrench": [
+      "herlaadkits"
+    ],
     "diopter-anschutz-7002": [
       "diopter-toebehoren"
     ],
@@ -26259,6 +26262,7 @@
     "conversion-kit-saber-tactical-fx-panthera-dynamic-king-chassis",
     "conversion-kit-wolverine-bolt-sniper",
     "conversion-connector-prometheus-voor-next-gen-m4-sopmod-kolf",
-    "richtkijker-delta-optical-titanium-2-5-15x56-hd-4a"
+    "richtkijker-delta-optical-titanium-2-5-15x56-hd-4a",
+    "dielocker-lock-rings-frankford-with-wrench"
   ]
 }
