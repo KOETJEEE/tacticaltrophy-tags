@@ -1288,9 +1288,7 @@
   "adapter-bf-1-4-bsp-male-male": [
     "stokadapters"
   ],
-  "adapter-bf-1-8-bsp-female-female": [
-    "stokadapters"
-  ],
+  "adapter-bf-1-8-bsp-female-female": [],
   "adapter-bf-1-8-bsp-male-female-hoek-90-graden": [
     "vulbenodigdheden"
   ],
@@ -1307,7 +1305,6 @@
     "vulbenodigdheden"
   ],
   "adapter-bf-din-male-1-8-bsp": [
-    "stokadapters",
     "vulbenodigdheden"
   ],
   "adapter-fx-klapkolf": [
@@ -14754,6 +14751,11 @@
       "stokadapters",
       "schoonmaak-onderhoud"
     ],
+    "adapter-bf-din-male-1-8-bsp": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
     "adapter-fx-klapkolf": [
       "kolven",
       "schoonmaak-onderhoud"
@@ -26449,6 +26451,7 @@
     "adaptor-best-fittings-300-bar-din-female-1-8-bsp-male",
     "adapter-bf-1-8-naar-1-4-bsp-male-male",
     "adapter-bf-1-8-bsp-male-male",
-    "adapter-bf-1-8-bsp-male-female-hoek-90-graden"
+    "adapter-bf-1-8-bsp-male-female-hoek-90-graden",
+    "adapter-bf-din-male-1-8-bsp"
   ]
 }
