@@ -8453,7 +8453,7 @@
     "vulbenodigdheden"
   ],
   "vulset-mde-din-200-300-bar": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vuurstarter-enola-gaye-ultimate-match-3-pack": [
     "rookgranaten"
@@ -17960,6 +17960,9 @@
       "persluchtfles-accessoires"
     ],
     "fill-probe-steyr-quickfill": [
+      "persluchtfles-accessoires"
+    ],
+    "vulset-mde-din-200-300-bar": [
       "persluchtfles-accessoires"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
@@ -29587,6 +29590,7 @@
     "vulnippel-fx-mki",
     "fill-probe-fx-mkiii",
     "fill-probe-snowpeak-pp20-mat300",
-    "fill-probe-steyr-quickfill"
+    "fill-probe-steyr-quickfill",
+    "vulset-mde-din-200-300-bar"
   ]
 }
