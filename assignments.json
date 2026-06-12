@@ -1614,30 +1614,26 @@
     "picatinny-rails"
   ],
   "barricade-stop-saber-tactical-arca-swiss": [
-    "tactical-bags"
+    "tactical-bags",
+    "handstoppen"
   ],
   "base-plate-pts-epm-black": [
     "picatinny-rails"
   ],
   "battery-dnt-18650-2-pack-incl-charger": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "battery-dnt-21700-2-pack-incl-charger": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "battery-hikmicro-habrok-pro-hm-7250dc-rechargeable-7-2v-4800mah": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "batterij-hikmicro-hm-3632dc-lithium-oplaadbaar-3-6v-3200mah": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "battery-hikmicro-thunder-2-0-3-0-hm-3644dc-rechargeable-3-6v-4400mah": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": [
     "airsoft-diversen-1"
@@ -1673,19 +1669,16 @@
     "lokmiddel-toebehoren"
   ],
   "battery-charger-hikmicro": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "battery-charger-hikmicro-thunder-2-0": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "battery-charger-sillosocks-eu-12v": [
     "lokmiddel-toebehoren"
   ],
   "battery-charger-hikmicro-habrok-pro": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "battery-grip-wolverine-for-mtw": [
     "grips"
@@ -1751,14 +1744,12 @@
     "holsters"
   ],
   "belt-molle-clip-amomax": [
-    "riemen-bretels"
+    "holsters"
   ],
   "belt-clip-amomax-black": [
-    "riemen-bretels",
     "holsters"
   ],
   "belt-clip-amomax-fde": [
-    "riemen-bretels",
     "holsters"
   ],
   "benchrest-feinwerkbau-p8-p44": [
@@ -15233,8 +15224,38 @@
     "barrel-sleeve-fx-carbon-fiber": [
       "wapen-accessoires"
     ],
+    "battery-dnt-18650-2-pack-incl-charger": [
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
+    ],
+    "battery-charger-hikmicro": [
+      "observatie-accessoires"
+    ],
+    "battery-charger-hikmicro-thunder-2-0": [
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
+    ],
+    "battery-charger-hikmicro-habrok-pro": [
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
+    ],
     "bb-grenade-tokyo-marui-m320a1": [
       "airsoft-bbs"
+    ],
+    "belt-molle-clip-amomax": [
+      "belts",
+      "bretels",
+      "kleding"
+    ],
+    "belt-clip-amomax-black": [
+      "belts",
+      "bretels",
+      "kleding"
+    ],
+    "belt-clip-amomax-fde": [
+      "belts",
+      "bretels",
+      "kleding"
     ],
     "protective-cover-jsb-pellet-box-big": [
       "beschermkappen",
@@ -22660,6 +22681,18 @@
     "bipod-accu-tac-wb-4",
     "bipod-accu-tac-wb-4-arca-swiss",
     "cover-rusan-modular-for-rifle-scope-clamp",
-    "lens-cover-krale-clip-on"
+    "lens-cover-krale-clip-on",
+    "belt-molle-clip-amomax",
+    "belt-clip-amomax-black",
+    "belt-clip-amomax-fde",
+    "battery-charger-sillosocks-eu-12v",
+    "battery-charger-hikmicro-thunder-2-0",
+    "battery-charger-hikmicro",
+    "battery-charger-hikmicro-habrok-pro",
+    "battery-dnt-18650-2-pack-incl-charger",
+    "battery-dnt-21700-2-pack-incl-charger",
+    "battery-hikmicro-habrok-pro-hm-7250dc-rechargeable-7-2v-4800mah",
+    "batterij-hikmicro-hm-3632dc-lithium-oplaadbaar-3-6v-3200mah",
+    "battery-hikmicro-thunder-2-0-3-0-hm-3644dc-rechargeable-3-6v-4400mah"
   ]
 }
