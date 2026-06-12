@@ -7250,13 +7250,13 @@
     "airsoft-diversen-1"
   ],
   "shotgun-shells-nuprol-15-schots-6-pack-blue": [
-    "airsoft-diversen-1"
+    "magazijnen"
   ],
   "shotgun-shells-nuprol-15-schots-6-pack-od-green": [
-    "airsoft-diversen-1"
+    "magazijnen"
   ],
   "shotgun-shells-nuprol-15-schots-6-pack-orange": [
-    "airsoft-diversen-1"
+    "magazijnen"
   ],
   "shroud-bushing-saber-tactical-trs": [
     "loopkits-toebehoren"
@@ -17994,6 +17994,15 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "shotgun-shells-nuprol-15-schots-6-pack-blue": [
+      "airsoft-diversen"
+    ],
+    "shotgun-shells-nuprol-15-schots-6-pack-od-green": [
+      "airsoft-diversen"
+    ],
+    "shotgun-shells-nuprol-15-schots-6-pack-orange": [
+      "airsoft-diversen"
     ],
     "shroud-bushing-saber-tactical-trs": [
       "tactical-bags",
@@ -30460,6 +30469,9 @@
     "small-swage-prime-pin-assembly-frankford-x-10",
     "sled-feet-accu-tac",
     "shroud-clamp-saber-tactical-trs",
-    "shroud-bushing-saber-tactical-trs"
+    "shroud-bushing-saber-tactical-trs",
+    "shotgun-shells-nuprol-15-schots-6-pack-orange",
+    "shotgun-shells-nuprol-15-schots-6-pack-od-green",
+    "shotgun-shells-nuprol-15-schots-6-pack-blue"
   ]
 }
