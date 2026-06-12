@@ -5788,76 +5788,76 @@
     "montagebasissen"
   ],
   "mounting-base-2bme-glock-mos-delta-point-pro": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-2bme-glock-mos-trijicon-rmr-sro": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-2bme-walther-pdp-2-0-delta-point-pro": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-2bme-walther-pdp-2-0-shield": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-2bme-walther-pdp-2-0-trijicon-rmr-sro": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-kmr-l-02-or-w-02-or-docter-vortex-venom-viper": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-kmr-l-02-or-w-02-or-shield": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-kmr-l-02-or-w-02-or-trijicon-holosun": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-kmr-l-02-or-w-02-or-vortex-razor": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-kmr-s-02-or-shield-1": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-mpa-ds9-non-co-witness-leupold": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-mpa-ds9-non-co-witness-vortex": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-utg-super-slim-rdm20-for-glock": [
-    "1-delige-montages"
+    "montagebasissen"
   ],
   "mounting-base-vector-optics-11-mm-dovetail-to-tek-footprint": [
-    "1-delige-montages"
+    "montagebasissen"
   ],
   "mounting-base-vector-optics-11-mm-dovetail-to-vod-footprint": [
-    "1-delige-montages"
+    "montagebasissen"
   ],
   "mounting-base-walther-pdp-02-trijicon-holosun": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "montagebasis-walther-pdp-v2-04-leupold-deltapoint": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-walther-pdp-v2-trijicon": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-walther-pdp-v2-vortex": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-walther-pdp-for-leupold": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-rail-air-marksman-backbone-30-moa-long-bronze": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "mounting-rail-air-marksman-backbone-30-moa-medium-black": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "mounting-rail-air-marksman-backbone-30-moa-short-black": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "montagerail-atlas-picatinny-bt28": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "mounting-rail-audere-remington-700-sa-30-moa": [
     "picatinny-rails"
@@ -16669,6 +16669,81 @@
     "mounting-base-2bme-cz-shadow-2-or-delta-point-pro": [
       "richtmiddel-accessoires"
     ],
+    "mounting-base-2bme-glock-mos-aimpoint-acro-steel-edition": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-2bme-glock-mos-delta-point-pro": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-2bme-glock-mos-trijicon-rmr-sro": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-2bme-walther-pdp-2-0-delta-point-pro": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-2bme-walther-pdp-2-0-shield": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-2bme-walther-pdp-2-0-trijicon-rmr-sro": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-kmr-l-02-or-w-02-or-docter-vortex-venom-viper": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-kmr-l-02-or-w-02-or-shield": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-kmr-l-02-or-w-02-or-trijicon-holosun": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-kmr-l-02-or-w-02-or-vortex-razor": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-kmr-s-02-or-shield-1": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-mpa-ds9-non-co-witness-leupold": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-mpa-ds9-non-co-witness-vortex": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-utg-super-slim-rdm20-for-glock": [
+      "1-delige-montages"
+    ],
+    "mounting-base-vector-optics-11-mm-dovetail-to-tek-footprint": [
+      "1-delige-montages"
+    ],
+    "mounting-base-vector-optics-11-mm-dovetail-to-vod-footprint": [
+      "1-delige-montages"
+    ],
+    "mounting-base-walther-pdp-02-trijicon-holosun": [
+      "richtmiddel-accessoires"
+    ],
+    "montagebasis-walther-pdp-v2-04-leupold-deltapoint": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-walther-pdp-v2-trijicon": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-walther-pdp-v2-vortex": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-walther-pdp-for-leupold": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-rail-air-marksman-backbone-30-moa-long-bronze": [
+      "picatinny-rails"
+    ],
+    "mounting-rail-air-marksman-backbone-30-moa-medium-black": [
+      "picatinny-rails"
+    ],
+    "mounting-rail-air-marksman-backbone-30-moa-short-black": [
+      "picatinny-rails"
+    ],
+    "montagerail-atlas-picatinny-bt28": [
+      "picatinny-rails"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25073,6 +25148,31 @@
     "mount-wheeler-sporter-bi-weaver-34-mm-low-picatinny",
     "mount-wheeler-sporter-bi-weaver-34-mm-medium-picatinny",
     "mount-wheeler-sporter-bi-weaver-picatinny-25-4-mm-low-picatinny",
-    "mounting-base-2bme-cz-shadow-2-or-delta-point-pro"
+    "mounting-base-2bme-cz-shadow-2-or-delta-point-pro",
+    "mounting-base-2bme-glock-mos-aimpoint-acro-steel-edition",
+    "mounting-base-2bme-glock-mos-delta-point-pro",
+    "mounting-base-2bme-glock-mos-trijicon-rmr-sro",
+    "mounting-base-2bme-walther-pdp-2-0-delta-point-pro",
+    "mounting-base-2bme-walther-pdp-2-0-shield",
+    "mounting-base-2bme-walther-pdp-2-0-trijicon-rmr-sro",
+    "mounting-base-kmr-l-02-or-w-02-or-docter-vortex-venom-viper",
+    "mounting-base-kmr-l-02-or-w-02-or-shield",
+    "mounting-base-kmr-l-02-or-w-02-or-trijicon-holosun",
+    "mounting-base-kmr-l-02-or-w-02-or-vortex-razor",
+    "mounting-base-kmr-s-02-or-shield-1",
+    "mounting-base-mpa-ds9-non-co-witness-leupold",
+    "mounting-base-mpa-ds9-non-co-witness-vortex",
+    "mounting-base-utg-super-slim-rdm20-for-glock",
+    "mounting-base-vector-optics-11-mm-dovetail-to-tek-footprint",
+    "mounting-base-vector-optics-11-mm-dovetail-to-vod-footprint",
+    "mounting-base-walther-pdp-02-trijicon-holosun",
+    "montagebasis-walther-pdp-v2-04-leupold-deltapoint",
+    "mounting-base-walther-pdp-v2-trijicon",
+    "mounting-base-walther-pdp-v2-vortex",
+    "mounting-base-walther-pdp-for-leupold",
+    "mounting-rail-air-marksman-backbone-30-moa-long-bronze",
+    "mounting-rail-air-marksman-backbone-30-moa-medium-black",
+    "mounting-rail-air-marksman-backbone-30-moa-short-black",
+    "montagerail-atlas-picatinny-bt28"
   ]
 }
