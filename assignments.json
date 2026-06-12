@@ -63,6 +63,12 @@
     "adapter-mantisx-picatinny-3m",
     "butt-pad-mdt-adjustable"
   ],
+  "carson-drijvende-brillenkoord-fa-1001-zwart-186181": [
+    "brillenkoorden"
+  ],
+  "carson-drijvende-brillenkoord-fa-1002-oranje-186182": [
+    "brillenkoorden"
+  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -1571,11 +1577,10 @@
     "richtmiddel-accessoires"
   ],
   "vise-tipton-best-gun-360": [
-    "gereedschap",
-    "geweersteunen"
+    "schoonmaakstations"
   ],
   "bankschroefbekken-vfg-vilt-magnetisch": [
-    "geweersteunen"
+    "schoonmaakstations"
   ],
   "barrel-band-fx-dreamline": [
     "persluchtcilinders"
@@ -15205,6 +15210,18 @@
     "ar-combo-wrench-utg-armorer-s-multi-function-tool-for-ar15": [
       "schoonmaak-onderhoud"
     ],
+    "vise-tipton-best-gun-360": [
+      "gereedschap",
+      "schoonmaak-onderhoud",
+      "geweersteunen",
+      "jacht",
+      "schietsport"
+    ],
+    "bankschroefbekken-vfg-vilt-magnetisch": [
+      "geweersteunen",
+      "jacht",
+      "schietsport"
+    ],
     "barrel-band-fx-dreamline": [
       "wapen-accessoires"
     ],
@@ -24146,6 +24163,8 @@
     "ar-combo-wrench-utg-armorer-s-multi-function-tool-for-ar15",
     "ar-combo-wrench-element-multifunctional",
     "richtkijker-arken-ep8-1-8x28-bdc-klbox",
-    "rifle-scope-arken-lh-6-1-6x24-klbox"
+    "rifle-scope-arken-lh-6-1-6x24-klbox",
+    "vise-tipton-best-gun-360",
+    "bankschroefbekken-vfg-vilt-magnetisch"
   ]
 }
