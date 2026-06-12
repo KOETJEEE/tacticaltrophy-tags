@@ -5394,7 +5394,7 @@
     "2-delige-montages"
   ],
   "montage-utg-flip-to-side-ring-mount": [
-    "1-delige-montages"
+    "montage-accessoires"
   ],
   "montage-utg-quick-detach-lock-25-4mm-high-weaver": [
     "2-delige-montages"
@@ -16446,6 +16446,9 @@
       "montage-accessoires"
     ],
     "mount-utg-accushot-30-mm-medium-weaver-picatinny": [
+      "1-delige-montages"
+    ],
+    "montage-utg-flip-to-side-ring-mount": [
       "1-delige-montages"
     ],
     "montage-utg-quick-detach-lock-25-4mm-high-weaver": [
