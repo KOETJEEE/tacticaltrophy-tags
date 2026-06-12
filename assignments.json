@@ -4255,14 +4255,13 @@
     "hpa-tanks"
   ],
   "hpa-tank-dominator-48-3000-aluminium-0-8-liters-207-bar-with-pressure-gauge": [
-    "manometers",
     "hpa-tanks"
   ],
   "hpa-tank-dominator-48-4500-carbon-0-8-liters-310-bar-with-pressure-gauge": [
-    "manometers"
+    "hpa-tanks"
   ],
   "hpa-tank-dominator-68-4500-carbon-1-liter-310-bar-with-pressure-gauge": [
-    "manometers"
+    "hpa-tanks"
   ],
   "hulzen-onderhoudsset-frankford-arsenal": [
     "herlaadkits"
@@ -4286,14 +4285,13 @@
     "statieven"
   ],
   "hulzentrimmer-frankford-arsenal-universal": [
-    "herlaadkits",
     "hulzentrimmers"
   ],
   "hulzenvanger-caldwell-ar-15-picatinny-rail": [
-    "picatinny-rails"
+    "hulzenvangers"
   ],
   "hulzenvanger-caldwell-brass-catcher-ar-15": [
-    "herlaadkits"
+    "hulzenvangers"
   ],
   "hulzenvanger-caldwell-universal-sa": [
     "hulzenvangers"
@@ -16028,6 +16026,32 @@
       "schietsport",
       "wapen-toebehoren"
     ],
+    "hpa-tank-dominator-48-3000-aluminium-0-8-liters-207-bar-with-pressure-gauge": [
+      "manometers",
+      "schietsport",
+      "wapen-toebehoren"
+    ],
+    "hpa-tank-dominator-48-4500-carbon-0-8-liters-310-bar-with-pressure-gauge": [
+      "schietsport",
+      "manometers",
+      "wapen-toebehoren"
+    ],
+    "hpa-tank-dominator-68-4500-carbon-1-liter-310-bar-with-pressure-gauge": [
+      "manometers",
+      "schietsport",
+      "wapen-toebehoren"
+    ],
+    "hulzentrimmer-frankford-arsenal-universal": [
+      "herlaadkits"
+    ],
+    "hulzenvanger-caldwell-ar-15-picatinny-rail": [
+      "optiek",
+      "picatinny-rails"
+    ],
+    "hulzenvanger-caldwell-brass-catcher-ar-15": [
+      "herlaadkits",
+      "herladen"
+    ],
     "inner-barrel-prometheus-eg-6-00-gbb-tokyo-marui-m4a1-mws-370-mm": [
       "airsoft-onderdelen"
     ],
@@ -24037,6 +24061,13 @@
     "hop-up-tensioner-prometheus-bridge",
     "hop-up-tensioner-prometheus-flat",
     "hop-up-wolverine-mtw",
-    "hpa-tank-dominator-13-3000-aluminium-0-2-liters-207-bar-with-pressure-gauge"
+    "hpa-tank-dominator-13-3000-aluminium-0-2-liters-207-bar-with-pressure-gauge",
+    "hpa-tank-dominator-48-3000-aluminium-0-8-liters-207-bar-with-pressure-gauge",
+    "hpa-tank-dominator-48-4500-carbon-0-8-liters-310-bar-with-pressure-gauge",
+    "hpa-tank-dominator-68-4500-carbon-1-liter-310-bar-with-pressure-gauge",
+    "hulzenvanger-caldwell-universal-sa",
+    "hulzenvanger-caldwell-brass-catcher-ar-15",
+    "hulzenvanger-caldwell-ar-15-picatinny-rail",
+    "hulzentrimmer-frankford-arsenal-universal"
   ]
 }
