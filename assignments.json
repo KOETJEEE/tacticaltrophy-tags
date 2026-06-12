@@ -1229,7 +1229,8 @@
     "bipod-toebehoren"
   ],
   "adapter-bergara-ar": [
-    "stokadapters"
+    "stokadapters",
+    "chassis-1"
   ],
   "adapter-bf-1-4-bsp-female-female": [
     "vulbenodigdheden"
@@ -13707,6 +13708,11 @@
       "wapenkoffers",
       "airsoft"
     ],
+    "falcon-eyes-aluminium-statief-kop-ft-1120-h110-cm-295012": [
+      "falcon-eyes",
+      "optiek-accessoires",
+      "tripods"
+    ],
     "falcon-eyes-aluminium-statief-kop-ft-1330-h130-cm-295013": [
       "falcon-eyes",
       "optiek-accessoires",
@@ -25542,7 +25548,12 @@
     "hoodie-cotton-hard-fatum-10028",
     "gas-can-pouch-vertical-961",
     "fleece-jacket-senator-polartec-3672",
-    "flag-odin-night-vision-630x900-5792"
+    "flag-odin-night-vision-630x900-5792",
+    "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-schuiltent-720082",
+    "buteo-photo-gear-snoot-lens-cover-voor-schuiltent-720081",
+    "buteo-photo-gear-snoot-lens-cover-groen-voor-schuiltent-720083",
+    "buteo-photo-gear-snoot-lens-cover-riet-voor-mark-iii-720191",
+    "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-mark-iii-720193"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -29237,6 +29248,8 @@
     "jacket-sturm-nyco-extreme-8531",
     "jeans-aggressor-2782",
     "jeans-tactical-geni-cordura-regular-3388",
-    "kettle-12-l-7617"
+    "kettle-12-l-7617",
+    "falcon-eyes-aluminium-statief-kop-ft-1120-h110-cm-295012",
+    "adapter-bergara-ar"
   ]
 }
