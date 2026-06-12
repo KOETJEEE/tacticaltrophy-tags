@@ -61,8 +61,6 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
     "flag-odin-night-vision-630x900-5792",
-    "adapter-mdt-folding-stock-carbine-to-fixed",
-    "adapter-mdt-folding-stock-carbine-to-carbine",
     "adapter-mdt-carbine-to-fixed-stock"
   ],
   "stealth-gear-camouflage-tape-720115": [
@@ -1333,12 +1331,10 @@
     "stokadapters"
   ],
   "adapter-mdt-folding-stock-carbine-to-carbine": [
-    "kolven",
-    "stokadapters"
+    "chassis-1"
   ],
   "adapter-mdt-folding-stock-carbine-to-fixed": [
-    "kolven",
-    "stokadapters"
+    "chassis-1"
   ],
   "adapter-mdt-m-lok-to-v-mount": [
     "waterpassen"
@@ -15073,6 +15069,18 @@
       "die-accessoires",
       "herladen"
     ],
+    "adapter-mdt-folding-stock-carbine-to-carbine": [
+      "kolven",
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
+    "adapter-mdt-folding-stock-carbine-to-fixed": [
+      "schoonmaak-onderhoud",
+      "kolven",
+      "onderhoud",
+      "stokadapters"
+    ],
     "adapter-mdt-m-lok-to-v-mount": [
       "montage-accessoires",
       "stokadapters",
@@ -22560,6 +22568,8 @@
     "adapter-nine-reloaded-echo",
     "adapter-nine-reloaded-foxtrot",
     "adapter-mdt-spuhr-to-v-mount",
-    "adapter-mdt-m-lok-to-v-mount"
+    "adapter-mdt-m-lok-to-v-mount",
+    "adapter-mdt-folding-stock-carbine-to-fixed",
+    "adapter-mdt-folding-stock-carbine-to-carbine"
   ]
 }
