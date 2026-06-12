@@ -5297,7 +5297,8 @@
     "holsters"
   ],
   "magazijnhouder-imi-walther-ppq-p99-double": [
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "holsters"
   ],
   "magazine-holders-donnyfl-magnetic-for-fx-impact-dreamline-crown-maverick": [
     "luchtbuks-dempers"
@@ -5327,8 +5328,7 @@
     "airsoft-diversen-1"
   ],
   "media-frankford-arsenal-stainless-steel-2-lbs": [
-    "herlaadkits",
-    "polijsttrommels"
+    "polijst-media"
   ],
   "messingborstel-ks": [
     "schoonmaakborstels"
@@ -16284,6 +16284,31 @@
       "pouches",
       "luchtbuks"
     ],
+    "magazijnhouder-imi-walther-ppq-p99-double": [
+      "pouches"
+    ],
+    "media-frankford-arsenal-stainless-steel-2-lbs": [
+      "herlaadkits",
+      "polijsttrommels"
+    ],
+    "messingborstel-ks": [
+      "schoonmaak-onderhoud"
+    ],
+    "torque-screwdriver-audere-pro-2-10-nm-torx": [
+      "schoonmaak-onderhoud"
+    ],
+    "momentschroevendraaier-wheeler-fat-wrench": [
+      "schoonmaak-onderhoud"
+    ],
+    "autotorque-screwdriver-wheeler-fat-wrench": [
+      "schoonmaak-onderhoud"
+    ],
+    "torque-wrench-set-wheeler-fat-professional-100-piece": [
+      "schoonmaak-onderhoud"
+    ],
+    "torque-wrench-wheeler-fat-stix-preset": [
+      "schoonmaak-onderhoud"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -24523,6 +24548,18 @@
     "magazine-pouch-black-scorpion-gear-single-double-stack-competition-blue",
     "magazine-pouch-black-scorpion-gear-single-double-stack-competition-black",
     "magazijnhouder-donnyfl-fx-wildcat",
-    "magazine-holder-epic-airguns-two-tactical-stock"
+    "magazine-holder-epic-airguns-two-tactical-stock",
+    "magazijnhouder-imi-walther-ppq-p99-double",
+    "pressure-gauge-fx-drs-plenum-250-bar",
+    "pressure-gauge-wika-27-mm-250-bar",
+    "pressure-gauge-wika-27-mm-300-bar",
+    "pressure-gauge-wolverine-for-storm-regulators",
+    "media-frankford-arsenal-stainless-steel-2-lbs",
+    "messingborstel-ks",
+    "torque-screwdriver-audere-pro-2-10-nm-torx",
+    "momentschroevendraaier-wheeler-fat-wrench",
+    "autotorque-screwdriver-wheeler-fat-wrench",
+    "torque-wrench-set-wheeler-fat-professional-100-piece",
+    "torque-wrench-wheeler-fat-stix-preset"
   ]
 }
