@@ -1095,15 +1095,12 @@
     "montage-accessoires"
   ],
   "noblex-monoculair-nm-7x42-c-460080": [
-    "monoculairs",
-    "verrekijkers"
+    "monoculairs"
   ],
   "noblex-red-dot-nv-1x25-os-le-35-moa-incl-weaver-mount-460252": [
-    "montage-accessoires",
     "red-dots"
   ],
   "noblex-red-dot-nv-1x25-os-le-70-moa-incl-weaver-mount-460256": [
-    "montage-accessoires",
     "red-dots"
   ],
   "noblex-red-dot-nv-1x30-os-35-moa-460255": [
@@ -13838,6 +13835,18 @@
     "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-mark-iii-720193": [
       "oversize"
     ],
+    "carson-bol-loep-2x75mm-186111": [
+      "carson",
+      "handloepen"
+    ],
+    "carson-bugview-vergrootglas-met-een-hands-insectenvanger-186458": [
+      "carson",
+      "handloepen"
+    ],
+    "carson-digitale-pocket-nachtkijker-186449": [
+      "carson",
+      "monoculair"
+    ],
     "flir-breach-ptq136-objectief-beschermlens-13431910": [
       "nachtzicht-en-warmtebeeldaccessoires",
       "warmtebeeld-accessoires"
@@ -14089,6 +14098,60 @@
     "nest-monopod-wt-1003-h171-cm-295810": [
       "optiek-accessoires",
       "tripods"
+    ],
+    "nest-professioneel-carbon-statief-nt-6294ck-balhoofd-295823": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "nest-professioneel-statief-ei-7085-c2-vloeistofgedempte-kop-8004635": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "nest-statief-kop-nt-510-h136-cm-295801": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "nest-statief-kop-wt-3520-h139-cm-295808": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "nest-statief-kop-wt-3530-h147-cm-295807": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "nest-statief-kop-wt-3540-h157-cm-295806": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "nest-statief-kop-wt-3560-h167-cm-295804": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "nest-statief-kop-wt-3730-h152-cm-295803": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "nest-statief-wf-6627-balhoofd-295842": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "nest-video-statief-nt-670-vloeistofgedempte-kop-295839": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "nest-video-statief-nt-777-vloeistofgedempte-kop-295845": [
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "noblex-monoculair-nm-7x42-c-460080": [
+      "noblex",
+      "verrekijkers"
+    ],
+    "noblex-red-dot-nv-1x25-os-le-35-moa-incl-weaver-mount-460252": [
+      "montage-accessoires"
+    ],
+    "noblex-red-dot-nv-1x25-os-le-70-moa-incl-weaver-mount-460256": [
+      "montage-accessoires"
     ],
     "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2": [
       "wapen-accessoires"
@@ -21230,6 +21293,32 @@
     "agm-foxbat-5-nw1-nachtzicht-verrekijker-5x-vergroting-gen2-white-phosphor-121091",
     "agm-foxbat-5-nl1-nachtzicht-verrekijker-5x-vergroting-gen2-green-phosphor-121090",
     "agm-5x-afocal-vergrootlens-61025xa1-121105",
-    "agm-3x-afocal-vergrootlens-61023xa1-121104"
+    "agm-3x-afocal-vergrootlens-61023xa1-121104",
+    "carson-digitale-pocket-nachtkijker-186449",
+    "carson-bugview-vergrootglas-met-een-hands-insectenvanger-186458",
+    "carson-bol-loep-2x75mm-186111",
+    "nest-professioneel-carbon-statief-nt-6294ck-balhoofd-295823",
+    "nest-professioneel-statief-ei-7085-c2-vloeistofgedempte-kop-8004635",
+    "nest-statief-kop-nt-510-h136-cm-295801",
+    "nest-statief-kop-wt-3520-h139-cm-295808",
+    "nest-statief-kop-wt-3530-h147-cm-295807",
+    "nest-statief-kop-wt-3540-h157-cm-295806",
+    "nest-statief-kop-wt-3560-h167-cm-295804",
+    "nest-statief-kop-wt-3730-h152-cm-295803",
+    "nest-statief-wf-6627-balhoofd-295842",
+    "nest-video-statief-nt-670-vloeistofgedempte-kop-295839",
+    "nest-video-statief-nt-777-vloeistofgedempte-kop-295845",
+    "noblex-monoculair-nm-7x42-c-460080",
+    "noblex-red-dot-nv-1x25-os-le-35-moa-incl-weaver-mount-460252",
+    "noblex-red-dot-nv-1x25-os-le-70-moa-incl-weaver-mount-460256",
+    "noblex-red-dot-nv-1x30-os-35-moa-460255",
+    "noblex-richtkijker-nz6-1-6x24-inception-ret-4i-460102",
+    "noblex-richtkijker-nz6-1-6x24-inception-ret-bdc-460101",
+    "noblex-richtkijker-nz6-1-6x24-inception-ret0-460100",
+    "noblex-richtkijker-nz6-2-12x50-inception-ret-4i-460103",
+    "noblex-richtkijker-nz6-2-12x50-r-inception-4i-rail-version-460104",
+    "noblex-richtkijker-nz6-3-18-x-56-inception-ret-4i-460105",
+    "noblex-richtkijker-nz6-5-30x56-inception-ret-4i-460106",
+    "noblex-richtkijker-nz6-5-30x56-inception-ret-bdc-460107"
   ]
 }
