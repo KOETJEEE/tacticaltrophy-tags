@@ -513,16 +513,13 @@
     "wapenkoffers"
   ],
   "explorer-cases-waterproof-rack-frame-trolley-koffer-5140-b6u-251270": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-waterproof-rack-frame-trolley-koffer-7630-b15u-251271": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-waterproof-rack-frame-trolley-koffer-7641-b15u-251272": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "falcon-eyes-aluminium-statief-kop-ft-1120-h110-cm-295012": [
     "statieven"
@@ -14276,6 +14273,27 @@
       "wapenkoffers",
       "airsoft"
     ],
+    "explorer-cases-waterproof-rack-frame-trolley-koffer-5140-b6u-251270": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-waterproof-rack-frame-trolley-koffer-7630-b15u-251271": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-waterproof-rack-frame-trolley-koffer-7641-b15u-251272": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
     "flir-breach-ptq136-objectief-beschermlens-13431910": [
       "nachtzicht-en-warmtebeeldaccessoires",
       "warmtebeeld-accessoires"
@@ -22098,6 +22116,9 @@
     "explorer-cases-tas-94-voor-9413-255130",
     "explorer-cases-tas-f-voor-4820-255070",
     "explorer-cases-tas-r-voor-2712-255040",
-    "explorer-cases-tas-g-voor-582258235833-255075"
+    "explorer-cases-tas-g-voor-582258235833-255075",
+    "explorer-cases-waterproof-rack-frame-trolley-koffer-5140-b6u-251270",
+    "explorer-cases-waterproof-rack-frame-trolley-koffer-7641-b15u-251272",
+    "explorer-cases-waterproof-rack-frame-trolley-koffer-7630-b15u-251271"
   ]
 }
