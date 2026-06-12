@@ -9274,8 +9274,7 @@
     "veldnotitie"
   ],
   "ecopybook-tactical-an-all-weather-notebook-849": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-an-all-weather-notebook-regular-maxi-269-x-190-mm-8629": [
     "veldnotitie",
@@ -18612,6 +18611,12 @@
       "Equipment and gear > Office supplies",
       "Military Line",
       "tactical-bags"
+    ],
+    "ecopybook-tactical-an-all-weather-notebook-849": [
+      "Equipment and gear > Office supplies",
+      "Military Line",
+      "tactical-bags",
+      "m-tac"
     ],
     "ecopybook-tactical-card-firing-position-nato-5-pcs-8039": [
       "tactical-bags",
@@ -29122,6 +29127,8 @@
     "duty-belt-load-bearing-belt-universal-5517",
     "ecopybook-big-tactical-ruler-nato-blue-9552",
     "ecopybook-big-tactical-ruler-protractor-nato-8195",
-    "ecopybook-small-tactical-ruler-protractor-nato-8196"
+    "ecopybook-small-tactical-ruler-protractor-nato-8196",
+    "ecopybook-tactical-accuracy-shot-chart-852",
+    "ecopybook-tactical-an-all-weather-notebook-849"
   ]
 }
