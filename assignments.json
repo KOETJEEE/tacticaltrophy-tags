@@ -4475,8 +4475,7 @@
     "laarzen"
   ],
   "flashlight-element-x300-pistol": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-vaide-pistol": [
     "zaklampen-hoofdlampen",
@@ -4498,7 +4497,7 @@
     "picatinny-rails"
   ],
   "laser-cartridge-mantis-pink-rhino-training": [
-    "trainingshalsbanden"
+    "trainingssystemen"
   ],
   "led-kit-caldwell-ballistic-precision-chronograph": [
     "snelheidsmeters"
@@ -4937,7 +4936,7 @@
     "magazijn-pouches"
   ],
   "magneet-frankford-arsenal": [
-    "herlaadkits"
+    "gereedschap"
   ],
   "magnetic-arm-lock-saber-tactical-fx-impact": [
     "kolven"
@@ -16155,15 +16154,26 @@
     "boot-jack-with-brushes": [
       "schoenen"
     ],
+    "flashlight-element-x300-pistol": [
+      "lampen",
+      "tactical-gear"
+    ],
     "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny": [
       "picatinny-rails",
       "optiek"
+    ],
+    "laser-cartridge-mantis-pink-rhino-training": [
+      "jacht",
+      "trainingshalsbanden"
     ],
     "barrel-case-ulfhednar-cordura-75x6": [
       "foudralen",
       "geweertassen"
     ],
     "loopklem-wheeler-engineering-universal": [
+      "schoonmaak-onderhoud"
+    ],
+    "bore-light-birchwood-flexible": [
       "schoonmaak-onderhoud"
     ],
     "bore-cleaner-birchwood-scrubber": [
@@ -16263,6 +16273,10 @@
     ],
     "magazijnhouder-imi-walther-ppq-p99-double": [
       "pouches"
+    ],
+    "magneet-frankford-arsenal": [
+      "herlaadkits",
+      "herladen"
     ],
     "media-frankford-arsenal-stainless-steel-2-lbs": [
       "herlaadkits",
@@ -29979,6 +29993,11 @@
     "lofting-poles-set-sillosocks",
     "spacer-ring-bf-200-300-bar",
     "service-kit-fx-crown-impact-regulator-s-n-183534",
-    "mondingsrem-donnyfl-fatboy"
+    "mondingsrem-donnyfl-fatboy",
+    "magneet-frankford-arsenal",
+    "bore-light-birchwood-flexible",
+    "laser-cartridge-mantis-pink-rhino-training",
+    "large-swage-prime-pin-assembly-frankford-x-10",
+    "flashlight-element-x300-pistol"
   ]
 }
