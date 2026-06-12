@@ -7822,7 +7822,7 @@
     "wapensloten"
   ],
   "tripod-adaptor-bog-m-lok-to-arca-swiss": [
-    "statieven"
+    "bipod-toebehoren"
   ],
   "tripod-bog-deadshot": [
     "statieven"
@@ -17751,6 +17751,13 @@
     ],
     "trekkoord-netarm": [
       "schoonmaak-onderhoud"
+    ],
+    "tripod-adaptor-bog-m-lok-to-arca-swiss": [
+      "airsoft",
+      "jacht",
+      "optiek",
+      "schietsport",
+      "statieven"
     ],
     "turretstickers-groen": [
       "airsoft",
@@ -29689,6 +29696,7 @@
     "tussenplaat-wegu",
     "tussenplaat-harris-no-7a",
     "turretstickers-groen",
-    "tripod-bog-deathgrip-aluminium-realtree-excape"
+    "tripod-bog-deathgrip-aluminium-realtree-excape",
+    "tripod-adaptor-bog-m-lok-to-arca-swiss"
   ]
 }
