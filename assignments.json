@@ -7262,7 +7262,7 @@
     "tactical-bags"
   ],
   "shroud-clamp-saber-tactical-trs": [
-    "tactical-bags"
+    "loopkits-toebehoren"
   ],
   "sled-feet-accu-tac": [
     "bipod-toebehoren"
@@ -17994,6 +17994,10 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "shroud-clamp-saber-tactical-trs": [
+      "tactical-bags",
+      "tactical-gear"
     ],
     "sled-feet-accu-tac": [
       "geweersteunen",
@@ -30450,6 +30454,7 @@
     "lubricant-birchwood-moly-lube-dry-film",
     "smartphone-adapter-eagle-vision-side-cam-universal-25-x75",
     "small-swage-prime-pin-assembly-frankford-x-10",
-    "sled-feet-accu-tac"
+    "sled-feet-accu-tac",
+    "shroud-clamp-saber-tactical-trs"
   ]
 }
