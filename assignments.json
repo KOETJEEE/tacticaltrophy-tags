@@ -5891,16 +5891,13 @@
     "olien-vetten"
   ],
   "olie-bore-tech-friction-guard-xp-gun-oil-118-ml": [
-    "olien-vetten",
-    "schoonmaaksetjes"
+    "olien-vetten"
   ],
   "olie-bore-tech-qwik-dri-dry-lubricant-29-5-ml": [
-    "olien-vetten",
-    "schoonmaaksetjes"
+    "olien-vetten"
   ],
   "olie-bore-tech-shield-xp-rust-preventative-118-ml": [
-    "olien-vetten",
-    "schoonmaaksetjes"
+    "olien-vetten"
   ],
   "oil-gun-butter-needle-oiler": [
     "olien-vetten"
@@ -16693,6 +16690,42 @@
     "nylonborstel-ks": [
       "schoonmaak-onderhoud"
     ],
+    "olie-anschutz-keramic-coat-100-ml": [
+      "schoonmaak-onderhoud"
+    ],
+    "oil-birchwood-barricade-rust-protection": [
+      "schoonmaak-onderhoud"
+    ],
+    "oil-birchwood-hopper-spit-firearm-protectant": [
+      "schoonmaak-onderhoud"
+    ],
+    "oil-birchwood-renewalube": [
+      "schoonmaak-onderhoud"
+    ],
+    "oil-birchwood-rig-p-stainless-steel-lube-42-g": [
+      "schoonmaak-onderhoud"
+    ],
+    "oil-birchwood-synthetic": [
+      "schoonmaak-onderhoud"
+    ],
+    "olie-bore-tech-friction-guard-xp-gun-oil-118-ml": [
+      "schoonmaak-onderhoud",
+      "schoonmaaksetjes"
+    ],
+    "olie-bore-tech-qwik-dri-dry-lubricant-29-5-ml": [
+      "schoonmaak-onderhoud",
+      "schoonmaaksetjes"
+    ],
+    "olie-bore-tech-shield-xp-rust-preventative-118-ml": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "oil-gun-butter-needle-oiler": [
+      "schoonmaak-onderhoud"
+    ],
+    "oil-gun-butter-pen-oiler": [
+      "schoonmaak-onderhoud"
+    ],
     "ontlaadhamer-frankford-arsenal-quick-n-ez": [
       "herlaadkits",
       "herladen"
@@ -26080,6 +26113,16 @@
     "stock-oil-birchwood-rusty-walnut-wood-stain",
     "stock-oil-birchwood-genuine-oil-90-ml",
     "stock-oil-birchwood-clear-sealer-filler",
-    "stock-oil-birchwood-wax"
+    "stock-oil-birchwood-wax",
+    "oil-birchwood-barricade-rust-protection",
+    "olie-anschutz-keramic-coat-100-ml",
+    "oil-birchwood-hopper-spit-firearm-protectant",
+    "oil-birchwood-renewalube",
+    "oil-birchwood-rig-p-stainless-steel-lube-42-g",
+    "oil-birchwood-synthetic",
+    "olie-bore-tech-friction-guard-xp-gun-oil-118-ml",
+    "olie-bore-tech-qwik-dri-dry-lubricant-29-5-ml",
+    "olie-bore-tech-shield-xp-rust-preventative-118-ml",
+    "oil-gun-butter-needle-oiler"
   ]
 }
