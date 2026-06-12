@@ -7501,7 +7501,7 @@
     "tassen-rugzakken"
   ],
   "tacstack-molle-web-belt-clamp-3-pack": [
-    "riemen-bretels"
+    "transport-accessoires"
   ],
   "tacstack-nektas": [
     "tassen-rugzakken"
@@ -7522,7 +7522,7 @@
     "transport-accessoires"
   ],
   "tacstack-pick-pluck-foam-for-l-95x30-rifle-case": [
-    "wapenkoffers"
+    "transport-accessoires"
   ],
   "tacstack-pick-pluck-foam-for-xl-131x34-rifle-case": [
     "transport-accessoires"
@@ -7574,7 +7574,7 @@
     "airsoft-diversen-1"
   ],
   "temperature-sensor-kit-hill-ec-3000": [
-    "revisiesetjes"
+    "compressors"
   ],
   "test-stofplug-bf-foster": [
     "vulbenodigdheden"
@@ -18104,6 +18104,11 @@
       "tactical-bags",
       "tactical-gear"
     ],
+    "tacstack-molle-web-belt-clamp-3-pack": [
+      "belts",
+      "bretels",
+      "kleding"
+    ],
     "tacstack-organising-patches-general": [
       "patches",
       "tactical-gear"
@@ -18123,6 +18128,9 @@
     "tacstack-organising-patches-tactical": [
       "patches",
       "tactical-gear"
+    ],
+    "tacstack-pick-pluck-foam-for-l-95x30-rifle-case": [
+      "wapenkoffers"
     ],
     "tacstack-pick-pluck-foam-for-xl-131x34-rifle-case": [
       "wapenkoffers"
@@ -18159,6 +18167,10 @@
     "tactical-vest-nuprol-molle-harness-pmc-black": [
       "chest-rigs",
       "plate-carriers"
+    ],
+    "temperature-sensor-kit-hill-ec-3000": [
+      "revisiesets",
+      "wapen-toebehoren"
     ],
     "test-stofplug-bf-foster": [
       "persluchtfles-accessoires"
@@ -30315,6 +30327,10 @@
     "sporttas-walther-met-wielen",
     "speaker-mic-baofeng-bs-uv25-tactical",
     "speaker-mic-code-red-hot-shot-kenwood-2-pin",
-    "speaker-mic-code-red-signal-21-1"
+    "speaker-mic-code-red-signal-21-1",
+    "tacstack-molle-web-belt-clamp-3-pack",
+    "tacstack-pick-pluck-foam-for-l-95x30-rifle-case",
+    "team-armband-g-g-6-pack",
+    "temperature-sensor-kit-hill-ec-3000"
   ]
 }
