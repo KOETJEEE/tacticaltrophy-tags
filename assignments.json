@@ -1500,9 +1500,6 @@
   "red-dot-aim-o-xps-2-z-qd-mount-dark-earth": [
     "red-dots"
   ],
-  "air-stripper-donnyfl-fatboy-insert-kit": [
-    "luchtbuks-dempers"
-  ],
   "pijl-fx-gold-tip": [
     "kruisboogpijlen"
   ],
@@ -1591,11 +1588,9 @@
     "airsoft-accessoires"
   ],
   "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-black": [
-    "luchtbuks-dempers",
     "mondingsremmen"
   ],
   "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-silver": [
-    "luchtbuks-dempers",
     "mondingsremmen"
   ],
   "barrel-tuner-shroud-fx": [
@@ -2546,26 +2541,24 @@
     "richtkijkers"
   ],
   "suppressor-g-g-double-screw": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "demper-g-g-goms-mk1": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "demper-g-g-goms-mk3": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "demper-g-g-goms-mk5": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "demper-g-g-goms-mk6": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "demper-g-g-goms-mk7": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
-  "suppressor-g-g-kwa-kriss-vector": [
-    "luchtbuks-dempers"
-  ],
+  "suppressor-g-g-kwa-kriss-vector": [],
   "die-blokken-frankford-arsenal-3-pack": [
     "persen-onderdelen"
   ],
@@ -2827,24 +2820,6 @@
   ],
   "rangefinder-element-optics-titan-3k": [
     "afstandsmeters"
-  ],
-  "endcap-donnyfl-qd-fx-donnyfl": [
-    "luchtbuks-dempers"
-  ],
-  "endcap-donnyfl-qd-koi-tanto": [
-    "luchtbuks-dempers"
-  ],
-  "endcap-donnyfl-ronin-emperor": [
-    "luchtbuks-dempers"
-  ],
-  "endcap-donnyfl-ronin-emperor-m14x1": [
-    "luchtbuks-dempers"
-  ],
-  "endcap-donnyfl-sumo-tatsu-shogun": [
-    "luchtbuks-dempers"
-  ],
-  "endcap-donnyfl-tanto-koi": [
-    "luchtbuks-dempers"
   ],
   "magnifier-falke-b3x": [
     "voorzetvergrotingen"
@@ -3160,305 +3135,41 @@
   "ear-defender-walker-s-ultimate-power-quads-black": [
     "gehoorbescherming"
   ],
-  "geluiddemper-vulcan-long": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-vulcan-short": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-artemis-pp700s-a-m16": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-donnyfl-emperor-p-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-donnyfl-emperor-v3-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-donnyfl-emperor-v3-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-donnyfl-fatboy": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-donnyfl-fx-airguns": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-donnyfl-great-kami-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-donnyfl-great-kami-m23x1": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-donnyfl-koi-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-donnyfl-ronin-p-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-donnyfl-ronin-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
   "geluiddemper-donnyfl-ronin-m18x1": [
-    "airsoft-dempers"
+    "geluiddempers"
   ],
   "geluiddemper-donnyfl-ronin-vulcan": [
-    "airsoft-dempers"
+    "geluiddempers"
   ],
   "moderator-donnyfl-ryu-1-2-unf": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "moderator-donnyfl-shogun-p-1-2-unf": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "geluiddemper-donnyfl-shogun-1-2-unf": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "geluiddemper-donnyfl-sumo-1-2-unf": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "geluiddemper-donnyfl-sumo-vulcan": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "geluiddemper-donnyfl-tanto-1-2-unf": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "geluiddemper-donnyfl-tatsu-1-2-unf": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "moderator-donnyfl-yokozuna-n": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "moderator-donnyfl-yokozuna": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-eagle-vision-poseidon-60-interchangeable-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-eagle-vision-sigma-m4-interchangeable-1-2-unf-demper-6-35-mm-25": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-eagle-vision-triton-50-interchangeable-1-2-unf": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "moderator-epic-airguns": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-evanix-viper": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-fox-silencer-100": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-fox-silencer-300": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-fox-silencer-600-on-barrel": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-fox-silencer-600-over-barrel": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-fox-silencer-tune": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-fx-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-hogan-decimeater-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-huggett-atom-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-huggett-belita-compact-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-huggett-magna-30-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-huggett-mini-magna-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-huggett-std-deluxe-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-jts-ultra-compact": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-anschutz-9015": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-artemis-pp700s-a": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemper-adapter-bf-1-2-unf-naar-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-bf-11-0-mm": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-bf-15-0-mm": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-bf-16-0-mm": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-bf-16-2-mm": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-bf-16-4-mm": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-best-fittings-air-arms-s300-s400-s410-10-0-mm": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-aea-challenger-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-aea-challenger-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adaptor-donnyfl-aea-challenger-pro-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-aea-hp": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-aea-terminator-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-aea-zeus-extender-m23x1": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-air-venturi-extender-1-2x20": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-airforce-texan-lss-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-american-air-arms-slayer-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-artemis-m16-diana-outlaw": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-artemis-p15-diana-skyhawk": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-artemis-pp700s-a": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-benjamin-bulldog-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-benjamin-marauder-lg": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-benjamin-marauder-lp": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adaptor-donnyfl-jts-airguns-evanix-rainstorm": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-evanix-rainstorm-sniper-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-evanix-rex-gamo-tc35-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-fx-crown-royal-boss-bobcat": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-fx-impact-wildcat": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-fx-shroud-extender": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-gunpower-texan": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-hatsan-blitz": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-hatsan-piledriver-m18x1": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-hatsan-qe": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adaptor-donnyfl-huben-gk1": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-huben-k1": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-jts-airacuda-max": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-kral-arms-puncher-breaker-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-rti-priest-2": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adaptor-donnyfl-skout-epoch": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-donnyfl-snowpeak-pp750": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adaptor-donnyfl-umarex-gauntlet": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-donnyfl-uragan-king-1-2-unf": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adaptor-donnyfl-western-airguns-sidewinder": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adaptor-fox-silencer-tune-over-barrel": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-huggett-15-mm-slip-on": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-huggett-16-mm-slip-on": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-adapter-huggett-fx-m20x1-female": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-steyr-16-0-mm": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperadapter-weihrauch-hw97": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-cover-ulfhednar-miragecover-mk3": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-cover-walther-qsa-rs3": [
-    "luchtbuks-dempers"
-  ],
-  "baffle-donnyfl-ryu": [
-    "luchtbuks-dempers"
-  ],
-  "baffle-donnyfl-yokozuna": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperverlengstuk-donnyfl-fatboy": [
-    "luchtbuks-dempers"
-  ],
-  "geluiddemperverlengstuk-donnyfl-ronin-emperor": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-extender-donnyfl-yokozuna": [
-    "luchtbuks-dempers"
-  ],
-  "moderator-extender-fox-silencer-tune": [
-    "luchtbuks-dempers"
+    "geluiddempers"
   ],
   "geweerfoudraal-bergara-125x30": [
     "geweertassen-foudralen"
@@ -4872,9 +4583,6 @@
   "lens-wiley-x-saber-adv-yellow": [
     "oogbescherming"
   ],
-  "barrel-adaptor-donnyfl-qd": [
-    "luchtbuks-dempers"
-  ],
   "barrel-cover-g-g": [
     "airsoft-diversen-1"
   ],
@@ -5295,9 +5003,6 @@
     "magazijn-pouches",
     "holsters"
   ],
-  "magazine-holders-donnyfl-magnetic-for-fx-impact-dreamline-crown-maverick": [
-    "luchtbuks-dempers"
-  ],
   "magnet-black-scorpion-gear-for-holster-belt": [
     "holsters"
   ],
@@ -5328,9 +5033,6 @@
   "messingborstel-ks": [
     "schoonmaakborstels"
   ],
-  "wrench-donnyfl-endcap-remover": [
-    "luchtbuks-dempers"
-  ],
   "torque-screwdriver-audere-pro-2-10-nm-torx": [
     "gereedschap"
   ],
@@ -5347,7 +5049,6 @@
     "gereedschap"
   ],
   "mondingsrem-donnyfl-fatboy": [
-    "luchtbuks-dempers",
     "mondingsremmen"
   ],
   "monopod-adapter-saber-tactical": [
@@ -6853,6 +6554,9 @@
   "poetsstokgeleider-anschutz-klein-kaliber-geweer-match": [
     "stokgeleiders"
   ],
+  "poetsstokgeleider-bore-tech-17-25-gold": [
+    "schoonmaakstokken"
+  ],
   "poetsstokgeleider-bore-tech-25-30-red": [
     "stokgeleiders"
   ],
@@ -7025,7 +6729,6 @@
     "gereedschap"
   ],
   "suppressor-cleaner-bore-tech-decimator": [
-    "luchtbuks-dempers",
     "schoonmaaksetjes"
   ],
   "scope-guard-element-optics-neoprene": [
@@ -7563,9 +7266,6 @@
   ],
   "steel-pillars-anschutz-precise": [
     "kolven"
-  ],
-  "thread-protector-donnyfl-fx-impact-crown-wildcat-1-2-unf": [
-    "luchtbuks-dempers"
   ],
   "screwdriver-set-wheeler-benchtop-hex-torx-30-piece": [
     "gereedschap"
@@ -8655,9 +8355,6 @@
   ],
   "red-dot-victoptics-z4": [
     "red-dots"
-  ],
-  "felt-fox-silencer-tune-fiber": [
-    "luchtbuks-dempers"
   ],
   "viziergereedschap-wheeler-armorers-handgun": [
     "gereedschap"
@@ -15682,13 +15379,17 @@
       "wapen-toebehoren"
     ],
     "suppressor-g-g-double-screw": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "demper-g-g-goms-mk1": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "demper-g-g-goms-mk3": [
-      "luchtbuks"
+      "luchtbuks",
+      "wapen-toebehoren",
+      "luchtbuks-dempers"
     ],
     "demper-g-g-goms-mk5": [
       "luchtbuks"
@@ -15896,12 +15597,16 @@
     "geluiddemper-donnyfl-ronin-m18x1": [
       "luchtbuks",
       "luchtbuks-dempers",
-      "wapen-toebehoren"
+      "wapen-toebehoren",
+      "airsoft",
+      "airsoft-dempers"
     ],
     "geluiddemper-donnyfl-ronin-vulcan": [
       "luchtbuks-dempers",
       "wapen-toebehoren",
-      "luchtbuks"
+      "luchtbuks",
+      "airsoft",
+      "airsoft-dempers"
     ],
     "moderator-donnyfl-ryu-1-2-unf": [
       "luchtbuks-dempers",
@@ -15909,31 +15614,42 @@
       "luchtbuks"
     ],
     "moderator-donnyfl-shogun-p-1-2-unf": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-shogun-1-2-unf": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-sumo-1-2-unf": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers",
+      "wapen-toebehoren"
     ],
     "geluiddemper-donnyfl-sumo-vulcan": [
-      "luchtbuks"
+      "luchtbuks",
+      "wapen-toebehoren",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-tanto-1-2-unf": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-tatsu-1-2-unf": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "moderator-donnyfl-yokozuna-n": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "moderator-donnyfl-yokozuna": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "moderator-epic-airguns": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geweerfoudraal-bergara-125x30": [
       "foudralen",
