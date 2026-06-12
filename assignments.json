@@ -2285,20 +2285,16 @@
     "herlaadkits"
   ],
   "burst-disk-dominator-1-8k": [
-    "persluchtfles-accessoires",
-    "revisiesetjes"
+    "persluchtfles-accessoires"
   ],
   "burst-disk-dominator-3k": [
-    "persluchtfles-accessoires",
-    "revisiesetjes"
+    "persluchtfles-accessoires"
   ],
   "burst-disk-dominator-4-5k": [
-    "persluchtfles-accessoires",
-    "revisiesetjes"
+    "persluchtfles-accessoires"
   ],
   "burst-disk-dominator-7-5k": [
-    "persluchtfles-accessoires",
-    "revisiesetjes"
+    "persluchtfles-accessoires"
   ],
   "burst-disk-kit-hill-ec-3000": [
     "persluchtfles-accessoires",
@@ -15251,6 +15247,22 @@
       "schoonmaak-onderhoud",
       "schoonmaaksetjes"
     ],
+    "burst-disk-dominator-1-8k": [
+      "revisiesets",
+      "wapen-toebehoren"
+    ],
+    "burst-disk-dominator-3k": [
+      "revisiesets",
+      "wapen-toebehoren"
+    ],
+    "burst-disk-dominator-4-5k": [
+      "revisiesets",
+      "wapen-toebehoren"
+    ],
+    "burst-disk-dominator-7-5k": [
+      "revisiesets",
+      "wapen-toebehoren"
+    ],
     "camera-adapter-eagle-vision-side-cam-gopro-5-6-7-25-x75": [
       "onderhoud",
       "stokadapters",
@@ -26967,6 +26979,10 @@
     "helmet-adapters-tac-sky-comtac-arc-fde",
     "helmet-adapters-tac-sky-comtac-arc-black",
     "helmet-adapters-code-red-cr-tac-exfil",
-    "helmet-adapters-code-red-cr-miltac-rear-arc-for-fast-rail"
+    "helmet-adapters-code-red-cr-miltac-rear-arc-for-fast-rail",
+    "burst-disk-dominator-1-8k",
+    "burst-disk-dominator-3k",
+    "burst-disk-dominator-4-5k",
+    "burst-disk-dominator-7-5k"
   ]
 }
