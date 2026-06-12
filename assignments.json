@@ -8989,8 +8989,7 @@
     "petten"
   ],
   "baseball-cap-mesh-elite-tactical-nyco-extreme-9661": [
-    "petten",
-    "tactical-bags"
+    "petten"
   ],
   "baseball-ripstop-cap-elite-flex-4739": [
     "petten"
@@ -17451,6 +17450,18 @@
       "m-tac",
       "Tactical gear > Pouches > Admin Pouch"
     ],
+    "backpack-sturm-elite-genii-x-large-7756": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "backpack-sturm-with-ergonomic-straps-x-large-elite-genii-9013": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
     "bag-run-pack-9397": [
       "jacht",
       "schietsport",
@@ -17504,6 +17515,33 @@
       "Clothing > Headwear > Caps",
       "headwear",
       "m-tac"
+    ],
+    "baseball-cap-five-panel-9390": [
+      "Clothing > Headwear > Caps",
+      "m-tac",
+      "headwear"
+    ],
+    "baseball-cap-five-panel-nyco-extreme-9494": [
+      "Clothing > Headwear > Caps",
+      "headwear",
+      "m-tac"
+    ],
+    "baseball-cap-flex-rip-stop-4650": [
+      "Clothing > Headwear > Caps",
+      "headwear",
+      "m-tac",
+      "Urban Line"
+    ],
+    "baseball-cap-mesh-elite-tactical-nyco-extreme-9661": [
+      "Clothing > Headwear > Caps",
+      "m-tac",
+      "headwear",
+      "tactical-bags",
+      "tactical-gear"
+    ],
+    "baseball-ripstop-cap-elite-flex-4739": [
+      "Clothing > Headwear > Caps",
+      "headwear"
     ],
     "chain-for-tokens-8313": [
       "Clothing > Accessories",
@@ -26465,6 +26503,13 @@
     "balaclava-elite-fleece-320gm2-4593",
     "balaclava-elite-fleece-polartec-5887",
     "baseball-cap-elite-flex-rip-stop-4603",
-    "baseball-cap-elite-nyco-extreme-8572"
+    "baseball-cap-elite-nyco-extreme-8572",
+    "backpack-sturm-with-ergonomic-straps-x-large-elite-genii-9013",
+    "backpack-sturm-elite-genii-x-large-7756",
+    "baseball-cap-elite-tactical-nyco-extreme-8149",
+    "baseball-cap-five-panel-9390",
+    "baseball-cap-five-panel-nyco-extreme-9494",
+    "baseball-cap-flex-rip-stop-4650",
+    "baseball-cap-mesh-elite-tactical-nyco-extreme-9661"
   ]
 }
