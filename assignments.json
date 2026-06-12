@@ -7886,7 +7886,7 @@
     "airsoft-diversen-1"
   ],
   "cheek-rest-saber-tactical-fx-impact-ambidextrous": [
-    "kolven"
+    "cheek-risers"
   ],
   "magnifier-utg-3x-flip-to-side-qd": [
     "voorzetvergrotingen"
@@ -8565,7 +8565,7 @@
     "windmeters"
   ],
   "window-mount-vanguard-veo-2-ph-28wm": [
-    "montage-accessoires"
+    "statieven"
   ],
   "wolborstel-bore-tech-proof-positive": [
     "schoonmaakborstels"
@@ -8817,7 +8817,7 @@
     "richtmiddel-accessoires"
   ],
   "bugbuster-bug-a-salt-3-0-advanced-combat-fiber-optic": [
-    "vizieren"
+    "speelgoed"
   ],
   "admin-bag-10181": [
     "sling-bags"
@@ -18249,6 +18249,9 @@
     "stock-spacers-mdt-buttstock-spacer-kit": [
       "kolven"
     ],
+    "cheek-rest-saber-tactical-fx-impact-ambidextrous": [
+      "kolven"
+    ],
     "magnifier-utg-3x-flip-to-side-qd": [
       "voorzetkijkers"
     ],
@@ -18549,6 +18552,9 @@
     "wildbak-wegu-gft-92x60x20": [
       "wildvoer"
     ],
+    "window-mount-vanguard-veo-2-ph-28wm": [
+      "montage-accessoires"
+    ],
     "wolborstel-bore-tech-proof-positive": [
       "schoonmaak-onderhoud"
     ],
@@ -18586,6 +18592,11 @@
     ],
     "throw-lever-dnt-zulus-hd-v2": [
       "montage-accessoires"
+    ],
+    "bugbuster-bug-a-salt-3-0-advanced-combat-fiber-optic": [
+      "optiek",
+      "vizieren",
+      "wapen-toebehoren"
     ],
     "admin-bag-10181": [
       "Equipment and gear > Bags and backpacks",
@@ -25419,6 +25430,12 @@
       "Equipment and gear > Patches",
       "Military Line"
     ],
+    "vilha-cover-sticker-set-5pc-1022": [
+      "helm-covers",
+      "m-tac",
+      "Military Line",
+      "Tactical gear > Covers for helmets"
+    ],
     "waist-bag-city-x-pac-elite-9011": [
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
@@ -30349,6 +30366,11 @@
     "tool-head-frankford-arsenal-x-10",
     "trekkerslot-lockdown-met-cijfercombinatie",
     "walther-p99-6-mm-0-08j",
-    "wildbak-wegu-gft-92x60x20"
+    "wildbak-wegu-gft-92x60x20",
+    "window-mount-vanguard-veo-2-ph-28wm",
+    "bugbuster-bug-a-salt-3-0-advanced-combat-fiber-optic",
+    "cheek-rest-saber-tactical-fx-impact-ambidextrous",
+    "eod-response-log-a6-9791",
+    "vilha-cover-sticker-set-5pc-1022"
   ]
 }
