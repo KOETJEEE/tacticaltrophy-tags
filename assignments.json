@@ -5289,12 +5289,12 @@
     "holsters"
   ],
   "magazijnhouder-donnyfl-fx-wildcat": [
-    "luchtbuks-dempers",
-    "magazijn-pouches"
+    "holsters"
   ],
   "magazine-holder-epic-airguns-two-tactical-stock": [
     "kolven",
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "holsters"
   ],
   "magazijnhouder-imi-walther-ppq-p99-double": [
     "magazijn-pouches"
@@ -16277,6 +16277,13 @@
       "magazijn-pouches",
       "pouches"
     ],
+    "magazijnhouder-donnyfl-fx-wildcat": [
+      "luchtbuks-dempers",
+      "magazijn-pouches",
+      "wapen-toebehoren",
+      "pouches",
+      "luchtbuks"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -24514,6 +24521,8 @@
     "mag-pouch-amomax-double-clip",
     "magazine-pouch-black-scorpion-gear-single-double-stack-competition-red",
     "magazine-pouch-black-scorpion-gear-single-double-stack-competition-blue",
-    "magazine-pouch-black-scorpion-gear-single-double-stack-competition-black"
+    "magazine-pouch-black-scorpion-gear-single-double-stack-competition-black",
+    "magazijnhouder-donnyfl-fx-wildcat",
+    "magazine-holder-epic-airguns-two-tactical-stock"
   ]
 }
