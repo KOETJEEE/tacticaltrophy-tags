@@ -15,7 +15,6 @@
     "m-tac-drop-leg-platform-gen3-150",
     "lower-back-protection-for-ballistic-panel-inserts-xl-for-cuirass-qrs-9046",
     "lower-back-protection-for-ballistic-panel-inserts-for-cuirass-qrs-9059",
-    "keychain-10155",
     "key-holder-elite-8653",
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
@@ -9996,10 +9995,9 @@
     "tactical-shirts"
   ],
   "m-tac-alder-camouflage-suit-693": [
-    "camouflagenetten"
+    "kleding-accessoires"
   ],
   "m-tac-alpha-geniii-winter-jacket-3217": [
-    "jassen",
     "winterjassen"
   ],
   "m-tac-attachment-with-carabiner-672": [
@@ -19125,7 +19123,8 @@
       "m-tac"
     ],
     "lightweight-summer-socks-mortar-bombs-4396": [
-      "Clothing > Socks"
+      "Clothing > Socks",
+      "m-tac"
     ],
     "lightweight-tube-scarf-reaper-skull-7405": [
       "Clothing > Neck Warmer"
@@ -19157,11 +19156,14 @@
       "Equipment and gear > Sniper camouflage",
       "sniper",
       "Military Line",
-      "m-tac"
+      "m-tac",
+      "camouflagenetten",
+      "jacht"
     ],
     "m-tac-alpha-geniii-winter-jacket-3217": [
       "Clothing > Jackets",
-      "m-tac"
+      "m-tac",
+      "jassen"
     ],
     "m-tac-attachment-with-carabiner-672": [
       "bushcraft",
@@ -24757,7 +24759,20 @@
     "konus-preparaten-set-algemene-biologie-25-stuks-434976",
     "konus-lenzentelescoop-konustart-900b-60900-431738",
     "konus-lenzentelescoop-konustart-700b-60700-431737",
-    "konus-lenzentelescoop-konuspace-6-60800-431743"
+    "konus-lenzentelescoop-konuspace-6-60800-431743",
+    "t-shirt-worn-to-the-bone-oversize-9365",
+    "t-shirt-washed-cotton-hard-9885",
+    "t-shirt-viking-2853",
+    "t-shirt-ua-side-long-sleeve-6752",
+    "t-shirt-two-samurai-oversize-cotton-hard-10192",
+    "t-shirt-one-shot-oversize-9265",
+    "t-shirt-omega-10002",
+    "t-shirt-odin-6893",
+    "t-shirt-gold-samurai-oversize-9271",
+    "t-shirt-drakar-8893",
+    "t-shirt-death-from-above-7903",
+    "t-shirt-937-summer-5720",
+    "lightweight-tube-scarf-reaper-skull-7405"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -27831,6 +27846,53 @@
     "tactical-polo-shirt-6535-6633",
     "tactical-morale-patches-hook-and-loop-display-board-molle-80x135-294",
     "tactical-belt-attachnments-5pcs-3189",
-    "tactical-bag-shoulder-chest-pack-with-sling-152"
+    "tactical-bag-shoulder-chest-pack-with-sling-152",
+    "t-shirt-ultra-light-polartec-lady-5629",
+    "t-shirt-ultra-light-polartec-5593",
+    "t-shirt-sweat-wicking-athletic-genii-6493",
+    "t-shirt-summer-vent-8889",
+    "t-shirt-performance-10375",
+    "t-shirt-937-summer-lady-10317",
+    "lanyard-loopy-snake-scandinavian-silver-886",
+    "lanyard-scandinavian-mannaz-867",
+    "lanyard-scandinavian-silver-870",
+    "lanyard-scandinavian-small-chinese-knot-871",
+    "lanyard-scandinavian-small-helmet-of-terror-877",
+    "lanyard-scandinavian-small-triquetra-876",
+    "lanyard-viper-braid-927",
+    "lanyard-viper-cylindre-stainless-steel-918",
+    "lanyard-viper-cylindre-ua-917",
+    "large-assault-pack-backpack-972",
+    "large-assault-pack-backpack-laser-cut-975",
+    "laser-cut-shotgun-shell-pouch-for-12-gauge-9768",
+    "konvert-bag-x-pac-elite-8611",
+    "knife-lanyard-celtic-898",
+    "knife-lanyard-cuboid-skull-895",
+    "knife-lanyard-fishcylindre-892",
+    "knife-lanyard-helix-skull-887",
+    "knife-lanyard-loopy-snake-scandinavian-883",
+    "knife-lanyard-loopy-snake-skull-901",
+    "knife-lanyard-ninja-878",
+    "knife-lanyard-ninja-ver2-905",
+    "knife-lanyard-scandinavian-granule-864",
+    "knife-lanyard-viper-915",
+    "knife-lanyard-viper-scandinavian-919",
+    "knife-lanyard-viper-stainless-steel-923",
+    "knife-lanyard-zeus-930",
+    "knife-lanyard-zeus-stainless-steel-935",
+    "led-mini-flashlight-5923",
+    "keychain-carabiner-with-cable-10151",
+    "key-lock-carabiner-7621",
+    "light-sticks-45x40-mm-10-items-6482",
+    "lightweight-summer-socks-mortar-bombs-4396",
+    "lite-microfleece-hoodie-1166",
+    "lite-tactical-belt-genii-3310",
+    "long-sleeve-t-shirt-937-2101",
+    "m-tac-alder-camouflage-suit-693",
+    "m-tac-alpha-geniii-winter-jacket-3217",
+    "m-tac-attachment-with-carabiner-672",
+    "keychain-10155",
+    "m-tac-backpack-cover-large-7433",
+    "m-tac-backpack-genii-elite-small-234"
   ]
 }
