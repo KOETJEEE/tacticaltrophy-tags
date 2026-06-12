@@ -4355,12 +4355,10 @@
     "kolfolien"
   ],
   "stock-oil-birchwood-clear-sealer-filler": [
-    "kolfolien",
-    "kolven"
+    "kolfolien"
   ],
   "stock-oil-birchwood-wax": [
-    "kolfolien",
-    "kolven"
+    "kolfolien"
   ],
   "stock-oil-birchwood-rusty-walnut-wood-stain": [
     "kolfolien"
@@ -16025,6 +16023,16 @@
     "stock-oil-birchwood-genuine-oil-90-ml": [
       "schoonmaak-onderhoud"
     ],
+    "stock-oil-birchwood-clear-sealer-filler": [
+      "schoonmaak-onderhoud",
+      "wapen-toebehoren",
+      "kolven"
+    ],
+    "stock-oil-birchwood-wax": [
+      "schoonmaak-onderhoud",
+      "kolven",
+      "wapen-toebehoren"
+    ],
     "stock-oil-birchwood-rusty-walnut-wood-stain": [
       "schoonmaak-onderhoud"
     ],
@@ -26069,6 +26077,9 @@
     "stock-oil-birchwood-tru-oil",
     "stock-oil-birchwood-tru-oil-finishing-kit",
     "stock-oil-birchwood-sheen-conditioner",
-    "stock-oil-birchwood-rusty-walnut-wood-stain"
+    "stock-oil-birchwood-rusty-walnut-wood-stain",
+    "stock-oil-birchwood-genuine-oil-90-ml",
+    "stock-oil-birchwood-clear-sealer-filler",
+    "stock-oil-birchwood-wax"
   ]
 }
