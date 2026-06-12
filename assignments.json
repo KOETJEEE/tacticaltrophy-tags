@@ -7265,7 +7265,7 @@
     "tactical-bags"
   ],
   "sled-feet-accu-tac": [
-    "geweersteunen"
+    "bipod-toebehoren"
   ],
   "sharpening-stone-taidea-tg2015-1000-6000": [
     "slijpstenen"
@@ -7292,7 +7292,7 @@
     "persen-onderdelen"
   ],
   "smartphone-adapter-eagle-vision-side-cam-universal-25-x75": [
-    "stokadapters"
+    "filmen-opnemen"
   ],
   "lubricant-birchwood-moly-lube-dry-film": [
     "olien-vetten"
@@ -7328,22 +7328,22 @@
     "snelheidsmeters"
   ],
   "snelkoppeling-bf-1-8-bsp-naar-foster": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "quick-coupler-best-fittings-300-bar-din-female-quick-coupler-socket": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "snelkoppeling-bf-foster-female": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "snelkoppeling-bf-foster-female-verlengd": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "snelkoppeling-bf-foster-male-adapter": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "snelkoppeling-bf-foster-male-male": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "quick-coupler-dominator-hpa-qd-valve-adapter": [
     "vulbenodigdheden"
@@ -17994,6 +17994,39 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "sled-feet-accu-tac": [
+      "geweersteunen",
+      "jacht",
+      "schietsport"
+    ],
+    "smartphone-adapter-eagle-vision-side-cam-universal-25-x75": [
+      "schoonmaak-onderhoud",
+      "stokadapters",
+      "onderhoud"
+    ],
+    "lubricant-birchwood-moly-lube-dry-film": [
+      "schoonmaak-onderhoud",
+      "wapenvet",
+      "wapenolie"
+    ],
+    "snelkoppeling-bf-1-8-bsp-naar-foster": [
+      "persluchtfles-accessoires"
+    ],
+    "quick-coupler-best-fittings-300-bar-din-female-quick-coupler-socket": [
+      "persluchtfles-accessoires"
+    ],
+    "snelkoppeling-bf-foster-female": [
+      "persluchtfles-accessoires"
+    ],
+    "snelkoppeling-bf-foster-female-verlengd": [
+      "persluchtfles-accessoires"
+    ],
+    "snelkoppeling-bf-foster-male-adapter": [
+      "persluchtfles-accessoires"
+    ],
+    "snelkoppeling-bf-foster-male-male": [
+      "persluchtfles-accessoires"
     ],
     "quick-coupler-dominator-hpa-qd-valve-adapter": [
       "persluchtfles-accessoires"
@@ -30407,6 +30440,16 @@
     "snelkoppeling-foster-female-verlengd",
     "snelkoppeling-fx-mkii",
     "snelkoppeling-foster-female-zwart",
-    "quick-coupler-dominator-hpa-qd-valve-adapter"
+    "quick-coupler-dominator-hpa-qd-valve-adapter",
+    "snelkoppeling-bf-foster-male-male",
+    "snelkoppeling-bf-foster-male-adapter",
+    "snelkoppeling-bf-foster-female-verlengd",
+    "snelkoppeling-bf-foster-female",
+    "quick-coupler-best-fittings-300-bar-din-female-quick-coupler-socket",
+    "snelkoppeling-bf-1-8-bsp-naar-foster",
+    "lubricant-birchwood-moly-lube-dry-film",
+    "smartphone-adapter-eagle-vision-side-cam-universal-25-x75",
+    "small-swage-prime-pin-assembly-frankford-x-10",
+    "sled-feet-accu-tac"
   ]
 }
