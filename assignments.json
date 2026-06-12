@@ -4844,7 +4844,6 @@
   "laser-utg-tactical-red": [
     "tactical-bags"
   ],
-  "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny": [],
   "laser-cartridge-mantis-pink-rhino-training": [
     "trainingshalsbanden"
   ],
@@ -16228,6 +16227,10 @@
       "schoonmaak-onderhoud"
     ],
     "cleaning-wick-tipton-nope-rope": [
+      "schoonmaak-onderhoud",
+      "gereedschap"
+    ],
+    "loopreinigingskoord-vector-optics-5-5-mm-22": [
       "schoonmaak-onderhoud"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
@@ -24349,6 +24352,8 @@
     "loopreiniger-bore-tech-rimfire-blend",
     "loopreiniger-bore-tech-shotgun-blend-118-ml",
     "loopreinigingskoord-netarm-4-5-mm-grijs",
-    "loopreinigingskoord-netarm-9-9-5-mm-blauw"
+    "loopreinigingskoord-netarm-9-9-5-mm-blauw",
+    "cleaning-wick-tipton-nope-rope",
+    "loopreinigingskoord-vector-optics-5-5-mm-22"
   ]
 }
