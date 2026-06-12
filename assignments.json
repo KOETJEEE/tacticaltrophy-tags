@@ -6831,7 +6831,6 @@
     "schoonmaakstokken"
   ],
   "poetsstok-bore-tech-bore-stix-pistol-22-45": [
-    "schoonmaaksetjes",
     "schoonmaakstokken"
   ],
   "poetsstok-bore-tech-shotgun-stix-alloy": [
@@ -6859,36 +6858,29 @@
     "schoonmaakstokken"
   ],
   "poetsstokgeleider-anschutz-klein-kaliber-geweer-match": [
-    "schoonmaakstokken"
+    "stokgeleiders"
   ],
-  "poetsstokgeleider-bore-tech-17-25-gold": [
-    "schoonmaakstokken"
-  ],
+  "poetsstokgeleider-bore-tech-17-25-gold": [],
   "poetsstokgeleider-bore-tech-25-30-red": [
-    "schoonmaaksetjes",
-    "schoonmaakstokken"
+    "stokgeleiders"
   ],
   "poetsstokgeleider-bore-tech-8-mm-416-green": [
-    "schoonmaaksetjes",
-    "schoonmaakstokken"
+    "stokgeleiders"
   ],
   "poetsstokgeleider-bore-tech-ar10": [
-    "schoonmaaksetjes",
-    "schoonmaakstokken"
+    "stokgeleiders"
   ],
   "poetsstokgeleider-bore-tech-ar15": [
-    "schoonmaaksetjes",
-    "schoonmaakstokken"
+    "stokgeleiders"
   ],
   "poetsstokgeleider-bore-tech-bolt-action-rimfire": [
-    "schoonmaaksetjes",
-    "schoonmaakstokken"
+    "stokgeleiders"
   ],
   "poetsstokgeleider-wheeler-delta-series-ar-10": [
-    "schoonmaakstokken"
+    "stokgeleiders"
   ],
   "poetsstokgeleider-wheeler-delta-series-ar-15": [
-    "schoonmaakstokken"
+    "stokgeleiders"
   ],
   "polijsttrommel-frankford-arsenal-platinum-series-220v": [
     "herlaadkits"
@@ -16917,6 +16909,99 @@
       "manometers",
       "wapen-toebehoren"
     ],
+    "poetsset-megaline-geweer-3-delig": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsset-megaline-geweer-3-delig-4-5-mm-177": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsset-megaline-geweer-3-delig-cal-12-16-20": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsset-megaline-pistool-1-delig": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsset-ma-pistool-2-delig": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-bore-stix-22": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-bore-stix-223": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-bore-stix-338-41": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-bore-stix-416-50": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-bore-stix-6-mm-270": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-bore-stix-7-8-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-bore-stix-pistol-22-45": [
+      "schoonmaak-onderhoud",
+      "schoonmaaksetjes"
+    ],
+    "poetsstok-bore-tech-shotgun-stix-alloy": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-shotgun-stix-alloy-2-delig": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-shotgun-stix-walnut": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-v-stix-17-20-91-cm": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-v-stix-22-6-5-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-v-stix-270": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstok-bore-tech-v-stix-pistol-22-45": [
+      "schoonmaak-onderhoud"
+    ],
+    "cleaning-rod-megaline-shotgun": [
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstokgeleider-anschutz-klein-kaliber-geweer-match": [
+      "schoonmaakstokken",
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstokgeleider-bore-tech-25-30-red": [
+      "schoonmaaksetjes",
+      "schoonmaakstokken",
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstokgeleider-bore-tech-ar10": [
+      "schoonmaaksetjes",
+      "schoonmaakstokken",
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstokgeleider-bore-tech-ar15": [
+      "schoonmaaksetjes",
+      "schoonmaakstokken",
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstokgeleider-bore-tech-bolt-action-rimfire": [
+      "schoonmaaksetjes",
+      "schoonmaakstokken",
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstokgeleider-wheeler-delta-series-ar-10": [
+      "schoonmaakstokken",
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstokgeleider-wheeler-delta-series-ar-15": [
+      "schoonmaakstokken",
+      "schoonmaak-onderhoud"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25593,6 +25678,37 @@
     "picatinny-rail-set-utg-1-lang-2-kort",
     "picatinny-rail-set-utg-2-stuks-kort",
     "picatinny-rail-set-utg-3-stuks-lang",
-    "picatinny-verhoging-utg-super-slim"
+    "picatinny-verhoging-utg-super-slim",
+    "pistoolstandaard-lockdown-4-gun-222200",
+    "pistoolstandaard-lockdown-6-gun-222210",
+    "plate-carrier-nuprol-multicam",
+    "poetsborstelset-megaline",
+    "poetsset-megaline-geweer-3-delig",
+    "poetsset-megaline-geweer-3-delig-4-5-mm-177",
+    "poetsset-megaline-geweer-3-delig-cal-12-16-20",
+    "poetsset-megaline-pistool-1-delig",
+    "poetsset-ma-pistool-2-delig",
+    "poetsstok-bore-tech-bore-stix-22",
+    "poetsstok-bore-tech-bore-stix-223",
+    "poetsstok-bore-tech-bore-stix-338-41",
+    "poetsstok-bore-tech-bore-stix-416-50",
+    "poetsstok-bore-tech-bore-stix-6-mm-270",
+    "poetsstok-bore-tech-bore-stix-7-8-mm",
+    "poetsstok-bore-tech-bore-stix-pistol-22-45",
+    "poetsstok-bore-tech-shotgun-stix-alloy",
+    "poetsstok-bore-tech-shotgun-stix-alloy-2-delig",
+    "poetsstok-bore-tech-shotgun-stix-walnut",
+    "poetsstok-bore-tech-v-stix-17-20-91-cm",
+    "poetsstok-bore-tech-v-stix-22-6-5-mm",
+    "poetsstok-bore-tech-v-stix-270",
+    "poetsstok-bore-tech-v-stix-pistol-22-45",
+    "cleaning-rod-megaline-shotgun",
+    "poetsstokgeleider-anschutz-klein-kaliber-geweer-match",
+    "poetsstokgeleider-bore-tech-25-30-red",
+    "poetsstokgeleider-bore-tech-8-mm-416-green",
+    "poetsstokgeleider-bore-tech-ar10",
+    "poetsstokgeleider-bore-tech-ar15",
+    "poetsstokgeleider-bore-tech-bolt-action-rimfire",
+    "poetsstokgeleider-wheeler-delta-series-ar-10"
   ]
 }
