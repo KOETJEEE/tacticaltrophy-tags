@@ -10013,7 +10013,8 @@
   ],
   "m-tac-backpack-inserts-3-pcs-719": [
     "tactical-bags",
-    "tassen-rugzakken"
+    "tassen-rugzakken",
+    "transport-accessoires"
   ],
   "m-tac-backpack-mission-pack-7437": [
     "tactical-bags",
@@ -10068,8 +10069,7 @@
     "chest-rigs"
   ],
   "m-tac-cobra-buckle-tactical-belt-304": [
-    "riemen-bretels",
-    "tactical-riemen"
+    "riemen-bretels"
   ],
   "m-tac-cobra-buckle-tactical-belt-genii-312": [
     "riemen-bretels",
@@ -10089,7 +10089,7 @@
     "sling-bags"
   ],
   "m-tac-double-duty-tactical-belt-163": [
-    "tactical-riemen"
+    "riemen-bretels"
   ],
   "m-tac-double-mag-pouch-hook-backed-magazine-284": [
     "magazijn-pouches"
@@ -10128,7 +10128,8 @@
     "plate-carriers"
   ],
   "m-tac-gas-spray-holder-genii-223": [
-    "zelfverdediging"
+    "zelfverdediging",
+    "magazijn-pouches"
   ],
   "m-tac-gloves-assault-tactical-mk3-7137": [
     "tactical-handschoenen"
@@ -10171,10 +10172,11 @@
     "drinkflessen-thermos"
   ],
   "m-tac-insert-modular-small-2-sections-666": [
-    "admin-pouches"
+    "transport-accessoires"
   ],
   "m-tac-insert-modular-small-3-sections-663": [
-    "admin-pouches"
+    "admin-pouches",
+    "transport-accessoires"
   ],
   "m-tac-internal-tiger-belt-for-range-belt-817": [
     "tactical-riemen"
@@ -19223,6 +19225,13 @@
       "pouches",
       "m-tac"
     ],
+    "m-tac-bandolier-with-velcro-for-2-cartridges-cal-308-776": [
+      "m-tac",
+      "Military Line",
+      "pouches",
+      "sniper-pouches",
+      "Tactical gear > Pouches > Pouches for sniper rifles"
+    ],
     "m-tac-bandolier-with-velcro-for-2-cartridges-cal-338-775": [
       "jacht",
       "tactical-gear",
@@ -19312,7 +19321,8 @@
       "Clothing > Belt",
       "tactical-gear",
       "riemen-bretels",
-      "tactical-bags"
+      "tactical-bags",
+      "tactical-riemen"
     ],
     "m-tac-cobra-buckle-tactical-belt-genii-312": [
       "tactical-bags",
@@ -19358,7 +19368,8 @@
       "Clothing > Belt",
       "m-tac",
       "riemen-bretels",
-      "Tactical Line"
+      "Tactical Line",
+      "tactical-riemen"
     ],
     "m-tac-double-mag-pouch-hook-backed-magazine-284": [
       "Equipment and gear > Bags and backpacks > Backpack accessories",
@@ -19417,6 +19428,10 @@
       "m-tac",
       "Tactical gear > Tactical vests > Accessories",
       "tactical-vest-accessoires"
+    ],
+    "m-tac-gas-spray-holder-genii-223": [
+      "m-tac",
+      "Tactical gear > Self-defense accessories"
     ],
     "m-tac-gloves-assault-tactical-mk3-7137": [
       "tactical-bags",
@@ -19511,7 +19526,10 @@
       "wapen-accessoires",
       "Equipment and gear > Bags and backpacks > Backpack accessories",
       "rugzak-accessoires",
-      "m-tac"
+      "m-tac",
+      "admin-pouches",
+      "survival",
+      "tactical-gear"
     ],
     "m-tac-insert-modular-small-3-sections-663": [
       "wapen-accessoires",
@@ -27893,6 +27911,52 @@
     "m-tac-attachment-with-carabiner-672",
     "keychain-10155",
     "m-tac-backpack-cover-large-7433",
-    "m-tac-backpack-genii-elite-small-234"
+    "m-tac-backpack-genii-elite-small-234",
+    "m-tac-backpack-inserts-3-pcs-719",
+    "m-tac-backpack-mission-pack-7437",
+    "m-tac-backpack-small-elite-hex-724",
+    "m-tac-backpack-case-for-weapons-105-cm-genii-elite-8199",
+    "m-tac-bag-magnet-bag-x-pac-elite-9399",
+    "m-tac-bandolier-with-velcro-for-2-cartridges-cal-308-776",
+    "m-tac-bandolier-with-velcro-for-2-cartridges-cal-338-775",
+    "m-tac-baseball-cap-flex-rip-stop-4664",
+    "m-tac-bat-wing-bag-elite-hex-424",
+    "m-tac-berg-buckle-tactical-belt-205",
+    "m-tac-buckler-bag-elite-hex-384",
+    "m-tac-carry-sling-bag-elite-geniv-82",
+    "m-tac-carry-sling-bag-elite-geniv-with-velcro-110",
+    "m-tac-case-for-weapons-128-cm-7650",
+    "m-tac-chain-for-tokens-10-cm-8315",
+    "m-tac-chest-rig-elite-1048",
+    "m-tac-cobra-buckle-tactical-belt-304",
+    "m-tac-cobra-buckle-tactical-belt-genii-312",
+    "m-tac-collapsible-grappling-hook-7630",
+    "m-tac-cross-bag-slim-elite-hex-698",
+    "m-tac-damper-on-the-shoulder-strap-40-mm-elite-474",
+    "m-tac-damper-on-the-shoulder-strap-50-mm-elite-475",
+    "m-tac-double-mag-pouch-hook-backed-magazine-284",
+    "m-tac-double-duty-tactical-belt-163",
+    "m-tac-ecopybook-tactical-an-all-weather-notebook-fireteam-squad-8630",
+    "m-tac-ecopybook-tactical-an-all-weather-notebook-a5-8628",
+    "m-tac-ecopybook-tactical-ruler-protractor-nato-chicken-8096",
+    "m-tac-elastic-suspenders-l7-260",
+    "m-tac-field-maintenance-tray-18x30cm-745",
+    "m-tac-fingerless-gloves-assault-tactical-mk4-7207",
+    "m-tac-front-panel-for-plate-carrier-cuirass-qrs-519",
+    "m-tac-front-panel-for-plate-carrier-cuirass-qrs-xl-639",
+    "m-tac-gas-spray-holder-genii-223",
+    "m-tac-gloves-assault-tactical-mk3-7137",
+    "m-tac-gloves-assault-tactical-mk4-7147",
+    "m-tac-gloves-assault-tactical-mk5-7235",
+    "m-tac-gloves-nomex-sport-leather-8120",
+    "m-tac-gloves-police-7222",
+    "m-tac-gloves-summer-vent-8108",
+    "m-tac-gun-backpack-case-105-cm-elite-hex-515",
+    "m-tac-gun-belt-single-point-669",
+    "m-tac-hoodie-combat-black-edition-8707",
+    "m-tac-hook-loop-utility-panel-200",
+    "m-tac-horizontal-utility-pouch-65",
+    "m-tac-hydration-bladder-15l-8553",
+    "m-tac-insert-modular-small-2-sections-666"
   ]
 }
