@@ -9023,7 +9023,6 @@
   ],
   "backpack-case-for-weapons-105-cm-genii-elite-hex-8200": [
     "tactical-bags",
-    "tassen-rugzakken",
     "geweertassen-foudralen"
   ],
   "backpack-cover-for-weapons-85-cm-genii-elite-hex-8201": [
@@ -9070,24 +9069,21 @@
     "petten"
   ],
   "baseball-tactical-cap-elite-flex-rip-stop-4608": [
-    "petten",
-    "tactical-bags"
+    "petten"
   ],
   "bat-wing-bag-elite-254": [
-    "tassen-rugzakken"
+    "sling-bags"
   ],
   "baton-pouch-elite-208": [
-    "zelfverdediging"
+    "magazijn-pouches"
   ],
   "battle-fleece-polartec-6406": [
-    "fleece",
-    "truien"
+    "fleece"
   ],
   "bearded-skull-3d-pvc-5153": [
     "patches"
   ],
   "berserk-jacket-3811": [
-    "jassen",
     "tussenseizoenjassen",
     "softshell-jassen"
   ],
@@ -9099,7 +9095,7 @@
     "ondergoed"
   ],
   "buckler-bag-elite-3496": [
-    "tassen-rugzakken"
+    "sling-bags"
   ],
   "carabiner-9782": [
     "karabijnhaken"
@@ -18140,6 +18136,12 @@
       "rugzakken",
       "m-tac"
     ],
+    "backpack-sturm-elite-genii-965": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "tassen",
+      "m-tac",
+      "rugzakken"
+    ],
     "backpack-sturm-elite-genii-x-large-7756": [
       "Equipment and gear > Bags and backpacks > Backpacks",
       "tassen",
@@ -18151,6 +18153,23 @@
       "tassen",
       "rugzakken",
       "m-tac"
+    ],
+    "backpack-case-for-weapons-105-cm-genii-elite-hex-8200": [
+      "tassen-rugzakken",
+      "foudralen",
+      "geweertassen",
+      "rugzakken",
+      "m-tac",
+      "Tactical gear > Weapon covers",
+      "wapenhoezen",
+      "tassen"
+    ],
+    "backpack-cover-for-weapons-85-cm-genii-elite-hex-8201": [
+      "foudralen",
+      "geweertassen",
+      "m-tac",
+      "Tactical gear > Weapon covers",
+      "wapenhoezen"
     ],
     "bag-run-pack-9397": [
       "jacht",
@@ -18233,6 +18252,110 @@
       "Clothing > Headwear > Caps",
       "headwear",
       "m-tac"
+    ],
+    "baseball-tactical-cap-elite-flex-rip-stop-4608": [
+      "Clothing > Headwear > Caps",
+      "m-tac",
+      "headwear",
+      "tactical-gear",
+      "tactical-bags"
+    ],
+    "bat-wing-bag-elite-254": [
+      "Equipment and gear > Bags and backpacks > Bags",
+      "m-tac",
+      "tassen-rugzakken",
+      "schietsport",
+      "jacht",
+      "Military Line",
+      "rugzakken",
+      "tassen"
+    ],
+    "baton-pouch-elite-208": [
+      "survival",
+      "zelfverdediging",
+      "m-tac",
+      "Tactical gear > Self-defense accessories"
+    ],
+    "battle-fleece-polartec-6406": [
+      "truien",
+      "Clothing > Fleeces",
+      "fleeces",
+      "m-tac"
+    ],
+    "bearded-skull-3d-pvc-5153": [
+      "Equipment and gear > Patches",
+      "m-tac"
+    ],
+    "berserk-jacket-3811": [
+      "jassen",
+      "Clothing > Jackets > Mid-season jackets",
+      "m-tac"
+    ],
+    "big-tactical-ruler-protractor-nato-315208-mm-blue-edge-9792": [
+      "m-tac"
+    ],
+    "brief-active-level-i-6160": [
+      "Clothing > Underwear > Everyday underwear",
+      "Sport Line",
+      "m-tac"
+    ],
+    "buckler-bag-elite-3496": [
+      "schietsport",
+      "jacht",
+      "tassen-rugzakken",
+      "Equipment and gear > Bags and backpacks > Bags",
+      "Tactical Line",
+      "rugzakken",
+      "tassen",
+      "m-tac"
+    ],
+    "carabiner-9782": [
+      "m-tac"
+    ],
+    "carabiner-10-cm-7416": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "Tactical Line",
+      "m-tac",
+      "tourism > Carabiners"
+    ],
+    "carabiner-10cm-with-bayonet-lock-keylock-9775": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "tourism > Carabiners",
+      "m-tac"
+    ],
+    "carabiner-8-cm-7417": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "tourism > Carabiners",
+      "Tactical Line",
+      "m-tac"
+    ],
+    "carabiner-grimloc-9719": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "tourism > Carabiners",
+      "m-tac"
+    ],
+    "carabiner-type-2-9778": [
+      "m-tac"
+    ],
+    "cartographic-compass-with-mirror-large-7348": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "navigatie",
+      "m-tac",
+      "Outdoor Line",
+      "tourism > Compasses"
+    ],
+    "cartographic-compass-with-mirror-small-7347": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "m-tac",
+      "navigatie",
+      "Outdoor Line",
+      "tourism > Compasses"
     ],
     "chain-for-tokens-8313": [
       "Clothing > Accessories",
@@ -24805,6 +24928,9 @@
     ]
   },
   "_added": {
+    "brief-active-level-i-6160": [
+      "maattabel-mtac"
+    ],
     "hoodie-odin-mystery-8368": [
       "maattabel-mtac"
     ],
@@ -28685,6 +28811,27 @@
     "backpack-large-geniv-elite-243",
     "backpack-mission-pack-elite-hex-692",
     "backpack-recon-elite-10444",
-    "backpack-single-strap-agent-elite-hex-black-10199"
+    "backpack-single-strap-agent-elite-hex-black-10199",
+    "backpack-sturm-elite-777",
+    "backpack-sturm-elite-genii-965",
+    "backpack-case-for-weapons-105-cm-genii-elite-hex-8200",
+    "backpack-cover-for-weapons-85-cm-genii-elite-hex-8201",
+    "baseball-tactical-cap-elite-flex-rip-stop-4608",
+    "bat-wing-bag-elite-254",
+    "baton-pouch-elite-208",
+    "battle-fleece-polartec-6406",
+    "bearded-skull-3d-pvc-5153",
+    "berserk-jacket-3811",
+    "big-tactical-ruler-protractor-nato-315208-mm-blue-edge-9792",
+    "brief-active-level-i-6160",
+    "buckler-bag-elite-3496",
+    "carabiner-9782",
+    "carabiner-10-cm-7416",
+    "carabiner-10cm-with-bayonet-lock-keylock-9775",
+    "carabiner-8-cm-7417",
+    "carabiner-grimloc-9719",
+    "carabiner-type-2-9778",
+    "cartographic-compass-with-mirror-large-7348",
+    "cartographic-compass-with-mirror-small-7347"
   ]
 }
