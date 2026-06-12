@@ -22,7 +22,6 @@
     "tactical-polo-shirt-long-sleeve-6535-6696",
     "tactical-polo-shirt-ranger-6535-9260",
     "batterij-nuprol-nimh-8-4v-1600mah-small",
-    "mirage-band-attachment-rome",
     "seating-pad-with-belt-20",
     "m-tac-seating-pad-with-belt-18",
     "winter-jacket-alpha-geniv-pro-pimaloft-3915",
@@ -2701,7 +2700,6 @@
     "persluchtfles-accessoires"
   ],
   "carrying-bag-air-marksman-charging-cylinder-carbon-9-liter": [
-    "tassen-rugzakken",
     "persluchtfles-accessoires"
   ],
   "carrying-bag-bog-tripod": [
@@ -3924,10 +3922,10 @@
     "gereedschap"
   ],
   "hand-depriming-tool-frankford-arsenal": [
-    "herlaadkits"
+    "ontprimers"
   ],
   "hand-priming-tool-frankford-arsenal-perfect-seat": [
-    "herlaadkits"
+    "hand-priming-tools"
   ],
   "hand-pump-hill-mk5": [
     "pcp-handpompen"
@@ -15699,7 +15697,9 @@
     ],
     "carrying-bag-air-marksman-charging-cylinder-carbon-9-liter": [
       "rugzakken",
-      "tassen"
+      "tassen",
+      "jacht",
+      "tassen-rugzakken"
     ],
     "carrying-bag-bog-tripod": [
       "tassen-rugzakken",
@@ -15940,6 +15940,21 @@
     "rifle-bag-vanguard-endeavor-53-128x24": [
       "foudralen",
       "geweertassen"
+    ],
+    "hammer-and-punch-birchwood-armorer-s": [
+      "schoonmaak-onderhoud"
+    ],
+    "hamer-doorslagset-wheeler": [
+      "schoonmaak-onderhoud"
+    ],
+    "hamer-wheeler-nylon-messing": [
+      "schoonmaak-onderhoud"
+    ],
+    "hand-depriming-tool-frankford-arsenal": [
+      "herlaadkits"
+    ],
+    "hand-priming-tool-frankford-arsenal-perfect-seat": [
+      "herlaadkits"
     ],
     "herlaadblok-frankford-arsenal-perfect-fit-3-9mm": [
       "herlaadkits"
@@ -24611,6 +24626,16 @@
     "mount-arken-rigid-precision-cantilever-30-mm-weaver-picatinny-0-moa",
     "mount-arken-halo-ti-34-mm-medium-weaver-picatinny",
     "draagband-bf-voor-persluchtfles",
-    "carrying-bag-air-marksman-charging-cylinder-carbon-6-8-liter"
+    "carrying-bag-air-marksman-charging-cylinder-carbon-6-8-liter",
+    "carrying-bag-air-marksman-charging-cylinder-carbon-9-liter",
+    "fire-control-unit-wolverine-blinc-bluetooth-for-mtw-article",
+    "mirage-band-attachment-rome",
+    "hatchet-bul-tac-axe",
+    "hammer-and-punch-birchwood-armorer-s",
+    "hamer-doorslagset-wheeler",
+    "stake-sillosocks-decoy-crow-pigeon",
+    "hamer-wheeler-nylon-messing",
+    "hand-depriming-tool-frankford-arsenal",
+    "hand-priming-tool-frankford-arsenal-perfect-seat"
   ]
 }
