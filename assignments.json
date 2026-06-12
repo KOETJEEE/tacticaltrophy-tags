@@ -883,10 +883,8 @@
     "filmen-opnemen"
   ],
   "kowa-twist-up-voor-spotting-scope-oculair-te-10zte11wz-en-te17w-446600": [
-    "spotting-scopes",
-    "oculairs",
-    "monoculairs",
-    "richtkijkers"
+    "beschermkappen",
+    "observatie-accessoires"
   ],
   "kowa-verrekijker-bd25-10x25-441025": [
     "verrekijkers"
@@ -1232,46 +1230,46 @@
     "montage-rails"
   ],
   "accessory-rail-saber-tactical-arca-swiss-2-compact": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-saber-tactical-arca-swiss-2": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessoirerail-saber-tactical-arca-swiss": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-saber-tactical-arca-swiss-to-weaver-picatinny": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessoirerail-saber-tactical-fx-impact-extended-picatinny": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-ulfhednar-m-lok-arca-swiss-gen-ii-5-cm": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-ulfhednar-m-lok-to-arca-swiss-25-cm": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-utg-pro-m-lok-to-arca-swiss-9-4": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-utg-pro-m-lok-to-arca-swiss-7-9": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rails-grs-weaver-picatinny-for-bifrost-stock": [
-    "kolven"
+    "montage-rails"
   ],
   "accessory-set-fx-dynamic-fde": [
-    "die-accessoires"
+    "accessoireset"
   ],
   "accessory-set-fx-impact-fde": [
-    "die-accessoires"
+    "accessoireset"
   ],
   "accessory-set-fx-leopard-fde": [
-    "die-accessoires"
+    "accessoireset"
   ],
   "accessory-set-fx-panthera-fde": [
-    "die-accessoires"
+    "accessoireset"
   ],
   "adaptor-accu-tac-arca-swiss-mount-qd": [
     "montage-accessoires",
@@ -14534,6 +14532,10 @@
       "voorzetadapterring",
       "adapterring"
     ],
+    "kowa-groothoek-oculair-te-80xw-35x40x-440996": [
+      "kowa",
+      "spotting-scopes-accessoires"
+    ],
     "kowa-spotting-scope-body-tsn-66a-prominar-441667": [
       "monoculairs",
       "richtkijkers",
@@ -14619,6 +14621,14 @@
       "spotting-scopes-accessoires",
       "adapterring",
       "voorzetadapterring"
+    ],
+    "kowa-twist-up-voor-spotting-scope-oculair-te-10zte11wz-en-te17w-446600": [
+      "monoculairs",
+      "oculairs",
+      "richtkijkers",
+      "spotting-scopes",
+      "kowa",
+      "spotting-scopes-accessoires"
     ],
     "kowa-verrekijker-bd25-10x25-441025": [
       "kowa"
@@ -15018,6 +15028,53 @@
     ],
     "accessory-rails-rome-h25-l85-weaver-picatinny": [
       "picatinny-rails"
+    ],
+    "accessory-rail-saber-tactical-arca-swiss-2-compact": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-saber-tactical-arca-swiss-2": [
+      "picatinny-rails"
+    ],
+    "accessoirerail-saber-tactical-arca-swiss": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-saber-tactical-arca-swiss-to-weaver-picatinny": [
+      "picatinny-rails"
+    ],
+    "accessoirerail-saber-tactical-fx-impact-extended-picatinny": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-ulfhednar-m-lok-arca-swiss-gen-ii-5-cm": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-ulfhednar-m-lok-to-arca-swiss-25-cm": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-utg-pro-m-lok-to-arca-swiss-9-4": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-utg-pro-m-lok-to-arca-swiss-7-9": [
+      "picatinny-rails"
+    ],
+    "accessory-rails-grs-weaver-picatinny-for-bifrost-stock": [
+      "wapen-toebehoren",
+      "kolven"
+    ],
+    "accessory-set-fx-dynamic-fde": [
+      "die-accessoires",
+      "herladen"
+    ],
+    "accessory-set-fx-impact-fde": [
+      "die-accessoires",
+      "herladen"
+    ],
+    "accessory-set-fx-leopard-fde": [
+      "die-accessoires",
+      "herladen"
+    ],
+    "accessory-set-fx-panthera-fde": [
+      "die-accessoires",
+      "herladen"
     ],
     "adapter-vfg-voor-us-poetsstokken": [
       "stokadapters"
@@ -22363,6 +22420,23 @@
     "accessoirerail-krale-voor-snowpeak-pp750",
     "accessory-rail-mdt-oryx-arca",
     "accessory-rails-rome-h10-l55-weaver-picatinny",
-    "accessory-rails-rome-h20-l75-weaver-picatinny"
+    "accessory-rails-rome-h20-l75-weaver-picatinny",
+    "accessory-rails-rome-h25-l85-weaver-picatinny",
+    "accessory-rail-saber-tactical-arca-swiss-2-compact",
+    "accessory-rail-saber-tactical-arca-swiss-2",
+    "accessoirerail-saber-tactical-arca-swiss",
+    "accessory-rail-saber-tactical-arca-swiss-to-weaver-picatinny",
+    "accessoirerail-saber-tactical-fx-impact-extended-picatinny",
+    "accessory-rail-ulfhednar-m-lok-arca-swiss-gen-ii-5-cm",
+    "accessory-rail-ulfhednar-m-lok-to-arca-swiss-25-cm",
+    "accessory-rail-utg-pro-m-lok-to-arca-swiss-9-4",
+    "accessory-rail-utg-pro-m-lok-to-arca-swiss-7-9",
+    "accessory-rails-grs-weaver-picatinny-for-bifrost-stock",
+    "accessory-set-fx-dynamic-fde",
+    "accessory-set-fx-impact-fde",
+    "accessory-set-fx-leopard-fde",
+    "accessory-set-fx-panthera-fde",
+    "kowa-twist-up-voor-spotting-scope-oculair-te-10zte11wz-en-te17w-446600",
+    "kowa-groothoek-oculair-te-80xw-35x40x-440996"
   ]
 }
