@@ -2120,7 +2120,7 @@
     "persluchtcilinders"
   ],
   "bottle-sleeve-fx-dynamic-redback-fde": [
-    "geweersteunen"
+    "persluchtcilinders"
   ],
   "schietbril-caldwell-pro-range-glasses": [
     "oogbescherming"
@@ -2360,91 +2360,91 @@
     "lokkraaien"
   ],
   "chassis-mdt-acc-elite-cz-457-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-elite-cz-457-fde": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-elite-cz-457-titanium-blue": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-elite-remington-700-sa-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-elite-remington-700-sa-titanium-blue": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-elite-remington-700-sa-fde": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-elite-tikka-t3-t3x-sa-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-elite-tikka-t3-t3x-sa-fde": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-elite-tikka-t3-t3x-sa-titanium-blue": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-premier-gen2-cz-457-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-premier-gen2-cz-457-fde": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-premier-gen2-remington-700-sa-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-premier-gen2-remington-700-sa-fde": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-premier-gen2-tikka-t3-t3x-sa-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-acc-premier-gen2-tikka-t3-t3x-sa-fde": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-field-stock-cz-457-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-field-stock-remington-700-sa-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-field-stock-tikka-t3-t3x-sa-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-hnt26-folding-remington-700-sa": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-hnt26-non-folding-remington-700-sa": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-oryx-cz-457-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-oryx-cz-457-fde": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-oryx-remington-700-sa-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-oryx-remington-700-sa-fde": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-oryx-tikka-t1x-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-oryx-tikka-t1x-fde": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-oryx-tikka-t3-t3x-sa-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-oryx-tikka-t3-t3x-sa-fde": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-xrs-remington-700-sa-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-mdt-xrs-tikka-t3-t3x-sa-black": [
     "kolven"
@@ -15322,6 +15322,10 @@
       "mondstukken",
       "gebitsbeschermers"
     ],
+    "bottle-sleeve-fx-dynamic-redback-fde": [
+      "geweersteunen",
+      "jacht"
+    ],
     "bronsborstel-bore-tech-proof-positive-3-pack": [
       "schoonmaak-onderhoud"
     ],
@@ -15340,6 +15344,94 @@
     "bronzen-kamerborstel-bore-tech-proof-positive-ar15": [
       "schoonmaak-onderhoud",
       "schoonmaaksetjes"
+    ],
+    "chassis-mdt-acc-elite-cz-457-black": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-elite-cz-457-fde": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-elite-cz-457-titanium-blue": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-elite-remington-700-sa-black": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-elite-remington-700-sa-titanium-blue": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-elite-remington-700-sa-fde": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-elite-tikka-t3-t3x-sa-black": [
+      "wapen-toebehoren",
+      "kolven"
+    ],
+    "chassis-mdt-acc-elite-tikka-t3-t3x-sa-fde": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-elite-tikka-t3-t3x-sa-titanium-blue": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-premier-gen2-cz-457-black": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-premier-gen2-cz-457-fde": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-premier-gen2-remington-700-sa-black": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-premier-gen2-remington-700-sa-fde": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-premier-gen2-tikka-t3-t3x-sa-black": [
+      "kolven"
+    ],
+    "chassis-mdt-acc-premier-gen2-tikka-t3-t3x-sa-fde": [
+      "kolven"
+    ],
+    "chassis-mdt-field-stock-cz-457-black": [
+      "kolven"
+    ],
+    "chassis-mdt-field-stock-remington-700-sa-black": [
+      "kolven"
+    ],
+    "chassis-mdt-field-stock-tikka-t3-t3x-sa-black": [
+      "kolven"
+    ],
+    "chassis-mdt-hnt26-folding-remington-700-sa": [
+      "kolven"
+    ],
+    "chassis-mdt-hnt26-non-folding-remington-700-sa": [
+      "kolven"
+    ],
+    "chassis-mdt-oryx-cz-457-black": [
+      "kolven"
+    ],
+    "chassis-mdt-oryx-cz-457-fde": [
+      "kolven"
+    ],
+    "chassis-mdt-oryx-remington-700-sa-black": [
+      "kolven"
+    ],
+    "chassis-mdt-oryx-remington-700-sa-fde": [
+      "kolven"
+    ],
+    "chassis-mdt-oryx-tikka-t1x-black": [
+      "kolven"
+    ],
+    "chassis-mdt-oryx-tikka-t1x-fde": [
+      "kolven"
+    ],
+    "chassis-mdt-oryx-tikka-t3-t3x-sa-black": [
+      "kolven"
+    ],
+    "chassis-mdt-oryx-tikka-t3-t3x-sa-fde": [
+      "kolven"
+    ],
+    "chassis-mdt-xrs-remington-700-sa-black": [
+      "kolven"
     ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
@@ -22836,6 +22928,36 @@
     "bronsborstel-bore-tech-spiral-voor-hagelgeweer",
     "bronsborstel-bore-tech-wire-voor-hagelgeweer",
     "bronzen-kamerborstel-bore-tech-proof-positive-ar10",
-    "bronzen-kamerborstel-bore-tech-proof-positive-ar15"
+    "bronzen-kamerborstel-bore-tech-proof-positive-ar15",
+    "bottle-sleeve-fx-dynamic-redback-fde",
+    "red-dot-bul-b-a-o-1-4-moa",
+    "chassis-mdt-acc-elite-cz-457-black",
+    "chassis-mdt-acc-elite-cz-457-fde",
+    "chassis-mdt-acc-elite-cz-457-titanium-blue",
+    "chassis-mdt-acc-elite-remington-700-sa-black",
+    "chassis-mdt-acc-elite-remington-700-sa-titanium-blue",
+    "chassis-mdt-acc-elite-remington-700-sa-fde",
+    "chassis-mdt-acc-elite-tikka-t3-t3x-sa-black",
+    "chassis-mdt-acc-elite-tikka-t3-t3x-sa-fde",
+    "chassis-mdt-acc-elite-tikka-t3-t3x-sa-titanium-blue",
+    "chassis-mdt-acc-premier-gen2-cz-457-black",
+    "chassis-mdt-acc-premier-gen2-cz-457-fde",
+    "chassis-mdt-acc-premier-gen2-remington-700-sa-black",
+    "chassis-mdt-acc-premier-gen2-remington-700-sa-fde",
+    "chassis-mdt-acc-premier-gen2-tikka-t3-t3x-sa-black",
+    "chassis-mdt-acc-premier-gen2-tikka-t3-t3x-sa-fde",
+    "chassis-mdt-field-stock-cz-457-black",
+    "chassis-mdt-field-stock-remington-700-sa-black",
+    "chassis-mdt-field-stock-tikka-t3-t3x-sa-black",
+    "chassis-mdt-hnt26-folding-remington-700-sa",
+    "chassis-mdt-hnt26-non-folding-remington-700-sa",
+    "chassis-mdt-oryx-cz-457-black",
+    "chassis-mdt-oryx-cz-457-fde",
+    "chassis-mdt-oryx-remington-700-sa-black",
+    "chassis-mdt-oryx-remington-700-sa-fde",
+    "chassis-mdt-oryx-tikka-t1x-black",
+    "chassis-mdt-oryx-tikka-t1x-fde",
+    "chassis-mdt-oryx-tikka-t3-t3x-sa-black",
+    "chassis-mdt-oryx-tikka-t3-t3x-sa-fde"
   ]
 }
