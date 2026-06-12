@@ -7636,7 +7636,7 @@
     "luchtdrukmunitie"
   ],
   "tracerballs-umarex-t4e-performance-trb-50-bulk-17-6-grain": [
-    "airsoft-diversen-1"
+    "luchtdrukmunitie"
   ],
   "training-system-mantis-black-beard-ar15-red": [
     "trainingssystemen"
@@ -18455,6 +18455,10 @@
       "persluchtfles-accessoires"
     ],
     "tracerballs-umarex-t4e-performance-trb-50-17-6-grain": [
+      "airsoft",
+      "airsoft-diversen"
+    ],
+    "tracerballs-umarex-t4e-performance-trb-50-bulk-17-6-grain": [
       "airsoft",
       "airsoft-diversen"
     ],
@@ -30745,6 +30749,8 @@
     "rubberballs-umarex-t4e-performance-rbi-steel-core-50-44-9-grain",
     "rubberballs-umarex-t4e-performance-rub-50-bulk-17-6-grain",
     "rubberballs-umarex-t4e-practice-rub-50-19-grain",
-    "rubberballs-umarex-t4e-practice-rub-50-bulk-19-grain"
+    "rubberballs-umarex-t4e-practice-rub-50-bulk-19-grain",
+    "tracerballs-umarex-t4e-performance-trb-50-17-6-grain",
+    "tracerballs-umarex-t4e-performance-trb-50-bulk-17-6-grain"
   ]
 }
