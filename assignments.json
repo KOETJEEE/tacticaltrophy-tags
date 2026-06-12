@@ -5863,7 +5863,7 @@
     "picatinny-rails"
   ],
   "mounting-rail-epic-airguns-one-extended": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "mounting-rail-fx-drs-30-moa-high-weaver-picatinny": [
     "picatinny-rails"
@@ -5872,10 +5872,10 @@
     "picatinny-rails"
   ],
   "mounting-rail-krale-fx-impact-weaver-picatinny-extended": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "mounting-rail-laugo-arms-alien-optical-sight": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "mounting-rail-pts-unity-tactical-fast-riser-black": [
     "picatinny-rails"
@@ -16744,6 +16744,15 @@
     "montagerail-atlas-picatinny-bt28": [
       "picatinny-rails"
     ],
+    "mounting-rail-epic-airguns-one-extended": [
+      "picatinny-rails"
+    ],
+    "mounting-rail-krale-fx-impact-weaver-picatinny-extended": [
+      "picatinny-rails"
+    ],
+    "mounting-rail-laugo-arms-alien-optical-sight": [
+      "picatinny-rails"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25173,6 +25182,12 @@
     "mounting-rail-air-marksman-backbone-30-moa-long-bronze",
     "mounting-rail-air-marksman-backbone-30-moa-medium-black",
     "mounting-rail-air-marksman-backbone-30-moa-short-black",
-    "montagerail-atlas-picatinny-bt28"
+    "montagerail-atlas-picatinny-bt28",
+    "mounting-rail-audere-remington-700-sa-30-moa",
+    "mounting-rail-epic-airguns-one-extended",
+    "mounting-rail-fx-drs-30-moa-high-weaver-picatinny",
+    "mounting-rail-fx-drs-30-moa-low-weaver-picatinny",
+    "mounting-rail-krale-fx-impact-weaver-picatinny-extended",
+    "mounting-rail-laugo-arms-alien-optical-sight"
   ]
 }
