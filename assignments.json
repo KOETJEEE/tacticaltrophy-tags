@@ -7504,16 +7504,16 @@
     "kolven"
   ],
   "stock-wolverine-wraith-x-for-hpa-tank": [
-    "kolven"
+    "buttstocks"
   ],
   "stock-wolverine-wraith-x-for-mtw": [
     "kolven"
   ],
   "stock-wolverine-wraith-x-hpa-kit-for-aeg": [
-    "kolven"
+    "buttstocks"
   ],
   "stock-wolverine-wraith-x-hpa-kit-for-mtw": [
-    "kolven"
+    "buttstocks"
   ],
   "stoel-quake-all-terrain-360": [
     "aanzitstoelen"
@@ -17621,6 +17621,15 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "stock-wolverine-wraith-x-for-hpa-tank": [
+      "kolven"
+    ],
+    "stock-wolverine-wraith-x-hpa-kit-for-aeg": [
+      "kolven"
+    ],
+    "stock-wolverine-wraith-x-hpa-kit-for-mtw": [
+      "kolven"
     ],
     "stofplug-bf-din": [
       "persluchtfles-accessoires"
@@ -29742,6 +29751,9 @@
     "stuck-case-remover-frankford-arsenal-universal",
     "stofplug-bf-din-female",
     "stofplug-bf-din",
-    "stoel-quake-all-terrain-360"
+    "stoel-quake-all-terrain-360",
+    "stock-wolverine-wraith-x-hpa-kit-for-mtw",
+    "stock-wolverine-wraith-x-hpa-kit-for-aeg",
+    "stock-wolverine-wraith-x-for-hpa-tank"
   ]
 }
