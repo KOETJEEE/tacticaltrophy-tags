@@ -3494,7 +3494,6 @@
     "grips"
   ],
   "grip-utg-d-grip-met-bipod": [
-    "bipods",
     "grips"
   ],
   "grip-utg-super-slim-vertical-weaver-picatinny": [
@@ -15988,6 +15987,12 @@
     "granulaat-frankford-arsenal-walnut-media": [
       "herlaadkits",
       "polijsttrommels"
+    ],
+    "grip-utg-d-grip-met-bipod": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
     ],
     "hammer-and-punch-birchwood-armorer-s": [
       "schoonmaak-onderhoud"
