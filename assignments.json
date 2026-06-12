@@ -6915,7 +6915,7 @@
     "persen-onderdelen"
   ],
   "powder-trickler-frankford-arsenal": [
-    "herlaadkits"
+    "kruitdispensers"
   ],
   "presslug-crown-die-cover": [
     "luchtdrukmunitie-accessoires"
@@ -17013,6 +17013,9 @@
     "polijstvloeistof-frankford-arsenal-ultrasonic-brass-946-ml": [
       "herlaadkits"
     ],
+    "powder-trickler-frankford-arsenal": [
+      "herlaadkits"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25729,6 +25732,7 @@
     "portofoon-baofeng-k63",
     "transceiver-baofeng-uv-17r",
     "transceiver-baofeng-uv-5rm-plus-gps",
-    "transceiver-caldwell-e-max-link"
+    "transceiver-caldwell-e-max-link",
+    "powder-trickler-frankford-arsenal"
   ]
 }
