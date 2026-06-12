@@ -4006,9 +4006,7 @@
   "hulzendroger-frankford-arsenal-brass-dryer": [
     "herlaadkits"
   ],
-  "case-cleaner-birchwood-super-concentrate-480-ml": [
-    "schoonmaaksetjes"
-  ],
+  "case-cleaner-birchwood-super-concentrate-480-ml": [],
   "brass-pouch-manfrotto-alpha-shot-tripod": [
     "statieven"
   ],
@@ -16814,40 +16812,62 @@
       "wapenvet"
     ],
     "olie-anschutz-keramic-coat-100-ml": [
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
     ],
     "oil-birchwood-barricade-rust-protection": [
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
     ],
     "oil-birchwood-hopper-spit-firearm-protectant": [
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
     ],
     "oil-birchwood-renewalube": [
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
     ],
     "oil-birchwood-rig-p-stainless-steel-lube-42-g": [
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
     ],
     "oil-birchwood-synthetic": [
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
     ],
     "olie-bore-tech-friction-guard-xp-gun-oil-118-ml": [
       "schoonmaak-onderhoud",
-      "schoonmaaksetjes"
+      "schoonmaaksetjes",
+      "wapenolie",
+      "wapenvet"
     ],
     "olie-bore-tech-qwik-dri-dry-lubricant-29-5-ml": [
       "schoonmaak-onderhoud",
-      "schoonmaaksetjes"
+      "schoonmaaksetjes",
+      "wapenolie",
+      "wapenvet"
     ],
     "olie-bore-tech-shield-xp-rust-preventative-118-ml": [
       "schoonmaaksetjes",
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
     ],
     "oil-gun-butter-needle-oiler": [
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
     ],
     "oil-gun-butter-pen-oiler": [
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
     ],
     "oil-hill-crank-oil-for-ec-3000-50-ml": [
       "schoonmaak-onderhoud",
