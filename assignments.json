@@ -1441,7 +1441,7 @@
     "admin-pouches"
   ],
   "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
-    "gearboxen"
+    "mosfets"
   ],
   "cover-cap-best-fittings-for-1-8-bsp-m10x1-fill-valve": [
     "persluchtfles-accessoires"
@@ -15120,6 +15120,9 @@
       "pouches",
       "utility-pouches"
     ],
+    "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
+      "gearboxen"
+    ],
     "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
       "vochtontrekkers",
       "Vochtontrekker",
@@ -22481,6 +22484,7 @@
     "mounting-base-kmr-s-02-or-docter-vortex-venom-viper",
     "mounting-base-kmr-s-02-or-trijicon-rmr-sro",
     "adapter-plate-kmr-s-02-leupold-delta-point-pro",
-    "adapterplaat-kmr-s-02-or-shield"
+    "adapterplaat-kmr-s-02-or-shield",
+    "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw"
   ]
 }
