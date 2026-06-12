@@ -6013,7 +6013,46 @@
   "paddle-holster-amomax-hi-capa-2011-red-dot-black-right": [
     "holsters-toebehoren"
   ],
+  "paddle-holster-amomax-hi-capa-2011-black-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-hi-capa-2011-fde-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-per-fit-universal": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-per-fit-universal-left": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-per-fit-universal-fde-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-per-fit-universal-right-od-green": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-sig-sauer-p226-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-sig-sauer-p320-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-glock-17-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-glock-17-19-red-dot": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-glock-19-left": [
+    "holsters-toebehoren"
+  ],
   "paddle-holster-amomax-glock-19-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-imi-walther-ppq-p99": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-laylax-socom-mk23-break-out": [
     "holsters-toebehoren"
   ],
   "patch-jtg-3d-pvc-hexagon-bloodtype-ab": [
@@ -14956,7 +14995,12 @@
       "airsoft-bbs"
     ],
     "beenholster-platform-amomax-drop-leg": [
-      "holsters"
+      "holsters",
+      "tactical-gear"
+    ],
+    "leg-holser-platform-amomax-drop-leg-fde": [
+      "holsters",
+      "tactical-gear"
     ],
     "belt-molle-clip-amomax": [
       "belts",
@@ -15817,10 +15861,70 @@
     "angle-cosine-indicator-rome-ruac-system": [
       "montage-accessoires"
     ],
+    "holster-black-scorpion-gear-competition-speed-1911-2011-blue": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-competition-speed-1911-2011-red": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-ball-joint-competition-carbon-fiber": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-1911-5-carbon": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-2011-5-carbon": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-beretta-92x-performance-carbon": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-75-sp-01-carbon": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-shadow-2-carbon": [
+      "holsters",
+      "tactical-gear"
+    ],
     "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-ts-2-carbon": [
       "airsoft",
       "holsters",
       "schietsport",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-speed": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-glock-17-19-22-45-carbon": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-pdp-4-5-carbon": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-pdp-5-carbon": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-q5-match-polyframe-carbon": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-q5-match-sf-carbon": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "holster-ctm-hi-capa": [
+      "holsters",
       "tactical-gear"
     ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
@@ -16936,11 +17040,97 @@
     "overvulslang-bf-met-din-aansluiting-300-bar": [
       "persluchtfles-accessoires"
     ],
+    "paddle-holster-amomax-beretta-92-black-right": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-colt-1911-black-right": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-colt-1911-fde-right": [
+      "holsters",
+      "tactical-gear"
+    ],
     "paddle-holster-amomax-cz-shadow-2-right": [
       "holsters",
       "tactical-gear"
     ],
+    "paddle-holster-amomax-cz-sp-01-right": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-desert-eagle-black": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-desert-eagle-fde": [
+      "holsters",
+      "tactical-gear"
+    ],
     "paddle-holster-amomax-hi-capa-2011-red-dot-black-right": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-hi-capa-2011-black-right": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-hi-capa-2011-fde-right": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-per-fit-universal": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-per-fit-universal-left": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-per-fit-universal-fde-right": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-per-fit-universal-right-od-green": [
+      "airsoft",
+      "holsters",
+      "schietsport",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-sig-sauer-p226-right": [
+      "airsoft",
+      "holsters",
+      "schietsport",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-sig-sauer-p320-right": [
+      "airsoft",
+      "holsters",
+      "schietsport",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-glock-17-right": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-glock-17-19-red-dot": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-glock-19-left": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-glock-19-right": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-imi-walther-ppq-p99": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-laylax-socom-mk23-break-out": [
       "holsters",
       "tactical-gear"
     ],
