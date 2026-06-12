@@ -2357,7 +2357,7 @@
     "camouflagenetten"
   ],
   "carousel-with-3-crows": [
-    "lokkraaien"
+    "elektronische-lokkers"
   ],
   "chassis-mdt-acc-elite-cz-457-black": [
     "chassis-1"
@@ -2447,13 +2447,13 @@
     "chassis-1"
   ],
   "chassis-mdt-xrs-tikka-t3-t3x-sa-black": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-rome-motus-cz-457": [
-    "kolven"
+    "chassis-1"
   ],
   "chassis-rome-motus-tikka-t1x": [
-    "kolven"
+    "chassis-1"
   ],
   "cheek-rest-saber-tactical-trs-fx-impact-m4": [
     "kolfplaten"
@@ -2613,16 +2613,16 @@
     "diopter-toebehoren"
   ],
   "diopter-anschutz-7002": [
-    "diopter-toebehoren"
+    "diopters"
   ],
   "diopter-feinwerkbau-for-small-bore-rifles": [
-    "diopter-toebehoren"
+    "diopters"
   ],
   "diopter-feinwerkbau-for-air-rifles": [
-    "diopter-toebehoren"
+    "diopters"
   ],
   "diopter-walther-basic-match": [
-    "diopter-toebehoren"
+    "diopters"
   ],
   "diopterblende-ahg-big": [
     "diopter-toebehoren"
@@ -2631,10 +2631,12 @@
     "diopter-toebehoren"
   ],
   "diopterset-anschutz-6834": [
-    "diopter-toebehoren"
+    "diopter-toebehoren",
+    "diopters"
   ],
   "diopterset-fx-biathlon": [
-    "diopter-toebehoren"
+    "diopter-toebehoren",
+    "diopters"
   ],
   "display-hikmicro-handheld-screen-hs17p": [
     "inspectie-cameras"
@@ -15345,6 +15347,9 @@
       "schoonmaak-onderhoud",
       "schoonmaaksetjes"
     ],
+    "carousel-with-3-crows": [
+      "lokkraaien"
+    ],
     "chassis-mdt-acc-elite-cz-457-black": [
       "kolven"
     ],
@@ -15432,6 +15437,48 @@
     ],
     "chassis-mdt-xrs-remington-700-sa-black": [
       "kolven"
+    ],
+    "chassis-mdt-xrs-tikka-t3-t3x-sa-black": [
+      "kolven"
+    ],
+    "chassis-rome-motus-cz-457": [
+      "kolven"
+    ],
+    "chassis-rome-motus-tikka-t1x": [
+      "kolven"
+    ],
+    "suppressor-g-g-double-screw": [
+      "luchtbuks"
+    ],
+    "demper-g-g-goms-mk1": [
+      "luchtbuks"
+    ],
+    "demper-g-g-goms-mk3": [
+      "luchtbuks"
+    ],
+    "demper-g-g-goms-mk5": [
+      "luchtbuks"
+    ],
+    "demper-g-g-goms-mk6": [
+      "luchtbuks"
+    ],
+    "demper-g-g-goms-mk7": [
+      "luchtbuks"
+    ],
+    "suppressor-g-g-kwa-kriss-vector": [
+      "luchtbuks"
+    ],
+    "diopter-anschutz-7002": [
+      "diopter-toebehoren"
+    ],
+    "diopter-feinwerkbau-for-small-bore-rifles": [
+      "diopter-toebehoren"
+    ],
+    "diopter-feinwerkbau-for-air-rifles": [
+      "diopter-toebehoren"
+    ],
+    "diopter-walther-basic-match": [
+      "diopter-toebehoren"
     ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
@@ -22958,6 +23005,40 @@
     "chassis-mdt-oryx-tikka-t1x-black",
     "chassis-mdt-oryx-tikka-t1x-fde",
     "chassis-mdt-oryx-tikka-t3-t3x-sa-black",
-    "chassis-mdt-oryx-tikka-t3-t3x-sa-fde"
+    "chassis-mdt-oryx-tikka-t3-t3x-sa-fde",
+    "chassis-mdt-xrs-remington-700-sa-black",
+    "chassis-mdt-xrs-tikka-t3-t3x-sa-black",
+    "chassis-rome-motus-cz-457",
+    "chassis-rome-motus-tikka-t1x",
+    "carousel-with-3-crows",
+    "combination-lock-walther-rs3-3-pack",
+    "compressor-walther-performance-1400",
+    "compressor-walther-performance-400",
+    "compressor-walther-performance-eco-silent",
+    "suppressor-g-g-double-screw",
+    "demper-g-g-goms-mk1",
+    "demper-g-g-goms-mk3",
+    "demper-g-g-goms-mk5",
+    "demper-g-g-goms-mk6",
+    "demper-g-g-goms-mk7",
+    "suppressor-g-g-kwa-kriss-vector",
+    "digitale-manometer-fx",
+    "digital-pressure-gauge-krale-1-8-bsp-28-mm",
+    "digitale-manometer-sekhmet-1-8-bsp-28-mm",
+    "digitale-manometer-sekhmet-1-8-bsp-black-25-mm-basic",
+    "digitale-manometer-sekhmet-25battery-1-8-bsp-400-bar",
+    "digital-pressure-gauge-sekhmet-pro-gen2-1-8-bsp-28-mm-500-bar",
+    "digital-pressure-gauge-sekhmet-pro-gen2-m8-28-mm-500-bar",
+    "digitale-momentschroevendraaier-wheeler-fat-wrench",
+    "diopter-anschutz-6805",
+    "diopter-anschutz-7002",
+    "diopter-feinwerkbau-for-small-bore-rifles",
+    "diopter-feinwerkbau-for-air-rifles",
+    "diopter-walther-basic-match",
+    "diopterblende-ahg-big",
+    "diopterblende-wegu-small",
+    "diopterset-anschutz-6834",
+    "diopterset-fx-biathlon",
+    "display-hikmicro-handheld-screen-hs17p"
   ]
 }
