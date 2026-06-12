@@ -1482,7 +1482,6 @@
     "red-dots"
   ],
   "red-dot-aim-o-exps-3-2-qd-mount": [
-    "montage-accessoires",
     "red-dots"
   ],
   "red-dot-aim-o-flip-dot-reflex-sight": [
@@ -1498,11 +1497,9 @@
     "red-dots"
   ],
   "red-dot-aim-o-xps-2-z-qd-mount-black": [
-    "montage-accessoires",
     "red-dots"
   ],
   "red-dot-aim-o-xps-2-z-qd-mount-dark-earth": [
-    "montage-accessoires",
     "red-dots"
   ],
   "air-stripper-donnyfl-fatboy-insert-kit": [
@@ -15198,6 +15195,15 @@
     "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
       "gearboxen"
     ],
+    "red-dot-aim-o-exps-3-2-qd-mount": [
+      "montage-accessoires"
+    ],
+    "red-dot-aim-o-xps-2-z-qd-mount-black": [
+      "montage-accessoires"
+    ],
+    "red-dot-aim-o-xps-2-z-qd-mount-dark-earth": [
+      "montage-accessoires"
+    ],
     "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
       "vochtontrekkers",
       "Vochtontrekker",
@@ -23297,6 +23303,18 @@
     "geluiddemper-donnyfl-tatsu-1-2-unf",
     "moderator-donnyfl-yokozuna-n",
     "moderator-donnyfl-yokozuna",
-    "moderator-epic-airguns"
+    "moderator-epic-airguns",
+    "red-dot-aim-o-eg1",
+    "red-dot-aim-o-acog-4x32-illumination-source-fiber-black",
+    "red-dot-aim-o-acog-4x32-illumination-source-fiber-rmr-sight-black",
+    "red-dot-aim-o-acog-1x32-red-green",
+    "red-dot-aim-o-552-red-green",
+    "red-dot-aim-o-exps-3-2-qd-mount",
+    "red-dot-aim-o-flip-dot-reflex-sight",
+    "red-dot-aim-o-m2-red-green-black",
+    "red-dot-aim-o-rd1",
+    "red-dot-aim-o-rd2",
+    "red-dot-aim-o-xps-2-z-qd-mount-black",
+    "red-dot-aim-o-xps-2-z-qd-mount-dark-earth"
   ]
 }
