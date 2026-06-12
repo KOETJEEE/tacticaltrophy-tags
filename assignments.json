@@ -10485,7 +10485,6 @@
     "t-shirts-polos"
   ],
   "m-tac-t-shirt-raglan-sweat-wicking-tactical-summer-8031": [
-    "tactical-shirts",
     "t-shirts-polos"
   ],
   "m-tac-t-shirt-rex-team-7067": [
@@ -10500,8 +10499,7 @@
     "tactical-shirts"
   ],
   "m-tac-t-shirt-talpa-7046": [
-    "shirts",
-    "tactical-shirts"
+    "shirts"
   ],
   "m-tac-t-shirt-ua-side-6742": [
     "t-shirts-polos",
@@ -10517,21 +10515,16 @@
     "tassen-rugzakken"
   ],
   "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
-    "dump-pouches",
-    "patches",
-    "tactical-bags",
-    "wapenkoffers"
+    "kleding-accessoires"
   ],
   "m-tac-tactical-badge-holder-hook-surface-hanging-id-card-case-287": [
-    "wapenkoffers",
-    "patches",
-    "tactical-bags"
+    "kleding-accessoires"
   ],
   "m-tac-tactical-hand-warmer-elite-536": [
     "sling-bags"
   ],
   "m-tac-tactical-moisture-wicking-t-shirt-summer-7929": [
-    "tactical-shirts"
+    "t-shirts-polos"
   ],
   "m-tac-tactical-morale-patches-hook-and-loop-display-board-molle-120x85-290": [
     "patch-panels"
@@ -10543,7 +10536,7 @@
     "patch-panels"
   ],
   "m-tac-tactical-polo-shirt-6535-lady-7969": [
-    "tactical-shirts"
+    "t-shirts-polos"
   ],
   "m-tac-tactical-sweat-wicking-t-shirt-summer-6822": [
     "thermoshirts"
@@ -10584,10 +10577,9 @@
     "waist-packs"
   ],
   "m-tac-waist-bag-elite-hex-621": [
-    "tassen-rugzakken"
+    "waist-packs"
   ],
   "m-tac-waist-bag-genii-7436": [
-    "tassen-rugzakken",
     "waist-packs"
   ],
   "m-tac-wallet-elite-genii-hex-687": [
@@ -20238,7 +20230,16 @@
       "tactical-bags",
       "Clothing > T-shirts",
       "Polo > One color",
-      "m-tac"
+      "m-tac",
+      "tactical-shirts",
+      "tactical-gear"
+    ],
+    "m-tac-t-shirt-talpa-7046": [
+      "tactical-gear",
+      "tactical-shirts",
+      "Clothing > T-shirts",
+      "m-tac",
+      "Polo > Printing"
     ],
     "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327": [
       "dump-pouches",
@@ -20278,7 +20279,9 @@
       "Clothing > T-shirts",
       "Polo > One color",
       "m-tac",
-      "tactical-bags"
+      "tactical-bags",
+      "tactical-gear",
+      "tactical-shirts"
     ],
     "m-tac-tactical-morale-patches-hook-and-loop-display-board-molle-120x85-290": [
       "Equipment and gear > Patches",
@@ -20306,7 +20309,9 @@
       "Clothing > T-shirts",
       "Polo > Printing",
       "m-tac",
-      "tactical-bags"
+      "tactical-bags",
+      "tactical-gear",
+      "tactical-shirts"
     ],
     "m-tac-tactical-sweat-wicking-t-shirt-summer-6822": [
       "Clothing > T-shirts",
@@ -20396,13 +20401,19 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "jacht",
+      "schietsport",
+      "tassen-rugzakken"
     ],
     "m-tac-waist-bag-genii-7436": [
       "Equipment and gear > Bags and backpacks > Bags",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "jacht",
+      "schietsport",
+      "tassen-rugzakken"
     ],
     "m-tac-wallet-elite-genii-hex-687": [
       "Equipment and gear > Bags and backpacks > Wallets",
@@ -24795,7 +24806,24 @@
     "t-shirt-drakar-8893",
     "t-shirt-death-from-above-7903",
     "t-shirt-937-summer-5720",
-    "lightweight-tube-scarf-reaper-skull-7405"
+    "lightweight-tube-scarf-reaper-skull-7405",
+    "m-tac-t-shirt-black-sea-expedition-6717",
+    "m-tac-t-shirt-comics-drone-girl-7004",
+    "m-tac-t-shirt-cotton-hard-8151",
+    "m-tac-t-shirt-delivery-service-6955",
+    "m-tac-t-shirt-freedom-6983",
+    "m-tac-t-shirt-kamikaze-spirit-6866",
+    "m-tac-t-shirt-keep-calm-7025",
+    "m-tac-t-shirt-odin-mystery-long-sleeve-7060",
+    "m-tac-t-shirt-our-land-7017",
+    "m-tac-t-shirt-phoenix-7018",
+    "m-tac-t-shirt-quadcopter-6859",
+    "m-tac-t-shirt-rex-team-7067",
+    "m-tac-t-shirt-steel-knight-6920",
+    "m-tac-t-shirt-surf-club-6872",
+    "m-tac-t-shirt-ua-side-6742",
+    "m-tac-t-shirt-warrior-8636",
+    "m-tac-tablet-bag-laser-cut-hex-763"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -28036,6 +28064,56 @@
     "m-tac-raglan-sweat-wicking-t-shirt-summer-6841",
     "m-tac-raglan-t-shirt-937-6766",
     "m-tac-seat-pad-20-mm-7610",
-    "m-tac-seating-pad-with-belt-20"
+    "m-tac-seating-pad-with-belt-20",
+    "m-tac-set-of-2-duty-belt-keppers-tactical-police-law-enforcement-for-2-inch-belt-3192",
+    "m-tac-gorget-compatible-with-active-headphones-for-ballistic-inserts-elite-9042",
+    "m-tac-sling-bag-large-elite-genii-782",
+    "m-tac-sling-pistol-bag-elite-hex-543",
+    "m-tac-socks-coolmax-35-7408",
+    "m-tac-sphaera-hex-hardsling-bag-348",
+    "m-tac-sphaera-hex-hardsling-bag-genii-elite-353",
+    "m-tac-t-shirt-937-lady-8791",
+    "m-tac-t-shirt-belt-after-belt-10043",
+    "m-tac-t-shirt-logo-6927",
+    "m-tac-t-shirt-logo-long-sleeve-6948",
+    "m-tac-t-shirt-mavic-delivery-service-7757",
+    "m-tac-t-shirt-motanka-6997",
+    "m-tac-t-shirt-raglan-sweat-wicking-tactical-summer-8031",
+    "m-tac-t-shirt-talpa-7046",
+    "m-tac-tactical-badge-holder-hanging-id-card-case-hook-surface-draw-cord-327",
+    "m-tac-tactical-badge-holder-hook-surface-hanging-id-card-case-287",
+    "m-tac-tactical-hand-warmer-elite-536",
+    "m-tac-tactical-moisture-wicking-t-shirt-summer-7929",
+    "m-tac-tactical-morale-patches-hook-and-loop-display-board-molle-120x85-290",
+    "m-tac-tactical-morale-patches-hook-and-loop-display-board-molle-160x85-707",
+    "m-tac-tactical-morale-patches-hook-and-loop-display-board-molle-80x85-298",
+    "m-tac-tactical-polo-shirt-6535-lady-7969",
+    "m-tac-tactical-sweat-wicking-t-shirt-summer-6822",
+    "m-tac-thermo-pants-polartec-winter-baselayer-vent-6399",
+    "m-tac-urban-line-city-patrol-carabiner-bag-7438",
+    "m-tac-usa-tokens-with-rubber-bands-8312",
+    "m-tac-utility-organizer-slim-elite-571",
+    "m-tac-utility-pouch-elite-genii-9254",
+    "m-tac-utility-pouch-elite-medium-74",
+    "m-tac-utility-travel-case-elite-small-22x14-cm-458",
+    "m-tac-velcro-wallet-elite-genii-hex-689",
+    "m-tac-vilha-helmet-cover-744",
+    "m-tac-vilha-helmet-cover-fast-746",
+    "m-tac-waist-bag-7656",
+    "m-tac-waist-bag-elite-hex-621",
+    "m-tac-waist-bag-genii-7436",
+    "m-tac-wallet-elite-genii-hex-687",
+    "m-tac-wallet-slim-elite-genii-530",
+    "m-tac-war-belt-laser-cut-96",
+    "m-tac-watch-cap-elite-flecce-beanie-hat-320gm2-4539",
+    "m-tac-water-bottle-1-l-7726",
+    "mag-pouch-kolchan-for-akar-594",
+    "magazine-pouch-with-elastic-band-10-cm-laser-cut-479",
+    "modular-insert-for-10-ml-ampules-8904",
+    "modular-insert-for-2-ml-ampoules-8898",
+    "modular-insert-for-5-ml-ampules-8901",
+    "modular-insert-for-sd-cards-3-sections-9770",
+    "pants-aggressor-elite-nyco-extreme-8392",
+    "pants-aggressor-genii-vintage-2628"
   ]
 }
