@@ -7361,7 +7361,7 @@
     "persluchtfles-accessoires"
   ],
   "snelkoppelingset-bf-starter-kit": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "snelontluchting-bf-1-8-bsp-voor-mde-vulset": [
     "vulbenodigdheden"
@@ -17994,6 +17994,9 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "snelkoppelingset-bf-starter-kit": [
+      "persluchtfles-accessoires"
     ],
     "snelontluchting-bf-1-8-bsp-voor-mde-vulset": [
       "persluchtfles-accessoires"
@@ -30379,6 +30382,7 @@
     "eod-response-log-a6-9791",
     "vilha-cover-sticker-set-5pc-1022",
     "snelontluchting-bf-1-8-bsp-voor-mde-vulset",
-    "snelontluchting-bf-m10x1-voor-mde-kraan"
+    "snelontluchting-bf-m10x1-voor-mde-kraan",
+    "snelkoppelingset-bf-starter-kit"
   ]
 }
