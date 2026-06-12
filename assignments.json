@@ -1413,7 +1413,7 @@
     "manometers"
   ],
   "angled-stock-adaptor-ctm": [
-    "kolven"
+    "airsoft-diversen-1"
   ],
   "anti-fog-4uad-4uantum-fogg-off-eyewear-spray": [
     "oogbescherming",
@@ -14910,6 +14910,10 @@
     ],
     "red-dot-aim-o-xps-2-z-qd-mount-dark-earth": [
       "montage-accessoires"
+    ],
+    "angled-stock-adaptor-ctm": [
+      "kolven",
+      "wapen-toebehoren"
     ],
     "anti-rol-kit-bf-voor-persluchtfles": [
       "persluchtcilinders"
@@ -30555,6 +30559,7 @@
     "push-to-talk-bypass-code-red-modular",
     "primer-pocket-swager-frankford-arsenal",
     "cover-cap-best-fittings-for-1-8-bsp-m10x1-fill-valve",
-    "afdekdop-bf-voor-foster-aansluiting"
+    "afdekdop-bf-voor-foster-aansluiting",
+    "angled-stock-adaptor-ctm"
   ]
 }
