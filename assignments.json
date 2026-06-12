@@ -2689,7 +2689,7 @@
     "afstandsmeters"
   ],
   "draagband-bf-voor-persluchtfles": [
-    "geweerriemen"
+    "persluchtfles-accessoires"
   ],
   "pistol-lanyard-amomax-tactical": [
     "geweerriemen"
@@ -2698,10 +2698,11 @@
     "statieven"
   ],
   "carrying-bag-air-marksman-charging-cylinder-carbon-6-8-liter": [
-    "tassen-rugzakken"
+    "persluchtfles-accessoires"
   ],
   "carrying-bag-air-marksman-charging-cylinder-carbon-9-liter": [
-    "tassen-rugzakken"
+    "tassen-rugzakken",
+    "persluchtfles-accessoires"
   ],
   "carrying-bag-bog-tripod": [
     "statieven"
@@ -5386,22 +5387,22 @@
     "1-delige-montages"
   ],
   "mount-arken-halo-ti-30-mm-low-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-arken-halo-ti-30-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-arken-halo-ti-34-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-arken-halo-ti-34-mm-low-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-arken-halo-ti-34-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-arken-rigid-precision-cantilever-30-mm-weaver-picatinny-0-moa": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-arken-rigid-precision-cantilever-30-mm-weaver-picatinny-20-moa": [
     "montage-accessoires"
@@ -5704,7 +5705,7 @@
     "montage-accessoires"
   ],
   "mount-vector-optics-x-accu-adjustable-elevation-34-mm-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-vector-optics-zr-25-4-30-mm-high-dovetail": [
     "montage-accessoires"
@@ -15685,6 +15686,21 @@
     "doorslagset-wheeler-messing-8-delig": [
       "schoonmaak-onderhoud"
     ],
+    "draagband-bf-voor-persluchtfles": [
+      "airsoft",
+      "geweerriemen",
+      "wapen-toebehoren"
+    ],
+    "carrying-bag-air-marksman-charging-cylinder-carbon-6-8-liter": [
+      "jacht",
+      "tassen-rugzakken",
+      "rugzakken",
+      "tassen"
+    ],
+    "carrying-bag-air-marksman-charging-cylinder-carbon-9-liter": [
+      "rugzakken",
+      "tassen"
+    ],
     "carrying-bag-bog-tripod": [
       "tassen-rugzakken",
       "rugzakken",
@@ -16308,6 +16324,24 @@
     ],
     "torque-wrench-wheeler-fat-stix-preset": [
       "schoonmaak-onderhoud"
+    ],
+    "mount-arken-halo-ti-30-mm-low-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-arken-halo-ti-30-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-arken-halo-ti-34-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-arken-halo-ti-34-mm-low-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-arken-halo-ti-34-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-arken-rigid-precision-cantilever-30-mm-weaver-picatinny-0-moa": [
+      "montage-accessoires"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
@@ -24560,6 +24594,23 @@
     "momentschroevendraaier-wheeler-fat-wrench",
     "autotorque-screwdriver-wheeler-fat-wrench",
     "torque-wrench-set-wheeler-fat-professional-100-piece",
-    "torque-wrench-wheeler-fat-stix-preset"
+    "torque-wrench-wheeler-fat-stix-preset",
+    "monopod-adapter-saber-tactical",
+    "monopod-atlas-bt12qk",
+    "monopod-atlas-bt13qk",
+    "monopod-bog-deadshot",
+    "monopod-epic-airguns-two-with-adapter",
+    "monopod-roller-saber-tactical-pro",
+    "monopod-rome-scipio",
+    "monopod-saber-tactical-bench",
+    "monopod-saber-tactical-field",
+    "mount-arken-halo-ti-30-mm-low-weaver-picatinny",
+    "mount-arken-halo-ti-30-mm-medium-weaver-picatinny",
+    "mount-arken-halo-ti-34-mm-high-weaver-picatinny",
+    "mount-arken-halo-ti-34-mm-low-weaver-picatinny",
+    "mount-arken-rigid-precision-cantilever-30-mm-weaver-picatinny-0-moa",
+    "mount-arken-halo-ti-34-mm-medium-weaver-picatinny",
+    "draagband-bf-voor-persluchtfles",
+    "carrying-bag-air-marksman-charging-cylinder-carbon-6-8-liter"
   ]
 }
