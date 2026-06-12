@@ -6552,7 +6552,7 @@
     "schoonmaakborstels"
   ],
   "patchadapter-bore-tech-universal-wiper": [
-    "reinigingspatches"
+    "stokadapters"
   ],
   "patchopvang-bore-tech-patch-hog": [
     "reinigingspatches"
@@ -6561,16 +6561,16 @@
     "patroon-boxen"
   ],
   "cartridge-case-mdt-m-lok-multi-caliber": [
-    "patroon-boxen"
+    "patroonhouders"
   ],
   "cartridge-roll-ulfhednar-cordura-60-rounds": [
-    "co2-patronen"
+    "patroonhouders"
   ],
   "cartridge-case-ulfhednar-velcro-2-rounds": [
-    "co2-patronen"
+    "patroonhouders"
   ],
   "cartridge-case-ulfhednar-velcro-3-rounds": [
-    "co2-patronen"
+    "patroonhouders"
   ],
   "pellet-probe-fx-crown": [
     "luchtdrukmunitie-accessoires"
@@ -16890,6 +16890,29 @@
     "overvulslang-bf-met-din-aansluiting-300-bar": [
       "persluchtfles-accessoires"
     ],
+    "patchadapter-bore-tech-universal-wiper": [
+      "reinigingspatches",
+      "schoonmaak-onderhoud"
+    ],
+    "cartridge-case-mdt-m-lok-multi-caliber": [
+      "herladen",
+      "patroon-boxen"
+    ],
+    "cartridge-roll-ulfhednar-cordura-60-rounds": [
+      "co2-patronen",
+      "airsoft",
+      "luchtbuks-accessoires"
+    ],
+    "cartridge-case-ulfhednar-velcro-2-rounds": [
+      "luchtbuks-accessoires",
+      "airsoft",
+      "co2-patronen"
+    ],
+    "cartridge-case-ulfhednar-velcro-3-rounds": [
+      "luchtbuks-accessoires",
+      "airsoft",
+      "co2-patronen"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25504,6 +25527,11 @@
     "patchadapter-bore-tech-hagelgeweer",
     "patchadapter-bore-tech-proof-positive",
     "patchadapter-bore-tech-proof-positive-met-oog",
-    "patchadapter-bore-tech-proof-positive-pistol"
+    "patchadapter-bore-tech-proof-positive-pistol",
+    "patchadapter-bore-tech-universal-wiper",
+    "cartridge-case-mdt-m-lok-multi-caliber",
+    "cartridge-roll-ulfhednar-cordura-60-rounds",
+    "cartridge-case-ulfhednar-velcro-2-rounds",
+    "cartridge-case-ulfhednar-velcro-3-rounds"
   ]
 }
