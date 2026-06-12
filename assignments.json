@@ -882,28 +882,28 @@
     "filmen-opnemen"
   ],
   "kowa-adapter-tsn-ar42gt-440218": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapterring-tsn-ar28-440228": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapterring-tsn-ar305-440232": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapterring-tsn-ar37-440237": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapterring-tsn-ar43-440243": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapterring-tsn-ar46-440246": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapterring-tsn-ar60-440260": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapterring-tsn-ar62-440262": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-compact-spotting-scope-tsn-501-20-40x50-446501": [
     "spotting-scopes",
@@ -998,7 +998,7 @@
     "richtkijkers"
   ],
   "kowa-tsn-arzh-adapter-ring-voor-zeiss-harpia-440971": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-twist-up-voor-spotting-scope-oculair-te-10zte11wz-en-te17w-446600": [
     "spotting-scopes",
@@ -1919,9 +1919,8 @@
     "voorzetkijkers"
   ],
   "cover-rusan-modular-for-connector-clip-on": [
-    "adapterringen",
     "beschermkappen",
-    "voorzetkijkers"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "cover-rusan-modular-for-rifle-scope-clamp": [
     "beschermkappen"
@@ -13958,6 +13957,66 @@
       "adapterring",
       "voorzetadapterring"
     ],
+    "kowa-adapter-tsn-ar42gt-440218": [
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "kowa-adapterring-tsn-ar28-440228": [
+      "adapterringen",
+      "kowa",
+      "spotting-scopes-accessoires",
+      "voorzetadapterring",
+      "adapterring"
+    ],
+    "kowa-adapterring-tsn-ar305-440232": [
+      "adapterringen",
+      "kowa",
+      "spotting-scopes-accessoires",
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "kowa-adapterring-tsn-ar37-440237": [
+      "adapterringen",
+      "kowa",
+      "spotting-scopes-accessoires",
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "kowa-adapterring-tsn-ar43-440243": [
+      "adapterringen",
+      "kowa",
+      "verrekijkers-accessoires",
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "kowa-adapterring-tsn-ar46-440246": [
+      "adapterringen",
+      "kowa",
+      "spotting-scopes-accessoires",
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "kowa-adapterring-tsn-ar60-440260": [
+      "adapterringen",
+      "kowa",
+      "spotting-scopes-accessoires",
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "kowa-adapterring-tsn-ar62-440262": [
+      "adapterringen",
+      "kowa",
+      "spotting-scopes-accessoires",
+      "voorzetadapterring",
+      "adapterring"
+    ],
+    "kowa-tsn-arzh-adapter-ring-voor-zeiss-harpia-440971": [
+      "adapterringen",
+      "kowa",
+      "spotting-scopes-accessoires",
+      "adapterring",
+      "voorzetadapterring"
+    ],
     "nest-monopod-wt-1003-h171-cm-295810": [
       "optiek-accessoires",
       "tripods"
@@ -14017,6 +14076,11 @@
     ],
     "barrel-sleeve-fx-carbon-fiber": [
       "wapen-accessoires"
+    ],
+    "cover-rusan-modular-for-connector-clip-on": [
+      "adapterring",
+      "voorzetadapterring",
+      "voorzetkijkers"
     ],
     "mouth-guard-sisu-max-charcoal-black": [
       "mondstukken",
@@ -21052,6 +21116,16 @@
     "kowa-adapter-ring-tsn-ar500-375mm-440216",
     "kowa-adapter-ring-voor-swarovski-atssts-446724",
     "kowa-adapter-tsn-ar25bd-32mm-440225",
-    "kowa-adapter-tsn-ar33ge-43mm-440233"
+    "kowa-adapter-tsn-ar33ge-43mm-440233",
+    "kowa-adapter-tsn-ar42gt-440218",
+    "kowa-adapterring-tsn-ar28-440228",
+    "kowa-adapterring-tsn-ar305-440232",
+    "kowa-adapterring-tsn-ar37-440237",
+    "kowa-adapterring-tsn-ar43-440243",
+    "kowa-adapterring-tsn-ar46-440246",
+    "kowa-adapterring-tsn-ar60-440260",
+    "kowa-adapterring-tsn-ar62-440262",
+    "cover-rusan-modular-for-connector-clip-on",
+    "kowa-tsn-arzh-adapter-ring-voor-zeiss-harpia-440971"
   ]
 }
