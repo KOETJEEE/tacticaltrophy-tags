@@ -8420,37 +8420,37 @@
     "vulbenodigdheden"
   ],
   "vulnippel-aea-7-mm-type-a": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vulnippel-aea-8-mm-type-b": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vulnippel-artemis-snowpeak-m11-m22-m25-m40-m50-pp700-pp750": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vulnippel-artemis-snowpeak-m16-p15-p35-pp800-pr900-foster": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "fill-probe-bf-career-707-shinsung-samyang": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vulnippel-evanix": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vulnippel-fx-mk1-foster": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vulnippel-fx-mki": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "fill-probe-fx-mkiii": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "fill-probe-snowpeak-pp20-mat300": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "fill-probe-steyr-quickfill": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vulset-mde-din-200-300-bar": [
     "persluchtfles-accessoires"
@@ -17930,6 +17930,36 @@
       "persluchtfles-accessoires"
     ],
     "fill-adapter-walther-air-pistol": [
+      "persluchtfles-accessoires"
+    ],
+    "vulnippel-aea-8-mm-type-b": [
+      "persluchtfles-accessoires"
+    ],
+    "vulnippel-artemis-snowpeak-m11-m22-m25-m40-m50-pp700-pp750": [
+      "persluchtfles-accessoires"
+    ],
+    "vulnippel-artemis-snowpeak-m16-p15-p35-pp800-pr900-foster": [
+      "persluchtfles-accessoires"
+    ],
+    "fill-probe-bf-career-707-shinsung-samyang": [
+      "persluchtfles-accessoires"
+    ],
+    "vulnippel-evanix": [
+      "persluchtfles-accessoires"
+    ],
+    "vulnippel-fx-mk1-foster": [
+      "persluchtfles-accessoires"
+    ],
+    "vulnippel-fx-mki": [
+      "persluchtfles-accessoires"
+    ],
+    "fill-probe-fx-mkiii": [
+      "persluchtfles-accessoires"
+    ],
+    "fill-probe-snowpeak-pp20-mat300": [
+      "persluchtfles-accessoires"
+    ],
+    "fill-probe-steyr-quickfill": [
       "persluchtfles-accessoires"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
@@ -29546,6 +29576,17 @@
     "vuladapter-bf-voor-steyr-lp",
     "fill-adapter-snowpeak-pp20-mat300",
     "fill-adaptor-walther-air-rifle",
-    "fill-adapter-walther-air-pistol"
+    "fill-adapter-walther-air-pistol",
+    "vulnippel-aea-7-mm-type-a",
+    "vulnippel-aea-8-mm-type-b",
+    "vulnippel-artemis-snowpeak-m11-m22-m25-m40-m50-pp700-pp750",
+    "vulnippel-artemis-snowpeak-m16-p15-p35-pp800-pr900-foster",
+    "fill-probe-bf-career-707-shinsung-samyang",
+    "vulnippel-evanix",
+    "vulnippel-fx-mk1-foster",
+    "vulnippel-fx-mki",
+    "fill-probe-fx-mkiii",
+    "fill-probe-snowpeak-pp20-mat300",
+    "fill-probe-steyr-quickfill"
   ]
 }
