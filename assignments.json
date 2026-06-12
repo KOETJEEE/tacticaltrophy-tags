@@ -7346,7 +7346,7 @@
     "persluchtfles-accessoires"
   ],
   "quick-coupler-dominator-hpa-qd-valve-adapter": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "snelkoppeling-foster-female-zwart": [
     "vulbenodigdheden"
@@ -17994,6 +17994,9 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "quick-coupler-dominator-hpa-qd-valve-adapter": [
+      "persluchtfles-accessoires"
     ],
     "snelkoppeling-foster-female-zwart": [
       "persluchtfles-accessoires"
@@ -30403,6 +30406,7 @@
     "spare-locator-buttons-frankford-x-10-8-pack-small",
     "snelkoppeling-foster-female-verlengd",
     "snelkoppeling-fx-mkii",
-    "snelkoppeling-foster-female-zwart"
+    "snelkoppeling-foster-female-zwart",
+    "quick-coupler-dominator-hpa-qd-valve-adapter"
   ]
 }
