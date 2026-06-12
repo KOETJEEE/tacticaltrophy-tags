@@ -7364,7 +7364,7 @@
     "persluchtfles-accessoires"
   ],
   "snelontluchting-bf-1-8-bsp-voor-mde-vulset": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "snelontluchting-bf-m10x1-voor-mde-kraan": [
     "persluchtfles-accessoires"
@@ -17994,6 +17994,9 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "snelontluchting-bf-1-8-bsp-voor-mde-vulset": [
+      "persluchtfles-accessoires"
     ],
     "speedloader-g-g-magazine-style-transparent": [
       "magazijnen",
@@ -30371,6 +30374,7 @@
     "bugbuster-bug-a-salt-3-0-advanced-combat-fiber-optic",
     "cheek-rest-saber-tactical-fx-impact-ambidextrous",
     "eod-response-log-a6-9791",
-    "vilha-cover-sticker-set-5pc-1022"
+    "vilha-cover-sticker-set-5pc-1022",
+    "snelontluchting-bf-1-8-bsp-voor-mde-vulset"
   ]
 }
