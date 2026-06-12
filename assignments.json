@@ -9565,7 +9565,7 @@
     "kookgerei"
   ],
   "gas-can-pouch-vertical-961": [
-    "zelfverdediging"
+    "vuurmakers"
   ],
   "gloves-a30-7301": [
     "tactical-handschoenen"
@@ -9581,8 +9581,7 @@
     "tactical-bags"
   ],
   "gloves-fleece-thinsulate-7275": [
-    "tactical-handschoenen",
-    "winter-handschoenen"
+    "tactical-handschoenen"
   ],
   "gloves-nomex-assault-tactical-mk7-7255": [
     "tactical-handschoenen"
@@ -9594,8 +9593,7 @@
     "tactical-handschoenen"
   ],
   "gloves-soft-shell-thinsulate-7263": [
-    "tactical-handschoenen",
-    "winter-handschoenen"
+    "tactical-handschoenen"
   ],
   "gloves-winter-extreme-tactical-7284": [
     "winter-handschoenen"
@@ -19131,7 +19129,8 @@
     "gloves-fleece-thinsulate-7275": [
       "Clothing > Gloves > Winter gloves",
       "handschoenen",
-      "m-tac"
+      "m-tac",
+      "winter-handschoenen"
     ],
     "gloves-nomex-assault-tactical-mk7-7255": [
       "Clothing > Gloves > Tactical",
@@ -19152,7 +19151,8 @@
     "gloves-soft-shell-thinsulate-7263": [
       "Clothing > Gloves > Winter gloves",
       "handschoenen",
-      "m-tac"
+      "m-tac",
+      "winter-handschoenen"
     ],
     "gloves-winter-extreme-tactical-7284": [
       "Clothing > Gloves > Winter gloves",
@@ -25517,7 +25517,17 @@
     "sticker-tactical-girl-9-rpg-skandinavik-7954",
     "admin-bag-large-elite-hex-with-velcro-8295",
     "admin-bag-large-x-pac-elite-with-velcro-8299",
-    "cat-eyes-3d-pvc-5158"
+    "cat-eyes-3d-pvc-5158",
+    "hoodie-rex-team-8434",
+    "hoodie-time-8715",
+    "hoodie-worn-to-the-bone-8784",
+    "hoodie-freedom-8409",
+    "hoodie-logo-10385",
+    "hoodie-odin-mystery-8368",
+    "hoodie-polartec-sport-6450",
+    "hoodie-cotton-hard-fatum-10028",
+    "gas-can-pouch-vertical-961",
+    "fleece-jacket-senator-polartec-3672"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -29129,6 +29139,40 @@
     "ecopybook-big-tactical-ruler-protractor-nato-8195",
     "ecopybook-small-tactical-ruler-protractor-nato-8196",
     "ecopybook-tactical-accuracy-shot-chart-852",
-    "ecopybook-tactical-an-all-weather-notebook-849"
+    "ecopybook-tactical-an-all-weather-notebook-849",
+    "hoodie-born-by-revolution-9071",
+    "hoodie-born-by-revolution-hard-8844",
+    "hoodie-combat-8267",
+    "holster-insert-light-555",
+    "holster-insert-light-533",
+    "helmet-cover-shroud-9790",
+    "headlamp-41-led-7622",
+    "gun-sling-two-point-263",
+    "gun-backpack-case-85-cm-genii-elite-399",
+    "gun-backpack-case-125-cm-genii-elite-273",
+    "hat-thin-viscous-100-acrylic-4696",
+    "helmet-watch-cap-polartec-4914",
+    "gorget-for-ballistic-panel-inserts-for-cuirass-qrs-9040",
+    "gorget-for-ballistic-inserts-elite-genii-9054",
+    "glow-stick-15-cm-6478",
+    "gloves-a30-7301",
+    "gloves-assault-tactical-mk2-7122",
+    "gloves-assault-tactical-mk6-7243",
+    "gloves-assault-tactical-mk8-7177",
+    "gloves-fleece-thinsulate-7275",
+    "gloves-nomex-assault-tactical-mk7-7255",
+    "gloves-police-gen2-5963",
+    "gloves-skeleton-nomex-9277",
+    "gloves-soft-shell-thinsulate-7263",
+    "gas-burner-with-boiler-7619",
+    "front-panel-for-plate-carrier-cuirass-qrs-for-4-magazine-833",
+    "front-panel-for-cuirass-qrs-three-mags-plate-carrier-815",
+    "fpv-drone-bag-backpack-for-10-drones-lightweight-8701",
+    "fpv-drone-bag-backpack-for-7-drones-lightweight-8702",
+    "folding-shovel-with-case-5919",
+    "fleece-jacket-windblock-division-geniii-9955",
+    "fleece-sweatshirt-shadow-polartec-4033",
+    "fleece-jacket-windblock-division-genii-8074",
+    "flaskbottle-pouch-elite-278"
   ]
 }
