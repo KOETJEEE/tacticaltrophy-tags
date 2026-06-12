@@ -1334,10 +1334,10 @@
     "mosfets"
   ],
   "cover-cap-best-fittings-for-1-8-bsp-m10x1-fill-valve": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "afdekdop-bf-voor-foster-aansluiting": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "cover-cap-saber-tactical-for-foster-extended": [
     "bipod-toebehoren"
@@ -14867,6 +14867,12 @@
     ],
     "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
       "gearboxen"
+    ],
+    "cover-cap-best-fittings-for-1-8-bsp-m10x1-fill-valve": [
+      "persluchtfles-accessoires"
+    ],
+    "afdekdop-bf-voor-foster-aansluiting": [
+      "persluchtfles-accessoires"
     ],
     "cover-cap-saber-tactical-for-foster-extended": [
       "persluchtfles-accessoires",
@@ -30547,6 +30553,8 @@
     "push-to-talk-code-red-nx-dual-ptt-amplified",
     "push-to-talk-z-tactical-u94-ptt",
     "push-to-talk-bypass-code-red-modular",
-    "primer-pocket-swager-frankford-arsenal"
+    "primer-pocket-swager-frankford-arsenal",
+    "cover-cap-best-fittings-for-1-8-bsp-m10x1-fill-valve",
+    "afdekdop-bf-voor-foster-aansluiting"
   ]
 }
