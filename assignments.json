@@ -1154,8 +1154,7 @@
     "nachtzicht-handheld"
   ],
   "sionyx-objectief-beschermlens-504121": [
-    "beschermkappen",
-    "nachtzicht-handheld"
+    "beschermkappen"
   ],
   "sionyx-opsin-digitale-full-color-nachtkijker-goggles-504108": [
     "nachtzicht-handheld"
@@ -1258,12 +1257,11 @@
     "filmen-opnemen"
   ],
   "yukon-losdovetail-montage-5026110": [
-    "montage-accessoires",
-    "nachtzicht-handheld"
+    "montagebasissen"
   ],
   "yukon-weaverpicatinny-rail-montage-5026114": [
-    "picatinny-rails",
-    "nachtzicht-handheld"
+    "nachtzicht-handheld",
+    "montagebasissen"
   ],
   "hunting-stool-bog-deathgrip-360": [
     "aanzitstoelen"
@@ -14174,6 +14172,10 @@
     "sionyx-digitale-full-color-nachtkijker-aurora-pro-504104": [
       "monoculair"
     ],
+    "sionyx-objectief-beschermlens-504121": [
+      "nachtzicht",
+      "nachtzicht-en-warmtebeeldaccessoires"
+    ],
     "sionyx-opsin-digitale-full-color-nachtkijker-goggles-504108": [
       "monoculair"
     ],
@@ -14341,6 +14343,10 @@
       "schietsport",
       "statieven",
       "wapen-toebehoren"
+    ],
+    "yukon-weaverpicatinny-rail-montage-5026114": [
+      "picatinny-rails",
+      "nachtzicht-en-warmtebeeldaccessoires"
     ],
     "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2": [
       "wapen-accessoires"
@@ -21549,6 +21555,16 @@
     "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-l-710167",
     "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-m-710166",
     "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-xl-710168",
-    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-xxl-710169"
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-xxl-710169",
+    "studioking-pocket-c-stand-pcs-6202-572527",
+    "hunting-stool-bog-deathgrip-360",
+    "hunting-stool-wood-3-legged-60-cm",
+    "hunting-stool-wood-3-legged-60-cm-with-steel-feet",
+    "hunting-stool-wood-3-legged-70-cm",
+    "hunting-stool-wood-3-legged-70-cm-with-steel-feet",
+    "hunting-stool-wood-4-legged-55-cm",
+    "sionyx-objectief-beschermlens-504121",
+    "yukon-losdovetail-montage-5026110",
+    "yukon-weaverpicatinny-rail-montage-5026114"
   ]
 }
