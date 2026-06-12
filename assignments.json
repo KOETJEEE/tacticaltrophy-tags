@@ -5628,16 +5628,16 @@
     "picatinny-rails"
   ],
   "mounting-rail-wadsn-gg-hydra": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "mounting-rail-wadsn-gg-hydra-eotech": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "mounting-ring-vector-optics-25-4-30-mm-with-weaver-picatinny-rail": [
     "picatinny-rails"
   ],
   "mount-fx-no-limit-25-4-mm-high-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "multispectral-binoculars-hikmicro-habrok-pro-hq50l-850-nm": [
     "multispectral"
@@ -16601,6 +16601,15 @@
     "mounting-rail-utg-super-slim-rdm20": [
       "picatinny-rails"
     ],
+    "mounting-rail-wadsn-gg-hydra": [
+      "picatinny-rails"
+    ],
+    "mounting-rail-wadsn-gg-hydra-eotech": [
+      "picatinny-rails"
+    ],
+    "mount-fx-no-limit-25-4-mm-high-picatinny": [
+      "montage-accessoires"
+    ],
     "munitiedoos-frankford-arsenal-hinge-top-1001-32-9mm": [
       "herlaadkits"
     ],
@@ -26123,6 +26132,10 @@
     "olie-bore-tech-friction-guard-xp-gun-oil-118-ml",
     "olie-bore-tech-qwik-dri-dry-lubricant-29-5-ml",
     "olie-bore-tech-shield-xp-rust-preventative-118-ml",
-    "oil-gun-butter-needle-oiler"
+    "oil-gun-butter-needle-oiler",
+    "mounting-ring-vector-optics-25-4-30-mm-with-weaver-picatinny-rail",
+    "mounting-rail-wadsn-gg-hydra-eotech",
+    "mounting-rail-wadsn-gg-hydra",
+    "mount-fx-no-limit-25-4-mm-high-picatinny"
   ]
 }
