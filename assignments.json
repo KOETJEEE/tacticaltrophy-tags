@@ -2966,12 +2966,12 @@
     "gearboxen"
   ],
   "memory-card-hikmicro-sd-32gb": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "geheugenkaarten",
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "memory-card-hikmicro-sd-64gb": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "geheugenkaarten",
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "gehoorbeschermer-caldwell-e-max-low-profile-electronic-groen": [
     "gehoorbescherming"
@@ -15657,6 +15657,16 @@
     "decoy-sillosocks-knockdown-headless-canada-goose-6-pack": [
       "lokmiddel-toebehoren"
     ],
+    "memory-card-hikmicro-sd-32gb": [
+      "observatie-accessoires",
+      "richtmiddel-accessoires",
+      "optiek"
+    ],
+    "memory-card-hikmicro-sd-64gb": [
+      "observatie-accessoires",
+      "optiek",
+      "richtmiddel-accessoires"
+    ],
     "geluiddemper-vulcan-long": [
       "luchtbuks-dempers",
       "luchtbuks",
@@ -27028,6 +27038,9 @@
     "bullet-feed-conversion-kit-frankford-arsenal-for-x-10-press",
     "bottle-end-fx-complete",
     "weight-reservoir-caldwell-lead-sled-solo",
-    "weight-reservoir-caldwell-lead-sled-4-dft-3-2-pack"
+    "weight-reservoir-caldwell-lead-sled-4-dft-3-2-pack",
+    "memory-card-hikmicro-sd-64gb",
+    "memory-card-hikmicro-sd-32gb",
+    "grip-plug-ergo-air-tactical-deluxe-zero-angle"
   ]
 }
