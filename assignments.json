@@ -8862,8 +8862,7 @@
     "zandzakken"
   ],
   "zeef-frankford-arsenal-standard-media-seperator-quick-n-ez": [
-    "herlaadkits",
-    "polijsttrommels"
+    "hulzencentrifuges"
   ],
   "zeefdeksel-frankford-arsenal-rotary-tumbler": [
     "herlaadkits",
@@ -17891,6 +17890,10 @@
     ],
     "wollen-kamerborstel-bore-tech-small": [
       "schoonmaak-onderhoud"
+    ],
+    "zeef-frankford-arsenal-standard-media-seperator-quick-n-ez": [
+      "herlaadkits",
+      "polijsttrommels"
     ],
     "admin-pouch-bag-medium-elite-8107": [
       "schietsport",
@@ -28435,6 +28438,7 @@
     "shooting-bag-ulfhednar-multipurpose-support-pillow",
     "shooting-bag-ulfhednar-squeezy",
     "shooting-bag-vanguard-endeavor-srb-large-filled",
-    "shooting-bags-vanguard-endeavor-srb-front-rear-filled"
+    "shooting-bags-vanguard-endeavor-srb-front-rear-filled",
+    "zeef-frankford-arsenal-standard-media-seperator-quick-n-ez"
   ]
 }
