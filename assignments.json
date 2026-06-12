@@ -1611,10 +1611,9 @@
     "rookgranaten"
   ],
   "barricade-stop-rome-picatinny": [
-    "picatinny-rails"
+    "handstoppen"
   ],
   "barricade-stop-saber-tactical-arca-swiss": [
-    "tactical-bags",
     "handstoppen"
   ],
   "base-plate-pts-epm-black": [
@@ -15224,6 +15223,14 @@
     "barrel-sleeve-fx-carbon-fiber": [
       "wapen-accessoires"
     ],
+    "barricade-stop-rome-picatinny": [
+      "optiek",
+      "picatinny-rails"
+    ],
+    "barricade-stop-saber-tactical-arca-swiss": [
+      "tactical-bags",
+      "tactical-gear"
+    ],
     "battery-dnt-18650-2-pack-incl-charger": [
       "observatie-accessoires",
       "richtmiddel-accessoires"
@@ -22693,6 +22700,8 @@
     "battery-dnt-21700-2-pack-incl-charger",
     "battery-hikmicro-habrok-pro-hm-7250dc-rechargeable-7-2v-4800mah",
     "batterij-hikmicro-hm-3632dc-lithium-oplaadbaar-3-6v-3200mah",
-    "battery-hikmicro-thunder-2-0-3-0-hm-3644dc-rechargeable-3-6v-4400mah"
+    "battery-hikmicro-thunder-2-0-3-0-hm-3644dc-rechargeable-3-6v-4400mah",
+    "barricade-stop-saber-tactical-arca-swiss",
+    "barricade-stop-rome-picatinny"
   ]
 }
