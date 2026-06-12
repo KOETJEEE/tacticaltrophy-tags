@@ -5280,19 +5280,19 @@
     "infraroodlampen"
   ],
   "mount-hikmicro-weaver-picatinny-qr-for-thunder-panther-cheetah": [
-    "montage-accessoires"
+    "montagebasissen"
   ],
   "montage-hikmicro-weaver-picatinny-voor-thunder-panther-cheetah": [
-    "montage-accessoires"
+    "montagebasissen"
   ],
   "mount-metal-45-offset-for-flashlight-laser-25-4mm": [
-    "1-delige-montages"
+    "montage-accessoires"
   ],
   "mount-pts-unity-tactical-fast-ftc-aimpoint-magnifier-black": [
     "montage-accessoires"
   ],
   "mount-pts-unity-tactical-fast-ftc-omni-magnifier-black": [
-    "1-delige-montages"
+    "montage-accessoires"
   ],
   "mount-pts-unity-tactical-fast-ftc-omni-magnifier-bronze": [
     "montage-accessoires"
@@ -16274,6 +16274,12 @@
     "mount-audere-psr-34-mm-medium-weaver-picatinny": [
       "montage-accessoires"
     ],
+    "mount-dnt-weaver-picatinny-long-20-moa-for-thermnight-hydra-zulus-hd-v1-v2": [
+      "1-delige-montages"
+    ],
+    "mount-dnt-weaver-picatinny-standard-0-moa-for-thermnight-hydra-zulus-hd-v1-v2": [
+      "1-delige-montages"
+    ],
     "mount-eagle-vision-backward-infinity-elevation-adjustable-30-mm-picatinny": [
       "montage-accessoires"
     ],
@@ -16363,6 +16369,18 @@
     ],
     "mount-hikmicro-ir-illuminator-pro": [
       "montage-accessoires"
+    ],
+    "mount-hikmicro-weaver-picatinny-qr-for-thunder-panther-cheetah": [
+      "montage-accessoires"
+    ],
+    "montage-hikmicro-weaver-picatinny-voor-thunder-panther-cheetah": [
+      "montage-accessoires"
+    ],
+    "mount-metal-45-offset-for-flashlight-laser-25-4mm": [
+      "1-delige-montages"
+    ],
+    "mount-pts-unity-tactical-fast-ftc-omni-magnifier-black": [
+      "1-delige-montages"
     ],
     "mount-pts-unity-tactical-fast-ftc-omni-magnifier-bronze": [
       "1-delige-montages"
@@ -26248,6 +26266,18 @@
     "mount-walther-fixlock-rings",
     "mount-walther-fixlock-red-dot-mounting-base",
     "mount-vector-optics-zr-25-4-30-mm-high-dovetail",
-    "montage-utg-flip-to-side-ring-mount"
+    "montage-utg-flip-to-side-ring-mount",
+    "mount-pts-unity-tactical-fast-ftc-omni-magnifier-bronze",
+    "mount-pts-unity-tactical-fast-ftc-omni-magnifier-black",
+    "mount-pts-unity-tactical-fast-ftc-aimpoint-magnifier-black",
+    "mount-pts-unity-tactical-fast-micro-black",
+    "montage-hikmicro-weaver-picatinny-voor-thunder-panther-cheetah",
+    "mount-hikmicro-weaver-picatinny-qr-for-thunder-panther-cheetah",
+    "mount-metal-45-offset-for-flashlight-laser-25-4mm",
+    "mount-dnt-weaver-picatinny-standard-0-moa-for-thermnight-hydra-zulus-hd-v1-v2",
+    "mount-dnt-weaver-picatinny-long-20-moa-for-thermnight-hydra-zulus-hd-v1-v2",
+    "mount-dnt-quick-detach-standard-1-5-for-thermnight-hydra-zulus-hd-v1-v2",
+    "mount-dnt-quick-detach-multi-functional-1-5-for-thermnight-hydra-zulus-hd-v1-v2",
+    "mount-dnt-dovetail-long-35-moa-for-thermnight-hydra-zulus-hd-v1-v2"
   ]
 }
