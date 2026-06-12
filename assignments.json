@@ -3998,7 +3998,7 @@
     "herlaadkits"
   ],
   "hulzencentrifuge-frankford-arsenal-quick-n-ez": [
-    "herlaadkits"
+    "hulzencentrifuges"
   ],
   "hulzencentrifuge-frankford-arsenal-wet-dry": [
     "hulzencentrifuges"
@@ -4010,7 +4010,7 @@
     "hulzenreinigers"
   ],
   "brass-pouch-manfrotto-alpha-shot-tripod": [
-    "statieven"
+    "hulzenvangers"
   ],
   "hulzentrimmer-frankford-arsenal-universal": [
     "hulzentrimmers"
@@ -15919,6 +15919,9 @@
       "schietsport",
       "wapen-toebehoren"
     ],
+    "hulzencentrifuge-frankford-arsenal-quick-n-ez": [
+      "herlaadkits"
+    ],
     "hulzencentrifuge-frankford-arsenal-wet-dry": [
       "herlaadkits"
     ],
@@ -15929,6 +15932,13 @@
       "onderhoud",
       "schoonmaaksetjes",
       "schoonmaak-onderhoud"
+    ],
+    "brass-pouch-manfrotto-alpha-shot-tripod": [
+      "airsoft",
+      "jacht",
+      "optiek",
+      "statieven",
+      "wapen-toebehoren"
     ],
     "hulzentrimmer-frankford-arsenal-universal": [
       "herlaadkits"
@@ -26352,6 +26362,8 @@
     "barrel-tuner-shroud-fx",
     "hulzenreiniger-bore-tech-case-cleaner-945-ml",
     "hulzendroger-frankford-arsenal-brass-dryer",
-    "hulzencentrifuge-frankford-arsenal-wet-dry"
+    "hulzencentrifuge-frankford-arsenal-wet-dry",
+    "brass-pouch-manfrotto-alpha-shot-tripod",
+    "hulzencentrifuge-frankford-arsenal-quick-n-ez"
   ]
 }
