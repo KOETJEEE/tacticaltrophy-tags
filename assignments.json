@@ -1145,13 +1145,13 @@
     "nachtzicht-handheld"
   ],
   "sionyx-nightwave-c014700-maritieme-full-color-nachtzicht-camera-grijs-504111": [
-    "nachtzicht-handheld"
+    "filmen-opnemen"
   ],
   "sionyx-nightwave-c014900-maritieme-full-color-nachtzicht-camera-zwart-504110": [
-    "nachtzicht-handheld"
+    "filmen-opnemen"
   ],
   "sionyx-nightwave-maritieme-full-color-nachtzicht-camera-504109": [
-    "nachtzicht-handheld"
+    "filmen-opnemen"
   ],
   "sionyx-objectief-beschermlens-504121": [
     "beschermkappen"
@@ -14172,6 +14172,18 @@
     "sionyx-digitale-full-color-nachtkijker-aurora-pro-504104": [
       "monoculair"
     ],
+    "sionyx-nightwave-c014700-maritieme-full-color-nachtzicht-camera-grijs-504111": [
+      "monoculair",
+      "nachtzicht"
+    ],
+    "sionyx-nightwave-c014900-maritieme-full-color-nachtzicht-camera-zwart-504110": [
+      "monoculair",
+      "nachtzicht"
+    ],
+    "sionyx-nightwave-maritieme-full-color-nachtzicht-camera-504109": [
+      "monoculair",
+      "nachtzicht"
+    ],
     "sionyx-objectief-beschermlens-504121": [
       "nachtzicht",
       "nachtzicht-en-warmtebeeldaccessoires"
@@ -21569,6 +21581,9 @@
     "yukon-losdovetail-montage-5026110",
     "yukon-weaverpicatinny-rail-montage-5026114",
     "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2",
-    "accessory-rail-air-marksman-anvil-arca"
+    "accessory-rail-air-marksman-anvil-arca",
+    "sionyx-nightwave-maritieme-full-color-nachtzicht-camera-504109",
+    "sionyx-nightwave-c014900-maritieme-full-color-nachtzicht-camera-zwart-504110",
+    "sionyx-nightwave-c014700-maritieme-full-color-nachtzicht-camera-grijs-504111"
   ]
 }
