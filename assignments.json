@@ -2477,8 +2477,7 @@
     "persluchtfles-accessoires"
   ],
   "cleaning-packs-frankford-arsenal-platinum-series-24-st": [
-    "herlaadkits",
-    "schoonmaaksetjes"
+    "polijst-media"
   ],
   "co2-capsule-umarex-8-gram": [
     "co2-patronen"
@@ -15630,7 +15629,13 @@
       "wapen-toebehoren"
     ],
     "cleaning-packs-frankford-arsenal-platinum-series-24-st": [
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "herlaadkits",
+      "onderhoud",
+      "schoonmaaksetjes"
+    ],
+    "co2-capsule-umarex-8-gram": [
+      "luchtbuks-accessoires"
     ],
     "suppressor-g-g-double-screw": [
       "luchtbuks"
@@ -26204,6 +26209,8 @@
     "chronometer-fx-pocket-chrono-d1",
     "snelheidsmeter-fx-pocket-chrono",
     "chronometer-fx-true-ballistic-gronograph-ce",
-    "chronometer-mount-fx-pocket-chrono"
+    "chronometer-mount-fx-pocket-chrono",
+    "cleaning-packs-frankford-arsenal-platinum-series-24-st",
+    "co2-capsule-umarex-8-gram"
   ]
 }
