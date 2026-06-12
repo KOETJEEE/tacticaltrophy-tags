@@ -1276,7 +1276,6 @@
   "adapter-vfg-voor-vfg-schoonmaakproppen": [
     "stokadapters"
   ],
-  "adapter-wolverine-drop-stock-universal": [],
   "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw": [
     "vulbenodigdheden"
   ],
@@ -1332,7 +1331,7 @@
     "persluchtfles-accessoires"
   ],
   "cover-cap-saber-tactical-for-foster-extended": [
-    "persluchtfles-accessoires"
+    "bipod-toebehoren"
   ],
   "afdichtingsring-bf-1-4-bsp": [
     "vulbenodigdheden"
@@ -14834,6 +14833,10 @@
     "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
       "gearboxen"
     ],
+    "cover-cap-saber-tactical-for-foster-extended": [
+      "persluchtfles-accessoires",
+      "schietsport"
+    ],
     "afdichtingsring-bf-1-4-bsp": [
       "persluchtfles-accessoires"
     ],
@@ -14853,7 +14856,10 @@
     ],
     "sealant-4uad-4uantum-seal": [
       "persluchtfles-accessoires",
-      "schietsport"
+      "schietsport",
+      "doeken",
+      "wattenstaafjes",
+      "werkbankmatten"
     ],
     "red-dot-aim-o-exps-3-2-qd-mount": [
       "montage-accessoires"
@@ -30158,6 +30164,7 @@
     "adapter-vfg-voor-vfg-schoonmaakproppen",
     "adapter-saber-tactical-fx-impact-bag-rider",
     "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw",
-    "adapter-set-saber-tactical-karma-eq-bottle"
+    "adapter-set-saber-tactical-karma-eq-bottle",
+    "cover-cap-saber-tactical-for-foster-extended"
   ]
 }
