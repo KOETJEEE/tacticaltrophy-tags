@@ -1301,10 +1301,10 @@
     "stokadapters"
   ],
   "adapter-best-fittings-200-232-bar-din-female-1-8-bsp-male": [
-    "stokadapters"
+    "vulbenodigdheden"
   ],
   "adaptor-best-fittings-300-bar-din-female-1-8-bsp-male": [
-    "stokadapters"
+    "vulbenodigdheden"
   ],
   "adapter-bf-din-male-1-8-bsp": [
     "stokadapters"
@@ -14728,6 +14728,16 @@
       "stokadapters",
       "schoonmaak-onderhoud"
     ],
+    "adapter-best-fittings-200-232-bar-din-female-1-8-bsp-male": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
+    "adaptor-best-fittings-300-bar-din-female-1-8-bsp-male": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
     "adapter-fx-klapkolf": [
       "kolven",
       "schoonmaak-onderhoud"
@@ -26418,6 +26428,8 @@
     "adapter-mantisx-luchtpistool",
     "ballistic-turret-vector-optics-continental-hunting",
     "barrel-band-fx-dreamline",
-    "barrel-inlet-fx-drs-5-5-mm-22"
+    "barrel-inlet-fx-drs-5-5-mm-22",
+    "adapter-best-fittings-200-232-bar-din-female-1-8-bsp-male",
+    "adaptor-best-fittings-300-bar-din-female-1-8-bsp-male"
   ]
 }
