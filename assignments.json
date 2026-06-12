@@ -7247,7 +7247,7 @@
     "shell-plates"
   ],
   "shells-g-g-g980": [
-    "airsoft-diversen-1"
+    "magazijnen"
   ],
   "shotgun-shells-nuprol-15-schots-6-pack-blue": [
     "magazijnen"
@@ -17994,6 +17994,9 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "shells-g-g-g980": [
+      "airsoft-diversen"
     ],
     "shotgun-shells-nuprol-15-schots-6-pack-blue": [
       "airsoft-diversen"
@@ -30472,6 +30475,7 @@
     "shroud-bushing-saber-tactical-trs",
     "shotgun-shells-nuprol-15-schots-6-pack-orange",
     "shotgun-shells-nuprol-15-schots-6-pack-od-green",
-    "shotgun-shells-nuprol-15-schots-6-pack-blue"
+    "shotgun-shells-nuprol-15-schots-6-pack-blue",
+    "shells-g-g-g980"
   ]
 }
