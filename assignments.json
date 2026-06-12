@@ -122,6 +122,9 @@
   "agm-wolf-7-pro-binoculaire-nachtkijker-goggle-kit-gen2-white-phosphor-121051": [
     "nachtzicht-handheld"
   ],
+  "aparo-rgbww-led-air-tube-ht-20c-291307": [
+    "dames-signaalkleding"
+  ],
   "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
     "filmen-opnemen"
   ],
@@ -138,6 +141,36 @@
   "buteo-photo-gear-camouflage-tape-720038": [
     "tape"
   ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-groen-720210": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-riet-720209": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-sneeuw-720213": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-bruin-720205": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-groen-720207": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-riet-720206": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-sneeuw-720212": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190": [
+    "beschermkappen"
+  ],
+  "buteo-photo-gear-snoot-lens-cover-groen-voor-mark-iii-720192": [
+    "beschermkappen"
+  ],
   "buteo-photo-gear-snoot-lens-cover-groen-voor-schuiltent-720083": [
     "beschermkappen"
   ],
@@ -153,6 +186,9 @@
   "buteo-photo-gear-snoot-lens-cover-voor-schuiltent-720081": [
     "beschermkappen"
   ],
+  "byomic-omkeerprisma-erecting-eyepiece-15x-260402": [
+    "oculairs"
+  ],
   "carson-bol-loep-2x75mm-186111": [
     "loepen"
   ],
@@ -167,6 +203,20 @@
   ],
   "carson-drijvende-brillenkoord-fa-1002-oranje-186182": [
     "brillenkoorden"
+  ],
+  "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
+    "loepen",
+    "voorzetkijkers"
+  ],
+  "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [
+    "loepen",
+    "voorzetkijkers"
+  ],
+  "carson-magnigrip-mg-88-loep-met-pincet-186154": [
+    "loepen"
+  ],
+  "carson-uv-led-zaklamp-uvsight-pro-186300": [
+    "zaklampen-hoofdlampen"
   ],
   "carson-verrekijker-wildcat-7x18-186459": [
     "verrekijkers"
@@ -387,6 +437,14 @@
     "wapenkoffers"
   ],
   "explorer-cases-red-line-9413-geweer-koffer-met-plukschuim-251261": [
+    "wapenkoffers"
+  ],
+  "explorer-cases-rugtas-kit-voor-geweertassen-255150": [
+    "koffers",
+    "wapenkoffers"
+  ],
+  "explorer-cases-slot-met-sleutel-255410": [
+    "koffers",
     "wapenkoffers"
   ],
   "explorer-cases-tas-114-voor-11413-255140": [
@@ -1274,6 +1332,10 @@
     "stokadapters"
   ],
   "adapter-vfg-voor-vfg-schoonmaakproppen": [
+    "stokadapters"
+  ],
+  "adapter-wolverine-drop-stock-universal": [
+    "kolven",
     "stokadapters"
   ],
   "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw": [
@@ -7714,6 +7776,9 @@
   "trigger-shoe-kit-timney-calvin-elite-black": [
     "trekkers"
   ],
+  "trekkerslot-lockdown-met-cijfercombinatie": [
+    "trekkers"
+  ],
   "trekkerslot-lockdown-met-sleutel": [
     "wapensloten"
   ],
@@ -12939,6 +13004,17 @@
       "tactical-gear",
       "bescherming",
       "m-tac"
+    ],
+    "jacket-berserk-polartec-primaloft-9657": [
+      "Clothing > Jackets > Military jackets",
+      "military",
+      "m-tac",
+      "winter-jassen",
+      "kleding",
+      "mid-season",
+      "jassen",
+      "softshell",
+      "windbreaker"
     ],
     "key-holder-elite-8653": [
       "m-tac",
@@ -20108,17 +20184,6 @@
       "Clothing > Jackets > Fleece jackets",
       "m-tac",
       "jassen"
-    ],
-    "jacket-berserk-polartec-primaloft-9657": [
-      "Clothing > Jackets > Military jackets",
-      "military",
-      "m-tac",
-      "winter-jassen",
-      "kleding",
-      "mid-season",
-      "jassen",
-      "softshell",
-      "windbreaker"
     ],
     "jacket-berserk-polartec-primaloft-elite-9654": [
       "m-tac",
