@@ -3633,25 +3633,31 @@
     "handstoppen"
   ],
   "carry-handle-rome-detachable-picatinny": [
-    "picatinny-rails"
+    "grips"
   ],
   "headset-code-red-battle-zero-nx-bm-hybrid-bone-conduction": [
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-code-red-battle-zero-k": [
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-code-red-investigator-two-wire-with-microphone": [
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-code-red-silent-listen-only-3-5-mm-connector-with-replacement-pack": [
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-z-tactical-bowman-evo-iii-green": [
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-z-tactical-comtac-ii-green": [
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "helmet-adapters-code-red-cr-miltac-rear-arc-for-fast-rail": [
     "helmen"
@@ -3973,7 +3979,8 @@
     "hulzencentrifuges"
   ],
   "case-cleaner-birchwood-super-concentrate-480-ml": [
-    "schoonmaaksetjes"
+    "schoonmaaksetjes",
+    "hulzenreinigers"
   ],
   "hulzenreiniger-bore-tech-case-cleaner-945-ml": [
     "hulzenreinigers"
@@ -15859,6 +15866,10 @@
       "wattenstaafjes",
       "werkbankmatten"
     ],
+    "carry-handle-rome-detachable-picatinny": [
+      "picatinny-rails",
+      "optiek"
+    ],
     "herlaadblok-frankford-arsenal-perfect-fit-3-9mm": [
       "herlaadkits"
     ],
@@ -16070,6 +16081,9 @@
     ],
     "hulzendroger-frankford-arsenal-brass-dryer": [
       "herlaadkits"
+    ],
+    "case-cleaner-birchwood-super-concentrate-480-ml": [
+      "schoonmaak-onderhoud"
     ],
     "hulzenreiniger-bore-tech-case-cleaner-945-ml": [
       "onderhoud",
@@ -27054,6 +27068,17 @@
     "grip-plug-ergo-air-tactical-deluxe-zero-angle",
     "hamer-fx-impact-m3-tungsten",
     "hammer-fx-maverick-wildcat-mkiii-dreamline-panthera-dynamic-king-drs-tungsten",
-    "hand-wipes-birchwood-lead-scrubber"
+    "hand-wipes-birchwood-lead-scrubber",
+    "carry-handle-rome-detachable-picatinny",
+    "headset-code-red-battle-zero-nx-bm-hybrid-bone-conduction",
+    "headset-code-red-battle-zero-k",
+    "headset-code-red-investigator-two-wire-with-microphone",
+    "headset-code-red-silent-listen-only-3-5-mm-connector-with-replacement-pack",
+    "headset-z-tactical-bowman-evo-iii-green",
+    "headset-z-tactical-comtac-ii-green",
+    "hit-indicator-caldwell-flash-bang",
+    "case-cleaner-birchwood-super-concentrate-480-ml",
+    "hygrometer-lockdown",
+    "hygrometer-lockdown-digital"
   ]
 }
