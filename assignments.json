@@ -7498,7 +7498,7 @@
     "vizieren"
   ],
   "stock-pts-enhanced-polymer-black": [
-    "kolven"
+    "buttstocks"
   ],
   "stock-wolverine-wraith-x-for-aeg": [
     "kolven"
@@ -17621,6 +17621,9 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "stock-pts-enhanced-polymer-black": [
+      "kolven"
     ],
     "stock-wolverine-wraith-x-for-hpa-tank": [
       "kolven"
@@ -29755,6 +29758,8 @@
     "stock-wolverine-wraith-x-hpa-kit-for-mtw",
     "stock-wolverine-wraith-x-hpa-kit-for-aeg",
     "stock-wolverine-wraith-x-for-hpa-tank",
-    "stock-wolverine-wraith-x-for-aeg"
+    "stock-wolverine-wraith-x-for-aeg",
+    "stock-pts-enhanced-polymer-black",
+    "stock-wolverine-wraith-x-for-mtw"
   ]
 }
