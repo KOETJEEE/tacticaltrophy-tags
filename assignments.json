@@ -7410,10 +7410,10 @@
     "headsets-toebehoren"
   ],
   "speaker-mic-code-red-hot-shot-kenwood-2-pin": [
-    "portofoons"
+    "headsets-toebehoren"
   ],
   "speaker-mic-code-red-signal-21-1": [
-    "portofoons"
+    "headsets-toebehoren"
   ],
   "standaard-lockdown-handgun-rack-single-3-stuks": [
     "wapen-standaards"
@@ -18013,6 +18013,16 @@
     "speaker-mic-baofeng-bs-uv25-tactical": [
       "jacht",
       "portofoons",
+      "schietsport"
+    ],
+    "speaker-mic-code-red-hot-shot-kenwood-2-pin": [
+      "jacht",
+      "portofoons",
+      "schietsport"
+    ],
+    "speaker-mic-code-red-signal-21-1": [
+      "portofoons",
+      "jacht",
       "schietsport"
     ],
     "steeksleutel-element-delta-ring-butt-stock": [
@@ -30303,6 +30313,8 @@
     "speedloader-pts-odin-m12-sidewinder-dark-earth",
     "speedloader-pts-odin-m12-sidewinder-od-green",
     "sporttas-walther-met-wielen",
-    "speaker-mic-baofeng-bs-uv25-tactical"
+    "speaker-mic-baofeng-bs-uv25-tactical",
+    "speaker-mic-code-red-hot-shot-kenwood-2-pin",
+    "speaker-mic-code-red-signal-21-1"
   ]
 }
