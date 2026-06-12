@@ -8397,7 +8397,7 @@
     "portofoons"
   ],
   "walther-p99-6-mm-0-08j": [
-    "airsoft-diversen-1"
+    "speelgoed"
   ],
   "cheek-rest-fx-impact-fde": [
     "cheek-risers"
@@ -18457,6 +18457,10 @@
     "vuurstarter-enola-gaye-ultimate-match-3-pack": [
       "airsoft",
       "rookgranaten"
+    ],
+    "walther-p99-6-mm-0-08j": [
+      "airsoft",
+      "airsoft-diversen"
     ],
     "cheek-rest-fx-impact-fde": [
       "kolven"
@@ -30340,6 +30344,7 @@
     "thermo-pouch-manfrotto-alpha-shot-tripod",
     "timer-sillosocks-flapper",
     "tool-head-frankford-arsenal-x-10",
-    "trekkerslot-lockdown-met-cijfercombinatie"
+    "trekkerslot-lockdown-met-cijfercombinatie",
+    "walther-p99-6-mm-0-08j"
   ]
 }
