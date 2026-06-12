@@ -2651,10 +2651,10 @@
     "lokmiddel-toebehoren"
   ],
   "drop-belt-loop-amomax-low-ride-duty-black": [
-    "riemen-bretels"
+    "holsters-toebehoren"
   ],
   "drop-belt-loop-amomax-low-ride-duty-fde": [
-    "riemen-bretels"
+    "holsters-toebehoren"
   ],
   "dry-pac-hill-ec-3000-compressor-pro-air-dryer-filter": [
     "revisiesetjes"
@@ -15551,6 +15551,16 @@
       "rugzakken",
       "tassen"
     ],
+    "drop-belt-loop-amomax-low-ride-duty-black": [
+      "belts",
+      "bretels",
+      "kleding"
+    ],
+    "drop-belt-loop-amomax-low-ride-duty-fde": [
+      "belts",
+      "bretels",
+      "kleding"
+    ],
     "pigeon-decoy-sillosocks-harvester-12-pack": [
       "lokmiddel-toebehoren"
     ],
@@ -26990,6 +27000,8 @@
     "burst-disk-dominator-4-5k",
     "burst-disk-dominator-7-5k",
     "burst-disk-kit-hill-ec-3000",
-    "butt-pad-mdt-adjustable"
+    "butt-pad-mdt-adjustable",
+    "drop-belt-loop-amomax-low-ride-duty-black",
+    "drop-belt-loop-amomax-low-ride-duty-fde"
   ]
 }
