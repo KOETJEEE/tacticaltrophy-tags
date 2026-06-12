@@ -6040,7 +6040,6 @@
     "mondingsremmen"
   ],
   "muzzle-brake-eagle-vision-air-stripper": [
-    "luchtbuks-dempers",
     "mondingsremmen"
   ],
   "mondingsrem-eagle-vision-mzb-45-interchangeable-full-set": [
@@ -16817,7 +16816,8 @@
       "luchtbuks-dempers"
     ],
     "muzzle-brake-eagle-vision-air-stripper": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
@@ -25296,6 +25296,21 @@
     "muzzle-brake-audere-quarter-stroke-m15x1-223",
     "muzzle-brake-bergara-omni-m14x1",
     "muzzle-brake-bergara-tp1-m18x1",
-    "muzzle-brake-donnyfl-qd"
+    "muzzle-brake-donnyfl-qd",
+    "muzzle-brake-eagle-vision-air-stripper",
+    "mondingsrem-eagle-vision-mzb-45-interchangeable-full-set",
+    "mondingsrem-eagle-vision-mzb-60-interchangeable-full-set",
+    "muzzle-brake-epic-airguns",
+    "muzzle-brake-fx-pro-6-8-mm",
+    "muzzle-brake-fx-pro-8-5-mm",
+    "muzzle-brake-mdt-comp-5-8-24",
+    "muzzle-brake-mdt-elite-m18x1-6-5-creedmoor-308-win",
+    "muzzle-brake-mdt-hunt-standard",
+    "muzzle-brake-precision-armament-hypertap-stainless",
+    "muzzle-brake-precision-armament-hypertap-black",
+    "muzzle-brake-precision-armament-hypertap-slim-stainless",
+    "muzzle-brake-precision-armament-hypertap-slim-black",
+    "muzzle-brake-precision-armament-m41-severe-duty",
+    "muzzle-brake-walther-qca-rs3"
   ]
 }
