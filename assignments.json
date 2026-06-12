@@ -435,7 +435,8 @@
     "tape"
   ],
   "flir-breach-ptq136-adapter-voor-dual-helm-bridge-dovetail-13431909": [
-    "helmen"
+    "helmen",
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "flir-breach-ptq136-objectief-beschermlens-13431910": [
     "beschermkappen",
@@ -872,7 +873,7 @@
     "statieven"
   ],
   "noblex-ipsc-mount-for-noblexdocter-460600": [
-    "montage-accessoires"
+    "montagebasissen"
   ],
   "noblex-monoculair-nm-7x42-c-460080": [
     "monoculairs"
@@ -1257,7 +1258,7 @@
     "laadhulpen"
   ],
   "adapter-saber-tactical-fx-impact-bag-rider": [
-    "stokadapters"
+    "schoudersteunen"
   ],
   "adaptor-saber-tactical-huben-gk1-stock-brace": [
     "kolven",
@@ -13798,6 +13799,10 @@
       "tape",
       "falcon-eyes"
     ],
+    "flir-breach-ptq136-adapter-voor-dual-helm-bridge-dovetail-13431909": [
+      "nachtzicht-en-warmtebeeldaccessoires",
+      "warmtebeeld-accessoires"
+    ],
     "flir-breach-ptq136-objectief-beschermlens-13431910": [
       "nachtzicht-en-warmtebeeldaccessoires",
       "warmtebeeld-accessoires"
@@ -14259,6 +14264,11 @@
     "nest-video-statief-nt-777-vloeistofgedempte-kop-295845": [
       "optiek-accessoires",
       "tripods"
+    ],
+    "noblex-ipsc-mount-for-noblexdocter-460600": [
+      "montage-accessoires",
+      "noblex",
+      "richtkijkers-accessoires"
     ],
     "noblex-monoculair-nm-7x42-c-460080": [
       "noblex",
@@ -14741,6 +14751,11 @@
       "onderhoud",
       "stokadapters"
     ],
+    "adapter-saber-tactical-fx-impact-bag-rider": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
     "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss": [
       "onderhoud",
       "stokadapters",
@@ -14753,6 +14768,9 @@
     ],
     "adapter-vfg-voor-us-poetsstokken": [
       "stokadapters"
+    ],
+    "adapter-vfg-voor-vfg-schoonmaakproppen": [
+      "schoonmaak-onderhoud"
     ],
     "adapter-plate-kmr-s-02-leupold-delta-point-pro": [
       "richtmiddel-accessoires"
@@ -30122,6 +30140,10 @@
     "carson-verrekijker-wildcat-7x18-186459",
     "carson-x-scope-kids-cp-11-multifunctioneel-optisch-zakinstrument-met-7-functies-186462",
     "carson-zakloep-wm-01-25x-creditcard-formaat-loep-met-6x-spot-lens-186126",
-    "explorer-cases-universele-draagriem-set-255470"
+    "explorer-cases-universele-draagriem-set-255470",
+    "flir-breach-ptq136-adapter-voor-dual-helm-bridge-dovetail-13431909",
+    "noblex-ipsc-mount-for-noblexdocter-460600",
+    "adapter-vfg-voor-vfg-schoonmaakproppen",
+    "adapter-saber-tactical-fx-impact-bag-rider"
   ]
 }
