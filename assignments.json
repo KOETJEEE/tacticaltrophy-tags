@@ -8094,19 +8094,19 @@
     "richtkijkers"
   ],
   "magnifier-vector-optics-maverick-4x": [
-    "voorzetkijkers"
+    "voorzetvergrotingen"
   ],
   "magnifier-vector-optics-maverick-gen-iii-3x-mil": [
-    "voorzetkijkers"
+    "voorzetvergrotingen"
   ],
   "magnifier-vector-optics-maverick-gen-iii-3x-sop": [
-    "voorzetkijkers"
+    "voorzetvergrotingen"
   ],
   "rifle-scope-vector-optics-mustang-gen-ii-1-4x30-chevron": [
-    "richtkijkers"
+    "voorzetvergrotingen"
   ],
   "red-dot-vector-optics-nautilus-gen-ii-qd": [
-    "red-dots"
+    "voorzetvergrotingen"
   ],
   "vector-optics-orion-pro-max-3-18x44-vor-4-mil-rifle-scope": [
     "richtkijkers"
@@ -17682,6 +17682,21 @@
       "tactical-gear",
       "utility-pouches",
       "pouches"
+    ],
+    "magnifier-vector-optics-maverick-4x": [
+      "voorzetkijkers"
+    ],
+    "magnifier-vector-optics-maverick-gen-iii-3x-mil": [
+      "voorzetkijkers"
+    ],
+    "magnifier-vector-optics-maverick-gen-iii-3x-sop": [
+      "voorzetkijkers"
+    ],
+    "rifle-scope-vector-optics-mustang-gen-ii-1-4x30-chevron": [
+      "richtkijkers"
+    ],
+    "red-dot-vector-optics-nautilus-gen-ii-qd": [
+      "red-dots"
     ],
     "vet-anschutz-5-gr": [
       "schoonmaak-onderhoud",
@@ -28192,6 +28207,34 @@
     "rifle-scope-vector-optics-grizzly-3-12x56",
     "rifle-scope-vector-optics-grizzly-3-18x56i-hd",
     "rifle-scope-vector-optics-hugo-gt-3-12x44-voi-10bdc",
-    "rifle-scope-vector-optics-hugo-gt-4-16x44-voi-10bdc"
+    "rifle-scope-vector-optics-hugo-gt-4-16x44-voi-10bdc",
+    "rifle-scope-vector-optics-hugo-gt-6-24x50-voi-10bdc",
+    "magnifier-vector-optics-maverick-4x",
+    "magnifier-vector-optics-maverick-gen-iii-3x-mil",
+    "magnifier-vector-optics-maverick-gen-iii-3x-sop",
+    "rifle-scope-vector-optics-mustang-gen-ii-1-4x30-chevron",
+    "red-dot-vector-optics-nautilus-gen-ii-qd",
+    "vector-optics-orion-pro-max-3-18x44-vor-4-mil-rifle-scope",
+    "vector-optics-orion-pro-max-3-18x50-vor-5-moa-rifle-scope",
+    "vector-optics-orion-pro-max-4-16x44-vor-4-mil-rifle-scope",
+    "vector-optics-orion-pro-max-4-16x44-vor-7-mil-rifle-scope",
+    "vector-optics-orion-pro-max-6-24x50-vor-4-mil-rifle-scope",
+    "vector-optics-orion-pro-max-6-24x50-vor-6-mil-rifle-scope",
+    "red-dot-vector-optics-scrapper-gen-ii",
+    "red-dot-vector-optics-scrapper-ultra-compact-enclosed",
+    "rifle-scope-vector-optics-sentinel-gen-ii-4-16x50-vse-4-moa",
+    "rifle-scope-vector-optics-sentinel-x-10-40x50-com-25m",
+    "rifle-scope-vector-optics-sentinel-x-pro-10-40x50-com-25m",
+    "vector-optics-tauron-4-16x44-vta-3-mil-rifle-scope",
+    "vector-optics-tauron-5-25x56-vta-8-mil-rifle-scope",
+    "vector-optics-tauron-5-50x60-vco-5-mil-rifle-scope",
+    "vector-optics-tauron-6-24x50-vta-3-mil-rifle-scope",
+    "rifle-scope-vector-optics-veyron-10x44-sfp-mpr-v5",
+    "richtkijker-vector-optics-veyron-6-24x44",
+    "vector-optics-veyron-gen2-4-16x44-rifle-scope",
+    "vector-optics-veyron-gen2-6-24x44-vve-1-mil-rifle-scope",
+    "rifle-scope-vector-optics-veyron-ir-2-8x32-sfp-mpr-v5",
+    "rifle-scope-vector-optics-veyron-ir-3-12x44-sfp-mpr-v10",
+    "rifle-scope-vector-optics-veyron-plus-10x30-zero"
   ]
 }
