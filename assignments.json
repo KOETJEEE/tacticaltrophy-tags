@@ -122,7 +122,6 @@
   "agm-wolf-7-pro-binoculaire-nachtkijker-goggle-kit-gen2-white-phosphor-121051": [
     "nachtzicht-handheld"
   ],
-  "aparo-rgbww-led-air-tube-ht-20c-291307": [],
   "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
     "filmen-opnemen"
   ],
@@ -139,16 +138,6 @@
   "buteo-photo-gear-camouflage-tape-720038": [
     "tape"
   ],
-  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208": [],
-  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-groen-720210": [],
-  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-riet-720209": [],
-  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-sneeuw-720213": [],
-  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-bruin-720205": [],
-  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-groen-720207": [],
-  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-riet-720206": [],
-  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-sneeuw-720212": [],
-  "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190": [],
-  "buteo-photo-gear-snoot-lens-cover-groen-voor-mark-iii-720192": [],
   "buteo-photo-gear-snoot-lens-cover-groen-voor-schuiltent-720083": [
     "beschermkappen"
   ],
@@ -164,7 +153,6 @@
   "buteo-photo-gear-snoot-lens-cover-voor-schuiltent-720081": [
     "beschermkappen"
   ],
-  "byomic-omkeerprisma-erecting-eyepiece-15x-260402": [],
   "carson-bol-loep-2x75mm-186111": [
     "loepen"
   ],
@@ -180,10 +168,6 @@
   "carson-drijvende-brillenkoord-fa-1002-oranje-186182": [
     "brillenkoorden"
   ],
-  "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [],
-  "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [],
-  "carson-magnigrip-mg-88-loep-met-pincet-186154": [],
-  "carson-uv-led-zaklamp-uvsight-pro-186300": [],
   "carson-verrekijker-wildcat-7x18-186459": [
     "verrekijkers"
   ],
@@ -405,8 +389,6 @@
   "explorer-cases-red-line-9413-geweer-koffer-met-plukschuim-251261": [
     "wapenkoffers"
   ],
-  "explorer-cases-rugtas-kit-voor-geweertassen-255150": [],
-  "explorer-cases-slot-met-sleutel-255410": [],
   "explorer-cases-tas-114-voor-11413-255140": [
     "geweertassen-foudralen"
   ],
@@ -426,7 +408,6 @@
     "koffers"
   ],
   "explorer-cases-universele-draagriem-set-255470": [
-    "koffers",
     "transport-accessoires"
   ],
   "explorer-cases-waterproof-rack-frame-trolley-koffer-5140-b6u-251270": [
@@ -30140,6 +30121,7 @@
     "airkit-steyr-lp10-lp1",
     "carson-verrekijker-wildcat-7x18-186459",
     "carson-x-scope-kids-cp-11-multifunctioneel-optisch-zakinstrument-met-7-functies-186462",
-    "carson-zakloep-wm-01-25x-creditcard-formaat-loep-met-6x-spot-lens-186126"
+    "carson-zakloep-wm-01-25x-creditcard-formaat-loep-met-6x-spot-lens-186126",
+    "explorer-cases-universele-draagriem-set-255470"
   ]
 }
