@@ -626,7 +626,8 @@
     "helmen"
   ],
   "flir-breach-ptq136-objectief-beschermlens-13431910": [
-    "beschermkappen"
+    "beschermkappen",
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "flir-c3-x-warmtebeeldcamera-13461469": [
     "inspectie-cameras"
@@ -659,16 +660,16 @@
     "warmtebeeld"
   ],
   "flir-tg268-warmtebeeldcamera-13461479": [
-    "warmtebeeld"
+    "inspectie-cameras"
   ],
   "flir-tg298-warmtebeeldcamera-13461480": [
-    "warmtebeeld"
+    "inspectie-cameras"
   ],
   "konus-afstandmeter-rf-1200-437316": [
     "afstandsmeters"
   ],
   "konus-cantilever-montage-universeel-437219": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "konus-dubbele-loep-10x-20x-433021": [
     "loepen"
@@ -686,13 +687,13 @@
     "monoculairs"
   ],
   "konus-montage-ringen-22-rail-en-airgun-254-mm-hoog-437415": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "konus-montage-ringen-22-rail-en-airgun-30-mm-hoog-437418": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "konus-montage-set-25-30mm-dual-t-437218": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "konus-montageringen-254-mm-hoog-437400": [
     "2-delige-montages"
@@ -713,8 +714,7 @@
     "2-delige-montages"
   ],
   "konus-oplaadbare-zaklamp-konuslight-rc-5-433928": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "konus-quick-release-montageringen-254-mm-hoog-437406": [
     "2-delige-montages"
@@ -13785,6 +13785,10 @@
     "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-mark-iii-720193": [
       "oversize"
     ],
+    "flir-breach-ptq136-objectief-beschermlens-13431910": [
+      "nachtzicht-en-warmtebeeldaccessoires",
+      "warmtebeeld-accessoires"
+    ],
     "flir-c3-x-warmtebeeldcamera-13461469": [
       "warmtebeeld"
     ],
@@ -13806,6 +13810,47 @@
     ],
     "flir-one-pro-warmtebeeldcamera-voor-ios-13431950": [
       "warmtebeeld"
+    ],
+    "flir-tg268-warmtebeeldcamera-13461479": [
+      "warmtebeeld"
+    ],
+    "flir-tg298-warmtebeeldcamera-13461480": [
+      "warmtebeeld"
+    ],
+    "konus-cantilever-montage-universeel-437219": [
+      "montage-accessoires",
+      "richtkijkers-accessoires",
+      "konus"
+    ],
+    "konus-kompas-konuspoint-6-434089": [
+      "konus",
+      "navigatie"
+    ],
+    "konus-kompas-konustar-11-434075": [
+      "konus",
+      "navigatie"
+    ],
+    "konus-montage-ringen-22-rail-en-airgun-254-mm-hoog-437415": [
+      "montage-accessoires",
+      "richtkijkers-accessoires",
+      "konus"
+    ],
+    "konus-montage-ringen-22-rail-en-airgun-30-mm-hoog-437418": [
+      "konus",
+      "richtkijkers-accessoires",
+      "montage-accessoires"
+    ],
+    "konus-montage-set-25-30mm-dual-t-437218": [
+      "konus",
+      "richtkijkers-accessoires",
+      "montage-accessoires"
+    ],
+    "konus-oplaadbare-zaklamp-konuslight-rc-5-433928": [
+      "konus",
+      "lampen-1",
+      "lampen-en-lasers",
+      "lampen",
+      "tactical-gear"
     ],
     "nest-monopod-wt-1003-h171-cm-295810": [
       "optiek-accessoires",
@@ -20824,6 +20869,33 @@
     "flir-one-edge-warmtebeeldcamera-13461468",
     "flir-one-pro-warmtebeeldcamera-voor-android-usb-c-13431951",
     "flir-one-pro-warmtebeeldcamera-voor-ios-13431950",
-    "flir-scout-pro-ii-warmtebeeldcamera-13461482"
+    "flir-scout-pro-ii-warmtebeeldcamera-13461482",
+    "flir-scout-pro-iii-warmtebeeldcamera-13461483",
+    "flir-scout-pro-warmtebeeldcamera-13461478",
+    "flir-breach-ptq136-objectief-beschermlens-13431910",
+    "flir-tg268-warmtebeeldcamera-13461479",
+    "flir-tg298-warmtebeeldcamera-13461480",
+    "konus-afstandmeter-rf-1200-437316",
+    "konus-cantilever-montage-universeel-437219",
+    "konus-kompas-konuspoint-6-434089",
+    "konus-kompas-konustar-11-434075",
+    "konus-monokijker-konusmall-10x25-432060",
+    "konus-monokijker-konusmall-2-7-17x30-432062",
+    "konus-montage-ringen-22-rail-en-airgun-254-mm-hoog-437415",
+    "konus-montage-ringen-22-rail-en-airgun-30-mm-hoog-437418",
+    "konus-montage-set-25-30mm-dual-t-437218",
+    "konus-montageringen-254-mm-laag-437402",
+    "konus-montageringen-254-mm-hoog-437400",
+    "konus-montageringen-254-mm-medium-437401",
+    "konus-montageringen-30-mm-hoog-437403",
+    "konus-montageringen-30-mm-laag-437405",
+    "konus-montageringen-30-mm-medium-437404",
+    "konus-oplaadbare-zaklamp-konuslight-rc-5-433928",
+    "konus-quick-release-montageringen-254-mm-hoog-437406",
+    "konus-quick-release-montageringen-254-mm-laag-437408",
+    "konus-quick-release-montageringen-254-mm-medium-437407",
+    "konus-quick-release-montageringen-30-mm-hoog-437409",
+    "konus-quick-release-montageringen-30-mm-laag-437411",
+    "konus-quick-release-montageringen-30-mm-medium-437410"
   ]
 }
