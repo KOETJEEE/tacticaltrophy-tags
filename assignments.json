@@ -287,8 +287,7 @@
     "wapenkoffers"
   ],
   "explorer-cases-11413-koffer-zwart-met-plukschuim-251380": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-13513-koffer-zwart-met-plukschuim-251440": [
     "koffers"
@@ -13796,6 +13795,13 @@
       "carson",
       "monoculair"
     ],
+    "explorer-cases-11413-koffer-zwart-met-plukschuim-251380": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "airsoft",
+      "wapenkoffers"
+    ],
     "explorer-cases-13513-koffer-zwart-met-plukschuim-251440": [
       "airsoft",
       "wapenkoffers",
@@ -21913,6 +21919,7 @@
     "explorer-cases-7745-koffer-zwart-met-plukschuim-251200",
     "explorer-cases-9433-koffer-zwart-met-plukschuim-251251",
     "explorer-cases-1908-koffer-zwart-250001",
-    "explorer-cases-13527-koffer-zwart-met-plukschuim-251500"
+    "explorer-cases-13527-koffer-zwart-met-plukschuim-251500",
+    "explorer-cases-13513-koffer-zwart-met-plukschuim-251440"
   ]
 }
