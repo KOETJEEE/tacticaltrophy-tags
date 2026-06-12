@@ -8956,15 +8956,13 @@
     "geweertassen-foudralen"
   ],
   "bag-run-pack-9397": [
-    "tassen-rugzakken"
+    "waist-packs"
   ],
   "bag-backpack-for-fpv-7-drones-laser-cut-8094": [
-    "tactical-bags",
-    "tassen-rugzakken"
+    "tactical-bags"
   ],
   "bag-backpack-for-fpv-7-drones-lightweight-without-compartments-8511": [
-    "tactical-bags",
-    "tassen-rugzakken"
+    "tactical-bags"
   ],
   "balaclava-elite-fleece-320gm2-4593": [
     "bivakmuts"
@@ -8979,8 +8977,7 @@
     "petten"
   ],
   "baseball-cap-elite-tactical-nyco-extreme-8149": [
-    "petten",
-    "tactical-bags"
+    "petten"
   ],
   "baseball-cap-five-panel-9390": [
     "petten"
@@ -9268,7 +9265,6 @@
     "veldnotitie",
     "tactical-bags"
   ],
-  "ecopybook-tactical-ruler-ts-nato-853": [],
   "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
     "veldnotitie"
   ],
@@ -17454,6 +17450,60 @@
       "pouches",
       "m-tac",
       "Tactical gear > Pouches > Admin Pouch"
+    ],
+    "bag-run-pack-9397": [
+      "jacht",
+      "schietsport",
+      "tassen-rugzakken",
+      "m-tac",
+      "rugzakken",
+      "tassen"
+    ],
+    "bag-backpack-for-fpv-7-drones-laser-cut-8094": [
+      "jacht",
+      "schietsport",
+      "tassen-rugzakken",
+      "Equipment and gear > Bags and backpacks > Bags",
+      "rugzakken",
+      "m-tac",
+      "tassen"
+    ],
+    "bag-backpack-for-fpv-7-drones-lightweight-without-compartments-8511": [
+      "Equipment and gear > Bags and backpacks",
+      "m-tac",
+      "rugzakken",
+      "tassen",
+      "schietsport",
+      "jacht",
+      "tassen-rugzakken"
+    ],
+    "balaclava-elite-fleece-320gm2-4593": [
+      "Clothing > Headwear > Balaclava",
+      "m-tac",
+      "headwear"
+    ],
+    "balaclava-elite-fleece-polartec-5887": [
+      "Clothing > Headwear > Balaclava",
+      "headwear",
+      "m-tac"
+    ],
+    "baseball-cap-elite-flex-rip-stop-4603": [
+      "Clothing > Headwear > Caps",
+      "m-tac",
+      "headwear",
+      "Outdoor Line"
+    ],
+    "baseball-cap-elite-nyco-extreme-8572": [
+      "Clothing > Headwear > Caps",
+      "m-tac",
+      "headwear"
+    ],
+    "baseball-cap-elite-tactical-nyco-extreme-8149": [
+      "tactical-bags",
+      "tactical-gear",
+      "Clothing > Headwear > Caps",
+      "headwear",
+      "m-tac"
     ],
     "chain-for-tokens-8313": [
       "Clothing > Accessories",
@@ -26407,6 +26457,14 @@
     "ecopybook-tactical-topography-series-pencil-855",
     "ecopybook-tactical-pencil-survival-gen2-9755",
     "ecopybook-tactical-combat-pencil-854",
-    "ecopybook-tactical-notebook-of-an-intelligence-agent-8194"
+    "ecopybook-tactical-notebook-of-an-intelligence-agent-8194",
+    "ecopybook-tactical-card-wounded-tccc-hato-10-pcs-8040",
+    "bag-backpack-for-fpv-7-drones-lightweight-without-compartments-8511",
+    "bag-backpack-for-fpv-7-drones-laser-cut-8094",
+    "bag-run-pack-9397",
+    "balaclava-elite-fleece-320gm2-4593",
+    "balaclava-elite-fleece-polartec-5887",
+    "baseball-cap-elite-flex-rip-stop-4603",
+    "baseball-cap-elite-nyco-extreme-8572"
   ]
 }
