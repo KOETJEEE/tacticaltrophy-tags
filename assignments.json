@@ -4044,7 +4044,7 @@
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-850-nm-ir": [
-    "nachtzicht-handheld"
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-clip-on-850-nm-ir-no-reticle": [
     "voorzetkijkers"
@@ -4065,7 +4065,7 @@
     "multispectral"
   ],
   "night-vision-camera-hikmicro-heimdal-h4d": [
-    "inspectie-cameras"
+    "nachtzicht-handheld"
   ],
   "hikmicro-neos-ne25-thermal-imaging-rifle-scope": [
     "warmtebeeld-richtkijkers"
@@ -15965,6 +15965,12 @@
     "night-vision-scope-hikmicro-cheetah-850-nm-ir": [
       "nachtzicht"
     ],
+    "night-vision-scope-hikmicro-cheetah-lrf-850-nm-ir": [
+      "nachtzicht"
+    ],
+    "night-vision-camera-hikmicro-heimdal-h4d": [
+      "inspectie-cameras"
+    ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
     ],
@@ -23963,6 +23969,46 @@
     "night-vision-scope-hikmicro-cheetah-850-nm-ir",
     "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir",
     "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir",
-    "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir-no-reticle"
+    "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir-no-reticle",
+    "night-vision-scope-hikmicro-cheetah-lrf-850-nm-ir",
+    "hikmicro-habrok-4k-hq35l-multispectral-binoculars",
+    "hikmicro-habrok-4k-2-0-he25l-multispectral-binoculars",
+    "multispectral-binoculars-hikmicro-habrok-pro-hq50ln-940-nm",
+    "hikmicro-habrok-pro-hx60ls-multispectral-binoculars",
+    "night-vision-camera-hikmicro-heimdal-h4d",
+    "hikmicro-neos-ne25-thermal-imaging-rifle-scope",
+    "hikmicro-neos-nh25l-thermal-imaging-rifle-scope",
+    "hikmicro-neos-nh35l-thermal-imaging-rifle-scope",
+    "thermal-imaging-rifle-scope-hikmicro-stellar-3-0-sh35",
+    "thermal-imaging-rifle-scope-hikmicro-stellar-3-0-sh35l",
+    "thermal-imaging-rifle-scope-hikmicro-stellar-3-0-sh50l",
+    "thermal-imaging-rifle-scope-hikmicro-stellar-3-0-sq35l",
+    "thermal-imaging-rifle-scope-hikmicro-stellar-3-0-sq50l",
+    "hikmicro-stellar-3-0-sx60ls-thermal-imaging-rifle-scope",
+    "thermal-imaging-camera-hikmicro-thunder-2-0-clip-on-te19cr",
+    "thermal-imaging-rifle-scope-hikmicro-thunder-2-0-th25p",
+    "night-vision-scope-hikmicro-cheetah-lrf-clip-on-850-nm-ir-no-reticle",
+    "night-vision-scope-hikmicro-cheetah-lrf-clip-on-940-nm-ir-no-reticle",
+    "thermal-imaging-camera-hikmicro-thunder-3-0-clip-on-th35c-no-reticle",
+    "thermal-imaging-camera-hikmicro-thunder-3-0-clip-on-tq35c-no-reticle",
+    "hikmicro-thunder-3-0-clip-on-tq35cl-thermal-imaging-camera-no-reticle",
+    "thermal-imaging-camera-hikmicro-thunder-3-0-clip-on-tq50c-no-reticle",
+    "thermal-imaging-camera-hikmicro-thunder-3-0-clip-on-tq50cl-no-reticle",
+    "holster-black-scorpion-gear-competition-speed-1911-2011-blue",
+    "holster-black-scorpion-gear-competition-speed-1911-2011-red",
+    "holster-black-scorpion-gear-pro-ball-joint-competition-carbon-fiber",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-1911-5-carbon",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-2011-5-carbon",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-beretta-92x-performance-carbon",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-75-sp-01-carbon",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-shadow-2-carbon",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-ts-2-carbon",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-speed",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-glock-17-19-22-45-carbon",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-pdp-4-5-carbon",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-pdp-5-carbon",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-q5-match-polyframe-carbon",
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-q5-match-sf-carbon",
+    "holster-ctm-hi-capa"
   ]
 }
