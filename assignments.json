@@ -4366,15 +4366,13 @@
     "kolfolien"
   ],
   "stock-oil-birchwood-sheen-conditioner": [
-    "kolfolien",
-    "kolven"
+    "kolfolien"
   ],
   "stock-oil-birchwood-tru-oil": [
     "kolfolien"
   ],
   "stock-oil-birchwood-tru-oil-finishing-kit": [
-    "kolfolien",
-    "kolven"
+    "kolfolien"
   ],
   "stock-oil-birchwood-walnut-wood-stain": [
     "kolfolien"
@@ -4528,7 +4526,7 @@
     "kruitmolens"
   ],
   "powder-reservoir-frankford-arsenal": [
-    "herlaadkits"
+    "kruitmolens"
   ],
   "powder-funnel-kit-frankford-arsenal-aluminium": [
     "kruittrechters"
@@ -16024,9 +16022,34 @@
     "pellet-catcher-krale-hammerite-23x23": [
       "luchtdrukmunitie-accessoires"
     ],
+    "stock-oil-birchwood-genuine-oil-90-ml": [
+      "schoonmaak-onderhoud"
+    ],
+    "stock-oil-birchwood-rusty-walnut-wood-stain": [
+      "schoonmaak-onderhoud"
+    ],
+    "stock-oil-birchwood-sheen-conditioner": [
+      "schoonmaak-onderhoud",
+      "kolven",
+      "wapen-toebehoren"
+    ],
+    "stock-oil-birchwood-tru-oil": [
+      "schoonmaak-onderhoud"
+    ],
+    "stock-oil-birchwood-tru-oil-finishing-kit": [
+      "kolven",
+      "wapen-toebehoren",
+      "schoonmaak-onderhoud"
+    ],
+    "stock-oil-birchwood-walnut-wood-stain": [
+      "schoonmaak-onderhoud"
+    ],
     "bead-sight-lpa-walther-q5-match": [
       "optiek",
       "vizieren"
+    ],
+    "powder-reservoir-frankford-arsenal": [
+      "herlaadkits"
     ],
     "boot-jack": [
       "schoenen"
@@ -26040,6 +26063,12 @@
     "cylinder-prometheus-type-c",
     "cylinder-prometheus-type-d",
     "boot-jack",
-    "boot-jack-with-brushes"
+    "boot-jack-with-brushes",
+    "powder-reservoir-frankford-arsenal",
+    "stock-oil-birchwood-walnut-wood-stain",
+    "stock-oil-birchwood-tru-oil",
+    "stock-oil-birchwood-tru-oil-finishing-kit",
+    "stock-oil-birchwood-sheen-conditioner",
+    "stock-oil-birchwood-rusty-walnut-wood-stain"
   ]
 }
