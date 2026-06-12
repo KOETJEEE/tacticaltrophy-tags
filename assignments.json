@@ -19,14 +19,6 @@
     "satellite-magnet-bag-genii-elite-hex-379",
     "satellite-magnet-bag-elite-hex-378",
     "satellite-bag-genii-7655",
-    "safety-cord-with-d-ring-5727",
-    "safety-cord-medium-with-d-ring-and-fastex-5736",
-    "safety-cord-medium-universal-5730",
-    "safety-cord-lite-universal-5745",
-    "safety-cord-medium-combined-with-d-ring-5740",
-    "safety-cord-medium-combo-5737",
-    "safety-cord-medium-combo-with-d-ring-and-fastex-5743",
-    "safety-cord-medium-for-carbine-5733",
     "m-tac-seating-pad-with-belt-20",
     "m-tac-seat-pad-20-mm-7610",
     "m-tac-passport-cover-722",
@@ -11955,28 +11947,28 @@
     "safety-cords"
   ],
   "safety-cord-lite-universal-5745": [
-    "geweerriemen"
+    "safety-cords"
   ],
   "safety-cord-medium-combined-with-d-ring-5740": [
-    "geweerriemen"
+    "safety-cords"
   ],
   "safety-cord-medium-combo-5737": [
-    "geweerriemen"
+    "safety-cords"
   ],
   "safety-cord-medium-combo-with-d-ring-and-fastex-5743": [
-    "geweerriemen"
+    "safety-cords"
   ],
   "safety-cord-medium-for-carbine-5733": [
-    "geweerriemen"
+    "safety-cords"
   ],
   "safety-cord-medium-universal-5730": [
-    "geweerriemen"
+    "safety-cords"
   ],
   "safety-cord-medium-with-d-ring-and-fastex-5736": [
-    "geweerriemen"
+    "safety-cords"
   ],
   "safety-cord-with-d-ring-5727": [
-    "geweerriemen"
+    "safety-cords"
   ],
   "satellite-bag-genii-7655": [
     "sling-bags"
@@ -22543,6 +22535,12 @@
       "geweerriemen",
       "wapen-toebehoren"
     ],
+    "safety-cord-lite-for-carbine-5748": [
+      "geweerriemen",
+      "wapen-toebehoren",
+      "m-tac",
+      "Tactical gear > Gun Slings"
+    ],
     "safety-cord-lite-for-carbine-with-d-ring-5751": [
       "m-tac",
       "Tactical gear > Gun Slings",
@@ -22555,6 +22553,59 @@
       "Tactical gear > Gun Slings",
       "geweerriemen",
       "wapen-toebehoren"
+    ],
+    "safety-cord-lite-universal-5745": [
+      "wapen-toebehoren",
+      "geweerriemen",
+      "m-tac",
+      "Tactical gear > Gun Slings",
+      "Tactical Line"
+    ],
+    "safety-cord-medium-combined-with-d-ring-5740": [
+      "m-tac",
+      "Tactical gear > Gun Slings",
+      "geweerriemen",
+      "wapen-toebehoren"
+    ],
+    "safety-cord-medium-combo-5737": [
+      "m-tac",
+      "Military Line",
+      "Tactical gear > Gun Slings",
+      "geweerriemen",
+      "wapen-toebehoren"
+    ],
+    "safety-cord-medium-combo-with-d-ring-and-fastex-5743": [
+      "m-tac",
+      "Tactical gear > Gun Slings",
+      "geweerriemen",
+      "wapen-toebehoren"
+    ],
+    "safety-cord-medium-for-carbine-5733": [
+      "geweerriemen",
+      "wapen-toebehoren",
+      "Tactical gear > Gun Slings",
+      "m-tac",
+      "Tactical Line"
+    ],
+    "safety-cord-medium-universal-5730": [
+      "m-tac",
+      "Tactical gear > Gun Slings",
+      "geweerriemen",
+      "wapen-toebehoren"
+    ],
+    "safety-cord-medium-with-d-ring-and-fastex-5736": [
+      "m-tac",
+      "Tactical gear > Gun Slings",
+      "Tactical Line",
+      "geweerriemen",
+      "wapen-toebehoren"
+    ],
+    "safety-cord-with-d-ring-5727": [
+      "geweerriemen",
+      "wapen-toebehoren",
+      "Military Line",
+      "m-tac",
+      "Tactical gear > Gun Slings"
     ],
     "satellite-bag-genii-7655": [
       "jacht",
@@ -27582,6 +27633,15 @@
     "safety-cord-lite-for-carbine-with-d-ring-and-fastex-5754",
     "safety-cord-lite-for-carbine-with-d-ring-5751",
     "safety-cord-lite-combo-with-d-ring-5760",
-    "safety-cord-lite-combo-5757"
+    "safety-cord-lite-combo-5757",
+    "safety-cord-lite-for-carbine-5748",
+    "safety-cord-lite-universal-5745",
+    "safety-cord-medium-combined-with-d-ring-5740",
+    "safety-cord-medium-combo-5737",
+    "safety-cord-medium-combo-with-d-ring-and-fastex-5743",
+    "safety-cord-medium-for-carbine-5733",
+    "safety-cord-medium-universal-5730",
+    "safety-cord-medium-with-d-ring-and-fastex-5736",
+    "safety-cord-with-d-ring-5727"
   ]
 }
