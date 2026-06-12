@@ -7614,31 +7614,29 @@
     "gereedschap"
   ],
   "scope-protector-aim-o-folding-protection": [
+    "richtmiddel-accessoires",
     "beschermkappen"
   ],
   "scope-protector-laylax-direct-mount-aegis-hg-hi-capa": [
     "beschermkappen",
-    "montage-accessoires",
-    "richtkijkers"
+    "richtmiddel-accessoires"
   ],
   "scope-protector-laylax-direct-mount-aegis-hg-glock": [
     "beschermkappen",
-    "montage-accessoires",
-    "richtkijkers"
+    "richtmiddel-accessoires"
   ],
   "scope-protector-laylax-direct-mount-aegis-hg-for-umarex-glock": [
     "beschermkappen",
-    "richtkijkers"
+    "richtmiddel-accessoires"
   ],
   "scope-protector-wadsn-holosight": [
     "beschermkappen",
-    "richtkijkers"
+    "richtmiddel-accessoires"
   ],
   "seater-die-frankford-arsenal-universal-bullet": [
-    "herlaadkits"
+    "dies"
   ],
   "service-box-tipton-best-gun-vise": [
-    "geweersteunen",
     "schoonmaakstations"
   ],
   "service-box-tipton-compact-range-vise": [
@@ -7648,7 +7646,6 @@
     "schoonmaakstations"
   ],
   "service-box-tipton-ultra-gun-vise": [
-    "geweersteunen",
     "schoonmaakstations"
   ],
   "service-kit-hill-ec-3000-100-hours": [
@@ -7692,13 +7689,12 @@
     "persluchtfles-accessoires"
   ],
   "service-box-plano-shooter-s-case-camo": [
-    "wapenkoffers"
+    "schoonmaakstations"
   ],
   "service-koffer-ahg-537-plano-shooters-case": [
-    "wapenkoffers"
+    "schoonmaakstations"
   ],
   "shell-plate-frankford-arsenal-x-10-progressive": [
-    "herlaadpersen-turret-progressive",
     "shell-plates"
   ],
   "shells-g-g-g980": [
@@ -17325,6 +17321,61 @@
       "herlaadkits",
       "herladen"
     ],
+    "scope-protector-aim-o-folding-protection": [
+      "richtkijkers"
+    ],
+    "scope-protector-laylax-direct-mount-aegis-hg-hi-capa": [
+      "montage-accessoires",
+      "richtkijkers"
+    ],
+    "scope-protector-laylax-direct-mount-aegis-hg-glock": [
+      "montage-accessoires",
+      "richtkijkers"
+    ],
+    "scope-protector-laylax-direct-mount-aegis-hg-for-umarex-glock": [
+      "richtkijkers"
+    ],
+    "scope-protector-wadsn-holosight": [
+      "richtkijkers"
+    ],
+    "seater-die-frankford-arsenal-universal-bullet": [
+      "herlaadkits"
+    ],
+    "service-box-tipton-best-gun-vise": [
+      "geweersteunen",
+      "jacht",
+      "schietsport",
+      "schoonmaak-onderhoud"
+    ],
+    "service-box-tipton-compact-range-vise": [
+      "schoonmaak-onderhoud"
+    ],
+    "service-box-tipton-gun-butler": [
+      "schoonmaak-onderhoud"
+    ],
+    "service-box-tipton-ultra-gun-vise": [
+      "schoonmaak-onderhoud",
+      "geweersteunen",
+      "jacht",
+      "schietsport"
+    ],
+    "service-box-plano-shooter-s-case-camo": [
+      "airsoft",
+      "jacht",
+      "schietsport",
+      "wapenkoffers"
+    ],
+    "service-koffer-ahg-537-plano-shooters-case": [
+      "airsoft",
+      "jacht",
+      "schietsport",
+      "wapenkoffers"
+    ],
+    "shell-plate-frankford-arsenal-x-10-progressive": [
+      "herlaadpersen-turret-progressive",
+      "herlaadpersen-progressive",
+      "herlaadpersen-turret"
+    ],
     "utility-pouch-nuprol-medium-pmc-green": [
       "tactical-gear",
       "utility-pouches",
@@ -26112,6 +26163,36 @@
     "schroevendraaierset-wheeler-professional-gunsmith-hex-torx-metric-inch-45-delig",
     "schroevendraaierset-wheeler-professional-gunsmith-hex-torx-metric-inch-p-handle-set-30-delig",
     "schroevendraaierset-wheeler-space-saver",
-    "schuifmaat-frankford-arsenal-electronisch"
+    "schuifmaat-frankford-arsenal-electronisch",
+    "scope-protector-aim-o-folding-protection",
+    "scope-protector-laylax-direct-mount-aegis-hg-hi-capa",
+    "scope-protector-laylax-direct-mount-aegis-hg-glock",
+    "scope-protector-laylax-direct-mount-aegis-hg-for-umarex-glock",
+    "scope-protector-wadsn-holosight",
+    "seater-die-frankford-arsenal-universal-bullet",
+    "service-box-tipton-best-gun-vise",
+    "service-box-tipton-compact-range-vise",
+    "service-box-tipton-gun-butler",
+    "service-box-tipton-ultra-gun-vise",
+    "service-box-plano-shooter-s-case-camo",
+    "service-koffer-ahg-537-plano-shooters-case",
+    "shell-plate-frankford-arsenal-x-10-progressive",
+    "sharpening-stone-taidea-tg2015-1000-6000",
+    "sharpening-stone-taidea-tg5310-1000-3000",
+    "sharpening-stone-taidea-tg6124-240-1000",
+    "sharpening-stone-taidea-tg6310-1000-3000",
+    "sharpening-stone-taidea-tg6520-2000-5000",
+    "sharpening-stone-taidea-tg6830-3000-8000",
+    "sharpening-stone-taidea-ty1051-pocket",
+    "chronometer-athlon-optics-rangecraft-velocity-pro",
+    "snelheidsmeter-caldwell-ballistic-precision-2-0-bluetooth",
+    "chronograph-caldwell-ballistic-precision-2-0-bluetooth-pro-kit",
+    "snelheidsmeter-caldwell-ballistic-precision-chronograph-g2",
+    "snelheidsmeter-caldwell-ballistic-precision-chronograph-premium-kit",
+    "snelheidsmeter-caldwell-velociradar",
+    "chronometer-fx-pocket-chrono-d1",
+    "snelheidsmeter-fx-pocket-chrono",
+    "chronometer-fx-true-ballistic-gronograph-ce",
+    "chronometer-mount-fx-pocket-chrono"
   ]
 }
