@@ -103,15 +103,13 @@
     "nachtzicht-handheld"
   ],
   "agm-observir-lrf-50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121319": [
-    "afstandsmeters",
     "nachtzicht-handheld"
   ],
   "agm-observir-lrf-60-1280-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121320": [
-    "afstandsmeters",
     "nachtzicht-handheld"
   ],
   "agm-oculairdop-voor-pvs-7-pvs-14-en-sionyx-aurora-serie-504126": [
-    "nachtzicht-handheld"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "agm-pvs-14-apw-monoculaire-nachtkijker-gen2-white-phosphor-121071": [
     "nachtzicht-handheld"
@@ -120,11 +118,9 @@
     "nachtzicht-handheld"
   ],
   "agm-pvs-7-nl1-nachtkijker-goggles-bi-oculair-gen2-green-phosphor-121072": [
-    "oculairs",
     "nachtzicht-handheld"
   ],
   "agm-pvs-7-nw1-nachtkijker-goggles-bi-oculair-gen2-white-phosphor-121073": [
-    "oculairs",
     "nachtzicht-handheld"
   ],
   "agm-reachir-lrf-25-384-warmtebeeldcamera-met-laser-rangefinder-121308": [
@@ -137,14 +133,10 @@
     "afstandsmeters"
   ],
   "agm-sioux850-long-range-infraroodstraler-850nm1000mw-121100": [
-    "richtmiddel-accessoires",
-    "observatie-accessoires",
-    "nachtzicht-handheld"
+    "infraroodlampen"
   ],
   "agm-sioux940-long-range-infraroodstraler-940nm-800mw-v2-121321": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires",
-    "nachtzicht-handheld"
+    "infraroodlampen"
   ],
   "agm-taipan-tm15-384-warmtebeeldcamera-121207": [
     "warmtebeeld"
@@ -13769,6 +13761,51 @@
     "agm-nvg-50-nw1-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121085": [
       "binoculair"
     ],
+    "agm-observir-lrf-50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121319": [
+      "afstandsmeters"
+    ],
+    "agm-observir-lrf-60-1280-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121320": [
+      "afstandsmeters"
+    ],
+    "agm-oculairdop-voor-pvs-7-pvs-14-en-sionyx-aurora-serie-504126": [
+      "nachtzicht-en-warmtebeeldaccessoires",
+      "warmtebeeld-accessoires",
+      "nachtzicht"
+    ],
+    "agm-pvs-14-apw-monoculaire-nachtkijker-gen2-white-phosphor-121071": [
+      "monoculair"
+    ],
+    "agm-pvs-14-nl1-monoculaire-nachtkijker-gen2-green-phosphor-121065": [
+      "monoculair"
+    ],
+    "agm-pvs-7-nl1-nachtkijker-goggles-bi-oculair-gen2-green-phosphor-121072": [
+      "binoculair",
+      "oculairs"
+    ],
+    "agm-pvs-7-nw1-nachtkijker-goggles-bi-oculair-gen2-white-phosphor-121073": [
+      "binoculair",
+      "oculairs"
+    ],
+    "agm-sioux850-long-range-infraroodstraler-850nm1000mw-121100": [
+      "nachtzicht",
+      "observatie-accessoires",
+      "richtmiddel-accessoires",
+      "ir-illuminators",
+      "nachtzicht-en-warmtebeeldaccessoires"
+    ],
+    "agm-sioux940-long-range-infraroodstraler-940nm-800mw-v2-121321": [
+      "ir-illuminators",
+      "richtmiddel-accessoires",
+      "nachtzicht-en-warmtebeeldaccessoires",
+      "nachtzicht",
+      "observatie-accessoires"
+    ],
+    "agm-wolf-14-nl1-monoculaire-nachtkijker-gen2-green-phosphor-121060": [
+      "monoculair"
+    ],
+    "agm-wolf-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121061": [
+      "monoculair"
+    ],
     "boya-digitale-shotgun-microfoon-by-dm200-voor-ios-350309": [
       "microfoon"
     ],
@@ -21136,6 +21173,27 @@
     "agm-nvg-50-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121084",
     "agm-nvg-50-nw1-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121085",
     "agm-observir-lrf-25-256-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121311",
-    "agm-observir-lrf-35-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121318"
+    "agm-observir-lrf-35-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121318",
+    "agm-observir-lrf-50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121319",
+    "agm-observir-lrf-60-1280-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121320",
+    "agm-oculairdop-voor-pvs-7-pvs-14-en-sionyx-aurora-serie-504126",
+    "agm-pvs-14-apw-monoculaire-nachtkijker-gen2-white-phosphor-121071",
+    "agm-pvs-14-nl1-monoculaire-nachtkijker-gen2-green-phosphor-121065",
+    "agm-pvs-7-nl1-nachtkijker-goggles-bi-oculair-gen2-green-phosphor-121072",
+    "agm-pvs-7-nw1-nachtkijker-goggles-bi-oculair-gen2-white-phosphor-121073",
+    "agm-reachir-lrf-25-384-warmtebeeldcamera-met-laser-rangefinder-121308",
+    "agm-reachir-lrf-35-640-warmtebeeldcamera-met-laser-rangefinder-121309",
+    "agm-reachir-lrf-50-640-warmtebeeldcamera-met-laser-rangefinder-121310",
+    "agm-sioux850-long-range-infraroodstraler-850nm1000mw-121100",
+    "agm-sioux940-long-range-infraroodstraler-940nm-800mw-v2-121321",
+    "agm-taipan-tm15-384-warmtebeeldcamera-121207",
+    "agm-taipanv2-10-256-warmtebeeldcamera-121312",
+    "agm-taipanv2-15-256-warmtebeeldcamera-121313",
+    "agm-taipanv2-15-384-warmtebeeldcamera-121315",
+    "agm-taipanv2-19-320-warmtebeeldcamera-121314",
+    "agm-taipanv2-19-384-warmtebeeldcamera-121316",
+    "agm-taipanv2-25-384-warmtebeeldcamera-121317",
+    "agm-wolf-14-nl1-monoculaire-nachtkijker-gen2-green-phosphor-121060",
+    "agm-wolf-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121061"
   ]
 }
