@@ -4,8 +4,6 @@
     "batterij-nuprol-nimh-8-4v-1600mah-small",
     "seating-pad-with-belt-20",
     "m-tac-seating-pad-with-belt-18",
-    "seat-pad-with-belt-armor-8095",
-    "seat-mat-with-belt-attachment-armor-5769",
     "m-tac-drop-leg-platform-gen3-150",
     "lower-back-protection-for-ballistic-panel-inserts-xl-for-cuirass-qrs-9046",
     "lower-back-protection-for-ballistic-panel-inserts-for-cuirass-qrs-9059",
@@ -122,6 +120,9 @@
   "agm-wolf-7-pro-binoculaire-nachtkijker-goggle-kit-gen2-white-phosphor-121051": [
     "nachtzicht-handheld"
   ],
+  "aparo-rgbww-led-air-tube-ht-20c-291307": [
+    "dames-signaalkleding"
+  ],
   "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
     "filmen-opnemen"
   ],
@@ -137,6 +138,30 @@
   ],
   "buteo-photo-gear-camouflage-tape-720038": [
     "tape"
+  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-groen-720210": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-riet-720209": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-sneeuw-720213": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-bruin-720205": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-groen-720207": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-riet-720206": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-sneeuw-720212": [
+    "tassen-rugzakken"
   ],
   "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190": [
     "beschermkappen"
@@ -159,6 +184,9 @@
   "buteo-photo-gear-snoot-lens-cover-voor-schuiltent-720081": [
     "beschermkappen"
   ],
+  "byomic-omkeerprisma-erecting-eyepiece-15x-260402": [
+    "oculairs"
+  ],
   "carson-bol-loep-2x75mm-186111": [
     "loepen"
   ],
@@ -173,6 +201,17 @@
   ],
   "carson-drijvende-brillenkoord-fa-1002-oranje-186182": [
     "brillenkoorden"
+  ],
+  "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
+    "loepen",
+    "voorzetkijkers"
+  ],
+  "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [
+    "loepen",
+    "voorzetkijkers"
+  ],
+  "carson-magnigrip-mg-88-loep-met-pincet-186154": [
+    "loepen"
   ],
   "carson-uv-led-zaklamp-uvsight-pro-186300": [
     "zaklampen-hoofdlampen"
@@ -1275,6 +1314,10 @@
   "adapter-saber-tactical-fx-impact-bag-rider": [
     "schoudersteunen"
   ],
+  "adaptor-saber-tactical-huben-gk1-stock-brace": [
+    "kolven",
+    "stokadapters"
+  ],
   "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss": [
     "geweersteunen"
   ],
@@ -1285,6 +1328,10 @@
     "stokadapters"
   ],
   "adapter-vfg-voor-vfg-schoonmaakproppen": [
+    "stokadapters"
+  ],
+  "adapter-wolverine-drop-stock-universal": [
+    "kolven",
     "stokadapters"
   ],
   "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw": [
@@ -2183,6 +2230,9 @@
   ],
   "bronzen-kamerborstel-bore-tech-proof-positive-ar15": [
     "schoonmaakborstels"
+  ],
+  "buffer-tube-key-arma-key-501-for-ar15-mil-spec-black": [
+    "airsoft-accessoires"
   ],
   "red-dot-bul-b-a-o-1-4-moa": [
     "red-dots"
@@ -9287,7 +9337,6 @@
     "magazijn-pouches"
   ],
   "elastic-tourniquet-holder-geniii-359": [
-    "tourniquets",
     "ehbo",
     "medical-pouches"
   ],
@@ -9968,7 +10017,8 @@
   ],
   "m-tac-elastic-cord-with-hooks-2-pcs-7732": [
     "velcro-strips",
-    "veldnotitie"
+    "veldnotitie",
+    "paracord"
   ],
   "m-tac-elastic-suspenders-l7-260": [
     "riemen-bretels"
@@ -11880,7 +11930,6 @@
     "plate-carriers"
   ],
   "shoulder-protection-case-for-ballistic-inserts-for-cuirass-qrs-9058": [
-    "tactical-riemen",
     "tactical-vests"
   ],
   "shoulder-straps-for-tactical-belt-elite-257": [
@@ -19697,7 +19746,8 @@
       "emt-pouches",
       "pouches",
       "m-tac",
-      "Tactical gear > Pouches > EMT Pouches"
+      "Tactical gear > Pouches > EMT Pouches",
+      "tourniquets"
     ],
     "elite-ballistic-forearm-protection-class-1-fms-9554": [
       "m-tac",
@@ -21037,6 +21087,12 @@
     "m-tac-ecopybook-tactical-ruler-protractor-nato-chicken-8096": [
       "m-tac",
       "tactical-bags"
+    ],
+    "m-tac-elastic-cord-with-hooks-2-pcs-7732": [
+      "Equipment and gear > Bags and backpacks > Backpack accessories",
+      "rugzak-accessoires",
+      "Outdoor Line",
+      "m-tac"
     ],
     "m-tac-elastic-suspenders-l7-260": [
       "Clothing > Accessories",
@@ -30647,6 +30703,13 @@
     "primer-tube-kit-frankford-x-10-3-pack",
     "powder-measure-relocation-kit-frankford-x-10",
     "push-to-talk-code-red-modular-puck-waterproof",
-    "push-to-talk-code-red-nx-dual-ptt"
+    "push-to-talk-code-red-nx-dual-ptt",
+    "seat-mat-with-belt-attachment-armor-5769",
+    "seat-pad-with-belt-armor-8095",
+    "shoulder-protection-case-for-ballistic-inserts-for-cuirass-qrs-9058",
+    "fastening-with-d-ring-677",
+    "elastic-tourniquet-holder-geniii-359",
+    "elastic-pouch-for-1-magazine-elite-cordura-503",
+    "m-tac-elastic-cord-with-hooks-2-pcs-7732"
   ]
 }
