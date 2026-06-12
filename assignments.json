@@ -1580,7 +1580,7 @@
     "persluchtcilinders"
   ],
   "barrel-inlet-fx-drs-5-5-mm-22": [
-    "airsoft-speedloaders"
+    "loopkits-toebehoren"
   ],
   "barrel-sleeve-fx-carbon-fiber": [
     "airsoft-accessoires"
@@ -14950,7 +14950,9 @@
       "wapen-accessoires"
     ],
     "barrel-inlet-fx-drs-5-5-mm-22": [
-      "oefenpatronen & snapcaps"
+      "oefenpatronen & snapcaps",
+      "airsoft-speedloaders",
+      "airsoft"
     ],
     "barrel-sleeve-fx-carbon-fiber": [
       "wapen-accessoires"
@@ -26415,6 +26417,7 @@
     "adapter-mantisx-luchtgeweer",
     "adapter-mantisx-luchtpistool",
     "ballistic-turret-vector-optics-continental-hunting",
-    "barrel-band-fx-dreamline"
+    "barrel-band-fx-dreamline",
+    "barrel-inlet-fx-drs-5-5-mm-22"
   ]
 }
