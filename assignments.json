@@ -6177,7 +6177,7 @@
     "stokadapters"
   ],
   "patchopvang-bore-tech-patch-hog": [
-    "reinigingspatches"
+    "onderhoudshulpmiddelen"
   ],
   "shell-dispenser-sme-ammopal-12-gauge-shotgun": [
     "patroon-boxen"
@@ -17095,6 +17095,10 @@
       "tactical-gear"
     ],
     "patchadapter-bore-tech-universal-wiper": [
+      "reinigingspatches",
+      "schoonmaak-onderhoud"
+    ],
+    "patchopvang-bore-tech-patch-hog": [
       "reinigingspatches",
       "schoonmaak-onderhoud"
     ],
@@ -29957,6 +29961,11 @@
     "pellet-probe-fx-dynamic-panthera-king-5-5-mm-22",
     "pellet-probe-fx-impact",
     "pellet-probe-fx-wildcat-mkiii-maverick",
-    "pellet-probe-nielsen-fx-impact"
+    "pellet-probe-nielsen-fx-impact",
+    "patchopvang-bore-tech-patch-hog",
+    "organizer-insert-plano-sportsman-s-trunk-large",
+    "organizer-insert-plano-sportsman-s-trunk-small",
+    "lofting-kit-bag-sillosocks",
+    "lofting-poles-set-sillosocks"
   ]
 }
