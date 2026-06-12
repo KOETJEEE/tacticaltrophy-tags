@@ -9231,16 +9231,13 @@
     "veldnotitie"
   ],
   "ecopybook-tactical-card-wounded-tccc-hato-10-pcs-8040": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-combat-pencil-854": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-notebook-of-an-intelligence-agent-8194": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-pencil-survival-gen2-9755": [
     "tactical-pens",
@@ -9271,9 +9268,7 @@
     "veldnotitie",
     "tactical-bags"
   ],
-  "ecopybook-tactical-ruler-ts-nato-853": [
-    "tactical-bags"
-  ],
+  "ecopybook-tactical-ruler-ts-nato-853": [],
   "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
     "veldnotitie"
   ],
@@ -9365,36 +9360,28 @@
     "nachtzicht-handheld"
   ],
   "flashlight-a180-7601": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-k2-7627": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-m22-c-7641": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-ml-8-7645": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-p180-7647": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-p21-7648": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-p4-7649": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "flashlight-ux11-7670": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "flaskbottle-pouch-elite-278": [
     "admin-pouches"
@@ -17485,6 +17472,29 @@
       "Equipment and gear > Office supplies",
       "m-tac"
     ],
+    "ecopybook-tactical-card-wounded-tccc-hato-10-pcs-8040": [
+      "Equipment and gear > Office supplies",
+      "m-tac",
+      "tactical-bags"
+    ],
+    "ecopybook-tactical-combat-pencil-854": [
+      "tactical-bags",
+      "Equipment and gear > Office supplies",
+      "m-tac"
+    ],
+    "ecopybook-tactical-notebook-of-an-intelligence-agent-8194": [
+      "Equipment and gear > Office supplies",
+      "m-tac",
+      "tactical-bags"
+    ],
+    "ecopybook-tactical-pencil-survival-gen2-9755": [
+      "Equipment and gear > Office supplies",
+      "m-tac"
+    ],
+    "ecopybook-tactical-ruler-ts-nato-853": [
+      "tactical-bags",
+      "tactical-gear"
+    ],
     "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
       "m-tac",
       "tactical-bags"
@@ -17655,42 +17665,63 @@
       "lampen-1",
       "lampen-en-lasers",
       "m-tac",
-      "Tactical Line"
+      "Tactical Line",
+      "lampen",
+      "tactical-gear"
     ],
     "flashlight-k2-7627": [
       "Equipment and gear > Flashlights",
       "lampen-en-lasers",
       "Tactical Line",
       "m-tac",
-      "lampen-1"
+      "lampen-1",
+      "lampen",
+      "tactical-gear"
     ],
     "flashlight-m22-c-7641": [
       "Equipment and gear > Flashlights",
       "lampen-en-lasers",
       "lampen-1",
       "Tactical Line",
-      "m-tac"
+      "m-tac",
+      "lampen",
+      "tactical-gear"
+    ],
+    "flashlight-ml-8-7645": [
+      "lampen",
+      "tactical-gear",
+      "Equipment and gear > Flashlights",
+      "lampen-en-lasers",
+      "lampen-1",
+      "m-tac",
+      "Tactical Line"
     ],
     "flashlight-p180-7647": [
       "Equipment and gear > Flashlights",
       "lampen-en-lasers",
       "lampen-1",
       "Tactical Line",
-      "m-tac"
+      "m-tac",
+      "lampen",
+      "tactical-gear"
     ],
     "flashlight-p21-7648": [
       "Equipment and gear > Flashlights",
       "lampen-en-lasers",
       "lampen-1",
       "Tactical Line",
-      "m-tac"
+      "m-tac",
+      "lampen",
+      "tactical-gear"
     ],
     "flashlight-p4-7649": [
       "Equipment and gear > Flashlights",
       "lampen-en-lasers",
       "lampen-1",
       "m-tac",
-      "Tactical Line"
+      "Tactical Line",
+      "lampen",
+      "tactical-gear"
     ],
     "flashlight-ux11-7670": [
       "Equipment and gear > Flashlights",
@@ -26346,6 +26377,36 @@
     "folding-knife-type-19-9985",
     "folding-knife-type-11-9512",
     "folding-knife-type-12-9990",
-    "folding-knife-type-12-9991"
+    "folding-knife-type-12-9991",
+    "fleece-tactical-watch-cap-beanie-with-patch-panel-270gm2-4471",
+    "fleece-watch-cap-elite-260gm2-4431",
+    "fleece-watch-cap-light-polartec-4742",
+    "fleece-watch-cap-light-polartec-gen-ii-4758",
+    "fleece-rip-stop-helmet-liner-genii-4854",
+    "folding-cutlery-set-5930",
+    "fleece-pants-delta-level-2-6080",
+    "fleece-neck-gaiter-12-with-drawstring-270gm2-4627",
+    "folding-handle-mug-7343",
+    "flashlight-a180-7601",
+    "flashlight-k2-7627",
+    "flashlight-m22-c-7641",
+    "flashlight-ml-8-7645",
+    "flashlight-p180-7647",
+    "flashlight-p21-7648",
+    "flashlight-p4-7649",
+    "flashlight-ux11-7670",
+    "fighter-dark-denim-jeans-9564",
+    "fanny-bag-10024",
+    "elite-tactical-baseball-cap-with-mesh-nyco-extreme-8575",
+    "edc-pocket-hex-elite-7938",
+    "edc-pocket-elite-10059",
+    "edc-bag-x-pac-elite-8935",
+    "edc-bag-elite-hex-7998",
+    "edc-bag-elite-7963",
+    "ecopybook-tactical-topographic-pencil-856",
+    "ecopybook-tactical-topography-series-pencil-855",
+    "ecopybook-tactical-pencil-survival-gen2-9755",
+    "ecopybook-tactical-combat-pencil-854",
+    "ecopybook-tactical-notebook-of-an-intelligence-agent-8194"
   ]
 }
