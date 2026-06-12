@@ -10631,10 +10631,10 @@
     "magazijn-pouches"
   ],
   "magnet-bag-elite-151": [
-    "admin-pouches"
+    "sling-bags"
   ],
   "magnet-xl-bag-elite-256": [
-    "admin-pouches"
+    "sling-bags"
   ],
   "magnetic-panel-for-patches-290x95-8363": [
     "patch-panels"
@@ -20458,7 +20458,9 @@
       "schietsport",
       "jacht",
       "tactical-gear",
-      "utility-pouches"
+      "utility-pouches",
+      "admin-pouches",
+      "survival"
     ],
     "magnet-xl-bag-elite-256": [
       "Equipment and gear > Bags and backpacks > Bags",
@@ -20470,7 +20472,9 @@
       "schietsport",
       "tassen-rugzakken",
       "tactical-gear",
-      "utility-pouches"
+      "utility-pouches",
+      "admin-pouches",
+      "survival"
     ],
     "magnetic-panel-for-patches-290x95-8363": [
       "Clothing > Accessories",
@@ -20549,25 +20553,43 @@
       "tourism",
       "m-tac",
       "Equipment and gear > Survival",
-      "bushcraft"
+      "bushcraft",
+      "doeken",
+      "wattenstaafjes",
+      "werkbankmatten"
     ],
     "microfiber-towel-80x40-tiger-stripes-10410": [
       "bushcraft",
       "Equipment and gear > Survival",
       "tourism",
-      "m-tac"
+      "m-tac",
+      "doeken",
+      "wattenstaafjes",
+      "werkbankmatten"
     ],
     "microfiber-towel-weapon-150x75-green-10406": [
-      "m-tac"
+      "m-tac",
+      "doeken",
+      "wattenstaafjes",
+      "werkbankmatten"
     ],
     "microfiber-towel-weapon-150x75-pink-10405": [
-      "m-tac"
+      "m-tac",
+      "doeken",
+      "wattenstaafjes",
+      "werkbankmatten"
     ],
     "microfiber-towel-weapon-80x40-green-10408": [
-      "m-tac"
+      "m-tac",
+      "doeken",
+      "wattenstaafjes",
+      "werkbankmatten"
     ],
     "microfiber-towel-weapon-80x40-pink-10407": [
-      "m-tac"
+      "m-tac",
+      "doeken",
+      "wattenstaafjes",
+      "werkbankmatten"
     ],
     "modular-backpack-for-drones-8093": [
       "tassen-rugzakken",
@@ -24714,8 +24736,7 @@
     "konus-preparaten-set-algemene-biologie-25-stuks-434976",
     "konus-lenzentelescoop-konustart-900b-60900-431738",
     "konus-lenzentelescoop-konustart-700b-60700-431737",
-    "konus-lenzentelescoop-konuspace-6-60800-431743",
-    "rip-stop-flecce-helmet-liner-4898"
+    "konus-lenzentelescoop-konuspace-6-60800-431743"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -27738,6 +27759,29 @@
     "multitool-type-7-5944",
     "multitool-type-8-5945",
     "multitool-type-9-5946",
-    "mug-with-carabiner-5929"
+    "mug-with-carabiner-5929",
+    "molle-patch-clover-8027",
+    "notebook-ecopybook-tactical-all-weather-mini-8367",
+    "modular-backpack-for-drones-8093",
+    "microfiber-towel-150x75cm-tiger-stripes-10409",
+    "microfiber-towel-80x40-tiger-stripes-10410",
+    "microfiber-towel-weapon-150x75-green-10406",
+    "microfiber-towel-weapon-150x75-pink-10405",
+    "microfiber-towel-weapon-80x40-green-10408",
+    "microfiber-towel-weapon-80x40-pink-10407",
+    "mesh-flex-ripstop-baseball-cap-4820",
+    "mesh-flex-ripstop-baseball-cap-with-velcro-4830",
+    "mesh-scarf-5034",
+    "merino-wool-tube-scarf-7399",
+    "men-cotton-stretch-trunks-9587",
+    "mens-boxer-937-6112",
+    "medical-pouch-vertical-large-genii-elite-10011",
+    "medical-pouch-vertical-small-genii-elite-10019",
+    "medic-bag-cls-elite-997",
+    "medical-pouch-rip-off-55",
+    "map-compass-7418",
+    "magnetic-panel-for-patches-290x95-8363",
+    "magnet-bag-elite-151",
+    "magnet-xl-bag-elite-256"
   ]
 }
