@@ -70,9 +70,6 @@
     "battery-sillosocks-large-12-ah-12v",
     "battery-sillosocks-small-1-2-ah-12v"
   ],
-  "stealth-gear-camouflage-tape-720115": [
-    "tape"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -833,14 +830,10 @@
     "filmen-opnemen"
   ],
   "kowa-compact-spotting-scope-tsn-501-20-40x50-446501": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-compact-spotting-scope-tsn-502-20-40x50-446502": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-groothoek-oculair-te-80xw-35x40x-440996": [
     "oculairs"
@@ -1097,6 +1090,9 @@
   ],
   "stealth-gear-broek-2n-bosgroen-maat-xxxl32-710174": [
     "broeken"
+  ],
+  "stealth-gear-camouflage-tape-720115": [
+    "tape"
   ],
   "stealth-gear-fox-solar-4k-wifi-wildcamera-720135": [
     "wildcameras"
@@ -14522,6 +14518,16 @@
       "voorzetadapterring",
       "adapterring"
     ],
+    "kowa-compact-spotting-scope-tsn-501-20-40x50-446501": [
+      "monoculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-compact-spotting-scope-tsn-502-20-40x50-446502": [
+      "richtkijkers",
+      "monoculairs",
+      "kowa"
+    ],
     "kowa-groothoek-oculair-te-80xw-35x40x-440996": [
       "kowa",
       "spotting-scopes-accessoires"
@@ -22737,6 +22743,8 @@
     "batterij-nuprol-lipo-11-1v-3300mah-nunchuck",
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "batterij-nuprol-nimh-8-4v-1600mah-small",
-    "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck"
+    "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck",
+    "kowa-compact-spotting-scope-tsn-502-20-40x50-446502",
+    "kowa-compact-spotting-scope-tsn-501-20-40x50-446501"
   ]
 }
