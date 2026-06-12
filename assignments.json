@@ -628,9 +628,7 @@
   "flir-breach-ptq136-objectief-beschermlens-13431910": [
     "beschermkappen"
   ],
-  "flir-breach-ptq136-warmtebeeldcamera-13431913": [
-    "warmtebeeld"
-  ],
+  "flir-breach-ptq136-warmtebeeldcamera-13431913": [],
   "flir-c3-x-warmtebeeldcamera-13461469": [
     "warmtebeeld"
   ],
@@ -20796,6 +20794,7 @@
     "braun-wildcamera-scouting-cam-black400-wifi-solar-535659",
     "braun-wildcamera-black300-535630",
     "whistle-5947",
-    "agm-sioux940-long-range-infraroodstraler-940nm800mw-121101"
+    "agm-sioux940-long-range-infraroodstraler-940nm800mw-121101",
+    "flir-breach-ptq136-warmtebeeldcamera-13431913"
   ]
 }
