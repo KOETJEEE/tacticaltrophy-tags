@@ -9128,18 +9128,16 @@
     "kleding-accessoires"
   ],
   "chest-rig-elite-330": [
-    "chest-rigs",
-    "tactical-vests"
+    "chest-rigs"
   ],
   "chest-rig-military-elite-368": [
-    "chest-rigs",
-    "tactical-vests"
+    "chest-rigs"
   ],
   "city-med-pouch-hex-696": [
     "ehbo"
   ],
   "city-waist-bag-lite-nr-with-velcro-elite-9767": [
-    "tassen-rugzakken"
+    "waist-packs"
   ],
   "closed-type-double-magazine-pouch-31": [
     "magazijn-pouches"
@@ -9155,8 +9153,7 @@
     "drinkflessen-thermos"
   ],
   "combat-fleece-jacket-3720": [
-    "fleece",
-    "truien"
+    "fleece"
   ],
   "combat-medic-backpack-elite-8848": [
     "tactical-bags",
@@ -9187,22 +9184,18 @@
     "compressors"
   ],
   "compression-thermal-pants-9980": [
-    "broeken",
-    "compressors",
-    "thermokleding"
+    "thermokleding",
+    "thermobroeken"
   ],
   "compression-thermal-shirt-10040": [
-    "shirts",
-    "compressors",
-    "thermokleding"
+    "thermokleding",
+    "thermoshirts"
   ],
   "compressive-strap-3100": [
-    "riemen-bretels",
-    "compressors"
+    "riemen-bretels"
   ],
   "compressive-strap-genii-3106": [
-    "riemen-bretels",
-    "compressors"
+    "riemen-bretels"
   ],
   "cotton-raglan-hard-hoodie-5551": [
     "hoodies",
@@ -18361,6 +18354,136 @@
       "Clothing > Accessories",
       "m-tac"
     ],
+    "chest-rig-elite-330": [
+      "tactical-vests",
+      "Military Line",
+      "m-tac",
+      "Tactical gear > Tactical vests > Chest Rig"
+    ],
+    "chest-rig-military-elite-368": [
+      "tactical-vests",
+      "m-tac",
+      "Tactical gear > Tactical vests > Chest Rig"
+    ],
+    "city-med-pouch-hex-696": [
+      "emt-pouches",
+      "m-tac",
+      "pouches",
+      "Tactical gear > Pouches > EMT Pouches"
+    ],
+    "city-waist-bag-lite-nr-with-velcro-elite-9767": [
+      "jacht",
+      "schietsport",
+      "tassen-rugzakken",
+      "Equipment and gear > Bags and backpacks > Bags",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "closed-type-double-magazine-pouch-31": [
+      "m-tac",
+      "magazine-pouches",
+      "Military Line",
+      "pouches",
+      "Tactical gear > Pouches > Magazine Pouches"
+    ],
+    "cobra-buckle-tactical-belt-laser-cut-835": [
+      "Clothing > Belt",
+      "riemen-bretels",
+      "m-tac"
+    ],
+    "collapsible-water-bottle-7671": [
+      "bushcraft",
+      "drinkflessen",
+      "Equipment and gear > Survival",
+      "m-tac",
+      "hydratatie",
+      "Outdoor Line",
+      "thermosflessen",
+      "tourism > Water bottles"
+    ],
+    "combat-fleece-jacket-3720": [
+      "Clothing > Fleeces",
+      "fleeces",
+      "m-tac",
+      "truien"
+    ],
+    "combat-medic-backpack-elite-8848": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "rugzakken",
+      "m-tac",
+      "tassen"
+    ],
+    "combat-shirt-3615": [
+      "Clothing > Shirts",
+      "m-tac"
+    ],
+    "combat-shirt-genii-pro-nyco-extreme-3987": [
+      "Clothing > Shirts",
+      "m-tac"
+    ],
+    "compact-tourniquet-pouch-49": [
+      "emt-pouches",
+      "m-tac",
+      "Military Line",
+      "pouches",
+      "Tactical gear > Pouches > EMT Pouches"
+    ],
+    "compact-tourniquet-pouch-gen3-54": [
+      "emt-pouches",
+      "m-tac",
+      "pouches",
+      "Tactical gear > Pouches > EMT Pouches"
+    ],
+    "compass-army-7346": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "navigatie",
+      "m-tac",
+      "Outdoor Line",
+      "tourism > Compasses"
+    ],
+    "compression-sack-medium-952": [
+      "compressiezakken",
+      "Equipment and gear > Bags and backpacks > Compression bag",
+      "slaapzakken",
+      "Outdoor Line",
+      "matten",
+      "m-tac"
+    ],
+    "compression-thermal-pants-9980": [
+      "airsoft",
+      "compressors",
+      "schietsport",
+      "Clothing > Underwear > Thermoactive pants",
+      "m-tac",
+      "broeken"
+    ],
+    "compression-thermal-shirt-10040": [
+      "airsoft",
+      "compressors",
+      "schietsport",
+      "shirts",
+      "Clothing > Underwear > Thermal shirts",
+      "m-tac"
+    ],
+    "compressive-strap-3100": [
+      "compressors",
+      "airsoft",
+      "schietsport",
+      "Equipment and gear > Bags and backpacks > Backpack accessories",
+      "rugzak-accessoires",
+      "Outdoor Line",
+      "m-tac"
+    ],
+    "compressive-strap-genii-3106": [
+      "compressors",
+      "airsoft",
+      "schietsport",
+      "Equipment and gear > Bags and backpacks > Backpack accessories",
+      "rugzak-accessoires",
+      "m-tac"
+    ],
     "ecopybook-big-tactical-ruler-protractor-nato-8195": [
       "Equipment and gear > Office supplies",
       "m-tac"
@@ -25267,7 +25390,8 @@
     "sticker-tactical-girl-4-tatoo-yakuza-5795",
     "sticker-tactical-girl-9-rpg-skandinavik-7954",
     "admin-bag-large-elite-hex-with-velcro-8295",
-    "admin-bag-large-x-pac-elite-with-velcro-8299"
+    "admin-bag-large-x-pac-elite-with-velcro-8299",
+    "cat-eyes-3d-pvc-5158"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -28832,6 +28956,28 @@
     "carabiner-grimloc-9719",
     "carabiner-type-2-9778",
     "cartographic-compass-with-mirror-large-7348",
-    "cartographic-compass-with-mirror-small-7347"
+    "cartographic-compass-with-mirror-small-7347",
+    "chain-for-tokens-8313",
+    "chest-rig-elite-330",
+    "chest-rig-military-elite-368",
+    "city-med-pouch-hex-696",
+    "city-waist-bag-lite-nr-with-velcro-elite-9767",
+    "closed-type-double-magazine-pouch-31",
+    "cobra-buckle-belt-627",
+    "cobra-buckle-tactical-belt-laser-cut-835",
+    "collapsible-water-bottle-7671",
+    "combat-fleece-jacket-3720",
+    "combat-medic-backpack-elite-8848",
+    "combat-shirt-3615",
+    "combat-shirt-genii-pro-nyco-extreme-3987",
+    "combat-shirt-summer-genii-piquet-10512",
+    "compact-tourniquet-pouch-49",
+    "compact-tourniquet-pouch-gen3-54",
+    "compass-army-7346",
+    "compression-sack-medium-952",
+    "compression-thermal-pants-9980",
+    "compression-thermal-shirt-10040",
+    "compressive-strap-3100",
+    "compressive-strap-genii-3106"
   ]
 }
