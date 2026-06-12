@@ -7063,17 +7063,16 @@
     "riembeugels"
   ],
   "sling-swivel-vector-optics-picatinny-mount": [
-    "geweerriemen",
-    "montage-accessoires"
+    "riembeugels"
   ],
   "sling-swivel-adaptor-saber-tactical-fx-impact-m4-qd": [
-    "geweerriemen"
+    "riembeugels"
   ],
   "riembeugeladapter-utg-m-lok-black": [
-    "geweerriemen"
+    "riembeugels"
   ],
   "riembeugeladapter-utg-weaver-picatinny": [
-    "geweerriemen"
+    "riembeugels"
   ],
   "riembeugeladaptor-utg-keymod-black": [
     "riembeugels"
@@ -17016,6 +17015,20 @@
     "powder-trickler-frankford-arsenal": [
       "herlaadkits"
     ],
+    "sling-swivel-vector-optics-picatinny-mount": [
+      "geweerriemen",
+      "montage-accessoires",
+      "optiek"
+    ],
+    "sling-swivel-adaptor-saber-tactical-fx-impact-m4-qd": [
+      "geweerriemen"
+    ],
+    "riembeugeladapter-utg-m-lok-black": [
+      "geweerriemen"
+    ],
+    "riembeugeladapter-utg-weaver-picatinny": [
+      "geweerriemen"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25738,6 +25751,87 @@
     "recreatiefschijf-artemis-met-5-visuelen",
     "regulator-vulset-krale-inline-mk3",
     "regulator-aea-externally-adjustable",
-    "regulator-aea-externally-adjustable-plenum"
+    "regulator-aea-externally-adjustable-plenum",
+    "regulator-best-fittings",
+    "regulator-dominator-hpa-tank-3000-psi",
+    "regulator-dominator-hpa-tank-4500-psi",
+    "regulator-wolverine-storm-category-5",
+    "regulator-wolverine-storm-category-5-with-flex-line",
+    "range-bag-plano-x2-medium",
+    "range-bag-schmeisser",
+    "range-bag-ulfhednar-cordura-rifle-large",
+    "range-bag-ulfhednar-field-pistol-small",
+    "range-bag-walther-black",
+    "sling-swivel-metal-qd-weaver-picatinny",
+    "riembeugel-saber-tactical-fx-impact-qd",
+    "riembeugel-utg-1-inch-voor-inbouwaansluiting",
+    "riembeugel-utg-1-25-inch-c-shape-voor-inbouwaansluiting",
+    "riembeugel-utg-1-25-inch-voor-inbouwaansluiting",
+    "riembeugel-utg-heavy-duty-1-25-voor-inbouwaansluiting",
+    "sling-swivel-vector-optics-picatinny-mount",
+    "sling-swivel-laylax-tokyo-marui-m4-ngrs",
+    "sling-swivel-adaptor-saber-tactical-fx-impact-m4-qd",
+    "riembeugeladapter-utg-m-lok-black",
+    "riembeugeladapter-utg-weaver-picatinny",
+    "riembeugeladaptor-utg-keymod-black",
+    "riembeugel-anschutz-met-ronde-bal",
+    "rookgranaat-enola-gaye-burst-blue",
+    "rookgranaat-enola-gaye-burst-black",
+    "rookgranaat-enola-gaye-burst-green",
+    "rookgranaat-enola-gaye-burst-orange",
+    "rookgranaat-enola-gaye-burst-pink",
+    "rookgranaat-enola-gaye-burst-purple",
+    "rookgranaat-enola-gaye-burst-red",
+    "rookgranaat-enola-gaye-burst-white",
+    "rookgranaat-enola-gaye-burst-yellow",
+    "rookgranaat-enola-gaye-eg18-black",
+    "rookgranaat-enola-gaye-eg18-blue",
+    "rookgranaat-enola-gaye-eg18-green",
+    "rookgranaat-enola-gaye-eg18-orange",
+    "rookgranaat-enola-gaye-eg18-pink",
+    "rookgranaat-enola-gaye-eg18-purple",
+    "rookgranaat-enola-gaye-eg18-red",
+    "rookgranaat-enola-gaye-eg18-white",
+    "rookgranaat-enola-gaye-eg18-yellow",
+    "rookgranaat-enola-gaye-eg18x-military-black",
+    "rookgranaat-enola-gaye-eg18x-military-blue",
+    "rookgranaat-enola-gaye-eg18x-military-green",
+    "rookgranaat-enola-gaye-eg18x-military-orange",
+    "rookgranaat-enola-gaye-eg18x-military-purple",
+    "rookgranaat-enola-gaye-eg18x-military-red",
+    "rookgranaat-enola-gaye-eg18x-military-white",
+    "rookgranaat-enola-gaye-eg18x-military-yellow",
+    "rookgranaat-enola-gaye-eg25-black",
+    "rookgranaat-enola-gaye-eg25-blue",
+    "rookgranaat-enola-gaye-eg25-green",
+    "rookgranaat-enola-gaye-eg25-orange",
+    "rookgranaat-enola-gaye-eg25-pink",
+    "rookgranaat-enola-gaye-eg25-purple",
+    "rookgranaat-enola-gaye-eg25-red",
+    "rookgranaat-enola-gaye-eg25-white",
+    "rookgranaat-enola-gaye-eg25-yellow",
+    "rookgranaat-enola-gaye-tp40-black",
+    "rookgranaat-enola-gaye-tp40-blue",
+    "rookgranaat-enola-gaye-tp40-green",
+    "rookgranaat-enola-gaye-tp40-orange",
+    "rookgranaat-enola-gaye-tp40-pink",
+    "rookgranaat-enola-gaye-tp40-purple",
+    "rookgranaat-enola-gaye-tp40-red",
+    "rookgranaat-enola-gaye-tp40-white",
+    "rookgranaat-enola-gaye-tp40-yellow",
+    "rookgranaat-enola-gaye-wp40-wire-pull-black",
+    "rookgranaat-enola-gaye-wp40-wire-pull-blue",
+    "rookgranaat-enola-gaye-wp40-wire-pull-green",
+    "rookgranaat-enola-gaye-wp40-wire-pull-orange",
+    "rookgranaat-enola-gaye-wp40-wire-pull-pink",
+    "rookgranaat-enola-gaye-wp40-wire-pull-purple",
+    "rookgranaat-enola-gaye-wp40-wire-pull-red",
+    "rookgranaat-enola-gaye-wp40-wire-pull-white",
+    "rookgranaat-enola-gaye-wp40-wire-pull-yellow",
+    "smoke-grenade-enola-gaye-wp40-d-blue",
+    "smoke-grenade-enola-gaye-wp40-d-green",
+    "smoke-grenade-enola-gaye-wp40-d-orange",
+    "smoke-grenade-enola-gaye-wp40-d-purple",
+    "smoke-grenade-enola-gaye-wp40-d-yellow"
   ]
 }
