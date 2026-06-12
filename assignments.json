@@ -5568,10 +5568,11 @@
     "2-delige-montages"
   ],
   "mount-fx-no-limit-34-mm-high-picatinny": [
-    "1-delige-montages"
+    "2-delige-montages"
   ],
   "mount-hikmicro-ir-illuminator-pro": [
-    "montage-accessoires"
+    "nachtzicht-warmtebeeld-accessoires",
+    "infraroodlampen"
   ],
   "mount-hikmicro-weaver-picatinny-qr-for-thunder-panther-cheetah": [
     "montage-accessoires"
@@ -5595,82 +5596,82 @@
     "montage-accessoires"
   ],
   "mount-rome-cardo-hunting-30-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-rome-cardo-hunting-34-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-rome-cardo-sporting-34-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-rome-decumanus-m1-30-mm-high-weaver-picatinny": [
     "1-delige-montages"
   ],
   "mount-rome-decumanus-m1-30-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m1-34-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m1-34-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m1-qd-30-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m1-qd-30-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m1-qd-34-mm-high-weaver-picatinny": [
     "1-delige-montages"
   ],
   "mount-rome-decumanus-m1-qd-34-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m2-30-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m2-30-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m2-34-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m2-qd-30-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m2-qd-30-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-rome-decumanus-m2-qd-34-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-schmeisser-sm30-30-mm-medium-weaver-picatinny": [
     "1-delige-montages"
   ],
   "mount-utg-accu-sync-25-4-mm-high-37-mm-offset-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-utg-accu-sync-25-4-mm-high-50-mm-offset-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-utg-accu-sync-30-mm-high-50-mm-offset-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-utg-accu-sync-34-mm-high-50-mm-offset-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-utg-accushot-25-4-mm-high-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-utg-accushot-25-4-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-utg-accushot-25-4-mm-medium-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-utg-accushot-25-4-mm-medium-weaver-picatinny": [
-    "1-delige-montages"
+    "2-delige-montages"
   ],
   "mount-utg-accushot-30-mm-high-dovetail": [
     "montage-accessoires"
@@ -16509,6 +16510,84 @@
     "montage-fx-no-limit-30-mm-high-picatinny": [
       "montage-accessoires"
     ],
+    "mount-fx-no-limit-34-mm-high-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-fx-no-limit-34-mm-high-picatinny": [
+      "1-delige-montages"
+    ],
+    "mount-hikmicro-ir-illuminator-pro": [
+      "montage-accessoires"
+    ],
+    "mount-rome-cardo-hunting-30-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-cardo-hunting-34-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-cardo-sporting-34-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m1-30-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m1-34-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m1-34-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m1-qd-30-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m1-qd-30-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m1-qd-34-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m2-30-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m2-30-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m2-34-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m2-qd-30-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m2-qd-30-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-rome-decumanus-m2-qd-34-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accu-sync-25-4-mm-high-37-mm-offset-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accu-sync-25-4-mm-high-50-mm-offset-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accu-sync-30-mm-high-50-mm-offset-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accu-sync-34-mm-high-50-mm-offset-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accushot-25-4-mm-high-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accushot-25-4-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accushot-25-4-mm-medium-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accushot-25-4-mm-medium-weaver-picatinny": [
+      "1-delige-montages"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -24854,6 +24933,35 @@
     "mount-element-optics-xt-mounts-30-mm-medium-weaver-picatinny",
     "montage-fx-no-limit-25-4-mm-high-dovetail",
     "montage-fx-no-limit-30-mm-high-dovetail",
-    "montage-fx-no-limit-30-mm-high-picatinny"
+    "montage-fx-no-limit-30-mm-high-picatinny",
+    "mount-fx-no-limit-34-mm-high-dovetail",
+    "mount-fx-no-limit-34-mm-high-picatinny",
+    "mount-hikmicro-ir-illuminator-pro",
+    "mount-rome-cardo-hunting-30-mm-high-weaver-picatinny",
+    "mount-rome-cardo-hunting-34-mm-high-weaver-picatinny",
+    "mount-rome-cardo-sporting-34-mm-high-weaver-picatinny",
+    "mount-rome-decumanus-m1-30-mm-high-weaver-picatinny",
+    "mount-rome-decumanus-m1-30-mm-medium-weaver-picatinny",
+    "mount-rome-decumanus-m1-34-mm-high-weaver-picatinny",
+    "mount-rome-decumanus-m1-34-mm-medium-weaver-picatinny",
+    "mount-rome-decumanus-m1-qd-30-mm-high-weaver-picatinny",
+    "mount-rome-decumanus-m1-qd-30-mm-medium-weaver-picatinny",
+    "mount-rome-decumanus-m1-qd-34-mm-high-weaver-picatinny",
+    "mount-rome-decumanus-m1-qd-34-mm-medium-weaver-picatinny",
+    "mount-rome-decumanus-m2-30-mm-high-weaver-picatinny",
+    "mount-rome-decumanus-m2-30-mm-medium-weaver-picatinny",
+    "mount-rome-decumanus-m2-34-mm-high-weaver-picatinny",
+    "mount-rome-decumanus-m2-qd-30-mm-high-weaver-picatinny",
+    "mount-rome-decumanus-m2-qd-30-mm-medium-weaver-picatinny",
+    "mount-rome-decumanus-m2-qd-34-mm-high-weaver-picatinny",
+    "mount-schmeisser-sm30-30-mm-medium-weaver-picatinny",
+    "mount-utg-accu-sync-25-4-mm-high-37-mm-offset-weaver-picatinny",
+    "mount-utg-accu-sync-25-4-mm-high-50-mm-offset-weaver-picatinny",
+    "mount-utg-accu-sync-30-mm-high-50-mm-offset-weaver-picatinny",
+    "mount-utg-accu-sync-34-mm-high-50-mm-offset-weaver-picatinny",
+    "mount-utg-accushot-25-4-mm-high-dovetail",
+    "mount-utg-accushot-25-4-mm-high-weaver-picatinny",
+    "mount-utg-accushot-25-4-mm-medium-dovetail",
+    "mount-utg-accushot-25-4-mm-medium-weaver-picatinny"
   ]
 }
