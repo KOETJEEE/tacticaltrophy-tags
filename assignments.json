@@ -1456,10 +1456,10 @@
     "vulbenodigdheden"
   ],
   "spare-part-kit-steyr-sealing-set-large": [
-    "persluchtfles-accessoires"
+    "revisiesetjes"
   ],
   "spare-part-kit-steyr-sealing-set-small": [
-    "persluchtfles-accessoires"
+    "revisiesetjes"
   ],
   "sealant-4uad-4uantum-seal": [
     "persluchtfles-accessoires"
@@ -14868,6 +14868,14 @@
     "afdichtingsring-bf-m6": [
       "persluchtfles-accessoires"
     ],
+    "spare-part-kit-steyr-sealing-set-large": [
+      "persluchtfles-accessoires",
+      "schietsport"
+    ],
+    "spare-part-kit-steyr-sealing-set-small": [
+      "persluchtfles-accessoires",
+      "schietsport"
+    ],
     "red-dot-aim-o-exps-3-2-qd-mount": [
       "montage-accessoires"
     ],
@@ -26290,6 +26298,8 @@
     "mount-dnt-dovetail-long-35-moa-for-thermnight-hydra-zulus-hd-v1-v2",
     "afdichtingsring-bf-1-4-bsp",
     "afdichtingsring-bf-1-8-bsp",
-    "afdichtingsring-bf-m6"
+    "afdichtingsring-bf-m6",
+    "spare-part-kit-steyr-sealing-set-large",
+    "spare-part-kit-steyr-sealing-set-small"
   ]
 }
