@@ -2519,8 +2519,7 @@
     "connectors"
   ],
   "conversion-kit-fx-dreamline-bullpup-lite-tactical-to-classic-synthetic": [
-    "kolven",
-    "persen-onderdelen"
+    "kolven"
   ],
   "conversion-kit-fx-dreamline-classic-bullpup-to-lite": [
     "kolven",
@@ -15647,6 +15646,10 @@
     "connector-nuprol-tamiya-small-male": [
       "airsoft-diversen"
     ],
+    "conversion-kit-fx-dreamline-bullpup-lite-tactical-to-classic-synthetic": [
+      "persen-onderdelen",
+      "herladen"
+    ],
     "suppressor-g-g-double-screw": [
       "luchtbuks"
     ],
@@ -26224,6 +26227,7 @@
     "co2-capsule-umarex-8-gram",
     "collets-set-frankford-arsenal-aluminium",
     "connector-nuprol-tamiya-small-female",
-    "connector-nuprol-tamiya-small-male"
+    "connector-nuprol-tamiya-small-male",
+    "conversion-kit-fx-dreamline-bullpup-lite-tactical-to-classic-synthetic"
   ]
 }
