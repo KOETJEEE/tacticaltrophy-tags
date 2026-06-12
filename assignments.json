@@ -2442,7 +2442,6 @@
   "cheek-rest-saber-tactical-trs-fx-impact-m4": [
     "kolfplaten"
   ],
-  "cheek-riser-saber-tactical-fx-impact": [],
   "cheek-riser-saber-tactical-fx-maverick-wildcat": [
     "kolfplaten"
   ],
@@ -2649,11 +2648,9 @@
     "nachtzicht-richtkijkers"
   ],
   "dnt-zulus-hd-v2-3-12x-lrf-night-vision-scope": [
-    "nachtzicht-handheld",
     "nachtzicht-richtkijkers"
   ],
   "dnt-zulus-hd-v2-5-20x-lrf-night-vision-scope": [
-    "nachtzicht-handheld",
     "nachtzicht-richtkijkers"
   ],
   "orange-peel-caldwell-bullseye-targets-5-5": [
@@ -15660,6 +15657,20 @@
     "diopter-walther-basic-match": [
       "diopter-toebehoren"
     ],
+    "dnt-nvmd-c200-standard-multi-purpose-night-vision-scope": [
+      "nachtzicht-richtkijker"
+    ],
+    "dnt-zulus-4k-3-24x-lrf-night-vision-scope": [
+      "nachtzicht-richtkijker"
+    ],
+    "dnt-zulus-hd-v2-3-12x-lrf-night-vision-scope": [
+      "nachtzicht-richtkijker",
+      "nachtzicht"
+    ],
+    "dnt-zulus-hd-v2-5-20x-lrf-night-vision-scope": [
+      "nachtzicht",
+      "nachtzicht-richtkijker"
+    ],
     "doorslagset-wheeler-messing-8-delig": [
       "schoonmaak-onderhoud"
     ],
@@ -23602,6 +23613,21 @@
     "blauwsel-roestverwijderaar-birchwood-blue-rust-remover",
     "bore-snake-snake-it",
     "adhesive-4uad-4uantum-lock-permanent",
-    "adhesive-4uad-4uantum-lock-removable"
+    "adhesive-4uad-4uantum-lock-removable",
+    "compressor-aea-480-bar",
+    "compressor-hill-evo-310",
+    "compressor-snowpeak-k30-2",
+    "compensator-steyr-double-chamber",
+    "steyr-compensator-8-gaats",
+    "thermal-imaging-camera-dnt-hydra-hs225",
+    "thermal-imaging-camera-dnt-hydra-hs325",
+    "thermal-imaging-camera-dnt-hydra-hs635",
+    "dnt-nvmd-c200-standard-multi-purpose-night-vision-scope",
+    "multispectral-rifle-scope-dnt-thermnight-compact-tnc225r",
+    "multispectral-rifle-scope-dnt-thermnight-compact-tnc335r",
+    "multispectral-rifle-scope-dnt-thermnight-compact-tnc635r",
+    "dnt-zulus-4k-3-24x-lrf-night-vision-scope",
+    "dnt-zulus-hd-v2-3-12x-lrf-night-vision-scope",
+    "dnt-zulus-hd-v2-5-20x-lrf-night-vision-scope"
   ]
 }
