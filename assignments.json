@@ -7183,16 +7183,16 @@
     "kolven"
   ],
   "schouderstuk-fx-dynamic-redback-fde": [
-    "kolven"
+    "schoudersteunen"
   ],
   "schouderstuk-mec-contact-iii": [
-    "kolven"
+    "schoudersteunen"
   ],
   "schouderstuk-saber-tactical-fx-impact-maverick": [
-    "kolven"
+    "schoudersteunen"
   ],
   "steel-pillars-anschutz-precise": [
-    "kolven"
+    "schoudersteunen"
   ],
   "screwdriver-set-wheeler-benchtop-hex-torx-30-piece": [
     "gereedschap"
@@ -17519,6 +17519,18 @@
     "cleaning-set-gunpany-5-piece": [
       "schoonmaakborstels",
       "schoonmaak-onderhoud"
+    ],
+    "schouderstuk-fx-dynamic-redback-fde": [
+      "kolven"
+    ],
+    "schouderstuk-mec-contact-iii": [
+      "kolven"
+    ],
+    "schouderstuk-saber-tactical-fx-impact-maverick": [
+      "kolven"
+    ],
+    "steel-pillars-anschutz-precise": [
+      "kolven"
     ],
     "screwdriver-set-wheeler-benchtop-hex-torx-30-piece": [
       "schoonmaak-onderhoud"
@@ -29844,6 +29856,10 @@
     "service-kit-hill-mk5",
     "service-kit-hill-ec-3000-evo-dry-pac-pro-air-dryer-filter-4-pack",
     "service-kit-hill-ec-3000-50-hours",
-    "service-kit-hill-ec-3000-100-hours"
+    "service-kit-hill-ec-3000-100-hours",
+    "steel-pillars-anschutz-precise",
+    "schouderstuk-saber-tactical-fx-impact-maverick",
+    "schouderstuk-mec-contact-iii",
+    "schouderstuk-fx-dynamic-redback-fde"
   ]
 }
