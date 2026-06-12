@@ -4844,9 +4844,7 @@
   "laser-utg-tactical-red": [
     "tactical-bags"
   ],
-  "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny": [
-    "picatinny-rails"
-  ],
+  "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny": [],
   "laser-cartridge-mantis-pink-rhino-training": [
     "trainingshalsbanden"
   ],
@@ -4911,25 +4909,25 @@
     "loopreinigers"
   ],
   "loopreiniger-bore-tech-black-powder-solvent-473-ml": [
-    "schoonmaaksetjes"
+    "loopreinigers"
   ],
   "loopreiniger-bore-tech-c4-carbon-remover": [
-    "schoonmaaksetjes"
+    "loopreinigers"
   ],
   "loopreiniger-bore-tech-chameleon-gel-59-ml": [
-    "schoonmaaksetjes"
+    "loopreinigers"
   ],
   "loopreiniger-bore-tech-cu-2-copper-remover": [
-    "schoonmaaksetjes"
+    "loopreinigers"
   ],
   "loopreiniger-bore-tech-eliminator": [
-    "schoonmaaksetjes"
+    "loopreinigers"
   ],
   "loopreiniger-bore-tech-rimfire-blend": [
-    "schoonmaaksetjes"
+    "loopreinigers"
   ],
   "loopreiniger-bore-tech-shotgun-blend-118-ml": [
-    "schoonmaaksetjes"
+    "loopreinigers"
   ],
   "loopreinigingskoord-netarm-4-5-mm-grijs": [
     "reinigingskoorden"
@@ -4938,7 +4936,6 @@
     "reinigingskoorden"
   ],
   "cleaning-wick-tipton-nope-rope": [
-    "gereedschap",
     "reinigingskoorden"
   ],
   "loopreinigingskoord-vector-optics-5-5-mm-22": [
@@ -16189,6 +16186,50 @@
       "optiek",
       "vizieren"
     ],
+    "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny": [
+      "picatinny-rails",
+      "optiek"
+    ],
+    "bore-cleaner-birchwood-scrubber": [
+      "schoonmaak-onderhoud"
+    ],
+    "loopreiniger-bore-tech-black-powder-solvent-473-ml": [
+      "schoonmaak-onderhoud",
+      "schoonmaaksetjes"
+    ],
+    "loopreiniger-bore-tech-c4-carbon-remover": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "loopreiniger-bore-tech-chameleon-gel-59-ml": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "loopreiniger-bore-tech-cu-2-copper-remover": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "loopreiniger-bore-tech-eliminator": [
+      "schoonmaak-onderhoud",
+      "schoonmaaksetjes"
+    ],
+    "loopreiniger-bore-tech-rimfire-blend": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "loopreiniger-bore-tech-shotgun-blend-118-ml": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "loopreinigingskoord-netarm-4-5-mm-grijs": [
+      "schoonmaak-onderhoud"
+    ],
+    "loopreinigingskoord-netarm-9-9-5-mm-blauw": [
+      "schoonmaak-onderhoud"
+    ],
+    "cleaning-wick-tipton-nope-rope": [
+      "schoonmaak-onderhoud"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -24289,6 +24330,25 @@
     "crow-decoy-sillosocks-harvester-12-pack",
     "crow-decoy-sillosocks-hypa-flap",
     "powder-measure-frankford-arsenal-bench-top",
-    "powder-measure-frankford-arsenal-x-10-case-activated"
+    "powder-measure-frankford-arsenal-x-10-case-activated",
+    "powder-funnel-kit-frankford-arsenal-aluminium",
+    "laser-truglo-sight-line-green",
+    "laser-truglo-sight-line-red",
+    "laser-utg-tactical-red",
+    "lens-wiley-x-saber-adv-clear",
+    "lens-wiley-x-saber-adv-light-rust",
+    "lens-wiley-x-saber-adv-smoke-grey",
+    "lens-wiley-x-saber-adv-vermilion",
+    "lens-wiley-x-saber-adv-yellow",
+    "bore-cleaner-birchwood-scrubber",
+    "loopreiniger-bore-tech-black-powder-solvent-473-ml",
+    "loopreiniger-bore-tech-c4-carbon-remover",
+    "loopreiniger-bore-tech-chameleon-gel-59-ml",
+    "loopreiniger-bore-tech-cu-2-copper-remover",
+    "loopreiniger-bore-tech-eliminator",
+    "loopreiniger-bore-tech-rimfire-blend",
+    "loopreiniger-bore-tech-shotgun-blend-118-ml",
+    "loopreinigingskoord-netarm-4-5-mm-grijs",
+    "loopreinigingskoord-netarm-9-9-5-mm-blauw"
   ]
 }
