@@ -1705,6 +1705,12 @@
   "bearings-prometheus-8-mm": [
     "gearboxen"
   ],
+  "beenholster-platform-amomax-drop-leg": [
+    "holsters-toebehoren"
+  ],
+  "leg-holser-platform-amomax-drop-leg-fde": [
+    "holsters-toebehoren"
+  ],
   "benchrest-feinwerkbau-p8-p44": [
     "geweersteunen"
   ],
@@ -3821,6 +3827,54 @@
   "angle-cosine-indicator-rome-ruac-system": [
     "waterpassen"
   ],
+  "holster-black-scorpion-gear-competition-speed-1911-2011-blue": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-competition-speed-1911-2011-red": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-ball-joint-competition-carbon-fiber": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-1911-5-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-2011-5-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-beretta-92x-performance-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-75-sp-01-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-shadow-2-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-ts-2-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-speed": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-glock-17-19-22-45-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-pdp-4-5-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-pdp-5-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-q5-match-polyframe-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-q5-match-sf-carbon": [
+    "holsters-toebehoren"
+  ],
+  "holster-ctm-hi-capa": [
+    "holsters-toebehoren"
+  ],
   "headband-wrap-walker-s-black": [
     "gehoorbescherming"
   ],
@@ -5934,6 +5988,33 @@
   ],
   "p-clip-screw-frankford-x-10": [
     "persen-onderdelen"
+  ],
+  "paddle-holster-amomax-beretta-92-black-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-colt-1911-black-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-colt-1911-fde-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-cz-shadow-2-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-cz-sp-01-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-desert-eagle-black": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-desert-eagle-fde": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-hi-capa-2011-red-dot-black-right": [
+    "holsters-toebehoren"
+  ],
+  "paddle-holster-amomax-glock-19-right": [
+    "holsters-toebehoren"
   ],
   "patch-jtg-3d-pvc-hexagon-bloodtype-ab": [
     "patches"
@@ -14874,6 +14955,9 @@
     "bb-grenade-tokyo-marui-m320a1": [
       "airsoft-bbs"
     ],
+    "beenholster-platform-amomax-drop-leg": [
+      "holsters"
+    ],
     "belt-molle-clip-amomax": [
       "belts",
       "bretels",
@@ -15732,6 +15816,12 @@
     ],
     "angle-cosine-indicator-rome-ruac-system": [
       "montage-accessoires"
+    ],
+    "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-ts-2-carbon": [
+      "airsoft",
+      "holsters",
+      "schietsport",
+      "tactical-gear"
     ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
@@ -16845,6 +16935,14 @@
     ],
     "overvulslang-bf-met-din-aansluiting-300-bar": [
       "persluchtfles-accessoires"
+    ],
+    "paddle-holster-amomax-cz-shadow-2-right": [
+      "holsters",
+      "tactical-gear"
+    ],
+    "paddle-holster-amomax-hi-capa-2011-red-dot-black-right": [
+      "holsters",
+      "tactical-gear"
     ],
     "patchadapter-bore-tech-universal-wiper": [
       "reinigingspatches",
