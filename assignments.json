@@ -15855,6 +15855,50 @@
     "moderator-epic-airguns": [
       "luchtbuks"
     ],
+    "geweerfoudraal-bergara-125x30": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "geweerfoudraal-bergara-take-down-green-68x31": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "geweerfoudraal-black-grey-120x26": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "geweerfoudraal-m1-met-zijvak-134x27": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "soft-rifle-case-snowpeak-gb01-76x31": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "soft-rifle-case-snowpeak-gb02-100x29": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "rifle-bag-ulfhednar-backpack-120x30": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "rifle-bag-ulfhednar-backpack-140x30": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "rifle-bag-ulfhednar-backpack-with-shooting-mat-140x30": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "soft-rifle-case-utg-homeland-security-covert-85x33": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "rifle-bag-utg-responder-87x37": [
+      "foudralen",
+      "geweertassen"
+    ],
     "rifle-bag-vanguard-endeavor-44-105x24": [
       "foudralen",
       "geweertassen"
@@ -23739,6 +23783,68 @@
     "gun-sling-vanguard-endeavor-101c",
     "gun-sling-vanguard-endeavor-150g",
     "gun-sling-vanguard-endeavor-201b",
-    "gun-sling-vanguard-endeavor-301b"
+    "gun-sling-vanguard-endeavor-301b",
+    "gun-sling-walther-rs3",
+    "rifle-bag-utg-responder-87x37",
+    "geweersteun-caldwell-7-rest",
+    "geweersteun-caldwell-fire-control-front-rest",
+    "geweersteun-caldwell-fire-control-full-length-rest",
+    "geweersteun-caldwell-handy-rest-nxt",
+    "geweersteun-caldwell-lead-sled-3",
+    "shooting-rest-caldwell-lead-sled-4",
+    "shooting-rest-caldwell-lead-sled-dft-3",
+    "geweersteun-caldwell-lead-sled-fcx",
+    "shooting-rest-caldwell-lead-sled-max",
+    "shooting-rest-caldwell-lead-sled-solo-2",
+    "geweersteun-caldwell-pistolero",
+    "geweersteun-caldwell-precision-turret",
+    "geweersteun-caldwell-rock-br",
+    "geweersteun-caldwell-rock-deluxe-front-rest",
+    "geweersteun-caldwell-steady-rest-nxt",
+    "geweersteun-caldwell-the-rock-combo",
+    "geweersteun-caldwell-zero-max",
+    "gun-rest-fiery-deer-portable-multifunction",
+    "geweersteun-lockdown-magnetic-barrel-rest",
+    "shooting-rest-saber-tactical-pro-universal-bench-monopod",
+    "geweersteun-vanguard-porta-aim",
+    "shooting-stick-vanguard-porta-aim-u-yoke",
+    "soft-rifle-case-utg-homeland-security-covert-85x33",
+    "geweerfoudraal-bergara-125x30",
+    "geweerfoudraal-bergara-take-down-green-68x31",
+    "geweerfoudraal-black-grey-120x26",
+    "geweerfoudraal-m1-met-zijvak-134x27",
+    "soft-rifle-case-snowpeak-gb01-76x31",
+    "soft-rifle-case-snowpeak-gb02-100x29",
+    "rifle-bag-ulfhednar-backpack-120x30",
+    "rifle-bag-ulfhednar-backpack-140x30",
+    "rifle-bag-ulfhednar-backpack-with-shooting-mat-140x30",
+    "grip-eagle-vision-ar-style-for-fx-edgun",
+    "grip-element-g16-pistol-grip-desert",
+    "grip-element-g27-pistol-grip-black",
+    "grip-element-g27-pistol-grip-desert",
+    "grip-element-knight-s-forward-black",
+    "grip-element-mp-angled-fore-grip-afg2-black",
+    "grip-element-mp-angled-fore-grip-afg2-desert",
+    "grip-element-mp-angled-fore-grip-afg2-green",
+    "grip-element-mp-rail-rvg-black",
+    "grip-element-mp-rail-rvg-desert",
+    "grip-element-tango-down-qd-black",
+    "grip-element-tango-down-qd-desert",
+    "grip-element-tango-down-stubby-qd-black",
+    "grip-element-tango-down-stubby-qd-desert",
+    "grip-element-target-grip-m4-black",
+    "grip-epic-airguns-voronoi-3d",
+    "grip-ergo-ar10-ar15-o-grip",
+    "grip-ergo-air-flat-top",
+    "grip-ergo-air-tactical-deluxe-flat-top",
+    "grip-ergo-air-tactical-deluxe-zero-angle-flat-top",
+    "grip-ergo-air-tactical-deluxe-suregrip-zero-angle",
+    "grip-feinwerkbau-aw93-rh-s",
+    "grip-feinwerkbau-p8x-p85-lh-s",
+    "grip-fx-ar-style-impact-panthera",
+    "grip-fx-beavertail-fde",
+    "grip-fx-maverick-redback",
+    "grip-fx-standard-fde",
+    "grip-mdt-pistol-wood"
   ]
 }
