@@ -4025,10 +4025,10 @@
     "vochtontrekkers"
   ],
   "index-assembly-frankford-x-10": [
-    "herlaadkits"
+    "persen-onderdelen"
   ],
   "index-mount-utg-angled-m-lok": [
-    "montage-accessoires"
+    "grips"
   ],
   "thermal-imaging-rifle-scope-infiray-geni-gl35r": [
     "warmtebeeld-richtkijkers"
@@ -16108,6 +16108,13 @@
       "herlaadkits",
       "herladen"
     ],
+    "index-assembly-frankford-x-10": [
+      "herlaadkits"
+    ],
+    "index-mount-utg-angled-m-lok": [
+      "montage-accessoires",
+      "optiek"
+    ],
     "inner-barrel-prometheus-eg-6-00-gbb-tokyo-marui-m4a1-mws-370-mm": [
       "airsoft-onderdelen"
     ],
@@ -27079,6 +27086,9 @@
     "hit-indicator-caldwell-flash-bang",
     "case-cleaner-birchwood-super-concentrate-480-ml",
     "hygrometer-lockdown",
-    "hygrometer-lockdown-digital"
+    "hygrometer-lockdown-digital",
+    "index-assembly-frankford-x-10",
+    "index-mount-utg-angled-m-lok",
+    "thermal-imaging-rifle-scope-infiray-geni-gl35r"
   ]
 }
