@@ -6870,16 +6870,16 @@
     "luchtdrukmunitie"
   ],
   "rubberballs-umarex-t4e-performance-rbi-steel-core-50-44-9-grain": [
-    "airsoft-diversen-1"
+    "luchtdrukmunitie"
   ],
   "rubberballs-umarex-t4e-performance-rub-50-bulk-17-6-grain": [
     "luchtdrukmunitie"
   ],
   "rubberballs-umarex-t4e-practice-rub-50-19-grain": [
-    "airsoft-diversen-1"
+    "luchtdrukmunitie"
   ],
   "rubberballs-umarex-t4e-practice-rub-50-bulk-19-grain": [
-    "airsoft-diversen-1"
+    "luchtdrukmunitie"
   ],
   "rvs-media-pinnen-frankford-arsenal": [
     "polijst-media"
@@ -7633,7 +7633,7 @@
     "tourniquets"
   ],
   "tracerballs-umarex-t4e-performance-trb-50-17-6-grain": [
-    "airsoft-diversen-1"
+    "luchtdrukmunitie"
   ],
   "tracerballs-umarex-t4e-performance-trb-50-bulk-17-6-grain": [
     "airsoft-diversen-1"
@@ -17819,6 +17819,18 @@
       "airsoft",
       "airsoft-diversen"
     ],
+    "rubberballs-umarex-t4e-performance-rbi-steel-core-50-44-9-grain": [
+      "airsoft",
+      "airsoft-diversen"
+    ],
+    "rubberballs-umarex-t4e-practice-rub-50-19-grain": [
+      "airsoft",
+      "airsoft-diversen"
+    ],
+    "rubberballs-umarex-t4e-practice-rub-50-bulk-19-grain": [
+      "airsoft",
+      "airsoft-diversen"
+    ],
     "rvs-media-pinnen-frankford-arsenal": [
       "herlaadkits",
       "polijsttrommels"
@@ -18441,6 +18453,10 @@
     ],
     "test-stofplug-bf-foster": [
       "persluchtfles-accessoires"
+    ],
+    "tracerballs-umarex-t4e-performance-trb-50-17-6-grain": [
+      "airsoft",
+      "airsoft-diversen"
     ],
     "training-system-mantis-black-beard-ar15-red": [
       "jacht",
@@ -30725,6 +30741,10 @@
     "m-tac-elastic-cord-with-hooks-2-pcs-7732",
     "polyballs-umarex-t4e-practice-plb-50-27-5-grain",
     "polyballs-umarex-t4e-practice-plb-50-bulk-27-5-grain",
-    "rubber-balls-snowpeak-rb100-50-19-1-grain"
+    "rubber-balls-snowpeak-rb100-50-19-1-grain",
+    "rubberballs-umarex-t4e-performance-rbi-steel-core-50-44-9-grain",
+    "rubberballs-umarex-t4e-performance-rub-50-bulk-17-6-grain",
+    "rubberballs-umarex-t4e-practice-rub-50-19-grain",
+    "rubberballs-umarex-t4e-practice-rub-50-bulk-19-grain"
   ]
 }
