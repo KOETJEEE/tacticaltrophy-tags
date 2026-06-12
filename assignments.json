@@ -1447,13 +1447,13 @@
     "persluchtfles-accessoires"
   ],
   "afdichtingsring-bf-1-4-bsp": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "afdichtingsring-bf-1-8-bsp": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "afdichtingsring-bf-m6": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "spare-part-kit-steyr-sealing-set-large": [
     "persluchtfles-accessoires"
@@ -14859,6 +14859,15 @@
     "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw": [
       "gearboxen"
     ],
+    "afdichtingsring-bf-1-4-bsp": [
+      "persluchtfles-accessoires"
+    ],
+    "afdichtingsring-bf-1-8-bsp": [
+      "persluchtfles-accessoires"
+    ],
+    "afdichtingsring-bf-m6": [
+      "persluchtfles-accessoires"
+    ],
     "red-dot-aim-o-exps-3-2-qd-mount": [
       "montage-accessoires"
     ],
@@ -26278,6 +26287,9 @@
     "mount-dnt-weaver-picatinny-long-20-moa-for-thermnight-hydra-zulus-hd-v1-v2",
     "mount-dnt-quick-detach-standard-1-5-for-thermnight-hydra-zulus-hd-v1-v2",
     "mount-dnt-quick-detach-multi-functional-1-5-for-thermnight-hydra-zulus-hd-v1-v2",
-    "mount-dnt-dovetail-long-35-moa-for-thermnight-hydra-zulus-hd-v1-v2"
+    "mount-dnt-dovetail-long-35-moa-for-thermnight-hydra-zulus-hd-v1-v2",
+    "afdichtingsring-bf-1-4-bsp",
+    "afdichtingsring-bf-1-8-bsp",
+    "afdichtingsring-bf-m6"
   ]
 }
