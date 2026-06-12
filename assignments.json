@@ -2540,13 +2540,6 @@
   "richtkijker-delta-optical-titanium-2-5-15x56-hd-4a": [
     "richtkijkers"
   ],
-  "suppressor-g-g-double-screw": [],
-  "demper-g-g-goms-mk1": [],
-  "demper-g-g-goms-mk3": [],
-  "demper-g-g-goms-mk5": [],
-  "demper-g-g-goms-mk6": [],
-  "demper-g-g-goms-mk7": [],
-  "suppressor-g-g-kwa-kriss-vector": [],
   "die-blokken-frankford-arsenal-3-pack": [
     "persen-onderdelen"
   ],
@@ -3123,8 +3116,6 @@
   "ear-defender-walker-s-ultimate-power-quads-black": [
     "gehoorbescherming"
   ],
-  "geluiddemper-vulcan-long": [],
-  "geluiddemper-vulcan-short": [],
   "geluiddemper-artemis-pp700s-a-m16": [
     "geluiddempers"
   ],
@@ -4543,8 +4534,7 @@
     "kruittrechters"
   ],
   "boot-jack": [
-    "laarzen",
-    "schoenen"
+    "laarzen"
   ],
   "boot-jack-with-brushes": [
     "laarzen",
@@ -16038,6 +16028,9 @@
     "bead-sight-lpa-walther-q5-match": [
       "optiek",
       "vizieren"
+    ],
+    "boot-jack": [
+      "schoenen"
     ],
     "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny": [
       "picatinny-rails",
