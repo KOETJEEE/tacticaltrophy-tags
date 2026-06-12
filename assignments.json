@@ -9198,8 +9198,7 @@
     "riemen-bretels"
   ],
   "cotton-raglan-hard-hoodie-5551": [
-    "hoodies",
-    "truien"
+    "hoodies"
   ],
   "cotton-sweatshirt-2835": [
     "truien"
@@ -9220,18 +9219,16 @@
     "kookgerei"
   ],
   "cross-bag-elite-hex-433": [
-    "tassen-rugzakken"
+    "sling-bags"
   ],
   "cuirass-tiger-elite-plate-carrier-plate-size-m-9559": [
-    "plate-carriers",
-    "tactical-vests"
+    "plate-carriers"
   ],
   "delta-fleece-jacket-6031": [
-    "truien"
+    "fleece"
   ],
   "delta-polartec-fleece-jacket-6200": [
-    "fleece",
-    "truien"
+    "fleece"
   ],
   "delta-polartec-jacket-lady-6272": [
     "truien"
@@ -9247,18 +9244,18 @@
   ],
   "double-duty-tactical-belt-hex-112": [
     "riemen-bretels",
-    "tactical-bags"
+    "tactical-riemen"
   ],
   "double-duty-tactical-belt-hex-133": [
     "riemen-bretels",
-    "tactical-bags"
+    "tactical-riemen"
   ],
   "double-foam-insoles-10271": [
     "inlegzolen"
   ],
   "double-sided-lite-tactical-belt-3472": [
     "riemen-bretels",
-    "tactical-bags"
+    "tactical-riemen"
   ],
   "duty-belt-load-bearing-belt-universal-5517": [
     "geweerriemen"
@@ -9268,16 +9265,13 @@
     "tactical-bags"
   ],
   "ecopybook-big-tactical-ruler-protractor-nato-8195": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-small-tactical-ruler-protractor-nato-8196": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-accuracy-shot-chart-852": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-an-all-weather-notebook-849": [
     "veldnotitie",
@@ -18484,13 +18478,140 @@
       "rugzak-accessoires",
       "m-tac"
     ],
-    "ecopybook-big-tactical-ruler-protractor-nato-8195": [
+    "cotton-raglan-hard-hoodie-5551": [
+      "truien",
+      "Clothing > Hoodie",
+      "m-tac"
+    ],
+    "cotton-sweatshirt-2835": [
+      "Clothing > Sweater",
+      "m-tac",
+      "sweaters"
+    ],
+    "cotton-sweatshirt-hard-2937": [
+      "Clothing > Sweater",
+      "m-tac",
+      "sweaters"
+    ],
+    "cotton-tube-scarf-4567": [
+      "Clothing > Neck Warmer",
+      "m-tac"
+    ],
+    "cover-for-id-passport-pirate-7962": [
+      "documenttassen",
+      "Equipment and gear > Bags and backpacks > Cases for documents",
+      "m-tac"
+    ],
+    "cover-with-case-wrist-23": [
+      "Military Line",
+      "m-tac",
+      "pouches",
+      "Tactical gear > Pouches > Admin Pouch"
+    ],
+    "crockery-set-for-4-5-people-7615": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "tourism > Dishes",
+      "Outdoor Line",
+      "m-tac"
+    ],
+    "cross-bag-elite-hex-433": [
+      "schietsport",
+      "jacht",
+      "tassen-rugzakken",
+      "Equipment and gear > Bags and backpacks > Bags",
+      "Tactical Line",
+      "rugzakken",
+      "tassen",
+      "m-tac"
+    ],
+    "cuirass-tiger-elite-plate-carrier-plate-size-m-9559": [
+      "tactical-vests",
+      "m-tac",
+      "Tactical gear > Tactical vests"
+    ],
+    "delta-fleece-jacket-6031": [
+      "truien",
+      "Clothing > Fleeces",
+      "fleeces",
+      "m-tac"
+    ],
+    "delta-polartec-fleece-jacket-6200": [
+      "truien",
+      "Clothing > Fleeces",
+      "m-tac",
+      "fleeces"
+    ],
+    "delta-polartec-jacket-lady-6272": [
+      "Clothing > Fleeces",
+      "fleeces",
+      "m-tac"
+    ],
+    "delta-polartec-raglan-jacket-6335": [
+      "Clothing > Fleeces",
+      "fleeces",
+      "m-tac"
+    ],
+    "dense-shemagh-scarf-5025": [
+      "Clothing > Headwear > Arafatki",
+      "m-tac",
+      "headwear"
+    ],
+    "double-ak-mag-pouch-with-cover-940": [
+      "m-tac",
+      "magazine-pouches",
+      "pouches",
+      "Military Line",
+      "Tactical gear > Pouches > Magazine Pouches"
+    ],
+    "double-duty-tactical-belt-hex-112": [
+      "Clothing > Belt",
+      "m-tac",
+      "riemen-bretels",
+      "Tactical Line",
+      "tactical-bags",
+      "tactical-gear"
+    ],
+    "double-duty-tactical-belt-hex-133": [
+      "Clothing > Belt",
+      "m-tac",
+      "riemen-bretels",
+      "tactical-bags"
+    ],
+    "double-foam-insoles-10271": [
+      "Footwear > Insoles",
+      "m-tac"
+    ],
+    "double-sided-lite-tactical-belt-3472": [
+      "Clothing > Belt",
+      "m-tac",
+      "riemen-bretels",
+      "tactical-bags"
+    ],
+    "duty-belt-load-bearing-belt-universal-5517": [
+      "m-tac",
+      "riemen-bretels",
+      "Tactical gear > Gun Sling"
+    ],
+    "ecopybook-big-tactical-ruler-nato-blue-9552": [
       "Equipment and gear > Office supplies",
       "m-tac"
     ],
+    "ecopybook-big-tactical-ruler-protractor-nato-8195": [
+      "Equipment and gear > Office supplies",
+      "m-tac",
+      "tactical-bags"
+    ],
     "ecopybook-small-tactical-ruler-protractor-nato-8196": [
       "Equipment and gear > Office supplies",
-      "m-tac"
+      "m-tac",
+      "tactical-bags"
+    ],
+    "ecopybook-tactical-accuracy-shot-chart-852": [
+      "m-tac",
+      "Equipment and gear > Office supplies",
+      "Military Line",
+      "tactical-bags"
     ],
     "ecopybook-tactical-card-firing-position-nato-5-pcs-8039": [
       "tactical-bags",
@@ -28978,6 +29099,29 @@
     "compression-thermal-pants-9980",
     "compression-thermal-shirt-10040",
     "compressive-strap-3100",
-    "compressive-strap-genii-3106"
+    "compressive-strap-genii-3106",
+    "cotton-raglan-hard-hoodie-5551",
+    "cotton-sweatshirt-2835",
+    "cotton-sweatshirt-hard-2937",
+    "cotton-tube-scarf-4567",
+    "cover-for-id-passport-pirate-7962",
+    "cover-with-case-wrist-23",
+    "crockery-set-for-4-5-people-7615",
+    "cross-bag-elite-hex-433",
+    "cuirass-tiger-elite-plate-carrier-plate-size-m-9559",
+    "delta-fleece-jacket-6031",
+    "delta-polartec-fleece-jacket-6200",
+    "delta-polartec-jacket-lady-6272",
+    "delta-polartec-raglan-jacket-6335",
+    "dense-shemagh-scarf-5025",
+    "double-ak-mag-pouch-with-cover-940",
+    "double-duty-tactical-belt-hex-112",
+    "double-duty-tactical-belt-hex-133",
+    "double-foam-insoles-10271",
+    "double-sided-lite-tactical-belt-3472",
+    "duty-belt-load-bearing-belt-universal-5517",
+    "ecopybook-big-tactical-ruler-nato-blue-9552",
+    "ecopybook-big-tactical-ruler-protractor-nato-8195",
+    "ecopybook-small-tactical-ruler-protractor-nato-8196"
   ]
 }
