@@ -838,83 +838,46 @@
     "oculairs"
   ],
   "kowa-spotting-scope-body-tsn-66a-prominar-441667": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-body-tsn-66s-prominar-441668": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-body-tsn-88a-prominar-441887": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-body-tsn-99a-prominar-440993": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-body-tsn-99s-prominar-440994": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-55a-prominar-incl-17-40x-oculair-441555": [
-    "spotting-scopes",
-    "oculairs",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-601-tse-z9b-20-60x-oculair-440606": [
-    "spotting-scopes",
-    "oculairs",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-66a-prominar-incl-te-11wz-ii-wa-oculair-441665": [
-    "spotting-scopes",
-    "oculairs",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-66s-prominar-incl-te-11wz-ii-wa-oculair-441666": [
-    "spotting-scopes",
-    "oculairs",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-82sv-tse-z9b-20-60x-oculair-440818": [
-    "spotting-scopes",
-    "oculairs",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-88a-prominar-incl-te-11wz-ii-wa-oculair-441885": [
-    "spotting-scopes",
-    "oculairs",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-88s-prominar-incl-te-11wz-ii-wa-oculair-441886": [
-    "spotting-scopes",
-    "oculairs",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-99a-prominar-kit-met-te-11wz-ii-wa-oculair-440991": [
-    "spotting-scopes",
-    "oculairs",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-99s-prominar-kit-met-te-11wz-ii-wa-oculair-440992": [
-    "spotting-scopes",
-    "oculairs",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "kowa-tsn-arzh-adapter-ring-voor-zeiss-harpia-440971": [
     "filmen-opnemen"
@@ -944,8 +907,7 @@
     "verrekijkers"
   ],
   "kowa-verrekijker-statief-adapter-kb2-mt-441047": [
-    "statieven",
-    "verrekijkers"
+    "observatie-accessoires"
   ],
   "kowa-verrekijker-svii-10x25-442263": [
     "verrekijkers"
@@ -14573,12 +14535,119 @@
       "voorzetadapterring",
       "adapterring"
     ],
+    "kowa-spotting-scope-body-tsn-66a-prominar-441667": [
+      "monoculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-body-tsn-66s-prominar-441668": [
+      "monoculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-body-tsn-88a-prominar-441887": [
+      "monoculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-body-tsn-99a-prominar-440993": [
+      "monoculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-body-tsn-99s-prominar-440994": [
+      "monoculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-tsn-55a-prominar-incl-17-40x-oculair-441555": [
+      "monoculairs",
+      "oculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-tsn-601-tse-z9b-20-60x-oculair-440606": [
+      "monoculairs",
+      "oculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-tsn-66a-prominar-incl-te-11wz-ii-wa-oculair-441665": [
+      "monoculairs",
+      "oculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-tsn-66s-prominar-incl-te-11wz-ii-wa-oculair-441666": [
+      "monoculairs",
+      "oculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-tsn-82sv-tse-z9b-20-60x-oculair-440818": [
+      "monoculairs",
+      "oculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-tsn-88a-prominar-incl-te-11wz-ii-wa-oculair-441885": [
+      "monoculairs",
+      "oculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-tsn-88s-prominar-incl-te-11wz-ii-wa-oculair-441886": [
+      "monoculairs",
+      "oculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-tsn-99a-prominar-kit-met-te-11wz-ii-wa-oculair-440991": [
+      "monoculairs",
+      "oculairs",
+      "richtkijkers",
+      "kowa"
+    ],
+    "kowa-spotting-scope-tsn-99s-prominar-kit-met-te-11wz-ii-wa-oculair-440992": [
+      "monoculairs",
+      "oculairs",
+      "richtkijkers",
+      "kowa"
+    ],
     "kowa-tsn-arzh-adapter-ring-voor-zeiss-harpia-440971": [
       "adapterringen",
       "kowa",
       "spotting-scopes-accessoires",
       "adapterring",
       "voorzetadapterring"
+    ],
+    "kowa-verrekijker-bd25-10x25-441025": [
+      "kowa"
+    ],
+    "kowa-verrekijker-bd25-8x25-440825": [
+      "kowa"
+    ],
+    "kowa-verrekijker-bd56-xd-10x56-440857": [
+      "kowa"
+    ],
+    "kowa-verrekijker-bd56-xd-8x56-440856": [
+      "kowa"
+    ],
+    "kowa-verrekijker-bdii-65x32-xd-441895": [
+      "kowa"
+    ],
+    "kowa-verrekijker-bdii-8x32-xd-441896": [
+      "kowa"
+    ],
+    "kowa-verrekijker-statief-adapter-kb2-mt-441047": [
+      "airsoft",
+      "jacht",
+      "schietsport",
+      "statieven",
+      "wapen-toebehoren",
+      "kowa",
+      "verrekijkers-accessoires",
+      "verrekijkers"
     ],
     "kowa-wide-oculair-30x-tse14-wd-voor-tsn600660-445031": [
       "kowa",
@@ -22188,6 +22257,27 @@
     "decoy-greylag-goose-flocked-foraging-stackable-12-pack",
     "decoy-greylag-goose-flocked-resting-stackable-12-pack",
     "m-tac-reinforced-tape-25-mm-10-m-8550",
-    "m-tac-reinforced-tape-50-mm-10-m-8549"
+    "m-tac-reinforced-tape-50-mm-10-m-8549",
+    "kowa-spotting-scope-body-tsn-66a-prominar-441667",
+    "kowa-spotting-scope-body-tsn-66s-prominar-441668",
+    "kowa-spotting-scope-body-tsn-88a-prominar-441887",
+    "kowa-spotting-scope-body-tsn-99a-prominar-440993",
+    "kowa-spotting-scope-body-tsn-99s-prominar-440994",
+    "kowa-spotting-scope-tsn-55a-prominar-incl-17-40x-oculair-441555",
+    "kowa-spotting-scope-tsn-601-tse-z9b-20-60x-oculair-440606",
+    "kowa-spotting-scope-tsn-66a-prominar-incl-te-11wz-ii-wa-oculair-441665",
+    "kowa-spotting-scope-tsn-66s-prominar-incl-te-11wz-ii-wa-oculair-441666",
+    "kowa-spotting-scope-tsn-82sv-tse-z9b-20-60x-oculair-440818",
+    "kowa-spotting-scope-tsn-88a-prominar-incl-te-11wz-ii-wa-oculair-441885",
+    "kowa-spotting-scope-tsn-88s-prominar-incl-te-11wz-ii-wa-oculair-441886",
+    "kowa-spotting-scope-tsn-99a-prominar-kit-met-te-11wz-ii-wa-oculair-440991",
+    "kowa-spotting-scope-tsn-99s-prominar-kit-met-te-11wz-ii-wa-oculair-440992",
+    "kowa-verrekijker-bd25-10x25-441025",
+    "kowa-verrekijker-bd25-8x25-440825",
+    "kowa-verrekijker-bd56-xd-10x56-440857",
+    "kowa-verrekijker-bd56-xd-8x56-440856",
+    "kowa-verrekijker-bdii-65x32-xd-441895",
+    "kowa-verrekijker-bdii-8x32-xd-441896",
+    "kowa-verrekijker-statief-adapter-kb2-mt-441047"
   ]
 }
