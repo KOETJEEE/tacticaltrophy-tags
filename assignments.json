@@ -2462,10 +2462,10 @@
     "kolfplaten"
   ],
   "cylinder-prometheus-type-c": [
-    "persluchtcilinders"
+    "airsoft-cilinders"
   ],
   "cylinder-prometheus-type-d": [
-    "persluchtcilinders"
+    "airsoft-cilinders"
   ],
   "cilindervoet-mde-12-liter": [
     "persluchtfles-accessoires"
@@ -15622,6 +15622,14 @@
       "kolfplaten",
       "wapen-toebehoren"
     ],
+    "cylinder-prometheus-type-c": [
+      "persluchtcilinders",
+      "schietsport"
+    ],
+    "cylinder-prometheus-type-d": [
+      "persluchtcilinders",
+      "schietsport"
+    ],
     "cleaning-packs-frankford-arsenal-platinum-series-24-st": [
       "schoonmaak-onderhoud",
       "herlaadkits",
@@ -26263,6 +26271,8 @@
     "conversion-kit-wolverine-bolt-sniper",
     "conversion-connector-prometheus-voor-next-gen-m4-sopmod-kolf",
     "richtkijker-delta-optical-titanium-2-5-15x56-hd-4a",
-    "dielocker-lock-rings-frankford-with-wrench"
+    "dielocker-lock-rings-frankford-with-wrench",
+    "cylinder-prometheus-type-c",
+    "cylinder-prometheus-type-d"
   ]
 }
