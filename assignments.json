@@ -62,8 +62,7 @@
     "flag-odin-night-vision-630x900-5792",
     "adapter-mantisx-picatinny-3m",
     "bipod-adapter-bf-voor-50-mm-drukbuis",
-    "bipod-adapter-bf-voor-60-mm-drukbuis",
-    "bipod-adapter-caldwell-sling-swivel-stud-pic-rail"
+    "bipod-adapter-bf-voor-60-mm-drukbuis"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -1845,14 +1844,14 @@
     "bipods"
   ],
   "bipod-adapter-bf-voor-60-mm-drukbuis": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-stud-hw100": [
     "bipod-toebehoren",
     "riembeugels"
   ],
   "bipod-adapter-caldwell-sling-swivel-stud-pic-rail": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-harris-ar15-no-5": [
     "bipod-toebehoren",
@@ -1904,8 +1903,7 @@
     "bipods"
   ],
   "bipod-caldwell-accumax-premium-picatinny-rail": [
-    "bipods",
-    "picatinny-rails"
+    "bipods"
   ],
   "bipod-caldwell-accumax-swivel-stud": [
     "bipods"
@@ -1924,8 +1922,7 @@
     "bipods"
   ],
   "bipod-grs-with-spigot-adapter-set": [
-    "bipods",
-    "persluchtfles-accessoires"
+    "bipods"
   ],
   "bipod-harris-picatinny-pivot": [
     "bipods"
@@ -1961,13 +1958,13 @@
     "bipods"
   ],
   "bipod-spike-claws-accu-tac": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-spikes-accu-tac-g2": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-steyr-airforce-carbon-fiber-dovetail": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-utg-big-bore-full-stability": [
     "bipods"
@@ -2033,16 +2030,16 @@
     "bipods"
   ],
   "bipod-adapter-saber-tactical-50-mm-to-weaver-picatinny": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-saber-tactical-bottle-o-clamp-arca-swiss": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipod-adapter-saber-tactical-bottle-o-clamp-weaver-picatinny": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "bipodhendel-caldwell-pivot-lock": [
-    "bipods"
+    "bipod-toebehoren"
   ],
   "mouth-guard-sisu-max-charcoal-black": [
     "gebitsbeschermers"
@@ -15308,7 +15305,16 @@
       "beschermkappen",
       "optiek"
     ],
+    "bipod-adapter-bf-voor-60-mm-drukbuis": [
+      "airsoft"
+    ],
     "bipod-stud-hw100": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-caldwell-sling-swivel-stud-pic-rail": [
       "airsoft",
       "bipods",
       "jacht",
@@ -15381,6 +15387,55 @@
       "schietsport"
     ],
     "bipod-adapter-utg-swivel-stud": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-caldwell-accumax-premium-picatinny-rail": [
+      "optiek",
+      "picatinny-rails"
+    ],
+    "bipod-grs-with-spigot-adapter-set": [
+      "persluchtfles-accessoires"
+    ],
+    "bipod-spike-claws-accu-tac": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-spikes-accu-tac-g2": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-steyr-airforce-carbon-fiber-dovetail": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-saber-tactical-50-mm-to-weaver-picatinny": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-saber-tactical-bottle-o-clamp-arca-swiss": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipod-adapter-saber-tactical-bottle-o-clamp-weaver-picatinny": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
+    ],
+    "bipodhendel-caldwell-pivot-lock": [
       "airsoft",
       "bipods",
       "jacht",
@@ -23419,6 +23474,58 @@
     "bipod-adapter-utg-swivel-stud",
     "bipod-atlas-5h-heavy-duty-bt35-lw17",
     "bipod-atlas-v8-bt46-lw17-psr",
-    "bipod-audere-shadow"
+    "bipod-audere-shadow",
+    "bipod-caldwell-accumax-premium-picatinny-rail",
+    "bipod-caldwell-accumax-swivel-stud",
+    "bipod-caldwell-ar-prone",
+    "bipod-caldwell-xla-fixed-picatinny-rail",
+    "bipod-caldwell-xla-pivot-black",
+    "bipod-grs",
+    "bipod-grs-with-spigot-adapter-set",
+    "bipod-harris-picatinny-pivot",
+    "bipod-harris-pivot",
+    "bipod-mdt-ckye-pod-gen3-single-pull-standard",
+    "bipod-mdt-grnd-pod-dovetail-arca",
+    "bipod-mdt-grnd-pod-weaver-picatinny",
+    "bipod-mdt-oryx-swivel",
+    "bipod-rokstad-carbon-fiber-swivel-spring-6-9-inch",
+    "bipod-rokstad-carbon-fiber-swivel-spring",
+    "bipod-rome-basis",
+    "bipod-rome-basis-maximo",
+    "bipod-rome-caliga",
+    "bipod-spike-claws-accu-tac",
+    "bipod-spikes-accu-tac-g2",
+    "bipod-steyr-airforce-carbon-fiber-dovetail",
+    "bipod-utg-big-bore-full-stability",
+    "bipod-utg-goliath-weaver-picatinny-6-8",
+    "bipod-utg-goliath-weaver-picatinny-8-12",
+    "bipod-utg-over-bore",
+    "bipod-utg-pro-us-made-recon-md1",
+    "bipod-utg-recon-360",
+    "bipod-utg-recon-flex-m-lok",
+    "bipod-utg-reinforced-clamp-on-new-gen",
+    "bipod-utg-rubber-armored-full-metal-qd",
+    "bipod-utg-shooter-s",
+    "bipod-utg-shooter-s-swat",
+    "bipod-utg-tactical-op-qd",
+    "bipod-vanguard-eq-precision-1a-aluminium",
+    "bipod-vanguard-eq-precision-1qs-aluminium",
+    "bipod-vanguard-eq-precision-1qs-carbon",
+    "bipod-vanguard-eq-precision-2a-aluminium",
+    "bipod-bog-deadshot",
+    "bipod-vanguard-eq-precision-2qs-aluminium",
+    "bipod-vanguard-eq-precision-2qs-carbon",
+    "bipod-vanguard-equalizer-pivoting-1qs-aluminium",
+    "bipod-vanguard-equalizer-pivoting-1qs-carbon",
+    "bipod-vanguard-equalizer-pivoting-2qs-aluminium",
+    "bipod-adapter-saber-tactical-50-mm-to-weaver-picatinny",
+    "bipod-adapter-saber-tactical-bottle-o-clamp-arca-swiss",
+    "bipod-adapter-saber-tactical-bottle-o-clamp-weaver-picatinny",
+    "bipodhendel-caldwell-pivot-lock",
+    "mouth-guard-sisu-max-charcoal-black",
+    "mouth-guard-sisu-max-hot-pink",
+    "mouth-guard-sisu-max-snow-white",
+    "bitset-wheeler-engineering-21-stuks-add-on-set",
+    "bipod-adapter-caldwell-sling-swivel-stud-pic-rail"
   ]
 }
