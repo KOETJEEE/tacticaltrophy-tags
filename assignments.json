@@ -6499,7 +6499,7 @@
     "luchtdrukmunitie-accessoires"
   ],
   "primer-pocket-swager-frankford-arsenal": [
-    "herlaadkits"
+    "overige-gereedschappen"
   ],
   "primer-tube-kit-frankford-x-10-3-pack": [
     "persen-onderdelen"
@@ -17509,6 +17509,9 @@
       "herlaadkits"
     ],
     "powder-trickler-frankford-arsenal": [
+      "herlaadkits"
+    ],
+    "primer-pocket-swager-frankford-arsenal": [
       "herlaadkits"
     ],
     "push-to-talk-bypass-code-red-modular": [
@@ -30543,6 +30546,7 @@
     "push-to-talk-code-red-nx-single-ptt",
     "push-to-talk-code-red-nx-dual-ptt-amplified",
     "push-to-talk-z-tactical-u94-ptt",
-    "push-to-talk-bypass-code-red-modular"
+    "push-to-talk-bypass-code-red-modular",
+    "primer-pocket-swager-frankford-arsenal"
   ]
 }
