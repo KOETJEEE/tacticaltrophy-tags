@@ -4512,28 +4512,22 @@
     "koelboxen"
   ],
   "kogelvanger-10-x-10-ml": [
-    "kogelvangers",
-    "luchtdrukmunitie-accessoires"
+    "kogelvangers"
   ],
   "kogelvanger-17-x-17": [
-    "kogelvangers",
-    "luchtdrukmunitie-accessoires"
+    "kogelvangers"
   ],
   "kogelvanger-krale-14-x-14": [
-    "kogelvangers",
-    "luchtdrukmunitie-accessoires"
+    "kogelvangers"
   ],
   "kogelvanger-krale-heavy-14-x-14": [
-    "kogelvangers",
-    "luchtdrukmunitie-accessoires"
+    "kogelvangers"
   ],
   "kogelvanger-krale-heavy-17-x-17": [
-    "kogelvangers",
-    "luchtdrukmunitie-accessoires"
+    "kogelvangers"
   ],
   "pellet-catcher-krale-hammerite-23x23": [
-    "kogelvangers",
-    "luchtdrukmunitie-accessoires"
+    "kogelvangers"
   ],
   "kolf-aea-zeus": [
     "kolven"
@@ -16173,6 +16167,24 @@
     "machete-kershaw-camp-10-black": [
       "bijlen"
     ],
+    "kogelvanger-10-x-10-ml": [
+      "luchtdrukmunitie-accessoires"
+    ],
+    "kogelvanger-17-x-17": [
+      "luchtdrukmunitie-accessoires"
+    ],
+    "kogelvanger-krale-14-x-14": [
+      "luchtdrukmunitie-accessoires"
+    ],
+    "kogelvanger-krale-heavy-14-x-14": [
+      "luchtdrukmunitie-accessoires"
+    ],
+    "kogelvanger-krale-heavy-17-x-17": [
+      "luchtdrukmunitie-accessoires"
+    ],
+    "pellet-catcher-krale-hammerite-23x23": [
+      "luchtdrukmunitie-accessoires"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -24167,6 +24179,34 @@
     "vise-tipton-best-gun-360",
     "bankschroefbekken-vfg-vilt-magnetisch",
     "carson-drijvende-brillenkoord-fa-1001-zwart-186181",
-    "carson-drijvende-brillenkoord-fa-1002-oranje-186182"
+    "carson-drijvende-brillenkoord-fa-1002-oranje-186182",
+    "hygieneset-z-tactical-z007-bk",
+    "hygieneset-z-tactical-z009-bk",
+    "hygiene-set-walker-s-gel-ear-pad",
+    "hygiene-kit-sordin-supreme-gel",
+    "hygiene-set-code-red-cr-tac-silicon-gel-pads",
+    "hygiene-kit-sordin-supreme",
+    "kleiduiven-caldwell-claycopter-50-stuks",
+    "clay-pigeons-nordic-clays-bio-clays-black",
+    "clay-pigeon-trap-caldwell-claycopter",
+    "clay-pigeon-trap-caldwell-claymore",
+    "kleiduivenmachine-caldwell-claymore-pullpup",
+    "safe-griffon-s-50-e",
+    "gun-safe-griffon-s-50-k",
+    "cool-box-plano-frost-13-liter",
+    "cool-box-plano-frost-20-liter",
+    "cool-box-plano-frost-30-liter",
+    "kogelvanger-10-x-10-ml",
+    "kogelvanger-17-x-17",
+    "kogelvanger-krale-14-x-14",
+    "kogelvanger-krale-heavy-14-x-14",
+    "kogelvanger-krale-heavy-17-x-17",
+    "pellet-catcher-krale-hammerite-23x23",
+    "kolf-aea-zeus",
+    "stock-evanix-viper-adjustable",
+    "stock-fx-crown-synthetic",
+    "stock-fx-crown-walnut",
+    "stock-fx-drs-classic-synthetic",
+    "stock-fx-drs-classic-walnut"
   ]
 }
