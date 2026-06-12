@@ -48,7 +48,6 @@
     "safety-cord-medium-combo-with-d-ring-and-fastex-5743",
     "safety-cord-medium-for-carbine-5733",
     "pas-pkm-8042",
-    "m-tac-waterproof-case-for-documents-16x12-cm-7604",
     "m-tac-seating-pad-with-belt-20",
     "m-tac-seat-pad-20-mm-7610",
     "m-tac-passport-cover-722",
@@ -13743,8 +13742,7 @@
     "observatie-accessoires"
   ],
   "flir-reserve-lenskap-voor-scout-en-ls-series-4127306-134127310": [
-    "beschermkappen",
-    "observatie-accessoires"
+    "beschermkappen"
   ],
   "flir-scion-otm266-warmtebeeldcamera-13460266": [
     "warmtebeeld"
@@ -13804,8 +13802,7 @@
     "observatie-accessoires"
   ],
   "kowa-adapterring-tsn-ar30-440230": [
-    "adapterringen",
-    "observatie-accessoires"
+    "adapterringen"
   ],
   "kowa-compact-spottingscope-tsn-553-prominar-15-45x55-446553": [
     "spotting-scopes"
@@ -13843,7 +13840,8 @@
     "slaapzakken-matten"
   ],
   "m-tac-waterproof-case-for-documents-16x12-cm-7604": [
-    "admin-pouches"
+    "admin-pouches",
+    "veldnotitie"
   ],
   "magazijn-ataman-m2": [
     "magazijnen"
@@ -20440,7 +20438,8 @@
     ],
     "flir-reserve-lenskap-voor-scout-en-ls-series-4127306-134127310": [
       "nachtzicht-en-warmtebeeldaccessoires",
-      "warmtebeeld-accessoires"
+      "warmtebeeld-accessoires",
+      "observatie-accessoires"
     ],
     "flir-scion-otm266-warmtebeeldcamera-13460266": [
       "warmtebeeld",
@@ -21176,6 +21175,7 @@
     "microfiber-towel-weapon-150x75-10405",
     "microfiber-towel-army-green-150x75cm-9725",
     "microfiber-towel-army-green-120x60cm-9724",
-    "sionyx-digitale-full-color-nachtkijker-aurora-pro-explorer-kit-504105"
+    "sionyx-digitale-full-color-nachtkijker-aurora-pro-explorer-kit-504105",
+    "m-tac-waterproof-case-for-documents-16x12-cm-7604"
   ]
 }
