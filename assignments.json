@@ -4034,58 +4034,58 @@
     "warmtebeeld-richtkijkers"
   ],
   "inner-barrel-prometheus-eg-6-00-gbb-tokyo-marui-m4a1-mws-370-mm": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-aa-12-scar-hk417-m733-thompson-mc-plus": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-ak74u": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-cqb-r-mc51": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-g-g-arp9-arp556": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-g-g-cm16-srl": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-g-g-cm16-srs": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-g-g-firehawk": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-g36c-p90-car15-sig552": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-6-03-gbb-tokyo-marui-m4a1-mws-370-mm": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-krytac-lmg-crb": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-krytac-lvoa-c": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-krytac-lvoa-s": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-krytac-pdw": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-krytac-spr": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-next-gen-hk416d": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-sopmod-m4a1-sr16-sg551": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "inner-barrel-prometheus-eg-6-03-wide": [
-    "airsoft-accessoires"
+    "inner-barrels"
   ],
   "insert-wiley-x-twist-lock": [
     "oogbescherming"
@@ -16116,52 +16116,74 @@
       "optiek"
     ],
     "inner-barrel-prometheus-eg-6-00-gbb-tokyo-marui-m4a1-mws-370-mm": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-aa-12-scar-hk417-m733-thompson-mc-plus": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-ak74u": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-cqb-r-mc51": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-g-g-arp9-arp556": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-g-g-cm16-srl": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-g-g-cm16-srs": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-g-g-firehawk": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-g36c-p90-car15-sig552": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-6-03-gbb-tokyo-marui-m4a1-mws-370-mm": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-krytac-lmg-crb": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-krytac-lvoa-c": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-krytac-lvoa-s": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-krytac-pdw": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-krytac-spr": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
     ],
     "inner-barrel-prometheus-eg-next-gen-hk416d": [
-      "airsoft-onderdelen"
+      "airsoft-onderdelen",
+      "airsoft-accessoires"
+    ],
+    "inner-barrel-prometheus-eg-sopmod-m4a1-sr16-sg551": [
+      "airsoft-accessoires"
+    ],
+    "inner-barrel-prometheus-eg-6-03-wide": [
+      "airsoft-accessoires"
     ],
     "ir-delete-cap-dnt-m21-for-18650-zulus-hd-thermnight-tnc225r": [
       "multispectral-richtkijkers"
@@ -27089,6 +27111,24 @@
     "hygrometer-lockdown-digital",
     "index-assembly-frankford-x-10",
     "index-mount-utg-angled-m-lok",
-    "thermal-imaging-rifle-scope-infiray-geni-gl35r"
+    "thermal-imaging-rifle-scope-infiray-geni-gl35r",
+    "inner-barrel-prometheus-eg-6-00-gbb-tokyo-marui-m4a1-mws-370-mm",
+    "inner-barrel-prometheus-eg-aa-12-scar-hk417-m733-thompson-mc-plus",
+    "inner-barrel-prometheus-eg-ak74u",
+    "inner-barrel-prometheus-eg-cqb-r-mc51",
+    "inner-barrel-prometheus-eg-g-g-arp9-arp556",
+    "inner-barrel-prometheus-eg-g-g-cm16-srl",
+    "inner-barrel-prometheus-eg-g-g-cm16-srs",
+    "inner-barrel-prometheus-eg-g36c-p90-car15-sig552",
+    "inner-barrel-prometheus-eg-6-03-gbb-tokyo-marui-m4a1-mws-370-mm",
+    "inner-barrel-prometheus-eg-krytac-lmg-crb",
+    "inner-barrel-prometheus-eg-krytac-lvoa-c",
+    "inner-barrel-prometheus-eg-krytac-lvoa-s",
+    "inner-barrel-prometheus-eg-krytac-pdw",
+    "inner-barrel-prometheus-eg-krytac-spr",
+    "inner-barrel-prometheus-eg-next-gen-hk416d",
+    "inner-barrel-prometheus-eg-sopmod-m4a1-sr16-sg551",
+    "inner-barrel-prometheus-eg-6-03-wide",
+    "inner-barrel-prometheus-eg-g-g-firehawk"
   ]
 }
