@@ -13738,11 +13738,11 @@
     "gaffer-tape"
   ],
   "flir-oculair-ooggedeelte-voor-scout-134127309": [
-    "oculairs",
     "observatie-accessoires"
   ],
   "flir-reserve-lenskap-voor-scout-en-ls-series-4127306-134127310": [
-    "beschermkappen"
+    "beschermkappen",
+    "observatie-accessoires"
   ],
   "flir-scion-otm266-warmtebeeldcamera-13460266": [
     "warmtebeeld"
@@ -13802,7 +13802,8 @@
     "observatie-accessoires"
   ],
   "kowa-adapterring-tsn-ar30-440230": [
-    "adapterringen"
+    "adapterringen",
+    "observatie-accessoires"
   ],
   "kowa-compact-spottingscope-tsn-553-prominar-15-45x55-446553": [
     "spotting-scopes"
@@ -21176,6 +21177,14 @@
     "microfiber-towel-army-green-150x75cm-9725",
     "microfiber-towel-army-green-120x60cm-9724",
     "sionyx-digitale-full-color-nachtkijker-aurora-pro-explorer-kit-504105",
-    "m-tac-waterproof-case-for-documents-16x12-cm-7604"
+    "m-tac-waterproof-case-for-documents-16x12-cm-7604",
+    "flir-reserve-lenskap-voor-scout-en-ls-series-4127306-134127310",
+    "kowa-adapter-ring-tsn-ar50l-57mm-440222",
+    "kowa-adapterring-tsn-ar30-440230",
+    "kowa-adapter-ring-tsn-ar500a-40mm-440236",
+    "konus-richtkijker-konuspro-3-9x50-met-verlicht-dradenkruis-437294",
+    "flir-oculair-ooggedeelte-voor-scout-134127309",
+    "braun-wildcamera-scouting-cam-black400-wifi-solar-535659",
+    "braun-wildcamera-black300-535630"
   ]
 }
