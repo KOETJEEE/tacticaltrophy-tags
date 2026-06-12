@@ -2540,24 +2540,12 @@
   "richtkijker-delta-optical-titanium-2-5-15x56-hd-4a": [
     "richtkijkers"
   ],
-  "suppressor-g-g-double-screw": [
-    "geluiddempers"
-  ],
-  "demper-g-g-goms-mk1": [
-    "geluiddempers"
-  ],
-  "demper-g-g-goms-mk3": [
-    "geluiddempers"
-  ],
-  "demper-g-g-goms-mk5": [
-    "geluiddempers"
-  ],
-  "demper-g-g-goms-mk6": [
-    "geluiddempers"
-  ],
-  "demper-g-g-goms-mk7": [
-    "geluiddempers"
-  ],
+  "suppressor-g-g-double-screw": [],
+  "demper-g-g-goms-mk1": [],
+  "demper-g-g-goms-mk3": [],
+  "demper-g-g-goms-mk5": [],
+  "demper-g-g-goms-mk6": [],
+  "demper-g-g-goms-mk7": [],
   "suppressor-g-g-kwa-kriss-vector": [],
   "die-blokken-frankford-arsenal-3-pack": [
     "persen-onderdelen"
@@ -3134,6 +3122,41 @@
   ],
   "ear-defender-walker-s-ultimate-power-quads-black": [
     "gehoorbescherming"
+  ],
+  "geluiddemper-vulcan-long": [],
+  "geluiddemper-vulcan-short": [],
+  "geluiddemper-artemis-pp700s-a-m16": [
+    "geluiddempers"
+  ],
+  "moderator-donnyfl-emperor-p-m18x1": [
+    "geluiddempers"
+  ],
+  "geluiddemper-donnyfl-emperor-v3-1-2-unf": [
+    "geluiddempers"
+  ],
+  "geluiddemper-donnyfl-emperor-v3-m18x1": [
+    "geluiddempers"
+  ],
+  "geluiddemper-donnyfl-fatboy": [
+    "geluiddempers"
+  ],
+  "moderator-donnyfl-fx-airguns": [
+    "geluiddempers"
+  ],
+  "geluiddemper-donnyfl-great-kami-m18x1": [
+    "geluiddempers"
+  ],
+  "moderator-donnyfl-great-kami-m23x1": [
+    "geluiddempers"
+  ],
+  "geluiddemper-donnyfl-koi-1-2-unf": [
+    "geluiddempers"
+  ],
+  "moderator-donnyfl-ronin-p-1-2-unf": [
+    "geluiddempers"
+  ],
+  "geluiddemper-donnyfl-ronin-1-2-unf": [
+    "geluiddempers"
   ],
   "geluiddemper-donnyfl-ronin-m18x1": [
     "geluiddempers"
@@ -15380,11 +15403,13 @@
     ],
     "suppressor-g-g-double-screw": [
       "luchtbuks",
-      "luchtbuks-dempers"
+      "luchtbuks-dempers",
+      "wapen-toebehoren"
     ],
     "demper-g-g-goms-mk1": [
       "luchtbuks",
-      "luchtbuks-dempers"
+      "luchtbuks-dempers",
+      "wapen-toebehoren"
     ],
     "demper-g-g-goms-mk3": [
       "luchtbuks",
@@ -15392,16 +15417,24 @@
       "luchtbuks-dempers"
     ],
     "demper-g-g-goms-mk5": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers",
+      "wapen-toebehoren"
     ],
     "demper-g-g-goms-mk6": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers",
+      "wapen-toebehoren"
     ],
     "demper-g-g-goms-mk7": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers",
+      "wapen-toebehoren"
     ],
     "suppressor-g-g-kwa-kriss-vector": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers",
+      "wapen-toebehoren"
     ],
     "dielocker-lock-rings-frankford-with-wrench": [
       "herlaadkits"
@@ -15561,38 +15594,59 @@
     "decoy-sillosocks-knockdown-headless-canada-goose-6-pack": [
       "lokmiddel-toebehoren"
     ],
+    "geluiddemper-vulcan-long": [
+      "luchtbuks-dempers",
+      "luchtbuks",
+      "wapen-toebehoren"
+    ],
+    "geluiddemper-vulcan-short": [
+      "luchtbuks-dempers",
+      "luchtbuks",
+      "wapen-toebehoren"
+    ],
     "geluiddemper-artemis-pp700s-a-m16": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "moderator-donnyfl-emperor-p-m18x1": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-emperor-v3-1-2-unf": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-emperor-v3-m18x1": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-fatboy": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "moderator-donnyfl-fx-airguns": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-great-kami-m18x1": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "moderator-donnyfl-great-kami-m23x1": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-koi-1-2-unf": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "moderator-donnyfl-ronin-p-1-2-unf": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-ronin-1-2-unf": [
-      "luchtbuks"
+      "luchtbuks",
+      "luchtbuks-dempers"
     ],
     "geluiddemper-donnyfl-ronin-m18x1": [
       "luchtbuks",
