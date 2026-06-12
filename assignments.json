@@ -6860,7 +6860,6 @@
   "poetsstokgeleider-anschutz-klein-kaliber-geweer-match": [
     "stokgeleiders"
   ],
-  "poetsstokgeleider-bore-tech-17-25-gold": [],
   "poetsstokgeleider-bore-tech-25-30-red": [
     "stokgeleiders"
   ],
@@ -6883,16 +6882,16 @@
     "stokgeleiders"
   ],
   "polijsttrommel-frankford-arsenal-platinum-series-220v": [
-    "herlaadkits"
+    "polijsttrommels"
   ],
   "polijsttrommel-frankford-arsenal-quick-n-ez-met-hulzencentrifuge": [
-    "herlaadkits"
+    "polijsttrommels"
   ],
   "polijsttrommel-frankford-lite-230v": [
-    "herlaadkits"
+    "polijsttrommels"
   ],
   "polijstvloeistof-frankford-arsenal-ultrasonic-brass-946-ml": [
-    "herlaadkits"
+    "polijstmiddelen"
   ],
   "polyballs-umarex-t4e-practice-plb-50-27-5-grain": [
     "airsoft-diversen-1"
@@ -17002,6 +17001,18 @@
       "schoonmaakstokken",
       "schoonmaak-onderhoud"
     ],
+    "polijsttrommel-frankford-arsenal-platinum-series-220v": [
+      "herlaadkits"
+    ],
+    "polijsttrommel-frankford-arsenal-quick-n-ez-met-hulzencentrifuge": [
+      "herlaadkits"
+    ],
+    "polijsttrommel-frankford-lite-230v": [
+      "herlaadkits"
+    ],
+    "polijstvloeistof-frankford-arsenal-ultrasonic-brass-946-ml": [
+      "herlaadkits"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25709,6 +25720,15 @@
     "poetsstokgeleider-bore-tech-ar10",
     "poetsstokgeleider-bore-tech-ar15",
     "poetsstokgeleider-bore-tech-bolt-action-rimfire",
-    "poetsstokgeleider-wheeler-delta-series-ar-10"
+    "poetsstokgeleider-wheeler-delta-series-ar-10",
+    "poetsstokgeleider-wheeler-delta-series-ar-15",
+    "polijsttrommel-frankford-arsenal-platinum-series-220v",
+    "polijsttrommel-frankford-arsenal-quick-n-ez-met-hulzencentrifuge",
+    "polijsttrommel-frankford-lite-230v",
+    "polijstvloeistof-frankford-arsenal-ultrasonic-brass-946-ml",
+    "portofoon-baofeng-k63",
+    "transceiver-baofeng-uv-17r",
+    "transceiver-baofeng-uv-5rm-plus-gps",
+    "transceiver-caldwell-e-max-link"
   ]
 }
