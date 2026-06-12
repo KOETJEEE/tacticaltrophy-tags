@@ -6085,19 +6085,20 @@
     "mondingsremmen"
   ],
   "night-vision-scope-hikmicro-cheetah-940-nm-ir": [
-    "nachtzicht-handheld"
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir-no-reticle": [
+    "nachtzicht-handheld",
     "voorzetkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-940-nm-ir": [
-    "nachtzicht-handheld"
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-clip-on-850-nm-ir": [
-    "voorzetkijkers"
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-clip-on-940-nm-ir": [
-    "voorzetkijkers"
+    "nachtzicht-richtkijkers"
   ],
   "notepad-ulfhednar-for-arm-erasable": [
     "veldnotitie"
@@ -6236,7 +6237,7 @@
     "geweerriemen"
   ],
   "ontlaadhamer-frankford-arsenal-quick-n-ez": [
-    "herlaadkits"
+    "gereedschap"
   ],
   "degreaser-birchwood-cleaner-degreaser": [
     "ontvetters"
@@ -6248,14 +6249,13 @@
     "ontvetters"
   ],
   "ontvetter-bore-tech-blast-degreaser-295-ml": [
-    "ontvetters",
-    "schoonmaaksetjes"
+    "ontvetters"
   ],
   "eyecup-dnt-hydra-tnc335r-tnc635r": [
-    "observatie-accessoires"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "eyecup-dnt-zulus-hd-tnc225r": [
-    "observatie-accessoires"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "ear-bud-code-red-easy-shape": [
     "gehoorbescherming"
@@ -16819,6 +16819,59 @@
       "luchtbuks",
       "luchtbuks-dempers"
     ],
+    "night-vision-scope-hikmicro-cheetah-940-nm-ir": [
+      "nachtzicht"
+    ],
+    "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir-no-reticle": [
+      "voorzetkijkers"
+    ],
+    "night-vision-scope-hikmicro-cheetah-lrf-940-nm-ir": [
+      "nachtzicht"
+    ],
+    "night-vision-scope-hikmicro-cheetah-lrf-clip-on-850-nm-ir": [
+      "voorzetkijkers"
+    ],
+    "night-vision-scope-hikmicro-cheetah-lrf-clip-on-940-nm-ir": [
+      "voorzetkijkers"
+    ],
+    "nylon-kamerborstel-bore-tech-proof-positive-ar10": [
+      "schoonmaak-onderhoud"
+    ],
+    "nylon-kamerborstel-bore-tech-proof-positive-ar15": [
+      "schoonmaak-onderhoud"
+    ],
+    "nylonborstel-bore-tech-proof-positive-3-pack": [
+      "schoonmaak-onderhoud"
+    ],
+    "nylonborstel-bore-tech-proof-positive-pistol-3-pack": [
+      "schoonmaak-onderhoud"
+    ],
+    "nylonborstel-ks": [
+      "schoonmaak-onderhoud"
+    ],
+    "ontlaadhamer-frankford-arsenal-quick-n-ez": [
+      "herlaadkits",
+      "herladen"
+    ],
+    "degreaser-birchwood-cleaner-degreaser": [
+      "schoonmaak-onderhoud"
+    ],
+    "degreaser-birchwood-firearm-cleaner": [
+      "schoonmaak-onderhoud"
+    ],
+    "degreaser-birchwood-gun-scrubber": [
+      "schoonmaak-onderhoud"
+    ],
+    "ontvetter-bore-tech-blast-degreaser-295-ml": [
+      "schoonmaak-onderhoud",
+      "schoonmaaksetjes"
+    ],
+    "eyecup-dnt-hydra-tnc335r-tnc635r": [
+      "observatie-accessoires"
+    ],
+    "eyecup-dnt-zulus-hd-tnc225r": [
+      "observatie-accessoires"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25311,6 +25364,39 @@
     "muzzle-brake-precision-armament-hypertap-slim-stainless",
     "muzzle-brake-precision-armament-hypertap-slim-black",
     "muzzle-brake-precision-armament-m41-severe-duty",
-    "muzzle-brake-walther-qca-rs3"
+    "muzzle-brake-walther-qca-rs3",
+    "night-vision-scope-hikmicro-cheetah-940-nm-ir",
+    "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir-no-reticle",
+    "night-vision-scope-hikmicro-cheetah-lrf-940-nm-ir",
+    "night-vision-scope-hikmicro-cheetah-lrf-clip-on-850-nm-ir",
+    "night-vision-scope-hikmicro-cheetah-lrf-clip-on-940-nm-ir",
+    "notepad-ulfhednar-for-arm-erasable",
+    "nylon-kamerborstel-bore-tech-proof-positive-ar10",
+    "nylon-kamerborstel-bore-tech-proof-positive-ar15",
+    "nylonborstel-bore-tech-proof-positive-3-pack",
+    "nylonborstel-bore-tech-proof-positive-pistol-3-pack",
+    "nylonborstel-ks",
+    "o-rings-set-g-g-for-g980-gbb-co2-magazines",
+    "o-ring-set-hill-hand-pump-mk1-mk2",
+    "o-ring-set-hill-hand-pump-mk3",
+    "o-ring-set-hill-hand-pump-mk4",
+    "o-ring-set-wolverine-bolt-m",
+    "o-ring-set-wolverine-inferno-gen-2",
+    "o-ring-set-wolverine-mac-solenoid-valves",
+    "o-ring-set-wolverine-reaper",
+    "o-ring-set-wolverine-storm-regulator-category-5",
+    "o-ringenset-wolverine-storm-category-5-regulator",
+    "o-ringset-bf-voor-career-707-shinsung-sumatra-vulnippel",
+    "eyepiece-hikmicro-thunder-2-0",
+    "eyepiece-hikmicro-thunder-3-0",
+    "eyepiece-rusan-modular-2-5x",
+    "degreaser-birchwood-firearm-cleaner",
+    "degreaser-birchwood-cleaner-degreaser",
+    "degreaser-birchwood-gun-scrubber",
+    "ontvetter-bore-tech-blast-degreaser-295-ml",
+    "ontlaadhamer-frankford-arsenal-quick-n-ez",
+    "eyecup-dnt-hydra-tnc335r-tnc635r",
+    "eyecup-dnt-zulus-hd-tnc225r",
+    "ear-bud-code-red-easy-shape"
   ]
 }
