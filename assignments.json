@@ -2841,10 +2841,10 @@
     "luchtbuks-dempers"
   ],
   "magnifier-falke-b3x": [
-    "voorzetkijkers"
+    "voorzetvergrotingen"
   ],
   "magnifier-falke-b5x": [
-    "voorzetkijkers"
+    "voorzetvergrotingen"
   ],
   "red-dot-falke-le-ql-gen2-reflex-sight-2-moa": [
     "red-dots"
@@ -15706,6 +15706,20 @@
     "pigeon-decoy-sillosocks-hypa-flap-motorised-remote-controlled": [
       "lokmiddel-toebehoren"
     ],
+    "magnifier-falke-b3x": [
+      "voorzetkijkers"
+    ],
+    "magnifier-falke-b5x": [
+      "voorzetkijkers"
+    ],
+    "rifle-bag-plano-tactical-gun-backpack-87x30": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "rifle-bag-plano-tactical-gunbag-105x31": [
+      "foudralen",
+      "geweertassen"
+    ],
     "decoy-sillosocks-3d-pink-foot-grey-lag-goose-feeding": [
       "lokmiddel-toebehoren"
     ],
@@ -15840,6 +15854,18 @@
     ],
     "moderator-epic-airguns": [
       "luchtbuks"
+    ],
+    "rifle-bag-vanguard-endeavor-44-105x24": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "rifle-bag-vanguard-endeavor-48-116x24": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "rifle-bag-vanguard-endeavor-53-128x24": [
+      "foudralen",
+      "geweertassen"
     ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
@@ -23661,6 +23687,58 @@
     "rifle-scope-element-optics-iris-3-9x40",
     "richtkijker-element-optics-iris-4-12x44",
     "rangefinder-module-element-optics-rf",
-    "eg-hard-gears-prometheus-ngrs-18-1"
+    "eg-hard-gears-prometheus-ngrs-18-1",
+    "element-optics-seeker-laser-rangefinder-module",
+    "eg-hard-gearbox-shell-prometheus-v2-8-mm",
+    "eg-hard-gear-prometheus-16-1",
+    "magnifier-falke-b3x",
+    "magnifier-falke-b5x",
+    "red-dot-falke-le-ql-gen2-reflex-sight-2-moa",
+    "red-dot-falke-s-reflex-sight-2-moa",
+    "rifle-bag-plano-tactical-gun-backpack-87x30",
+    "rifle-bag-plano-tactical-gunbag-105x31",
+    "ear-defender-sordin-supreme-pro-x-led-leather-black",
+    "rifle-bag-vanguard-endeavor-44-105x24",
+    "rifle-bag-vanguard-endeavor-48-116x24",
+    "rifle-bag-vanguard-endeavor-53-128x24",
+    "geweerkoffer-fx-impact-extended-120x32",
+    "geweerkoffer-fx-impact-lang",
+    "geweerkoffer-fx-impact-m3-sniper-118x30",
+    "rifle-case-fx-wildcat-maverick-80x29",
+    "geweerkoffer-megaline-110x25",
+    "geweerkoffer-megaline-125x25",
+    "rifle-case-megaline-130x35",
+    "geweerkoffer-megaline-97x25",
+    "geweerkoffer-megaline-met-slot-110x25",
+    "geweerkoffer-megaline-met-slot-118x30",
+    "geweerkoffer-megaline-met-slot-118x35",
+    "geweerkoffer-megaline-met-slot-125x25",
+    "geweerkoffer-megaline-met-slot-140x30",
+    "geweerkoffer-megaline-met-slot-97x25",
+    "rifle-case-plano-all-weather-2-36-94x35",
+    "geweerkoffer-plano-all-weather-series-109x36",
+    "geweerkoffer-plano-all-weather-series-131x36",
+    "rifle-case-plano-pro-max-contoured-132x26",
+    "rifle-case-plano-pro-max-double-scoped-133x41",
+    "rifle-case-plano-pro-max-single-scoped-132x29",
+    "gun-case-plano-rustrictor-all-weather-2-36-93x35",
+    "rifle-case-plano-rustrictor-all-weather-2-52-132x35",
+    "rifle-case-plano-se-single-scoped-121x26",
+    "rifle-case-plano-tactical-42-106x40",
+    "gun-sling-caldwell-max-grip-black",
+    "geweerriem-caldwell-tpe-black",
+    "geweerriem-caldwell-tpe-fde",
+    "geweerriem-one-point",
+    "geweerriem-quake-contour-black",
+    "geweerriem-quake-contour-realtree-apg",
+    "geweerriem-quake-standard-black",
+    "gun-sling-smith-wesson-m-p-single-point",
+    "geweerriem-three-point",
+    "geweerriem-two-point",
+    "gun-sling-vanguard-endeavor-101b",
+    "gun-sling-vanguard-endeavor-101c",
+    "gun-sling-vanguard-endeavor-150g",
+    "gun-sling-vanguard-endeavor-201b",
+    "gun-sling-vanguard-endeavor-301b"
   ]
 }
