@@ -2690,19 +2690,16 @@
     "tassen-rugzakken"
   ],
   "carrying-bag-bog-tripod": [
-    "tassen-rugzakken",
     "statieven"
   ],
   "pouch-hikmicro": [
-    "tassen-rugzakken"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "carrying-bag-hikmicro-binocular-harness": [
-    "observatie-accessoires",
-    "tassen-rugzakken"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "carrying-bag-sillosocks": [
-    "lokmiddel-toebehoren",
-    "tassen-rugzakken"
+    "lokmiddel-toebehoren"
   ],
   "drop-belt-loop-amomax-low-ride-duty-black": [
     "riemen-bretels"
@@ -15674,6 +15671,32 @@
     "doorslagset-wheeler-messing-8-delig": [
       "schoonmaak-onderhoud"
     ],
+    "carrying-bag-bog-tripod": [
+      "tassen-rugzakken",
+      "rugzakken",
+      "tassen"
+    ],
+    "pouch-hikmicro": [
+      "jacht",
+      "schietsport",
+      "tassen-rugzakken",
+      "rugzakken",
+      "tassen"
+    ],
+    "carrying-bag-hikmicro-binocular-harness": [
+      "observatie-accessoires",
+      "rugzakken",
+      "tassen",
+      "schietsport",
+      "jacht",
+      "tassen-rugzakken"
+    ],
+    "carrying-bag-sillosocks": [
+      "schietsport",
+      "tassen-rugzakken",
+      "rugzakken",
+      "tassen"
+    ],
     "pigeon-decoy-sillosocks-harvester-12-pack": [
       "lokmiddel-toebehoren"
     ],
@@ -23628,6 +23651,16 @@
     "multispectral-rifle-scope-dnt-thermnight-compact-tnc635r",
     "dnt-zulus-4k-3-24x-lrf-night-vision-scope",
     "dnt-zulus-hd-v2-3-12x-lrf-night-vision-scope",
-    "dnt-zulus-hd-v2-5-20x-lrf-night-vision-scope"
+    "dnt-zulus-hd-v2-5-20x-lrf-night-vision-scope",
+    "pouch-hikmicro",
+    "carrying-bag-bog-tripod",
+    "carrying-bag-hikmicro-binocular-harness",
+    "carrying-bag-sillosocks",
+    "rifle-scope-element-optics-helix-hd-compact-2-12x42",
+    "rifle-scope-element-optics-hypr-7-7x50",
+    "rifle-scope-element-optics-iris-3-9x40",
+    "richtkijker-element-optics-iris-4-12x44",
+    "rangefinder-module-element-optics-rf",
+    "eg-hard-gears-prometheus-ngrs-18-1"
   ]
 }
