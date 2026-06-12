@@ -1594,7 +1594,7 @@
     "mondingsremmen"
   ],
   "barrel-tuner-shroud-fx": [
-    "rookgranaten"
+    "tuning-parts"
   ],
   "barricade-stop-rome-picatinny": [
     "handstoppen"
@@ -4009,9 +4009,7 @@
   "case-cleaner-birchwood-super-concentrate-480-ml": [
     "schoonmaaksetjes"
   ],
-  "hulzenreiniger-bore-tech-case-cleaner-945-ml": [
-    "schoonmaaksetjes"
-  ],
+  "hulzenreiniger-bore-tech-case-cleaner-945-ml": [],
   "brass-pouch-manfrotto-alpha-shot-tripod": [
     "statieven"
   ],
@@ -14936,6 +14934,10 @@
     ],
     "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-silver": [
       "luchtbuks"
+    ],
+    "barrel-tuner-shroud-fx": [
+      "airsoft",
+      "rookgranaten"
     ],
     "barricade-stop-rome-picatinny": [
       "optiek",
@@ -26314,6 +26316,7 @@
     "pijl-fx-gold-tip",
     "airbow-arrows-air-venturi-air-bolt-35-cal",
     "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-black",
-    "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-silver"
+    "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-silver",
+    "barrel-tuner-shroud-fx"
   ]
 }
