@@ -4432,7 +4432,7 @@
     "tactical-bags"
   ],
   "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny": [
-    "picatinny-rails"
+    "optiek-lasers"
   ],
   "laser-cartridge-mantis-pink-rhino-training": [
     "trainingssystemen"
@@ -4468,7 +4468,7 @@
     "oogbescherming"
   ],
   "barrel-cover-g-g": [
-    "airsoft-diversen-1"
+    "loopkits-toebehoren"
   ],
   "barrel-case-ulfhednar-cordura-75x6": [
     "geweertassen-foudralen"
@@ -16347,6 +16347,10 @@
     "laser-cartridge-mantis-pink-rhino-training": [
       "jacht",
       "trainingshalsbanden"
+    ],
+    "barrel-cover-g-g": [
+      "airsoft",
+      "airsoft-diversen"
     ],
     "barrel-case-ulfhednar-cordura-75x6": [
       "foudralen",
@@ -30230,6 +30234,9 @@
     "gas-tank-tokyo-marui-ksg",
     "gas-tank-tokyo-marui-m870-breacher",
     "gas-tank-tokyo-marui-m870-tactical",
-    "granulaat-frankford-arsenal-walnut-media"
+    "granulaat-frankford-arsenal-walnut-media",
+    "rear-sight-krale-walther-ppq-m2-22-lr",
+    "klapkolf-artemis-pp700",
+    "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny"
   ]
 }
