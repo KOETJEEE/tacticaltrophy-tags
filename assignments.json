@@ -7768,14 +7768,16 @@
     "trekkers"
   ],
   "trigger-guard-anschutz-for-precise-aluminium-stock": [
-    "kolven"
+    "trekkers"
   ],
   "trigger-guard-bergara-b-14-hmr-short-action": [
     "trekkers"
   ],
-  "trekkerdrukmeter-wheeler": [],
+  "trekkerdrukmeter-wheeler": [
+    "gereedschap"
+  ],
   "trekkerdrukmeter-wheeler-digitaal": [
-    "trekkers"
+    "gereedschap"
   ],
   "trigger-shoe-kit-timney-calvin-elite-blue": [
     "trekkers"
@@ -7792,14 +7794,12 @@
   "trigger-shoe-kit-timney-calvin-elite-black": [
     "trekkers"
   ],
-  "trekkerslot-lockdown-met-cijfercombinatie": [
-    "trekkers"
-  ],
+  "trekkerslot-lockdown-met-cijfercombinatie": [],
   "trekkerslot-lockdown-met-sleutel": [
-    "trekkers"
+    "wapensloten"
   ],
   "trekkerslot-lockdown-met-sleutel-3-pack": [
-    "trekkers"
+    "wapensloten"
   ],
   "trekkerunit-walther-lp500-x-change-electronic": [
     "trekkers"
@@ -7955,7 +7955,7 @@
     "kolven"
   ],
   "magnifier-utg-3x-flip-to-side-qd": [
-    "voorzetkijkers"
+    "voorzetvergrotingen"
   ],
   "red-dot-utg-4-2-ita": [
     "red-dots"
@@ -17732,6 +17732,37 @@
     "training-system-set-mantis-laser-academy": [
       "jacht",
       "trainingshalsbanden"
+    ],
+    "trigger-guard-anschutz-for-precise-aluminium-stock": [
+      "kolven"
+    ],
+    "trekkerdrukmeter-wheeler": [
+      "trekkers",
+      "wapen-toebehoren"
+    ],
+    "trekkerdrukmeter-wheeler-digitaal": [
+      "trekkers",
+      "wapen-toebehoren"
+    ],
+    "trekkerslot-lockdown-met-sleutel": [
+      "trekkers",
+      "wapen-toebehoren"
+    ],
+    "trekkerslot-lockdown-met-sleutel-3-pack": [
+      "trekkers",
+      "wapen-toebehoren"
+    ],
+    "cleaning-cord-airmarksman": [
+      "schoonmaak-onderhoud"
+    ],
+    "cleaning-cord-birchwood-bore-weevil-2-0": [
+      "schoonmaak-onderhoud"
+    ],
+    "trekkoord-netarm": [
+      "schoonmaak-onderhoud"
+    ],
+    "magnifier-utg-3x-flip-to-side-qd": [
+      "voorzetkijkers"
     ],
     "utility-pouch-nuprol-medium-pmc-green": [
       "tactical-gear",
@@ -29420,6 +29451,61 @@
     "trigger-timney-remington-700-two-stage-rh-light-straight",
     "trigger-timney-remington-700-two-stage-rh-straight",
     "trigger-timney-tikka-t3-two-stage",
-    "trekker-walther-vario"
+    "trekker-walther-vario",
+    "trekkerdrukmeter-wheeler",
+    "trekkerdrukmeter-wheeler-digitaal",
+    "trigger-shoe-kit-timney-calvin-elite-blue",
+    "trigger-shoe-kit-timney-calvin-elite-gold",
+    "trigger-shoe-kit-timney-calvin-elite-green",
+    "trigger-shoe-kit-timney-calvin-elite-silver",
+    "trigger-shoe-kit-timney-calvin-elite-black",
+    "trekkerslot-lockdown-met-sleutel",
+    "trekkerslot-lockdown-met-sleutel-3-pack",
+    "trigger-guard-bergara-b-14-hmr-short-action",
+    "trekkerunit-walther-lp500-x-change-electronic",
+    "trekkerunit-walther-lp500-x-change-mechanical",
+    "cleaning-cord-airmarksman",
+    "cleaning-cord-birchwood-bore-weevil-2-0",
+    "trekkoord-netarm",
+    "tripod-bog-deadshot",
+    "tripod-bog-deathgrip-aluminium",
+    "tripod-bog-deathgrip-aluminium-mossy-oak-bottomland",
+    "tripod-bog-deathgrip-bantam",
+    "tripod-bog-deathgrip-infinite-aluminium",
+    "tripod-bog-deathgrip-infinite-carbon",
+    "tripod-bog-infinite-arca-swiss",
+    "tripod-epic-airguns-carbon-362c-knob-head",
+    "tripod-epic-airguns-carbon-364c-bowl-head",
+    "tripod-epic-airguns-carbon-364c-knob-head",
+    "tripod-head-bog-death-grip-ultralite",
+    "tripod-head-epic-airguns-universal-shooting-saddle",
+    "tripod-head-vanguard-endeavor-gm-70",
+    "tripod-manfrotto-alpha-shot-aluminium-grip-kit",
+    "tripod-manfrotto-alpha-shot-aluminium-grip-pro-kit",
+    "tripod-manfrotto-alpha-shot-carbon-ball-head-kit",
+    "tripod-manfrotto-alpha-shot-carbon-grip-pro-kit",
+    "tripod-manfrotto-befree-advanced-aluminium-travel-lever-kit",
+    "tripod-rokstad-elp-v-mount",
+    "tripod-ulfhednar-with-ballhead-arca-style-12-kg",
+    "tripod-ulfhednar-with-ballhead-arca-style-20-kg",
+    "tripod-vanguard-endeavor-l-263agm65-aluminium",
+    "tripod-vanguard-endeavor-l-263cgm65-carbon",
+    "tripod-vanguard-endeavor-l-303agm65-aluminium",
+    "tripod-vanguard-endeavor-l-303cgm65-carbon",
+    "tripod-vanguard-endeavor-rl-303agm",
+    "tripod-vanguard-endeavor-rl-303cgm-gen-2-carbon",
+    "tripod-vanguard-quest-t62cu-carbon",
+    "tripod-vanguard-quest-t62u",
+    "tripod-vanguard-veo-3-233aps",
+    "tripod-vanguard-veo-5-264av-14-aluminium",
+    "tripod-vanguard-vesta-go-234-av10",
+    "tripod-vanguard-vesta-vs-82-ultra-compact-tabletop",
+    "turret-mark-reader-vector-optics-x-accu-30-mm-with-bubble-level",
+    "turret-mark-reader-vector-optics-x-accu-34-mm-with-bubble-level",
+    "magnifier-utg-3x-flip-to-side-qd",
+    "utility-pouch-nuprol-medium-pmc-green",
+    "utility-pouch-nuprol-medium-pmc-tan",
+    "utility-pouch-nuprol-medium-zipped-green",
+    "red-dot-utg-4-2-ita"
   ]
 }
