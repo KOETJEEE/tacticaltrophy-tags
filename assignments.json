@@ -122,9 +122,7 @@
   "agm-wolf-7-pro-binoculaire-nachtkijker-goggle-kit-gen2-white-phosphor-121051": [
     "nachtzicht-handheld"
   ],
-  "aparo-rgbww-led-air-tube-ht-20c-291307": [
-    "dames-signaalkleding"
-  ],
+  "aparo-rgbww-led-air-tube-ht-20c-291307": [],
   "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
     "filmen-opnemen"
   ],
@@ -141,36 +139,16 @@
   "buteo-photo-gear-camouflage-tape-720038": [
     "tape"
   ],
-  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208": [
-    "tassen-rugzakken"
-  ],
-  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-groen-720210": [
-    "tassen-rugzakken"
-  ],
-  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-riet-720209": [
-    "tassen-rugzakken"
-  ],
-  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-sneeuw-720213": [
-    "tassen-rugzakken"
-  ],
-  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-bruin-720205": [
-    "tassen-rugzakken"
-  ],
-  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-groen-720207": [
-    "tassen-rugzakken"
-  ],
-  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-riet-720206": [
-    "tassen-rugzakken"
-  ],
-  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-sneeuw-720212": [
-    "tassen-rugzakken"
-  ],
-  "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190": [
-    "beschermkappen"
-  ],
-  "buteo-photo-gear-snoot-lens-cover-groen-voor-mark-iii-720192": [
-    "beschermkappen"
-  ],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208": [],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-groen-720210": [],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-riet-720209": [],
+  "buteo-photo-gear-draagtas-voor-aquila-mark-iii-sneeuw-720213": [],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-bruin-720205": [],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-groen-720207": [],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-riet-720206": [],
+  "buteo-photo-gear-draagtas-voor-buteo-mark-iii-sneeuw-720212": [],
+  "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190": [],
+  "buteo-photo-gear-snoot-lens-cover-groen-voor-mark-iii-720192": [],
   "buteo-photo-gear-snoot-lens-cover-groen-voor-schuiltent-720083": [
     "beschermkappen"
   ],
@@ -186,9 +164,7 @@
   "buteo-photo-gear-snoot-lens-cover-voor-schuiltent-720081": [
     "beschermkappen"
   ],
-  "byomic-omkeerprisma-erecting-eyepiece-15x-260402": [
-    "oculairs"
-  ],
+  "byomic-omkeerprisma-erecting-eyepiece-15x-260402": [],
   "carson-bol-loep-2x75mm-186111": [
     "loepen"
   ],
@@ -204,17 +180,9 @@
   "carson-drijvende-brillenkoord-fa-1002-oranje-186182": [
     "brillenkoorden"
   ],
-  "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
-    "loepen",
-    "voorzetkijkers"
-  ],
-  "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [
-    "loepen",
-    "voorzetkijkers"
-  ],
-  "carson-magnigrip-mg-88-loep-met-pincet-186154": [
-    "loepen"
-  ],
+  "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [],
+  "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [],
+  "carson-magnigrip-mg-88-loep-met-pincet-186154": [],
   "carson-uv-led-zaklamp-uvsight-pro-186300": [
     "zaklampen-hoofdlampen"
   ],
@@ -440,12 +408,10 @@
     "wapenkoffers"
   ],
   "explorer-cases-rugtas-kit-voor-geweertassen-255150": [
-    "koffers",
-    "wapenkoffers"
+    "transport-accessoires"
   ],
   "explorer-cases-slot-met-sleutel-255410": [
-    "koffers",
-    "wapenkoffers"
+    "transport-accessoires"
   ],
   "explorer-cases-tas-114-voor-11413-255140": [
     "geweertassen-foudralen"
@@ -1318,10 +1284,7 @@
   "adapter-saber-tactical-fx-impact-bag-rider": [
     "schoudersteunen"
   ],
-  "adaptor-saber-tactical-huben-gk1-stock-brace": [
-    "kolven",
-    "stokadapters"
-  ],
+  "adaptor-saber-tactical-huben-gk1-stock-brace": [],
   "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss": [
     "geweersteunen"
   ],
@@ -13108,7 +13071,8 @@
     ],
     "aparo-rgbww-led-air-tube-ht-20c-291307": [
       "dames-signaalkleding",
-      "jacht"
+      "jacht",
+      "kleding"
     ],
     "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
       "warmtebeeld"
@@ -13760,7 +13724,8 @@
       "wapenkoffers",
       "explorer-cases",
       "hardcases",
-      "transport"
+      "transport",
+      "wapen-accessoires"
     ],
     "explorer-cases-slot-met-sleutel-255410": [
       "airsoft",
@@ -13770,7 +13735,8 @@
       "wapenkoffers",
       "explorer-cases",
       "hardcases",
-      "transport"
+      "transport",
+      "wapen-accessoires"
     ],
     "explorer-cases-tas-114-voor-11413-255140": [
       "koffers",
@@ -14826,6 +14792,13 @@
     "adapter-saber-tactical-fx-impact-bag-rider": [
       "onderhoud",
       "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
+    "adaptor-saber-tactical-huben-gk1-stock-brace": [
+      "onderhoud",
+      "kolven",
+      "stokadapters",
+      "wapen-toebehoren",
       "schoonmaak-onderhoud"
     ],
     "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss": [
@@ -30314,6 +30287,9 @@
     "pistoolkoffer-megaline-49x27-met-slot",
     "pistol-case-plano-tactical-44x26",
     "programming-cable-baofeng-kenwood-2-pin-k-plug",
-    "ptx-rx-insert-wiley-x"
+    "ptx-rx-insert-wiley-x",
+    "carson-uv-led-zaklamp-uvsight-pro-186300",
+    "explorer-cases-rugtas-kit-voor-geweertassen-255150",
+    "explorer-cases-slot-met-sleutel-255410"
   ]
 }
