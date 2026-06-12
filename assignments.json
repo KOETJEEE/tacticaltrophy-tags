@@ -14353,7 +14353,8 @@
       "picatinny-rails"
     ],
     "accessory-rail-air-marksman-anvil-arca": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "picatinny-rails"
     ],
     "accessory-rail-air-marksman-backbone-ribcage-slotted": [
       "wapen-accessoires"
@@ -21567,6 +21568,7 @@
     "sionyx-objectief-beschermlens-504121",
     "yukon-losdovetail-montage-5026110",
     "yukon-weaverpicatinny-rail-montage-5026114",
-    "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2"
+    "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2",
+    "accessory-rail-air-marksman-anvil-arca"
   ]
 }
