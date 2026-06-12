@@ -13552,12 +13552,9 @@
     "observatie-accessoires"
   ],
   "kowa-adapter-ring-tsn-ar50l-57mm-440222": [
-    "adapterringen",
-    "observatie-accessoires"
+    "filmen-opnemen"
   ],
   "kowa-adapterring-tsn-ar30-440230": [
-    "adapterringen",
-    "observatie-accessoires",
     "filmen-opnemen"
   ],
   "kowa-compact-spottingscope-tsn-553-prominar-15-45x55-446553": [
@@ -20188,7 +20185,10 @@
     "kowa-adapterring-tsn-ar30-440230": [
       "adapterringen",
       "kowa",
-      "spotting-scopes-accessoires"
+      "spotting-scopes-accessoires",
+      "adapterring",
+      "observatie-accessoires",
+      "voorzetadapterring"
     ],
     "kowa-compact-spottingscope-tsn-553-prominar-15-45x55-446553": [
       "monoculairs",
