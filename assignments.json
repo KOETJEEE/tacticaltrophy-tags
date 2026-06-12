@@ -1978,7 +1978,7 @@
     "borgmiddelen"
   ],
   "lock-nut-anschutz-for-precise-butt-plate": [
-    "kolven"
+    "schoudersteunen"
   ],
   "borsteladapter-bore-tech-8-32-naar-5-16-27-hagelgeweer": [
     "stokadapters"
@@ -2186,7 +2186,7 @@
     "stokadapters"
   ],
   "bullet-puller-frankford-arsenal-pile-driver": [
-    "herlaadkits"
+    "gereedschap"
   ],
   "burst-disk-dominator-1-8k": [
     "persluchtfles-accessoires"
@@ -2214,7 +2214,7 @@
     "stokadapters"
   ],
   "camo-net-treestand": [
-    "aanzitladders-hoogzitten"
+    "camouflagenetten"
   ],
   "camo-net-wetland": [
     "camouflagenetten"
@@ -15222,6 +15222,9 @@
     "adhesive-4uad-4uantum-lock-removable": [
       "schoonmaak-onderhoud"
     ],
+    "lock-nut-anschutz-for-precise-butt-plate": [
+      "kolven"
+    ],
     "borsteladapter-bore-tech-8-32-naar-5-16-27-hagelgeweer": [
       "schoonmaaksetjes",
       "schoonmaak-onderhoud"
@@ -15252,6 +15255,10 @@
     "bullet-knock-out-set-bore-tech": [
       "schoonmaaksetjes",
       "schoonmaak-onderhoud"
+    ],
+    "bullet-puller-frankford-arsenal-pile-driver": [
+      "herlaadkits",
+      "herladen"
     ],
     "burst-disk-dominator-1-8k": [
       "revisiesets",
@@ -15284,6 +15291,11 @@
       "onderhoud",
       "stokadapters",
       "schoonmaak-onderhoud"
+    ],
+    "camo-net-treestand": [
+      "aanzitladders-hoogzitten",
+      "aanzitladders",
+      "hoogzitten"
     ],
     "carousel-with-3-crows": [
       "lokkraaien"
@@ -30183,6 +30195,11 @@
     "bag-rider-grs",
     "anti-rol-kit-bf-voor-persluchtfles",
     "base-plate-pts-epm-black",
-    "body-pins-set-wolverine-mtw"
+    "body-pins-set-wolverine-mtw",
+    "lock-nut-anschutz-for-precise-butt-plate",
+    "bullet-puller-frankford-arsenal-pile-driver",
+    "camo-net-treestand",
+    "camo-net-wetland",
+    "field-pouch-manfrotto-alpha-shot-tripod"
   ]
 }
