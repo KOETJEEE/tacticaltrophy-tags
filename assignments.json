@@ -8428,7 +8428,7 @@
     "wapenkluizen"
   ],
   "thermal-imaging-camera-hikmicro-thunder-2-0-clip-on-tq35cr": [
-    "voorzetkijkers"
+    "warmtebeeld-richtkijkers"
   ],
   "bubble-level-arken-30-mm": [
     "waterpassen"
@@ -17363,6 +17363,16 @@
       "utility-pouches",
       "pouches"
     ],
+    "vet-feinwerkbau-4-gr": [
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
+    ],
+    "grease-gun-butter-trigger-locking-lug": [
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
+    ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
       "wapenkluizen"
@@ -17403,6 +17413,9 @@
     ],
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
+    ],
+    "thermal-imaging-camera-hikmicro-thunder-2-0-clip-on-tq35cr": [
+      "voorzetkijkers"
     ],
     "electronic-level-mdt-send-it-gen2-center-mount": [
       "montage-accessoires"
@@ -26600,6 +26613,44 @@
     "electronic-level-mdt-send-it-gen2-center-mount",
     "electronic-level-mdt-send-it-gen2-side-mount",
     "bubble-level-eagle-vision-universal-360-weaver-picatinny",
-    "bubble-level-eagle-vision-m4-yellow"
+    "bubble-level-eagle-vision-m4-yellow",
+    "bubble-level-eagle-vision-m4-red",
+    "waterpas-eagle-vision-m4-orange",
+    "bubble-level-ulfhednar-picatinny-with-d-o-p-e-card",
+    "bubble-level-eagle-vision-m4-blue",
+    "bubble-level-eagle-vision-m4-clear",
+    "bubble-level-eagle-vision-m4-green",
+    "waterpas-vector-optics-dovetail-9-11mm",
+    "bubble-level-vector-optics-offset-level-ring-25-4-mm",
+    "bubble-level-vector-optics-offset-level-ring-30-mm",
+    "bubble-level-eagle-vision-m4-black",
+    "bubble-level-arken-30-mm",
+    "bubble-level-arken-34-mm",
+    "thermal-imaging-camera-hikmicro-thunder-2-0-clip-on-tq35cr",
+    "wapenkluis-infac-sentinel-sd7",
+    "wapenkluis-infac-sentinel-sd5",
+    "gun-safe-griffon-glt-340-k",
+    "gun-safe-griffon-gs-420-k",
+    "gun-safe-griffon-glst-650-k",
+    "gun-safe-griffon-gg-700-e",
+    "gun-safe-griffon-glst-470-k",
+    "gun-safe-griffon-s-25-ep",
+    "wapenkluis-infac-delta-1",
+    "wapenkluis-infac-sentinel-sd10",
+    "wapenkluis-infac-sentinel-sd14",
+    "gun-safe-griffon-ge-450k-l-black-cr",
+    "rifle-scope-victoptics-soi-3-9x40-vnm-1-mil",
+    "rifle-scope-victoptics-soi-4-12x40-vnm-1-mil",
+    "red-dot-victoptics-srd-1x18x20",
+    "red-dot-victoptics-srd-1x20x25",
+    "red-dot-victoptics-z4",
+    "rifle-scope-victoptics-s4-4-16x44-mdl-black",
+    "rifle-scope-victoptics-s6-1-6x24-vi-ctsix-black",
+    "rifle-scope-victoptics-s6-1-6x24-vi-ctsix-coyote-fde",
+    "rifle-scope-victoptics-s4-4-16x44-mdl-coyote-fde",
+    "rifle-scope-vector-optics-cerato-3-9x32-sfp-mil-dot",
+    "victoptics-c1-4x32-etched-glass-prism-rifle-scope",
+    "vet-feinwerkbau-4-gr",
+    "grease-gun-butter-trigger-locking-lug"
   ]
 }
