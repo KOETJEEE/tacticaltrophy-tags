@@ -5917,7 +5917,7 @@
     "picatinny-rails"
   ],
   "mounting-rail-utg-super-slim-rdm20": [
-    "picatinny-rails"
+    "montagebasissen"
   ],
   "montagerail-utg-van-11-mm-naar-picatinny": [
     "picatinny-rails"
@@ -16753,6 +16753,9 @@
     "mounting-rail-laugo-arms-alien-optical-sight": [
       "picatinny-rails"
     ],
+    "mounting-rail-utg-super-slim-rdm20": [
+      "picatinny-rails"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25196,6 +25199,7 @@
     "montagerail-utg-keymod-4-slot-black",
     "montagerail-utg-keymod-8-slot-black",
     "montagerail-utg-m-lok-4-slot",
-    "montagerail-utg-m-lok-8-slot"
+    "montagerail-utg-m-lok-8-slot",
+    "mounting-rail-utg-super-slim-rdm20"
   ]
 }
