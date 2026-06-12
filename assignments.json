@@ -6518,7 +6518,7 @@
     "luchtdrukmunitie"
   ],
   "polyballs-umarex-t4e-practice-plb-50-bulk-27-5-grain": [
-    "airsoft-diversen-1"
+    "luchtdrukmunitie"
   ],
   "portofoon-baofeng-k63": [
     "portofoons"
@@ -6867,7 +6867,7 @@
     "rookgranaten"
   ],
   "rubber-balls-snowpeak-rb100-50-19-1-grain": [
-    "airsoft-diversen-1"
+    "luchtdrukmunitie"
   ],
   "rubberballs-umarex-t4e-performance-rbi-steel-core-50-44-9-grain": [
     "airsoft-diversen-1"
@@ -17618,6 +17618,10 @@
       "airsoft",
       "airsoft-diversen"
     ],
+    "polyballs-umarex-t4e-practice-plb-50-bulk-27-5-grain": [
+      "airsoft",
+      "airsoft-diversen"
+    ],
     "powder-trickler-frankford-arsenal": [
       "herlaadkits"
     ],
@@ -17810,6 +17814,10 @@
       "rookgranaten",
       "airsoft",
       "schietsport"
+    ],
+    "rubber-balls-snowpeak-rb100-50-19-1-grain": [
+      "airsoft",
+      "airsoft-diversen"
     ],
     "rvs-media-pinnen-frankford-arsenal": [
       "herlaadkits",
@@ -30715,6 +30723,8 @@
     "elastic-tourniquet-holder-geniii-359",
     "elastic-pouch-for-1-magazine-elite-cordura-503",
     "m-tac-elastic-cord-with-hooks-2-pcs-7732",
-    "polyballs-umarex-t4e-practice-plb-50-27-5-grain"
+    "polyballs-umarex-t4e-practice-plb-50-27-5-grain",
+    "polyballs-umarex-t4e-practice-plb-50-bulk-27-5-grain",
+    "rubber-balls-snowpeak-rb100-50-19-1-grain"
   ]
 }
