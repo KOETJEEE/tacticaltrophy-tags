@@ -61,13 +61,7 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
     "flag-odin-night-vision-630x900-5792",
-    "adapter-nine-reloaded-foxtrot",
-    "adapter-nine-reloaded-echo",
-    "adapter-nine-reloaded-delta",
-    "adapter-nine-reloaded-charlie",
     "adapter-mdt-spuhr-to-v-mount",
-    "adapter-nine-reloaded-alpha",
-    "adapter-nine-reloaded-bravo",
     "adapter-mdt-m-lok-to-v-mount",
     "adapter-mdt-folding-stock-carbine-to-fixed",
     "adapter-mdt-folding-stock-carbine-to-carbine",
@@ -1363,22 +1357,22 @@
     "stokadapters"
   ],
   "adapter-nine-reloaded-alpha": [
-    "stokadapters"
+    "laadhulpen"
   ],
   "adapter-nine-reloaded-bravo": [
-    "stokadapters"
+    "laadhulpen"
   ],
   "adapter-nine-reloaded-charlie": [
-    "stokadapters"
+    "laadhulpen"
   ],
   "adapter-nine-reloaded-delta": [
-    "stokadapters"
+    "laadhulpen"
   ],
   "adapter-nine-reloaded-echo": [
-    "stokadapters"
+    "laadhulpen"
   ],
   "adapter-nine-reloaded-foxtrot": [
-    "stokadapters"
+    "laadhulpen"
   ],
   "adapter-saber-tactical-fx-impact-bag-rider": [
     "stokadapters"
@@ -15089,6 +15083,36 @@
     "adapter-megaline-for-us-cleaning-rods": [
       "schoonmaak-onderhoud"
     ],
+    "adapter-nine-reloaded-alpha": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
+    "adapter-nine-reloaded-bravo": [
+      "schoonmaak-onderhoud",
+      "onderhoud",
+      "stokadapters"
+    ],
+    "adapter-nine-reloaded-charlie": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
+    "adapter-nine-reloaded-delta": [
+      "schoonmaak-onderhoud",
+      "stokadapters",
+      "onderhoud"
+    ],
+    "adapter-nine-reloaded-echo": [
+      "schoonmaak-onderhoud",
+      "stokadapters",
+      "onderhoud"
+    ],
+    "adapter-nine-reloaded-foxtrot": [
+      "schoonmaak-onderhoud",
+      "onderhoud",
+      "stokadapters"
+    ],
     "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss": [
       "onderhoud",
       "stokadapters",
@@ -22520,6 +22544,12 @@
     "admin-pouch-nuprol-green",
     "admin-pouch-nuprol-tan",
     "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss",
-    "adaptor-vanguard-endeavor-swivel-stud-to-weaver-picatinny"
+    "adaptor-vanguard-endeavor-swivel-stud-to-weaver-picatinny",
+    "adapter-nine-reloaded-alpha",
+    "adapter-nine-reloaded-bravo",
+    "adapter-nine-reloaded-charlie",
+    "adapter-nine-reloaded-delta",
+    "adapter-nine-reloaded-echo",
+    "adapter-nine-reloaded-foxtrot"
   ]
 }
