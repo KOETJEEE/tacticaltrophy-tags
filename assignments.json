@@ -60,8 +60,7 @@
     "key-holder-elite-8653",
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
-    "flag-odin-night-vision-630x900-5792",
-    "adapter-mdt-carbine-to-fixed-stock"
+    "flag-odin-night-vision-630x900-5792"
   ],
   "stealth-gear-camouflage-tape-720115": [
     "tape"
@@ -1323,12 +1322,9 @@
   "adapter-mantisx-luchtpistool": [
     "stokadapters"
   ],
-  "adapter-mantisx-picatinny-3m": [
-    "stokadapters"
-  ],
+  "adapter-mantisx-picatinny-3m": [],
   "adapter-mdt-carbine-to-fixed-stock": [
-    "kolven",
-    "stokadapters"
+    "chassis-1"
   ],
   "adapter-mdt-folding-stock-carbine-to-carbine": [
     "chassis-1"
@@ -15069,6 +15065,12 @@
       "die-accessoires",
       "herladen"
     ],
+    "adapter-mdt-carbine-to-fixed-stock": [
+      "kolven",
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
     "adapter-mdt-folding-stock-carbine-to-carbine": [
       "kolven",
       "onderhoud",
@@ -22570,6 +22572,7 @@
     "adapter-mdt-spuhr-to-v-mount",
     "adapter-mdt-m-lok-to-v-mount",
     "adapter-mdt-folding-stock-carbine-to-fixed",
-    "adapter-mdt-folding-stock-carbine-to-carbine"
+    "adapter-mdt-folding-stock-carbine-to-carbine",
+    "adapter-mdt-carbine-to-fixed-stock"
   ]
 }
