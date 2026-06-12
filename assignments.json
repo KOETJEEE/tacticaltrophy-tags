@@ -1539,7 +1539,6 @@
     "vochtontrekkers"
   ],
   "anti-corrosion-silent-dry-vaportack-12-gauge-cartridge": [
-    "korrels",
     "vochtontrekkers"
   ],
   "anti-odor-spray-scent-a-way-max-odorless": [
@@ -15208,6 +15207,10 @@
       "schoonmaak-onderhoud",
       "wapen-accessoires"
     ],
+    "anti-corrosion-silent-dry-vaportack-12-gauge-cartridge": [
+      "korrels",
+      "wapen-toebehoren"
+    ],
     "barrel-band-fx-dreamline": [
       "wapen-accessoires"
     ],
@@ -22581,6 +22584,10 @@
     "adapter-mdt-m-lok-to-v-mount",
     "adapter-mdt-folding-stock-carbine-to-fixed",
     "adapter-mdt-folding-stock-carbine-to-carbine",
-    "adapter-mdt-carbine-to-fixed-stock"
+    "adapter-mdt-carbine-to-fixed-stock",
+    "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge",
+    "anti-corrosion-silent-dry-vaportack-7-62-nato-308-win-cartridge",
+    "anti-corrosion-silent-dry-vaportack-9-mm-cartridge",
+    "anti-corrosion-silent-dry-vaportack-12-gauge-cartridge"
   ]
 }
