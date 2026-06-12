@@ -4387,8 +4387,7 @@
     "oogbescherming"
   ],
   "ir-delete-cap-dnt-m21-for-18650-zulus-hd-thermnight-tnc225r": [
-    "multispectral-richtkijkers",
-    "nachtzicht-warmtebeeld-accessoires"
+    "infraroodlampen"
   ],
   "ir-delete-cap-dnt-m24-for-21700-thermnight-tnc335r-tnc635r": [
     "infraroodlampen"
@@ -4433,10 +4432,10 @@
     "portofoons"
   ],
   "machete-kershaw-camp-10-black": [
-    "bijlen"
+    "machetes-kapmessen"
   ],
   "machete-kershaw-camp-10-tan": [
-    "bijlen"
+    "machetes-kapmessen"
   ],
   "keelmicrofoon-code-red-assault": [
     "portofoons"
@@ -16093,6 +16092,9 @@
     "inner-barrel-prometheus-eg-next-gen-hk416d": [
       "airsoft-onderdelen"
     ],
+    "ir-delete-cap-dnt-m21-for-18650-zulus-hd-thermnight-tnc225r": [
+      "multispectral-richtkijkers"
+    ],
     "ir-delete-cap-dnt-m24-for-21700-thermnight-tnc335r-tnc635r": [
       "multispectral-richtkijkers"
     ],
@@ -16135,6 +16137,9 @@
       "ir-illuminators",
       "observatie-accessoires",
       "richtmiddel-accessoires"
+    ],
+    "machete-kershaw-camp-10-black": [
+      "bijlen"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
@@ -24089,6 +24094,12 @@
     "ir-illuminator-hikmicro-pro-940-nm",
     "ir-illuminator-hikmicro-pro-850-nm",
     "ir-illuminator-arken-zulus-module-940-nm",
-    "ir-delete-cap-dnt-m24-for-21700-thermnight-tnc335r-tnc635r"
+    "ir-delete-cap-dnt-m24-for-21700-thermnight-tnc335r-tnc635r",
+    "ir-delete-cap-dnt-m21-for-18650-zulus-hd-thermnight-tnc225r",
+    "hunting-knife-cold-steel-click-n-cut-hunters-fixed-blade",
+    "hunting-knife-cold-steel-finn-bear",
+    "hunting-knife-cold-steel-pendleton-mini-hunter",
+    "machete-kershaw-camp-10-black",
+    "machete-kershaw-camp-10-tan"
   ]
 }
