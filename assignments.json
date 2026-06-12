@@ -8456,7 +8456,7 @@
     "vulbenodigdheden"
   ],
   "vuurstarter-enola-gaye-ultimate-match-3-pack": [
-    "rookgranaten"
+    "vuurmakers"
   ],
   "walkie-talkie-attachment-walker-s-razor-electronic": [
     "portofoons"
@@ -17964,6 +17964,10 @@
     ],
     "vulset-mde-din-200-300-bar": [
       "persluchtfles-accessoires"
+    ],
+    "vuurstarter-enola-gaye-ultimate-match-3-pack": [
+      "airsoft",
+      "rookgranaten"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
@@ -29591,6 +29595,8 @@
     "fill-probe-fx-mkiii",
     "fill-probe-snowpeak-pp20-mat300",
     "fill-probe-steyr-quickfill",
-    "vulset-mde-din-200-300-bar"
+    "vulset-mde-din-200-300-bar",
+    "vuurstarter-enola-gaye-ultimate-match-3-pack",
+    "walkie-talkie-attachment-walker-s-razor-electronic"
   ]
 }
