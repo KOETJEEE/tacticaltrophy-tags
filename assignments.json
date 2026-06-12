@@ -5846,6 +5846,7 @@
     "replacement-mesjes"
   ],
   "service-kit-fx-crown-impact-regulator-s-n-183534": [
+    "revisiesetjes",
     "regulators"
   ],
   "onderhoudsmat-tipton-handwapen": [
@@ -16285,6 +16286,9 @@
     "torque-wrench-wheeler-fat-stix-preset": [
       "schoonmaak-onderhoud"
     ],
+    "mondingsrem-donnyfl-fatboy": [
+      "luchtbuks"
+    ],
     "mount-arken-halo-ti-30-mm-low-weaver-picatinny": [
       "montage-accessoires"
     ],
@@ -16958,6 +16962,9 @@
       "schoonmaak-onderhoud",
       "wapenolie",
       "wapenvet"
+    ],
+    "service-kit-fx-crown-impact-regulator-s-n-183534": [
+      "regulators"
     ],
     "ontlaadhamer-frankford-arsenal-quick-n-ez": [
       "herlaadkits",
@@ -29970,6 +29977,8 @@
     "organizer-insert-plano-sportsman-s-trunk-small",
     "lofting-kit-bag-sillosocks",
     "lofting-poles-set-sillosocks",
-    "spacer-ring-bf-200-300-bar"
+    "spacer-ring-bf-200-300-bar",
+    "service-kit-fx-crown-impact-regulator-s-n-183534",
+    "mondingsrem-donnyfl-fatboy"
   ]
 }
