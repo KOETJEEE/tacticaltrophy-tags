@@ -7519,19 +7519,19 @@
     "aanzitstoelen"
   ],
   "stofplug-bf-din": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "stofplug-bf-din-female": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "stuck-case-remover-frankford-arsenal-universal": [
-    "herlaadkits"
+    "overige-gereedschappen"
   ],
   "swage-support-die-frankford-x-10": [
-    "persen-onderdelen"
+    "dies"
   ],
   "swauber-applicators-birchwood-20-pack": [
-    "schoonmaaksetjes"
+    "onderhoudshulpmiddelen"
   ],
   "tacstack-120l-trolley-bag": [
     "tassen-rugzakken"
@@ -17621,6 +17621,22 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "stofplug-bf-din": [
+      "persluchtfles-accessoires"
+    ],
+    "stofplug-bf-din-female": [
+      "persluchtfles-accessoires"
+    ],
+    "stuck-case-remover-frankford-arsenal-universal": [
+      "herlaadkits"
+    ],
+    "swage-support-die-frankford-x-10": [
+      "persen-onderdelen"
+    ],
+    "swauber-applicators-birchwood-20-pack": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
     ],
     "tacstack-120l-trolley-bag": [
       "rugzakken",
@@ -29720,6 +29736,12 @@
     "trigger-guard-anschutz-for-precise-aluminium-stock",
     "training-system-mantis-black-beard-ar15-red",
     "tourniquet-mp-combat-application-black",
-    "test-stofplug-bf-foster"
+    "test-stofplug-bf-foster",
+    "swauber-applicators-birchwood-20-pack",
+    "swage-support-die-frankford-x-10",
+    "stuck-case-remover-frankford-arsenal-universal",
+    "stofplug-bf-din-female",
+    "stofplug-bf-din",
+    "stoel-quake-all-terrain-360"
   ]
 }
