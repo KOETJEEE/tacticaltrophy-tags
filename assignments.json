@@ -2513,10 +2513,10 @@
     "compressors"
   ],
   "connector-nuprol-tamiya-small-female": [
-    "airsoft-diversen-1"
+    "connectors"
   ],
   "connector-nuprol-tamiya-small-male": [
-    "airsoft-diversen-1"
+    "connectors"
   ],
   "conversion-kit-fx-dreamline-bullpup-lite-tactical-to-classic-synthetic": [
     "kolven",
@@ -15641,6 +15641,12 @@
       "herladen",
       "persen-onderdelen"
     ],
+    "connector-nuprol-tamiya-small-female": [
+      "airsoft-diversen"
+    ],
+    "connector-nuprol-tamiya-small-male": [
+      "airsoft-diversen"
+    ],
     "suppressor-g-g-double-screw": [
       "luchtbuks"
     ],
@@ -26216,6 +26222,8 @@
     "chronometer-mount-fx-pocket-chrono",
     "cleaning-packs-frankford-arsenal-platinum-series-24-st",
     "co2-capsule-umarex-8-gram",
-    "collets-set-frankford-arsenal-aluminium"
+    "collets-set-frankford-arsenal-aluminium",
+    "connector-nuprol-tamiya-small-female",
+    "connector-nuprol-tamiya-small-male"
   ]
 }
