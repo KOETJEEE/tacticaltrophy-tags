@@ -13809,6 +13809,10 @@
       "richtkijkers-accessoires",
       "konus"
     ],
+    "konus-dubbele-loep-10x-20x-433021": [
+      "handloepen",
+      "konus"
+    ],
     "konus-kompas-konuspoint-6-434089": [
       "konus",
       "navigatie"
@@ -13872,6 +13876,40 @@
     "konus-spotting-scope-konuspot-80c-20-60x80-437126": [
       "monoculairs",
       "richtkijkers",
+      "konus"
+    ],
+    "konus-statief-3-pod-9-431959": [
+      "konus",
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "konus-statief-voor-verrekijkers-165cm-431956": [
+      "konus",
+      "optiek-accessoires",
+      "tripods"
+    ],
+    "konus-verrekijker-abyss-2-7x50-432302": [
+      "konus"
+    ],
+    "konus-verrekijker-action-10x25-fix-focus-432041": [
+      "konus"
+    ],
+    "konus-verrekijker-basic-10x25-432008": [
+      "konus"
+    ],
+    "konus-verrekijker-basic-12x32-432016": [
+      "konus"
+    ],
+    "konus-verrekijker-basic-8x21-432007": [
+      "konus"
+    ],
+    "konus-verrekijker-konusvue-10x50-wa-432103": [
+      "konus"
+    ],
+    "konus-verrekijker-konusvue-8x40-wa-432101": [
+      "konus"
+    ],
+    "konus-verrekijker-vivisport-16x32-432040": [
       "konus"
     ],
     "nest-monopod-wt-1003-h171-cm-295810": [
@@ -20947,6 +20985,18 @@
     "konus-richtkijker-wild-4-12x40-437334",
     "konus-spotting-scope-konuspot-100c-20-60x100-437127",
     "konus-spotting-scope-konuspot-65c-15-45x65-437128",
-    "konus-spotting-scope-konuspot-70b-20-60x70-437336"
+    "konus-spotting-scope-konuspot-70b-20-60x70-437336",
+    "konus-spotting-scope-konuspot-80c-20-60x80-437126",
+    "konus-dubbele-loep-10x-20x-433021",
+    "konus-statief-3-pod-9-431959",
+    "konus-statief-voor-verrekijkers-165cm-431956",
+    "konus-verrekijker-abyss-2-7x50-432302",
+    "konus-verrekijker-action-10x25-fix-focus-432041",
+    "konus-verrekijker-basic-10x25-432008",
+    "konus-verrekijker-basic-12x32-432016",
+    "konus-verrekijker-basic-8x21-432007",
+    "konus-verrekijker-konusvue-10x50-wa-432103",
+    "konus-verrekijker-konusvue-8x40-wa-432101",
+    "konus-verrekijker-vivisport-16x32-432040"
   ]
 }
