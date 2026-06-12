@@ -2042,7 +2042,7 @@
     "kolven"
   ],
   "borsteladapter-bore-tech-8-32-naar-5-16-27-hagelgeweer": [
-    "schoonmaaksetjes"
+    "stokadapters"
   ],
   "bottle-end-fx-complete": [
     "persluchtcilinders"
@@ -15110,6 +15110,10 @@
       "schoonmaak-onderhoud"
     ],
     "adhesive-4uad-4uantum-lock-removable": [
+      "schoonmaak-onderhoud"
+    ],
+    "borsteladapter-bore-tech-8-32-naar-5-16-27-hagelgeweer": [
+      "schoonmaaksetjes",
       "schoonmaak-onderhoud"
     ],
     "bottle-sleeve-fx-dynamic-redback-fde": [
@@ -29250,6 +29254,7 @@
     "jeans-tactical-geni-cordura-regular-3388",
     "kettle-12-l-7617",
     "falcon-eyes-aluminium-statief-kop-ft-1120-h110-cm-295012",
-    "adapter-bergara-ar"
+    "adapter-bergara-ar",
+    "borsteladapter-bore-tech-8-32-naar-5-16-27-hagelgeweer"
   ]
 }
