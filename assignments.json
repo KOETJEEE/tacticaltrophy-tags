@@ -6894,8 +6894,7 @@
     "airsoft-diversen-1"
   ],
   "rvs-media-pinnen-frankford-arsenal": [
-    "herlaadkits",
-    "polijsttrommels"
+    "polijst-media"
   ],
   "shooting-target-artemis-rocker": [
     "schietdoelen"
@@ -7541,22 +7540,22 @@
     "range-bags"
   ],
   "tacstack-22x9-outdoor-storage-box": [
-    "wapenkoffers"
+    "koffers"
   ],
   "tacstack-32x22-pistol-case-green": [
-    "wapenkoffers"
+    "koffers"
   ],
   "tacstack-32x22-pistol-case-black": [
-    "wapenkoffers"
+    "koffers"
   ],
   "tacstack-39x26-pistol-bag": [
     "geweertassen-foudralen"
   ],
   "tacstack-42x30-optics-case-green": [
-    "wapenkoffers"
+    "koffers"
   ],
   "tacstack-optics-42x30-case-black": [
-    "wapenkoffers"
+    "koffers"
   ],
   "tacstack-field-140x22-shotgun-bag": [
     "geweertassen-foudralen"
@@ -7568,7 +7567,7 @@
     "geweertassen-foudralen"
   ],
   "tacstack-l-bag-organiser": [
-    "tactical-bags"
+    "tassen-rugzakken"
   ],
   "tacstack-molle-web-belt-clamp-3-pack": [
     "riemen-bretels"
@@ -7577,28 +7576,29 @@
     "tassen-rugzakken"
   ],
   "tacstack-organising-patches-general": [
-    "patches"
+    "transport-accessoires"
   ],
   "tacstack-organising-patches-hunting": [
-    "patches"
+    "transport-accessoires"
   ],
   "tacstack-organising-patches-outdoor": [
-    "patches"
+    "transport-accessoires"
   ],
   "tacstack-organising-patches-shooting": [
-    "patches"
+    "transport-accessoires"
   ],
   "tacstack-organising-patches-tactical": [
-    "patches"
+    "transport-accessoires"
   ],
   "tacstack-pick-pluck-foam-for-l-95x30-rifle-case": [
     "wapenkoffers"
   ],
   "tacstack-pick-pluck-foam-for-xl-131x34-rifle-case": [
-    "wapenkoffers"
+    "transport-accessoires"
   ],
   "tacstack-rubber-patch": [
-    "patches"
+    "patches",
+    "transport-accessoires"
   ],
   "tacstack-s-75x30-rifle-bag": [
     "geweertassen-foudralen"
@@ -17380,6 +17380,10 @@
       "airsoft",
       "schietsport"
     ],
+    "rvs-media-pinnen-frankford-arsenal": [
+      "herlaadkits",
+      "polijsttrommels"
+    ],
     "schoonmaakborstel-bore-tech-bronze": [
       "schoonmaak-onderhoud"
     ],
@@ -17628,6 +17632,77 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "tacstack-120l-trolley-bag": [
+      "rugzakken",
+      "tassen"
+    ],
+    "tacstack-22x9-outdoor-storage-box": [
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "tacstack-32x22-pistol-case-green": [
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "tacstack-32x22-pistol-case-black": [
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "tacstack-39x26-pistol-bag": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "tacstack-42x30-optics-case-green": [
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "tacstack-optics-42x30-case-black": [
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "tacstack-field-140x22-shotgun-bag": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "tacstack-field-xl-130x30-rifle-bag": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "tacstack-l-100x30-rifle-bag": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "tacstack-l-bag-organiser": [
+      "tactical-bags",
+      "tactical-gear"
+    ],
+    "tacstack-organising-patches-general": [
+      "patches",
+      "tactical-gear"
+    ],
+    "tacstack-organising-patches-hunting": [
+      "patches",
+      "tactical-gear"
+    ],
+    "tacstack-organising-patches-outdoor": [
+      "patches",
+      "tactical-gear"
+    ],
+    "tacstack-organising-patches-shooting": [
+      "patches",
+      "tactical-gear"
+    ],
+    "tacstack-organising-patches-tactical": [
+      "patches",
+      "tactical-gear"
+    ],
+    "tacstack-pick-pluck-foam-for-xl-131x34-rifle-case": [
+      "wapenkoffers"
+    ],
+    "tacstack-s-75x30-rifle-bag": [
+      "foudralen",
+      "geweertassen"
     ],
     "utility-pouch-nuprol-medium-pmc-green": [
       "tactical-gear",
@@ -29255,6 +29330,28 @@
     "kettle-12-l-7617",
     "falcon-eyes-aluminium-statief-kop-ft-1120-h110-cm-295012",
     "adapter-bergara-ar",
-    "borsteladapter-bore-tech-8-32-naar-5-16-27-hagelgeweer"
+    "borsteladapter-bore-tech-8-32-naar-5-16-27-hagelgeweer",
+    "rvs-media-pinnen-frankford-arsenal",
+    "tacstack-l-100x30-rifle-bag",
+    "tacstack-field-xl-130x30-rifle-bag",
+    "tacstack-field-140x22-shotgun-bag",
+    "tacstack-l-bag-organiser",
+    "tacstack-nektas",
+    "tacstack-optics-42x30-case-black",
+    "tacstack-120l-trolley-bag",
+    "tacstack-18l-range-bag",
+    "tacstack-22x9-outdoor-storage-box",
+    "tacstack-32x22-pistol-case-green",
+    "tacstack-32x22-pistol-case-black",
+    "tacstack-39x26-pistol-bag",
+    "tacstack-42x30-optics-case-green",
+    "tacstack-organising-patches-general",
+    "tacstack-organising-patches-hunting",
+    "tacstack-organising-patches-outdoor",
+    "tacstack-organising-patches-shooting",
+    "tacstack-organising-patches-tactical",
+    "tacstack-rubber-patch",
+    "tacstack-s-75x30-rifle-bag",
+    "tacstack-pick-pluck-foam-for-xl-131x34-rifle-case"
   ]
 }
