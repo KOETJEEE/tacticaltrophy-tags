@@ -5271,7 +5271,7 @@
     "magazijnen"
   ],
   "magazine-wolverine-mtw-epm-pts-m4": [
-    "magazijnen"
+    "magazijn-pouches"
   ],
   "magazine-wolverine-mtw-tti-jw4-dracarys-gen-12": [
     "magazijnen"
@@ -16260,6 +16260,14 @@
     "mag-pouch-nuprol-pmc-n39-double-open-black": [
       "pouches"
     ],
+    "magazine-wolverine-mtw-epm-pts-m4": [
+      "airsoft",
+      "magazijnen",
+      "wapen-toebehoren"
+    ],
+    "magazine-pouch-black-scorpion-gear-single-double-stack-competition-black": [
+      "pouches"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -24437,6 +24445,63 @@
     "magazine-g-g-mxc9-130-rounds",
     "magazine-g-g-mxc9-170-rounds",
     "magazine-g-g-pcc45-drum",
-    "magazine-g-g-pcc45-hi-cap"
+    "magazine-g-g-pcc45-hi-cap",
+    "magazine-g-g-pcc45-mid-cap",
+    "magazine-g-g-piranha",
+    "magazijn-g-g-rk-series-60-schots",
+    "magazijn-g-g-rk",
+    "magazine-g-g-rk-series-drum",
+    "magazine-g-g-rk74-t-e-cqb",
+    "magazine-g-g-rk74-t-e-cqb-dark-tinted",
+    "magazine-g-g-sg550",
+    "magazine-g-g-sg550-clear",
+    "magazine-g-g-smc-9-drum",
+    "magazine-g-g-sr25-mid-cap",
+    "magazijn-g-g-sr25-hi-cap",
+    "magazine-g-g-stp45",
+    "magazijn-karma-eq",
+    "magazijn-nuprol-n-mag-flash-tan",
+    "magazijn-nuprol-n-mag-high-cap-tan",
+    "magazine-pts-epm-mid-cap-black",
+    "magazine-pts-epm-mid-cap-fde",
+    "magazijn-pts-epm-e9-enhanced-polymer-voor-mtw-9-evo",
+    "magazijn-pts-epm-lr-enhanced-polymer-long-rifle-voor-sr25",
+    "magazijn-pts-epm1-enhanced-polymer",
+    "magazine-pts-epm1-enhanced-polymer-dark-earth",
+    "magazine-pts-epm1-s-enhanced-polymer-short-black",
+    "magazine-pts-epm1-s-enhanced-polymer-short-dark-earth",
+    "magazine-pts-lancer-t8",
+    "magazine-pts-for-tokyo-marui-ngrs-mid-cap-black",
+    "magazine-pts-for-tokyo-marui-ngrs-mid-cap-fde",
+    "magazijn-tokyo-marui-92",
+    "magazijn-tokyo-marui-92-chrome",
+    "magazine-tokyo-marui-aa-12",
+    "magazine-tokyo-marui-aa-12-sgr-12-drum",
+    "magazine-tokyo-marui-ak47-next-gen-90-rounds",
+    "magazine-tokyo-marui-akx",
+    "magazine-tokyo-marui-am-45-vorpal-bunny",
+    "magazijn-tokyo-marui-desert-plata",
+    "magazine-tokyo-marui-fn-herstal-fnx-45-tactical-black",
+    "magazine-tokyo-marui-fn-herstal-fnx-45-tactical-fde",
+    "magazijn-tokyo-marui-hi-capa-4-3",
+    "magazijn-tokyo-marui-hi-capa-5-1-gbb",
+    "magazijn-tokyo-marui-hi-capa-5-1-stainless-gbb",
+    "magazine-tokyo-marui-kalashnikov-akm-gbb",
+    "magazijn-tokyo-marui-m-e-u",
+    "magazine-tokyo-marui-m4a1-mws",
+    "magazine-tokyo-marui-mk46-mod-0",
+    "magazine-tokyo-marui-mp5-series",
+    "magazine-tokyo-marui-mp5k-pdw",
+    "magazijn-tokyo-marui-p90",
+    "magazine-tokyo-marui-p-90-low-cap",
+    "magazine-tokyo-marui-saiga-12-sbs",
+    "magazine-tokyo-marui-saiga-12k",
+    "magazijn-tokyo-marui-sopmod-m4",
+    "magazine-tokyo-marui-sopmod-m4-ngrs-mid-cap",
+    "magazijn-tokyo-marui-vsr-10",
+    "magazine-utg-glock-17-rounds",
+    "magazine-wolverine-mtw-epm-pts-m4",
+    "magazine-wolverine-mtw-tti-jw4-dracarys-gen-12",
+    "mag-pouch-amomax-double-clip"
   ]
 }
