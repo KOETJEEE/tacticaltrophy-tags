@@ -1311,7 +1311,7 @@
     "montagebasissen"
   ],
   "adapter-set-saber-tactical-karma-eq-bottle": [
-    "persluchtfles-accessoires"
+    "persluchtcilinders"
   ],
   "adapter-bore-tech-bore-stix": [
     "stokadapters"
@@ -14804,6 +14804,9 @@
     ],
     "adapter-plate-walther-fixlock-holosun-509t": [
       "richtmiddel-accessoires"
+    ],
+    "adapter-set-saber-tactical-karma-eq-bottle": [
+      "persluchtfles-accessoires"
     ],
     "adapter-bore-tech-bore-stix": [
       "schoonmaaksetjes",
@@ -30150,6 +30153,7 @@
     "noblex-ipsc-mount-for-noblexdocter-460600",
     "adapter-vfg-voor-vfg-schoonmaakproppen",
     "adapter-saber-tactical-fx-impact-bag-rider",
-    "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw"
+    "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw",
+    "adapter-set-saber-tactical-karma-eq-bottle"
   ]
 }
