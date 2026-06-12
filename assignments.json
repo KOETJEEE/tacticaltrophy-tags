@@ -64,11 +64,10 @@
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
-    "nachtzicht-handheld"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "agm-5x-afocal-vergrootlens-61025xa1-121105": [
-    "voorzetvergrotingen",
-    "nachtzicht-handheld"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "agm-foxbat-5-nl1-nachtzicht-verrekijker-5x-vergroting-gen2-green-phosphor-121090": [
     "nachtzicht-handheld"
@@ -175,7 +174,7 @@
     "dames-signaalkleding"
   ],
   "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
-    "warmtebeeld"
+    "filmen-opnemen"
   ],
   "boya-digitale-shotgun-microfoon-by-dm200-voor-ios-350309": [
     "filmen-opnemen"
@@ -13746,6 +13745,24 @@
       "kleding-accessoires",
       "kleding"
     ],
+    "agm-3x-afocal-vergrootlens-61023xa1-121104": [
+      "nachtzicht-en-warmtebeeldaccessoires",
+      "nachtzicht"
+    ],
+    "agm-5x-afocal-vergrootlens-61025xa1-121105": [
+      "voorzetvergrotingen",
+      "nachtzicht-en-warmtebeeldaccessoires",
+      "nachtzicht"
+    ],
+    "agm-foxbat-5-nl1-nachtzicht-verrekijker-5x-vergroting-gen2-green-phosphor-121090": [
+      "binoculair"
+    ],
+    "agm-foxbat-5-nw1-nachtzicht-verrekijker-5x-vergroting-gen2-white-phosphor-121091": [
+      "binoculair"
+    ],
+    "agm-foxbat-8-nw1-nachtzicht-verrekijker-8x-vergroting-gen2-white-phosphor-121092": [
+      "binoculair"
+    ],
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080": [
       "binoculair"
     ],
@@ -13805,6 +13822,15 @@
     ],
     "agm-wolf-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121061": [
       "monoculair"
+    ],
+    "agm-wolf-7-pro-binoculaire-nachtkijker-goggle-kit-gen2-121050": [
+      "binoculair"
+    ],
+    "agm-wolf-7-pro-binoculaire-nachtkijker-goggle-kit-gen2-white-phosphor-121051": [
+      "binoculair"
+    ],
+    "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308": [
+      "warmtebeeld"
     ],
     "boya-digitale-shotgun-microfoon-by-dm200-voor-ios-350309": [
       "microfoon"
@@ -21194,6 +21220,16 @@
     "agm-taipanv2-19-384-warmtebeeldcamera-121316",
     "agm-taipanv2-25-384-warmtebeeldcamera-121317",
     "agm-wolf-14-nl1-monoculaire-nachtkijker-gen2-green-phosphor-121060",
-    "agm-wolf-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121061"
+    "agm-wolf-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121061",
+    "agm-wolf-7-pro-binoculaire-nachtkijker-goggle-kit-gen2-121050",
+    "agm-wolf-7-pro-binoculaire-nachtkijker-goggle-kit-gen2-white-phosphor-121051",
+    "boya-digitale-shotgun-microfoon-by-dm100-voor-android-usb-c-350308",
+    "boya-digitale-shotgun-microfoon-by-dm200-voor-ios-350309",
+    "boya-handheld-microfoon-by-hm100-350283",
+    "agm-foxbat-8-nw1-nachtzicht-verrekijker-8x-vergroting-gen2-white-phosphor-121092",
+    "agm-foxbat-5-nw1-nachtzicht-verrekijker-5x-vergroting-gen2-white-phosphor-121091",
+    "agm-foxbat-5-nl1-nachtzicht-verrekijker-5x-vergroting-gen2-green-phosphor-121090",
+    "agm-5x-afocal-vergrootlens-61025xa1-121105",
+    "agm-3x-afocal-vergrootlens-61023xa1-121104"
   ]
 }
