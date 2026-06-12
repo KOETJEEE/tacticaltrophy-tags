@@ -7672,16 +7672,16 @@
     "trainingshalsbanden"
   ],
   "trainingssysteem-mantis-x10-elite": [
-    "trainingshalsbanden"
+    "trainingssystemen"
   ],
   "training-system-mantis-x2": [
-    "trainingshalsbanden"
+    "trainingssystemen"
   ],
   "training-system-mantis-x3": [
-    "trainingshalsbanden"
+    "trainingssystemen"
   ],
   "training-system-set-mantis-laser-academy": [
-    "trainingshalsbanden"
+    "trainingssystemen"
   ],
   "trigger-4uad-4uantum-performance-custom-flat-trigger-glock": [
     "trekkers"
@@ -7773,9 +7773,7 @@
   "trigger-guard-bergara-b-14-hmr-short-action": [
     "trekkers"
   ],
-  "trekkerdrukmeter-wheeler": [
-    "trekkers"
-  ],
+  "trekkerdrukmeter-wheeler": [],
   "trekkerdrukmeter-wheeler-digitaal": [
     "trekkers"
   ],
@@ -17718,6 +17716,22 @@
     "tactical-vest-nuprol-low-profile-harness-pmc-tan": [
       "chest-rigs",
       "plate-carriers"
+    ],
+    "trainingssysteem-mantis-x10-elite": [
+      "jacht",
+      "trainingshalsbanden"
+    ],
+    "training-system-mantis-x2": [
+      "jacht",
+      "trainingshalsbanden"
+    ],
+    "training-system-mantis-x3": [
+      "jacht",
+      "trainingshalsbanden"
+    ],
+    "training-system-set-mantis-laser-academy": [
+      "jacht",
+      "trainingshalsbanden"
     ],
     "utility-pouch-nuprol-medium-pmc-green": [
       "tactical-gear",
@@ -29374,6 +29388,38 @@
     "tacstack-xl-130x30-rifle-bag",
     "tactical-vest-nuprol-low-profile-harness-pmc-black",
     "tactical-vest-nuprol-low-profile-harness-pmc-camo",
-    "tactical-vest-nuprol-low-profile-harness-pmc-tan"
+    "tactical-vest-nuprol-low-profile-harness-pmc-tan",
+    "training-system-mantis-x2",
+    "training-system-mantis-x3",
+    "training-system-set-mantis-laser-academy",
+    "trainingssysteem-mantis-x10-elite",
+    "trigger-4uad-4uantum-performance-custom-flat-trigger-glock",
+    "trekker-anschutz-match",
+    "trekker-anschutz-007434",
+    "trekker-fx-crown-match",
+    "trigger-schmeisser-two-stage",
+    "trigger-timney-alpha-competition-series-for-glock-gen-6",
+    "trigger-timney-alpha-competition-series-for-glock-gen-5-gold",
+    "trigger-timney-alpha-competition-series-for-glock-gen-5-red",
+    "trigger-timney-alpha-ultimate-builder-s-kit-for-glock-gen-5",
+    "trigger-timney-ar-calvin-elite-single-stage-drop-in",
+    "trigger-timney-ar-impact-straight",
+    "trigger-timney-ar-pro-two-stage",
+    "trigger-timney-ar15-m4-competition-small-pin-straight",
+    "trigger-timney-cz-457-curved",
+    "trigger-timney-cz-457-curved-lh",
+    "trigger-timney-cz-457-straight",
+    "trigger-timney-cz-457-straight-lh",
+    "trigger-timney-remington-700-benchrest",
+    "trigger-timney-remington-700-calvin-elite",
+    "trigger-timney-remington-700-elite-hunter",
+    "trigger-timney-remington-700-the-hit-rh-curved",
+    "trigger-timney-remington-700-the-hit-rh-straight",
+    "trigger-timney-remington-700-two-stage-rh-curved",
+    "trigger-timney-remington-700-two-stage-rh-light-curved",
+    "trigger-timney-remington-700-two-stage-rh-light-straight",
+    "trigger-timney-remington-700-two-stage-rh-straight",
+    "trigger-timney-tikka-t3-two-stage",
+    "trekker-walther-vario"
   ]
 }
