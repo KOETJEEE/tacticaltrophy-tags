@@ -351,88 +351,67 @@
     "koffers"
   ],
   "explorer-cases-4412hl-koffer-zwart-met-plukschuim-250520": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-4419hl-koffer-zwart-250631": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-4419hl-koffer-zwart-met-plukschuim-250630": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-4820hl-koffer-zwart-250651": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-4820hl-koffer-zwart-met-plukschuim-250650": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5117-koffer-zwart-met-plukschuim-250700": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5122-koffer-zwart-250761": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5122-koffer-zwart-met-plukschuim-250760": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5140-trolley-zwart-met-ledige-lades-250781": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5140-trolley-zwart-met-plukschuim-lades-250780": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5218hl-koffer-zwart-met-vakverdeler-250812": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5325-koffer-zwart-250821": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5326-koffer-zwart-250881": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5326-koffer-zwart-met-plukschuim-250880": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5822-koffer-groen-met-plukschuim-255477": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5822-koffer-zwart-250941": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5822-koffer-zwart-met-plukschuim-250940": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5823-koffer-oranje-251011": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5823-koffer-zwart-met-plukschuim-251000": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5833-koffer-zwart-251061": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5833-koffer-zwart-met-plukschuim-251063": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-5833-koffer-zwart-met-vakverdeler-251062": [
     "koffers",
@@ -13939,7 +13918,149 @@
       "airsoft"
     ],
     "explorer-cases-4412hl-koffer-zwart-met-plukschuim-250520": [
-      "explorer-cases"
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-4419hl-koffer-zwart-250631": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-4419hl-koffer-zwart-met-plukschuim-250630": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-4820hl-koffer-zwart-250651": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-4820hl-koffer-zwart-met-plukschuim-250650": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "transport",
+      "hardcases"
+    ],
+    "explorer-cases-5117-koffer-zwart-met-plukschuim-250700": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5122-koffer-zwart-250761": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5122-koffer-zwart-met-plukschuim-250760": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "explorer-cases-5140-trolley-zwart-met-ledige-lades-250781": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5140-trolley-zwart-met-plukschuim-lades-250780": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5218hl-koffer-zwart-met-vakverdeler-250812": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-5325-koffer-zwart-250821": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5326-koffer-zwart-250881": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5326-koffer-zwart-met-plukschuim-250880": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5822-koffer-groen-met-plukschuim-255477": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5822-koffer-zwart-250941": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5822-koffer-zwart-met-plukschuim-250940": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-5823-koffer-oranje-251011": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "explorer-cases-5823-koffer-zwart-met-plukschuim-251000": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5833-koffer-zwart-251061": [
+      "wapenkoffers",
+      "airsoft",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-5833-koffer-zwart-met-plukschuim-251063": [
+      "explorer-cases",
+      "hardcases",
+      "transport"
     ],
     "flir-breach-ptq136-objectief-beschermlens-13431910": [
       "nachtzicht-en-warmtebeeldaccessoires",
@@ -21707,6 +21828,26 @@
     "explorer-cases-1913-koffer-groen-250081",
     "explorer-cases-1913-koffer-zwart-met-plukschuim-250060",
     "explorer-cases-1908-koffer-zwart-met-plukschuim-250000",
-    "explorer-cases-4412hl-koffer-zwart-250521"
+    "explorer-cases-4412hl-koffer-zwart-250521",
+    "explorer-cases-4412hl-koffer-zwart-met-plukschuim-250520",
+    "explorer-cases-4419hl-koffer-zwart-250631",
+    "explorer-cases-4419hl-koffer-zwart-met-plukschuim-250630",
+    "explorer-cases-4820hl-koffer-zwart-250651",
+    "explorer-cases-4820hl-koffer-zwart-met-plukschuim-250650",
+    "explorer-cases-5117-koffer-zwart-met-plukschuim-250700",
+    "explorer-cases-5122-koffer-zwart-250761",
+    "explorer-cases-5122-koffer-zwart-met-plukschuim-250760",
+    "explorer-cases-5140-trolley-zwart-met-ledige-lades-250781",
+    "explorer-cases-5140-trolley-zwart-met-plukschuim-lades-250780",
+    "explorer-cases-5218hl-koffer-zwart-met-vakverdeler-250812",
+    "explorer-cases-5325-koffer-zwart-250821",
+    "explorer-cases-5326-koffer-zwart-250881",
+    "explorer-cases-5326-koffer-zwart-met-plukschuim-250880",
+    "explorer-cases-5822-koffer-groen-met-plukschuim-255477",
+    "explorer-cases-5822-koffer-zwart-250941",
+    "explorer-cases-5822-koffer-zwart-met-plukschuim-250940",
+    "explorer-cases-5823-koffer-oranje-251011",
+    "explorer-cases-5823-koffer-zwart-met-plukschuim-251000",
+    "explorer-cases-5833-koffer-zwart-251061"
   ]
 }
