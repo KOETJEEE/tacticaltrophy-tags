@@ -1274,8 +1274,7 @@
     "accessoireset"
   ],
   "adaptor-accu-tac-arca-swiss-mount-qd": [
-    "montage-accessoires",
-    "stokadapters"
+    "bipod-toebehoren"
   ],
   "adapter-amomax-molle-fde": [
     "stokadapters"
@@ -5168,7 +5167,7 @@
     "2-delige-montages"
   ],
   "montage-caldwell-picatinny-rail-voor-hulzenvanger": [
-    "picatinny-rails"
+    "hulzenvangers"
   ],
   "mount-dnt-dovetail-long-35-moa-for-thermnight-hydra-zulus-hd-v1-v2": [
     "1-delige-montages"
@@ -5933,7 +5932,8 @@
     "geweerriemen"
   ],
   "ontlaadhamer-frankford-arsenal-quick-n-ez": [
-    "gereedschap"
+    "gereedschap",
+    "ontlaadhamers"
   ],
   "degreaser-birchwood-cleaner-degreaser": [
     "ontvetters"
@@ -6557,7 +6557,7 @@
     "stokgeleiders"
   ],
   "poetsstokgeleider-bore-tech-17-25-gold": [
-    "schoonmaakstokken"
+    "stokgeleiders"
   ],
   "poetsstokgeleider-bore-tech-25-30-red": [
     "stokgeleiders"
@@ -14722,6 +14722,13 @@
       "die-accessoires",
       "herladen"
     ],
+    "adaptor-accu-tac-arca-swiss-mount-qd": [
+      "montage-accessoires",
+      "onderhoud",
+      "optiek",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
     "adapter-mantisx-picatinny-3m": [
       "onderhoud",
       "stokadapters",
@@ -16327,6 +16334,10 @@
     "mount-audere-psr-34-mm-medium-weaver-picatinny": [
       "montage-accessoires"
     ],
+    "montage-caldwell-picatinny-rail-voor-hulzenvanger": [
+      "optiek",
+      "picatinny-rails"
+    ],
     "mount-dnt-weaver-picatinny-long-20-moa-for-thermnight-hydra-zulus-hd-v1-v2": [
       "1-delige-montages"
     ],
@@ -17046,6 +17057,11 @@
       "schoonmaak-onderhoud"
     ],
     "poetsstokgeleider-anschutz-klein-kaliber-geweer-match": [
+      "schoonmaakstokken",
+      "schoonmaak-onderhoud"
+    ],
+    "poetsstokgeleider-bore-tech-17-25-gold": [
+      "onderhoud",
       "schoonmaakstokken",
       "schoonmaak-onderhoud"
     ],
@@ -26369,6 +26385,9 @@
     "hulzencentrifuge-frankford-arsenal-wet-dry",
     "brass-pouch-manfrotto-alpha-shot-tripod",
     "hulzencentrifuge-frankford-arsenal-quick-n-ez",
-    "hulzen-onderhoudsset-frankford-arsenal"
+    "hulzen-onderhoudsset-frankford-arsenal",
+    "montage-caldwell-picatinny-rail-voor-hulzenvanger",
+    "adaptor-accu-tac-arca-swiss-mount-qd",
+    "poetsstokgeleider-bore-tech-17-25-gold"
   ]
 }
