@@ -6126,7 +6126,7 @@
     "onderhoudshulpmiddelen"
   ],
   "shell-dispenser-sme-ammopal-12-gauge-shotgun": [
-    "patroon-boxen"
+    "patroonhouders"
   ],
   "cartridge-case-mdt-m-lok-multi-caliber": [
     "patroonhouders"
@@ -6291,10 +6291,10 @@
     "persluchtfles-accessoires"
   ],
   "cap-donnyfl-fatboy-trucket-hat": [
-    "petten"
+    "petten-mutsen"
   ],
   "cap-wiley-x-trucker-hat-dark-grey-signal-orange": [
-    "petten"
+    "petten-mutsen"
   ],
   "picatinny-mounting-rail-saber-tactical-for-air-venturi-avenger": [
     "picatinny-rails"
@@ -17390,6 +17390,10 @@
       "reinigingspatches",
       "schoonmaak-onderhoud"
     ],
+    "shell-dispenser-sme-ammopal-12-gauge-shotgun": [
+      "herladen",
+      "patroon-boxen"
+    ],
     "cartridge-case-mdt-m-lok-multi-caliber": [
       "herladen",
       "patroon-boxen"
@@ -17436,6 +17440,16 @@
     "persluchtkraan-mde-jubilee-300-bar-din-met-manometer-en-slang": [
       "manometers",
       "wapen-toebehoren"
+    ],
+    "cap-donnyfl-fatboy-trucket-hat": [
+      "kleding",
+      "petten",
+      "headwear"
+    ],
+    "cap-wiley-x-trucker-hat-dark-grey-signal-orange": [
+      "headwear",
+      "petten",
+      "kleding"
     ],
     "soft-pistol-case-utg-homeland-security-deluxe-30x23": [
       "foudralen",
@@ -30615,6 +30629,10 @@
     "support-rail-saber-tactical-window-saver",
     "rifle-support-felt-vfg-for-sling",
     "night-vision-device-owlset-day-night-helmet-head-mounted",
-    "p-clip-screw-frankford-x-10"
+    "p-clip-screw-frankford-x-10",
+    "shell-dispenser-sme-ammopal-12-gauge-shotgun",
+    "cap-donnyfl-fatboy-trucket-hat",
+    "cap-wiley-x-trucker-hat-dark-grey-signal-orange",
+    "pistol-bullet-collator-frankford-arsenal-x-10"
   ]
 }
