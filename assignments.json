@@ -4054,7 +4054,7 @@
     "machetes-kapmessen"
   ],
   "keelmicrofoon-code-red-assault": [
-    "portofoons"
+    "headsets-toebehoren"
   ],
   "rear-sight-krale-walther-ppq-m2-22-lr": [
     "vizieren"
@@ -16316,6 +16316,11 @@
     ],
     "machete-kershaw-camp-10-black": [
       "bijlen"
+    ],
+    "keelmicrofoon-code-red-assault": [
+      "schietsport",
+      "portofoons",
+      "jacht"
     ],
     "kogelvanger-10-x-10-ml": [
       "luchtdrukmunitie-accessoires"
@@ -30566,6 +30571,7 @@
     "camera-adapter-eagle-vision-side-cam-gopro-9-10-11-12-13-25x75",
     "insert-wiley-x-twist-lock",
     "memory-card-reader-stealth-cam-sd-for-ios",
-    "cable-code-red-mrc-down-lead-for-modular-tactical-headsets"
+    "cable-code-red-mrc-down-lead-for-modular-tactical-headsets",
+    "keelmicrofoon-code-red-assault"
   ]
 }
