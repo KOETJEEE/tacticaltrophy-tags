@@ -6482,7 +6482,9 @@
   "transceiver-caldwell-e-max-link": [
     "portofoons"
   ],
-  "powder-measure-relocation-kit-frankford-x-10": [],
+  "powder-measure-relocation-kit-frankford-x-10": [
+    "persen-onderdelen"
+  ],
   "powder-trickler-frankford-arsenal": [
     "kruitdispensers"
   ],
@@ -6502,10 +6504,10 @@
     "push-to-talk-ptts"
   ],
   "push-to-talk-code-red-modular-puck-waterproof": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-code-red-nx-dual-ptt": [
-    "portofoons"
+    "push-to-talk-ptts"
   ],
   "push-to-talk-code-red-nx-dual-ptt-amplified": [
     "push-to-talk-ptts"
@@ -17573,6 +17575,16 @@
       "schietsport",
       "portofoons",
       "jacht"
+    ],
+    "push-to-talk-code-red-modular-puck-waterproof": [
+      "jacht",
+      "portofoons",
+      "schietsport"
+    ],
+    "push-to-talk-code-red-nx-dual-ptt": [
+      "portofoons",
+      "jacht",
+      "schietsport"
     ],
     "push-to-talk-code-red-nx-dual-ptt-amplified": [
       "schietsport",
@@ -30632,6 +30644,9 @@
     "cap-donnyfl-fatboy-trucket-hat",
     "cap-wiley-x-trucker-hat-dark-grey-signal-orange",
     "pistol-bullet-collator-frankford-arsenal-x-10",
-    "primer-tube-kit-frankford-x-10-3-pack"
+    "primer-tube-kit-frankford-x-10-3-pack",
+    "powder-measure-relocation-kit-frankford-x-10",
+    "push-to-talk-code-red-modular-puck-waterproof",
+    "push-to-talk-code-red-nx-dual-ptt"
   ]
 }
