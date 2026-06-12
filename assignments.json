@@ -4,12 +4,10 @@
     "batterij-nuprol-nimh-8-4v-1600mah-small",
     "seating-pad-with-belt-20",
     "m-tac-seating-pad-with-belt-18",
-    "m-tac-drop-leg-platform-gen3-150",
     "lower-back-protection-for-ballistic-panel-inserts-xl-for-cuirass-qrs-9046",
     "lower-back-protection-for-ballistic-panel-inserts-for-cuirass-qrs-9059",
     "key-holder-elite-8653",
     "eva-knee-pad-inserts-pair-genii-grey-517",
-    "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
     "flag-odin-night-vision-630x900-5792"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
@@ -1678,12 +1676,6 @@
   ],
   "protective-sleeve-best-fittings-for-air-cylinder-50-60-mm": [
     "persluchtcilinders"
-  ],
-  "protective-cover-jsb-pellet-box-big": [
-    "luchtdrukmunitie"
-  ],
-  "protective-cover-jsb-pellet-box-small": [
-    "luchtdrukmunitie"
   ],
   "leg-wrap-manfrotto-alpha-shot-tripod": [
     "statieven"
@@ -4584,27 +4576,6 @@
   "loopreinigingskoord-vector-optics-5-5-mm-22": [
     "reinigingskoorden"
   ],
-  "luchtdrukkogeltjes-aea-center-punch-4-5-mm-10-3-grain": [
-    "luchtdrukmunitie"
-  ],
-  "luchtdrukkogeltjes-aea-center-punch-4-5-mm-13-7-grain": [
-    "luchtdrukmunitie"
-  ],
-  "luchtdrukkogeltjes-aea-center-punch-4-5-mm-8-72-grain": [
-    "luchtdrukmunitie"
-  ],
-  "luchtdrukkogeltjes-aea-center-punch-5-5-mm-15-9-grain": [
-    "luchtdrukmunitie"
-  ],
-  "luchtdrukkogeltjes-aea-center-punch-5-5-mm-18-3-grain": [
-    "luchtdrukmunitie"
-  ],
-  "luchtdrukkogeltjes-aea-center-punch-5-5-mm-21-9-grain": [
-    "luchtdrukmunitie"
-  ],
-  "luchtdrukkogeltjes-aea-center-punch-6-35-mm-25-3-grain": [
-    "luchtdrukmunitie"
-  ],
   "mag-pouch-amomax-double-universal-black": [
     "magazijn-pouches"
   ],
@@ -6535,12 +6506,6 @@
   "polijstvloeistof-frankford-arsenal-ultrasonic-brass-946-ml": [
     "polijstmiddelen"
   ],
-  "polyballs-umarex-t4e-practice-plb-50-27-5-grain": [
-    "luchtdrukmunitie"
-  ],
-  "polyballs-umarex-t4e-practice-plb-50-bulk-27-5-grain": [
-    "luchtdrukmunitie"
-  ],
   "portofoon-baofeng-k63": [
     "portofoons"
   ],
@@ -6886,21 +6851,6 @@
   ],
   "smoke-grenade-enola-gaye-wp40-d-yellow": [
     "rookgranaten"
-  ],
-  "rubber-balls-snowpeak-rb100-50-19-1-grain": [
-    "luchtdrukmunitie"
-  ],
-  "rubberballs-umarex-t4e-performance-rbi-steel-core-50-44-9-grain": [
-    "luchtdrukmunitie"
-  ],
-  "rubberballs-umarex-t4e-performance-rub-50-bulk-17-6-grain": [
-    "luchtdrukmunitie"
-  ],
-  "rubberballs-umarex-t4e-practice-rub-50-19-grain": [
-    "luchtdrukmunitie"
-  ],
-  "rubberballs-umarex-t4e-practice-rub-50-bulk-19-grain": [
-    "luchtdrukmunitie"
   ],
   "rvs-media-pinnen-frankford-arsenal": [
     "polijst-media"
@@ -7652,12 +7602,6 @@
   "tourniquet-mp-combat-application-black": [
     "ehbo",
     "tourniquets"
-  ],
-  "tracerballs-umarex-t4e-performance-trb-50-17-6-grain": [
-    "luchtdrukmunitie"
-  ],
-  "tracerballs-umarex-t4e-performance-trb-50-bulk-17-6-grain": [
-    "luchtdrukmunitie"
   ],
   "training-system-mantis-black-beard-ar15-red": [
     "trainingssystemen"
@@ -9362,7 +9306,7 @@
     "medical-pouches"
   ],
   "elite-ballistic-forearm-protection-class-1-fms-9554": [
-    "tactical-vests"
+    "body-gear"
   ],
   "elite-tactical-baseball-cap-with-mesh-nyco-extreme-8575": [
     "petten"
@@ -9371,7 +9315,7 @@
     "veldnotitie"
   ],
   "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048": [
-    "tactical-vests"
+    "body-gear"
   ],
   "fanny-bag-10024": [
     "waist-packs"
@@ -10024,8 +9968,7 @@
     "magazijn-pouches"
   ],
   "m-tac-drop-leg-platform-gen3-150": [
-    "patch-panels",
-    "tactical-bags"
+    "body-gear"
   ],
   "m-tac-ecopybook-tactical-an-all-weather-notebook-fireteam-squad-8630": [
     "veldnotitie"
@@ -11948,7 +11891,7 @@
     "magazijn-pouches"
   ],
   "shoulder-damper-for-plate-carrier-cuirass-qrs-560": [
-    "plate-carriers"
+    "body-gear"
   ],
   "shoulder-protection-case-for-ballistic-inserts-for-cuirass-qrs-9058": [
     "tactical-vests"
@@ -19825,7 +19768,8 @@
     ],
     "elite-ballistic-forearm-protection-class-1-fms-9554": [
       "m-tac",
-      "Tactical gear > Tactical vests"
+      "Tactical gear > Tactical vests",
+      "tactical-vests"
     ],
     "elite-tactical-baseball-cap-with-mesh-nyco-extreme-8575": [
       "Clothing > Headwear > Caps",
@@ -19842,7 +19786,8 @@
       "m-tac",
       "Tactical gear > Tactical vests > Accessories",
       "tactical-vest-accessoires",
-      "shoulder-messengers"
+      "shoulder-messengers",
+      "tactical-vests"
     ],
     "fanny-bag-10024": [
       "Equipment and gear > Bags and backpacks > Bags",
@@ -21146,7 +21091,9 @@
     "m-tac-drop-leg-platform-gen3-150": [
       "m-tac",
       "Tactical gear > Thigh and hip tactical panels",
-      "tactical-panels"
+      "tactical-panels",
+      "patch-panels",
+      "tactical-bags"
     ],
     "m-tac-ecopybook-tactical-an-all-weather-notebook-fireteam-squad-8630": [
       "tactical-bags",
@@ -24575,6 +24522,12 @@
       "Equipment and gear > Bags and backpacks > Backpack accessories",
       "rugzak-accessoires",
       "m-tac"
+    ],
+    "shoulder-damper-for-plate-carrier-cuirass-qrs-560": [
+      "plate-carriers",
+      "m-tac",
+      "Tactical gear > Tactical vests > Accessories",
+      "tactical-vest-accessoires"
     ],
     "shoulder-protection-case-for-ballistic-inserts-for-cuirass-qrs-9058": [
       "tactical-gear",
@@ -30800,6 +30753,9 @@
     "luchtdrukkogeltjes-aea-center-punch-5-5-mm-15-9-grain",
     "luchtdrukkogeltjes-aea-center-punch-5-5-mm-18-3-grain",
     "luchtdrukkogeltjes-aea-center-punch-5-5-mm-21-9-grain",
-    "luchtdrukkogeltjes-aea-center-punch-6-35-mm-25-3-grain"
+    "luchtdrukkogeltjes-aea-center-punch-6-35-mm-25-3-grain",
+    "elite-ballistic-forearm-protection-class-1-fms-9554",
+    "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
+    "m-tac-drop-leg-platform-gen3-150"
   ]
 }
