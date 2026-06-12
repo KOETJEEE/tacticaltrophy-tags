@@ -7290,19 +7290,13 @@
     "schoonmaaksetjes"
   ],
   "service-kit-hill-hand-pump-mk2": [
-    "gereedschap",
-    "persluchtfles-accessoires",
-    "schoonmaaksetjes"
+    "pcp-handpompen"
   ],
   "service-kit-hill-hand-pump-mk3": [
-    "gereedschap",
-    "persluchtfles-accessoires",
-    "schoonmaaksetjes"
+    "pcp-handpompen"
   ],
   "service-kit-hill-hand-pump-mk4": [
-    "gereedschap",
-    "persluchtfles-accessoires",
-    "schoonmaaksetjes"
+    "pcp-handpompen"
   ],
   "service-kit-hill-mk5": [
     "gereedschap",
@@ -17604,6 +17598,28 @@
       "geweersteunen",
       "jacht",
       "schietsport"
+    ],
+    "service-kit-hill-hand-pump-mk2": [
+      "gereedschap",
+      "onderhoud",
+      "persluchtfles-accessoires",
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "service-kit-hill-hand-pump-mk3": [
+      "persluchtfles-accessoires",
+      "schoonmaak-onderhoud",
+      "gereedschap",
+      "onderhoud",
+      "schoonmaaksetjes"
+    ],
+    "service-kit-hill-hand-pump-mk4": [
+      "onderhoud",
+      "gereedschap",
+      "persluchtfles-accessoires",
+      "schietsport",
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
     ],
     "service-box-plano-shooter-s-case-camo": [
       "airsoft",
@@ -29794,6 +29810,8 @@
     "tactical-vest-nuprol-mini-green",
     "tactical-vest-nuprol-mini-tan",
     "tactical-vest-nuprol-molle-harness-pmc-black",
-    "tactical-kit-fx-dreamline"
+    "tactical-kit-fx-dreamline",
+    "service-kit-hill-hand-pump-mk2",
+    "service-kit-hill-hand-pump-mk3"
   ]
 }
