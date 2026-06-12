@@ -2483,7 +2483,7 @@
     "co2-patronen"
   ],
   "collets-set-frankford-arsenal-aluminium": [
-    "persen-onderdelen"
+    "gereedschap"
   ],
   "combination-lock-walther-rs3-3-pack": [
     "wapensloten"
@@ -15637,6 +15637,10 @@
     "co2-capsule-umarex-8-gram": [
       "luchtbuks-accessoires"
     ],
+    "collets-set-frankford-arsenal-aluminium": [
+      "herladen",
+      "persen-onderdelen"
+    ],
     "suppressor-g-g-double-screw": [
       "luchtbuks"
     ],
@@ -26211,6 +26215,7 @@
     "chronometer-fx-true-ballistic-gronograph-ce",
     "chronometer-mount-fx-pocket-chrono",
     "cleaning-packs-frankford-arsenal-platinum-series-24-st",
-    "co2-capsule-umarex-8-gram"
+    "co2-capsule-umarex-8-gram",
+    "collets-set-frankford-arsenal-aluminium"
   ]
 }
