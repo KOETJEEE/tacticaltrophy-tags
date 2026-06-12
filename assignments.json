@@ -8465,16 +8465,16 @@
     "airsoft-diversen-1"
   ],
   "cheek-rest-fx-impact-fde": [
-    "kolven"
+    "cheek-risers"
   ],
   "cheek-rest-fx-leopard-fde": [
-    "kolven"
+    "cheek-risers"
   ],
   "cheek-rest-fx-panthera-fde": [
-    "kolven"
+    "cheek-risers"
   ],
   "gun-cloth-birchwood-rig-rag-universal-grease-applicator": [
-    "olien-vetten"
+    "onderhoudshulpmiddelen"
   ],
   "gun-safe-griffon-ge-450k-l-black-cr": [
     "wapenkluizen"
@@ -8585,7 +8585,7 @@
     "onderhoudshulpmiddelen"
   ],
   "weaverrail-steyr-luchtpistool": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "scale-and-dispenser-frankford-intellidropper-2-0": [
     "weegschalen"
@@ -9295,43 +9295,35 @@
     "veldnotitie"
   ],
   "ecopybook-tactical-protractor-pr-r-850": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-request-for-fire-support-5-pcs-8633": [
-    "veldnotitie",
-    "ehbo",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-btr-8635": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-echelons-nato-8197": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-gta-nato-blue-border-9785": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-reconnaissance-btr-8634": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
     "veldnotitie"
   ],
   "ecopybook-tactical-scouts-ruler-natoua-blue-border-9783": [
-    "veldnotitie",
-    "tactical-bags"
+    "veldnotitie"
   ],
   "ecopybook-tactical-set-of-rulers-tsm-nato-blue-border-9786": [
     "veldnotitie"
   ],
   "ecopybook-tactical-sharpener-sharpenere-857": [
-    "messenslijpers",
-    "veldnotitie"
+    "veldnotitie",
+    "tactical-pens"
   ],
   "ecopybook-tactical-sight-reticle-set-ua-8631": [
     "veldnotitie"
@@ -9393,7 +9385,7 @@
     "velcro-strips"
   ],
   "field-jacket-patrol-ranger-flex-9497": [
-    "tactical-shirts"
+    "jassen"
   ],
   "field-maintenance-tray-24x24cm-747": [
     "schoonmaakstations"
@@ -9773,7 +9765,6 @@
     "tussenseizoenjassen"
   ],
   "jacket-konung-primaloft-9477": [
-    "winterjassen",
     "jassen"
   ],
   "jacket-legatus-microfleece-9729": [
@@ -17969,6 +17960,21 @@
       "airsoft",
       "rookgranaten"
     ],
+    "cheek-rest-fx-impact-fde": [
+      "kolven"
+    ],
+    "cheek-rest-fx-leopard-fde": [
+      "kolven"
+    ],
+    "cheek-rest-fx-panthera-fde": [
+      "kolven"
+    ],
+    "gun-cloth-birchwood-rig-rag-universal-grease-applicator": [
+      "olien-vetten",
+      "schoonmaak-onderhoud",
+      "wapenvet",
+      "wapenolie"
+    ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
       "wapenkluizen"
@@ -18023,6 +18029,9 @@
       "schoonmaaksetjes",
       "schoonmaak-onderhoud"
     ],
+    "weaverrail-steyr-luchtpistool": [
+      "picatinny-rails"
+    ],
     "scale-and-dispenser-frankford-intellidropper-2-0": [
       "herlaadkits"
     ],
@@ -18031,6 +18040,9 @@
     ],
     "weegschaal-frankford-arsenal-ds-750-electronisch": [
       "herlaadkits"
+    ],
+    "werkblok-wheeler-universeel": [
+      "schoonmaak-onderhoud"
     ],
     "wolborstel-bore-tech-proof-positive": [
       "schoonmaak-onderhoud"
@@ -18804,6 +18816,10 @@
       "tactical-bags",
       "m-tac"
     ],
+    "ecopybook-tactical-an-all-weather-notebook-regular-maxi-269-x-190-mm-8629": [
+      "Equipment and gear > Office supplies",
+      "m-tac"
+    ],
     "ecopybook-tactical-card-firing-position-nato-5-pcs-8039": [
       "tactical-bags",
       "Equipment and gear > Office supplies",
@@ -18828,6 +18844,37 @@
       "Equipment and gear > Office supplies",
       "m-tac"
     ],
+    "ecopybook-tactical-protractor-pr-r-850": [
+      "Equipment and gear > Office supplies",
+      "Military Line",
+      "m-tac",
+      "tactical-bags"
+    ],
+    "ecopybook-tactical-request-for-fire-support-5-pcs-8633": [
+      "ehbo",
+      "Equipment and gear > Office supplies",
+      "tactical-bags",
+      "m-tac"
+    ],
+    "ecopybook-tactical-ruler-btr-8635": [
+      "Equipment and gear > Office supplies",
+      "m-tac",
+      "tactical-bags"
+    ],
+    "ecopybook-tactical-ruler-echelons-nato-8197": [
+      "tactical-bags",
+      "Equipment and gear > Office supplies",
+      "m-tac"
+    ],
+    "ecopybook-tactical-ruler-gta-nato-blue-border-9785": [
+      "m-tac",
+      "tactical-bags"
+    ],
+    "ecopybook-tactical-ruler-reconnaissance-btr-8634": [
+      "Equipment and gear > Office supplies",
+      "m-tac",
+      "tactical-bags"
+    ],
     "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
       "m-tac",
       "tactical-bags"
@@ -18836,7 +18883,8 @@
       "m-tac",
       "airsoft",
       "survival",
-      "veldnotitie"
+      "veldnotitie",
+      "tactical-bags"
     ],
     "ecopybook-tactical-set-of-rulers-tsm-nato-blue-border-9786": [
       "tactical-bags",
@@ -18846,7 +18894,10 @@
       "Equipment and gear > Office supplies",
       "Military Line",
       "m-tac",
-      "tactical-bags"
+      "tactical-bags",
+      "messenslijpers",
+      "messen-bijlen",
+      "jacht"
     ],
     "ecopybook-tactical-sight-reticle-set-ua-8631": [
       "Equipment and gear > Office supplies",
@@ -18966,7 +19017,9 @@
     ],
     "field-jacket-patrol-ranger-flex-9497": [
       "Clothing > Shirts",
-      "m-tac"
+      "m-tac",
+      "tactical-gear",
+      "tactical-shirts"
     ],
     "field-maintenance-tray-24x24cm-747": [
       "wapen-accessoires",
@@ -19704,7 +19757,8 @@
     ],
     "jacket-konung-primaloft-9477": [
       "Clothing > Jackets > Winter jackets",
-      "m-tac"
+      "m-tac",
+      "winter-jassen"
     ],
     "jacket-legatus-microfleece-9729": [
       "Clothing > Fleeces",
@@ -29597,6 +29651,29 @@
     "fill-probe-steyr-quickfill",
     "vulset-mde-din-200-300-bar",
     "vuurstarter-enola-gaye-ultimate-match-3-pack",
-    "walkie-talkie-attachment-walker-s-razor-electronic"
+    "walkie-talkie-attachment-walker-s-razor-electronic",
+    "cheek-rest-fx-impact-fde",
+    "cheek-rest-fx-leopard-fde",
+    "cheek-rest-fx-panthera-fde",
+    "gun-cloth-birchwood-rig-rag-universal-grease-applicator",
+    "weaverrail-steyr-luchtpistool",
+    "werkblok-wheeler-universeel",
+    "ecopybook-tactical-an-all-weather-notebook-regular-maxi-269-x-190-mm-8629",
+    "ecopybook-tactical-card-firing-position-nato-5-pcs-8039",
+    "ecopybook-tactical-protractor-pr-r-850",
+    "ecopybook-tactical-request-for-fire-support-5-pcs-8633",
+    "ecopybook-tactical-ruler-btr-8635",
+    "ecopybook-tactical-ruler-echelons-nato-8197",
+    "ecopybook-tactical-ruler-gta-nato-blue-border-9785",
+    "ecopybook-tactical-ruler-reconnaissance-btr-8634",
+    "ecopybook-tactical-ruler-vtl-ua-blue-border-9784",
+    "ecopybook-tactical-scouts-ruler-natoua-blue-border-9783",
+    "ecopybook-tactical-set-of-rulers-tsm-nato-blue-border-9786",
+    "ecopybook-tactical-sharpener-sharpenere-857",
+    "ecopybook-tactical-sight-reticle-set-ua-8631",
+    "ecopybook-tactical-stencil-symbols-nato-8038",
+    "ecopybook-tactical-tip-replacement-set-for-pencils-3-pcs-859",
+    "jacket-konung-primaloft-9477",
+    "field-jacket-patrol-ranger-flex-9497"
   ]
 }
