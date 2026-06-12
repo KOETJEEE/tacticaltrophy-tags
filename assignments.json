@@ -7385,7 +7385,8 @@
     "schoonmaakborstels"
   ],
   "schoonmaakborstelset-tipton": [
-    "gereedschap"
+    "schoonmaaksetjes",
+    "onderhoudshulpmiddelen"
   ],
   "schoonmaakpatches-bore-tech-round-1-1-2-25-38": [
     "patches"
@@ -7523,11 +7524,10 @@
     "schoonmaaksetjes"
   ],
   "suppressor-cleaning-system-bore-tech-decimator": [
-    "luchtbuks-dempers",
     "schoonmaaksetjes"
   ],
   "cleaning-set-gunpany-5-piece": [
-    "schoonmaakborstels"
+    "schoonmaaksetjes"
   ],
   "schouderhaak-anschutz-2213-8700": [
     "kolven"
@@ -17132,6 +17132,19 @@
       "airsoft",
       "schietsport"
     ],
+    "schoonmaakborstel-bore-tech-bronze": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakborstel-bore-tech-nylon": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakborstel-bore-tech-stainless": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakborstelset-tipton": [
+      "gereedschap",
+      "schoonmaak-onderhoud"
+    ],
     "schoonmaakpatches-bore-tech-round-2-1-2-35-45": [
       "schoonmaak-onderhoud"
     ],
@@ -17210,6 +17223,76 @@
       "schoonmaak-onderhoud"
     ],
     "schoonmaakproppen-vfg-comfort-6-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-6-35-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-6-5-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-7-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-7-5-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-8-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "cleaning-pellets-vfg-comfort-9-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-9-3-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-intensive-22": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-intensive-45-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-intensive-12": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-intensive-16": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-intensive-20": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-intensive-6-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-intensive-6-5-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-intensive-7-5-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-intensive-9-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-intensive-9-3-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakset-bore-tech-action-cleaning-kit": [
+      "schoonmaak-onderhoud"
+    ],
+    "cleaning-kit-bore-tech-ar10-bolt-carrier": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakset-bore-tech-ar15-receiver": [
+      "schoonmaak-onderhoud"
+    ],
+    "suppressor-cleaning-system-bore-tech-decimator": [
+      "luchtbuks",
+      "schoonmaak-onderhoud",
+      "luchtbuks-dempers",
+      "wapen-toebehoren"
+    ],
+    "cleaning-set-gunpany-5-piece": [
+      "schoonmaakborstels",
       "schoonmaak-onderhoud"
     ],
     "utility-pouch-nuprol-medium-pmc-green": [
@@ -25954,6 +26037,33 @@
     "cleaning-pellets-vfg-comfort-16",
     "cleaning-pellets-vfg-comfort-20",
     "schoonmaakproppen-vfg-comfort-4-5-mm",
-    "schoonmaakproppen-vfg-comfort-5-5-mm"
+    "schoonmaakproppen-vfg-comfort-5-5-mm",
+    "schoonmaakproppen-vfg-comfort-6-mm",
+    "schoonmaakproppen-vfg-comfort-6-35-mm",
+    "schoonmaakproppen-vfg-comfort-6-5-mm",
+    "schoonmaakproppen-vfg-comfort-7-mm",
+    "schoonmaakproppen-vfg-comfort-7-5-mm",
+    "schoonmaakproppen-vfg-comfort-8-mm",
+    "cleaning-pellets-vfg-comfort-9-mm",
+    "schoonmaakproppen-vfg-comfort-9-3-mm",
+    "schoonmaakproppen-vfg-intensive-22",
+    "schoonmaakproppen-vfg-intensive-45-mm",
+    "schoonmaakproppen-vfg-intensive-12",
+    "schoonmaakproppen-vfg-intensive-16",
+    "schoonmaakproppen-vfg-intensive-20",
+    "schoonmaakproppen-vfg-intensive-6-mm",
+    "schoonmaakproppen-vfg-intensive-6-5-mm",
+    "schoonmaakproppen-vfg-intensive-7-5-mm",
+    "schoonmaakproppen-vfg-intensive-9-mm",
+    "schoonmaakproppen-vfg-intensive-9-3-mm",
+    "cleaning-set-gunpany-5-piece",
+    "suppressor-cleaning-system-bore-tech-decimator",
+    "schoonmaakset-bore-tech-ar15-receiver",
+    "cleaning-kit-bore-tech-ar10-bolt-carrier",
+    "schoonmaakset-bore-tech-action-cleaning-kit",
+    "schoonmaakborstelset-tipton",
+    "schoonmaakborstel-bore-tech-stainless",
+    "schoonmaakborstel-bore-tech-nylon",
+    "schoonmaakborstel-bore-tech-bronze"
   ]
 }
