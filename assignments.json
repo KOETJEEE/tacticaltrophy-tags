@@ -628,27 +628,26 @@
   "flir-breach-ptq136-objectief-beschermlens-13431910": [
     "beschermkappen"
   ],
-  "flir-breach-ptq136-warmtebeeldcamera-13431913": [],
   "flir-c3-x-warmtebeeldcamera-13461469": [
-    "warmtebeeld"
+    "inspectie-cameras"
   ],
   "flir-c5-warmtebeeldcamera-13431960": [
-    "warmtebeeld"
+    "inspectie-cameras"
   ],
   "flir-c8-warmtebeeldcamera-13461485": [
-    "warmtebeeld"
+    "inspectie-cameras"
   ],
   "flir-one-edge-pro-warmtebeeldcamera-13431953": [
-    "warmtebeeld"
+    "inspectie-cameras"
   ],
   "flir-one-edge-warmtebeeldcamera-13461468": [
-    "warmtebeeld"
+    "inspectie-cameras"
   ],
   "flir-one-pro-warmtebeeldcamera-voor-android-usb-c-13431951": [
-    "warmtebeeld"
+    "inspectie-cameras"
   ],
   "flir-one-pro-warmtebeeldcamera-voor-ios-13431950": [
-    "warmtebeeld"
+    "inspectie-cameras"
   ],
   "flir-scout-pro-ii-warmtebeeldcamera-13461482": [
     "warmtebeeld"
@@ -13786,6 +13785,28 @@
     "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-mark-iii-720193": [
       "oversize"
     ],
+    "flir-c3-x-warmtebeeldcamera-13461469": [
+      "warmtebeeld"
+    ],
+    "flir-c5-warmtebeeldcamera-13431960": [
+      "warmtebeeld"
+    ],
+    "flir-c8-warmtebeeldcamera-13461485": [
+      "warmtebeeld"
+    ],
+    "flir-one-edge-pro-warmtebeeldcamera-13431953": [
+      "warmtebeeld-clip-on",
+      "warmtebeeld"
+    ],
+    "flir-one-edge-warmtebeeldcamera-13461468": [
+      "warmtebeeld"
+    ],
+    "flir-one-pro-warmtebeeldcamera-voor-android-usb-c-13431951": [
+      "warmtebeeld"
+    ],
+    "flir-one-pro-warmtebeeldcamera-voor-ios-13431950": [
+      "warmtebeeld"
+    ],
     "nest-monopod-wt-1003-h171-cm-295810": [
       "optiek-accessoires",
       "tripods"
@@ -20795,6 +20816,13 @@
     "braun-wildcamera-black300-535630",
     "whistle-5947",
     "agm-sioux940-long-range-infraroodstraler-940nm800mw-121101",
-    "flir-breach-ptq136-warmtebeeldcamera-13431913"
+    "flir-breach-ptq136-warmtebeeldcamera-13431913",
+    "flir-c3-x-warmtebeeldcamera-13461469",
+    "flir-c5-warmtebeeldcamera-13431960",
+    "flir-c8-warmtebeeldcamera-13461485",
+    "flir-one-edge-pro-warmtebeeldcamera-13431953",
+    "flir-one-edge-warmtebeeldcamera-13461468",
+    "flir-one-pro-warmtebeeldcamera-voor-android-usb-c-13431951",
+    "flir-one-pro-warmtebeeldcamera-voor-ios-13431950"
   ]
 }
