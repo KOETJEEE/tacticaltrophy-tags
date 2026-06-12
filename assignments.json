@@ -1,16 +1,5 @@
 {
   "_flags": [
-    "wallet-with-patch-panel-elite-genii-3184",
-    "utility-travel-case-elite-medium-26x11-cm-457",
-    "utility-travel-case-clear-elite-large-30x19-cm-400",
-    "utility-shoulder-pouch-elite-genii-347",
-    "utility-pouch-elite-small-78",
-    "utility-organizer-transparent-elite-small-genii-414",
-    "utility-organizer-transparent-elite-small-22x14-cm-402",
-    "utility-organizer-transparent-elite-medium-genii-413",
-    "utility-organizer-transparent-elite-medium-26x11-cm-401",
-    "utility-organizer-transparent-elite-large-genii-412",
-    "urban-line-force-pack-backpack-7377",
     "type-3-folding-knife-5-tools-3-steel-5936",
     "tactical-wallet-elite-9763",
     "tactical-waist-bag-genii-elite-219",
@@ -1275,9 +1264,6 @@
   "adaptor-accu-tac-arca-swiss-mount-qd": [
     "bipod-toebehoren"
   ],
-  "adapter-amomax-molle-fde": [
-    "holsters"
-  ],
   "adapter-bergara-ar": [
     "stokadapters"
   ],
@@ -1718,21 +1704,6 @@
   ],
   "bearings-prometheus-8-mm": [
     "gearboxen"
-  ],
-  "beenholster-platform-amomax-drop-leg": [
-    "holsters"
-  ],
-  "leg-holser-platform-amomax-drop-leg-fde": [
-    "holsters"
-  ],
-  "belt-molle-clip-amomax": [
-    "holsters"
-  ],
-  "belt-clip-amomax-black": [
-    "holsters"
-  ],
-  "belt-clip-amomax-fde": [
-    "holsters"
   ],
   "benchrest-feinwerkbau-p8-p44": [
     "geweersteunen"
@@ -3850,57 +3821,6 @@
   "angle-cosine-indicator-rome-ruac-system": [
     "waterpassen"
   ],
-  "holster-black-scorpion-gear-competition-speed-1911-2011-blue": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-competition-speed-1911-2011-red": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-ball-joint-competition-carbon-fiber": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-1911-5-carbon": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-2011-5-carbon": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-beretta-92x-performance-carbon": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-75-sp-01-carbon": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-shadow-2-carbon": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-cz-ts-2-carbon": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-speed": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-glock-17-19-22-45-carbon": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-pdp-4-5-carbon": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-pdp-5-carbon": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-q5-match-polyframe-carbon": [
-    "holsters"
-  ],
-  "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-q5-match-sf-carbon": [
-    "holsters"
-  ],
-  "holster-ctm-hi-capa": [
-    "holsters"
-  ],
-  "holsterriem-caldwell-tac-ops": [
-    "holsters"
-  ],
   "headband-wrap-walker-s-black": [
     "gehoorbescherming"
   ],
@@ -4002,6 +3922,9 @@
   ],
   "hulzendroger-frankford-arsenal-brass-dryer": [
     "hulzencentrifuges"
+  ],
+  "case-cleaner-birchwood-super-concentrate-480-ml": [
+    "schoonmaaksetjes"
   ],
   "hulzenreiniger-bore-tech-case-cleaner-945-ml": [
     "hulzenreinigers"
@@ -4984,29 +4907,12 @@
   "mag-pouch-amomax-double-clip": [
     "magazijn-pouches"
   ],
-  "magazine-pouch-black-scorpion-gear-single-double-stack-competition-black": [
-    "holsters"
-  ],
-  "magazine-pouch-black-scorpion-gear-single-double-stack-competition-blue": [
-    "holsters"
-  ],
-  "magazine-pouch-black-scorpion-gear-single-double-stack-competition-red": [
-    "holsters"
-  ],
-  "magazijnhouder-donnyfl-fx-wildcat": [
-    "holsters"
-  ],
   "magazine-holder-epic-airguns-two-tactical-stock": [
     "kolven",
-    "magazijn-pouches",
-    "holsters"
+    "magazijn-pouches"
   ],
   "magazijnhouder-imi-walther-ppq-p99-double": [
-    "magazijn-pouches",
-    "holsters"
-  ],
-  "magnet-black-scorpion-gear-for-holster-belt": [
-    "holsters"
+    "magazijn-pouches"
   ],
   "magneet-frankford-arsenal": [
     "herlaadkits"
@@ -6028,72 +5934,6 @@
   ],
   "p-clip-screw-frankford-x-10": [
     "persen-onderdelen"
-  ],
-  "paddle-holster-amomax-beretta-92-black-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-colt-1911-black-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-colt-1911-fde-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-cz-shadow-2-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-cz-sp-01-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-desert-eagle-black": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-desert-eagle-fde": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-hi-capa-2011-red-dot-black-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-hi-capa-2011-black-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-hi-capa-2011-fde-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-per-fit-universal": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-per-fit-universal-left": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-per-fit-universal-fde-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-per-fit-universal-right-od-green": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-sig-sauer-p226-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-sig-sauer-p320-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-glock-17-right": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-glock-17-19-red-dot": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-glock-19-left": [
-    "holsters"
-  ],
-  "paddle-holster-amomax-glock-19-right": [
-    "holsters"
-  ],
-  "paddle-holster-imi-walther-ppq-p99": [
-    "holsters"
-  ],
-  "paddle-holster-laylax-socom-mk23-break-out": [
-    "holsters"
   ],
   "patch-jtg-3d-pvc-hexagon-bloodtype-ab": [
     "patches"
@@ -9217,9 +9057,6 @@
   "cat-eyes-3d-pvc-5158": [
     "patches"
   ],
-  "ccw-holster-modular-universal-holster-146": [
-    "holsters"
-  ],
   "chain-for-tokens-8313": [
     "kleding-accessoires"
   ],
@@ -9765,11 +9602,9 @@
     "vuurmakers"
   ],
   "holster-insert-light-533": [
-    "holsters",
     "admin-pouches"
   ],
   "holster-insert-light-555": [
-    "holsters",
     "admin-pouches"
   ],
   "hoodie-born-by-revolution-9071": [
@@ -10192,7 +10027,6 @@
     "magazijn-pouches"
   ],
   "m-tac-drop-leg-platform-gen3-150": [
-    "holsters",
     "patch-panels",
     "tactical-bags"
   ],
@@ -12713,12 +12547,6 @@
   "universal-folding-spoon-6486": [
     "kookgerei"
   ],
-  "universal-gear-pouch-elite-left-hand-507": [
-    "holsters"
-  ],
-  "universal-gear-pouch-elite-right-hand-508": [
-    "holsters"
-  ],
   "universal-tool-type-2-5934": [
     "multitools"
   ],
@@ -12729,8 +12557,7 @@
     "sling-bags"
   ],
   "urban-line-force-pack-backpack-7377": [
-    "tactical-rugzakken",
-    "zakmessen"
+    "tactical-rugzakken"
   ],
   "utility-organizer-transparent-elite-large-genii-412": [
     "admin-pouches"
@@ -12896,9 +12723,7 @@
     "montage-accessoires"
   ],
   "agm-rusan-quick-release-clip-on-montage-voor-comanche-22-121108": [
-    "montage-accessoires",
-    "observatie-accessoires",
-    "voorzetkijkers"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "agm-pvs-14-ap-monoculaire-nachtkijker-gen2-green-phosphor-121070": [
     "nachtzicht-handheld"
@@ -23188,7 +23013,9 @@
       "tactical-gear",
       "tassen-rugzakken",
       "tactical-bags",
-      "jacht"
+      "jacht",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "utility-organizer-transparent-elite-large-genii-412": [
       "m-tac",
@@ -23511,7 +23338,10 @@
     ],
     "agm-rusan-quick-release-clip-on-montage-voor-comanche-22-121108": [
       "nachtzicht-en-warmtebeeldaccessoires",
-      "nachtzicht"
+      "nachtzicht",
+      "montage-accessoires",
+      "observatie-accessoires",
+      "voorzetkijkers"
     ],
     "agm-pvs-14-ap-monoculaire-nachtkijker-gen2-green-phosphor-121070": [
       "monoculair"
@@ -26480,6 +26310,42 @@
     "adapter-bf-1-4-bsp-male-male",
     "adapter-mantisx-picatinny-3m",
     "adapter-bf-1-4-bsp-female-female",
-    "adapter-amomax-molle-fde"
+    "adapter-amomax-molle-fde",
+    "agm-rusan-quick-release-clip-on-montage-voor-comanche-22-121108",
+    "wallet-with-patch-panel-elite-genii-3184",
+    "wallet-slim-elite-528",
+    "wallet-horizontal-x-pac-elite-9005",
+    "wallet-horizontal-with-carabiner-x-pac-elite-9251",
+    "wallet-elite-genii-3176",
+    "utility-travel-case-clear-elite-large-30x19-cm-400",
+    "utility-shoulder-pouch-elite-genii-347",
+    "utility-pouch-elite-small-78",
+    "utility-travel-case-elite-medium-26x11-cm-457",
+    "utility-organizer-transparent-elite-small-genii-414",
+    "utility-organizer-transparent-elite-small-22x14-cm-402",
+    "utility-organizer-transparent-elite-medium-genii-413",
+    "utility-organizer-transparent-elite-medium-26x11-cm-401",
+    "utility-organizer-transparent-elite-large-genii-412",
+    "urban-line-force-pack-backpack-7377",
+    "folding-two-piece-cutlery-set-5933",
+    "folding-knife-type-9-6-tools-9530",
+    "folding-knife-type-8-5956",
+    "folding-knife-type-7-5955",
+    "folding-knife-type-6-5953",
+    "folding-knife-type-3-5948",
+    "folding-knife-type-4-5949",
+    "folding-knife-type-5-5951",
+    "folding-knife-type-12-scandinavian-10536",
+    "folding-knife-type-12-scandinavian-stonewash-10542",
+    "folding-knife-type-13-blacksteel-9979",
+    "folding-knife-type-14-blackgrey-9977",
+    "folding-knife-type-15-carbonblue-9963",
+    "folding-knife-type-16-blacksteel-9978",
+    "folding-knife-type-17-blacksteel-9976",
+    "folding-knife-type-18-9984",
+    "folding-knife-type-19-9985",
+    "folding-knife-type-11-9512",
+    "folding-knife-type-12-9990",
+    "folding-knife-type-12-9991"
   ]
 }
