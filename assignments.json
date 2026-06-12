@@ -2380,16 +2380,16 @@
     "chassis-1"
   ],
   "cheek-rest-saber-tactical-trs-fx-impact-m4": [
-    "kolfplaten"
+    "cheek-risers"
   ],
   "cheek-riser-saber-tactical-fx-impact": [
-    "kolfplaten"
+    "cheek-risers"
   ],
   "cheek-riser-saber-tactical-fx-maverick-wildcat": [
-    "kolfplaten"
+    "cheek-risers"
   ],
   "cheek-riser-saber-tactical-trs-fx-impact-m4": [
-    "kolfplaten"
+    "cheek-risers"
   ],
   "cylinder-prometheus-type-c": [
     "airsoft-cilinders"
@@ -15246,9 +15246,18 @@
     "chassis-rome-motus-tikka-t1x": [
       "kolven"
     ],
+    "cheek-rest-saber-tactical-trs-fx-impact-m4": [
+      "kolfplaten"
+    ],
     "cheek-riser-saber-tactical-fx-impact": [
       "kolfplaten",
       "wapen-toebehoren"
+    ],
+    "cheek-riser-saber-tactical-fx-maverick-wildcat": [
+      "kolfplaten"
+    ],
+    "cheek-riser-saber-tactical-trs-fx-impact-m4": [
+      "kolfplaten"
     ],
     "cylinder-prometheus-type-c": [
       "persluchtcilinders",
@@ -30006,6 +30015,15 @@
     "first-regulator-bypass-saber-tactical-fx-impact-m3",
     "fiber-optic-lpa-bfo-rood",
     "fiber-optic-lpa-bfo-groen",
-    "fiber-optic-lpa-bfo-geel"
+    "fiber-optic-lpa-bfo-geel",
+    "double-tank-adapter-saber-tactical-fx-maverick",
+    "die-blokken-frankford-arsenal-3-pack",
+    "cilindervoet-mde-7-liter",
+    "cilindervoet-mde-3-liter",
+    "cilindervoet-mde-12-liter",
+    "cheek-riser-saber-tactical-trs-fx-impact-m4",
+    "cheek-riser-saber-tactical-fx-maverick-wildcat",
+    "cheek-riser-saber-tactical-fx-impact",
+    "cheek-rest-saber-tactical-trs-fx-impact-m4"
   ]
 }
