@@ -1276,10 +1276,7 @@
   "adapter-vfg-voor-vfg-schoonmaakproppen": [
     "stokadapters"
   ],
-  "adapter-wolverine-drop-stock-universal": [
-    "kolven",
-    "stokadapters"
-  ],
+  "adapter-wolverine-drop-stock-universal": [],
   "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw": [
     "vulbenodigdheden"
   ],
@@ -14770,6 +14767,13 @@
       "stokadapters"
     ],
     "adapter-vfg-voor-vfg-schoonmaakproppen": [
+      "schoonmaak-onderhoud"
+    ],
+    "adapter-wolverine-drop-stock-universal": [
+      "kolven",
+      "onderhoud",
+      "stokadapters",
+      "wapen-toebehoren",
       "schoonmaak-onderhoud"
     ],
     "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw": [
