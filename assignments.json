@@ -303,16 +303,13 @@
     "wapenkoffers"
   ],
   "explorer-cases-1908-koffer-zwart-met-plukschuim-250000": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-1913-koffer-groen-250081": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-1913-koffer-zwart-met-plukschuim-250060": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-2209-koffer-oranje-250161": [
     "koffers"
@@ -351,8 +348,7 @@
     "koffers"
   ],
   "explorer-cases-4412hl-koffer-zwart-250521": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-4412hl-koffer-zwart-met-plukschuim-250520": [
     "koffers",
@@ -13830,6 +13826,27 @@
       "carson",
       "monoculair"
     ],
+    "explorer-cases-1908-koffer-zwart-met-plukschuim-250000": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-1913-koffer-groen-250081": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-1913-koffer-zwart-met-plukschuim-250060": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
     "explorer-cases-2209-koffer-oranje-250161": [
       "airsoft",
       "wapenkoffers",
@@ -13913,6 +13930,16 @@
       "transport",
       "wapenkoffers",
       "airsoft"
+    ],
+    "explorer-cases-4412hl-koffer-zwart-250521": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-4412hl-koffer-zwart-met-plukschuim-250520": [
+      "explorer-cases"
     ],
     "flir-breach-ptq136-objectief-beschermlens-13431910": [
       "nachtzicht-en-warmtebeeldaccessoires",
@@ -21676,6 +21703,10 @@
     "explorer-cases-3317hl-koffer-zwart-250391",
     "explorer-cases-3818hl-koffer-oranje-250481",
     "explorer-cases-3818hl-koffer-zwart-250471",
-    "explorer-cases-3818hl-zwart-met-plukschuim-250470"
+    "explorer-cases-3818hl-zwart-met-plukschuim-250470",
+    "explorer-cases-1913-koffer-groen-250081",
+    "explorer-cases-1913-koffer-zwart-met-plukschuim-250060",
+    "explorer-cases-1908-koffer-zwart-met-plukschuim-250000",
+    "explorer-cases-4412hl-koffer-zwart-250521"
   ]
 }
