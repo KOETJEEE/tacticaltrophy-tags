@@ -5295,7 +5295,7 @@
     "1-delige-montages"
   ],
   "mount-pts-unity-tactical-fast-ftc-omni-magnifier-bronze": [
-    "1-delige-montages"
+    "montage-accessoires"
   ],
   "mount-pts-unity-tactical-fast-micro-black": [
     "montage-accessoires"
@@ -16364,6 +16364,9 @@
     "mount-hikmicro-ir-illuminator-pro": [
       "montage-accessoires"
     ],
+    "mount-pts-unity-tactical-fast-ftc-omni-magnifier-bronze": [
+      "1-delige-montages"
+    ],
     "mount-rome-cardo-hunting-30-mm-high-weaver-picatinny": [
       "montage-accessoires"
     ],
@@ -26244,6 +26247,7 @@
     "mount-walther-fixlock-sr-swarovski-optik-rail",
     "mount-walther-fixlock-rings",
     "mount-walther-fixlock-red-dot-mounting-base",
-    "mount-vector-optics-zr-25-4-30-mm-high-dovetail"
+    "mount-vector-optics-zr-25-4-30-mm-high-dovetail",
+    "montage-utg-flip-to-side-ring-mount"
   ]
 }
