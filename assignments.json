@@ -11780,10 +11780,12 @@
     "admin-pouches"
   ],
   "pocket-bag-hardsling-lite-nr-9701": [
-    "tassen-rugzakken"
+    "sling-bags",
+    "admin-pouches"
   ],
   "pocket-bag-x-pac-elite-8505": [
-    "tassen-rugzakken"
+    "sling-bags",
+    "admin-pouches"
   ],
   "polartec-anatomic-tube-scarf-4806": [
     "sjaal-nekwarmer"
@@ -11814,31 +11816,25 @@
     "magazijn-pouches"
   ],
   "pouch-ak-mag-with-cover-gen3-938": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "magazijn-pouches"
   ],
   "pouch-double-magazine-for-pistol-aps-laser-cut-386": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "magazijn-pouches"
   ],
   "pouch-for-1-vog-type-grenade-979": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "magazijn-pouches"
   ],
   "pouch-for-2-vog-type-grenade-982": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "magazijn-pouches"
   ],
   "pouch-for-3-vog-type-grenade-985": [
-    "magazijn-pouches",
-    "admin-pouches"
+    "magazijn-pouches"
   ],
   "pouch-for-cartridges-12-gauge-horizontal-laser-cut-10032": [
-    "admin-pouches",
     "magazijn-pouches"
   ],
   "pouch-for-cartridges-cal-12-for-10-cartridges-elite-10403": [
-    "admin-pouches"
+    "magazijn-pouches"
   ],
   "pouch-for-folding-shovel-143": [
     "veldspaden",
@@ -22117,7 +22113,13 @@
       "bushcraft",
       "Equipment and gear > Survival",
       "Tactical Line",
-      "m-tac"
+      "m-tac",
+      "tourism > Carabiners"
+    ],
+    "plastic-tactical-carabiner-7665": [
+      "bushcraft",
+      "m-tac",
+      "Tactical Line"
     ],
     "plate-carrier-corset-elite-plate-size-m-9557": [
       "m-tac",
@@ -22224,13 +22226,19 @@
       "Equipment and gear > Bags and backpacks > Bags",
       "rugzakken",
       "tassen",
-      "m-tac"
+      "m-tac",
+      "schietsport",
+      "jacht",
+      "tassen-rugzakken"
     ],
     "pocket-bag-x-pac-elite-8505": [
       "Equipment and gear > Bags and backpacks",
       "rugzakken",
       "m-tac",
-      "tassen"
+      "tassen",
+      "jacht",
+      "schietsport",
+      "tassen-rugzakken"
     ],
     "polartec-anatomic-tube-scarf-4806": [
       "Clothing > Neck Warmer",
@@ -22259,7 +22267,8 @@
       "m-tac",
       "longsleeve",
       "polos",
-      "t-shirts"
+      "t-shirts",
+      "Polo > Polo"
     ],
     "poncho-3022": [
       "bushcraft",
@@ -22269,29 +22278,72 @@
       "m-tac",
       "tourism > Ponchos"
     ],
+    "pouch-admin-large-elite-1008": [
+      "m-tac",
+      "pouches",
+      "Tactical gear > Pouches > Admin Pouch"
+    ],
+    "pouch-admin-x-large-elite-1013": [
+      "m-tac",
+      "pouches",
+      "Tactical gear > Pouches > Admin Pouch"
+    ],
+    "pouch-ak-mag-with-cover-gen3-938": [
+      "m-tac",
+      "magazine-pouches",
+      "pouches",
+      "Tactical gear > Pouches > Magazine Pouches",
+      "admin-pouches",
+      "survival"
+    ],
+    "pouch-double-magazine-for-pistol-aps-laser-cut-386": [
+      "m-tac",
+      "Military Line",
+      "pistol-pouches",
+      "pouches",
+      "Tactical gear > Pouches > Pistol Pouches",
+      "admin-pouches",
+      "survival"
+    ],
     "pouch-for-1-vog-type-grenade-979": [
       "grenade-pouches",
       "pouches",
       "Tactical gear > Pouches > grenade pouch",
-      "m-tac"
+      "m-tac",
+      "survival",
+      "admin-pouches"
     ],
     "pouch-for-2-vog-type-grenade-982": [
       "grenade-pouches",
       "Military Line",
       "m-tac",
       "pouches",
-      "Tactical gear > Pouches > grenade pouch"
+      "Tactical gear > Pouches > grenade pouch",
+      "admin-pouches",
+      "survival"
     ],
     "pouch-for-3-vog-type-grenade-985": [
       "grenade-pouches",
       "pouches",
       "m-tac",
-      "Tactical gear > Pouches > grenade pouch"
+      "Tactical gear > Pouches > grenade pouch",
+      "admin-pouches",
+      "survival"
+    ],
+    "pouch-for-cartridges-12-gauge-horizontal-laser-cut-10032": [
+      "magazijn-pouches",
+      "pouches",
+      "admin-pouches",
+      "m-tac",
+      "survival",
+      "Tactical gear > Pouches"
     ],
     "pouch-for-cartridges-cal-12-for-10-cartridges-elite-10403": [
       "m-tac",
       "pouches",
-      "Tactical gear > Pouches"
+      "Tactical gear > Pouches",
+      "admin-pouches",
+      "survival"
     ],
     "pouch-for-folding-shovel-143": [
       "bushcraft",
@@ -27406,6 +27458,46 @@
     "paracord-shock-cord-3mm-100m-9878",
     "paracord-shock-cord-3mm-60m-9875",
     "pas-pkm-8042",
-    "plastic-carabiner-7383"
+    "plastic-carabiner-7383",
+    "plastic-s-hook-carabiner-7659",
+    "plastic-tactical-carabiner-7665",
+    "plate-carrier-corset-elite-plate-size-m-9557",
+    "plate-carrier-cuirass-elite-8178",
+    "plate-carrier-cuirass-elite-genii-7941",
+    "plate-carrier-cuirass-elite-xl-7945",
+    "plate-carrier-cuirass-fast-elite-7947",
+    "plate-carrier-cuirass-fast-elite-genii-7942",
+    "plate-carrier-cuirass-fast-elite-large-8545",
+    "plate-carrier-cuirass-fast-elite-xl-10177",
+    "plate-carrier-cuirass-fast-qrs-5530",
+    "plate-carrier-cuirass-fast-qrs-genii-5878",
+    "plate-carrier-cuirass-fast-qrs-xl-genii-5883",
+    "plate-carrier-cuirass-qrs-446",
+    "plate-carrier-cuirass-qrs-447",
+    "plate-carrier-cuirass-qrs-fast-xl-5873",
+    "plate-carrier-cuirass-qrs-genii-451",
+    "plate-carrier-cuirass-qrs-xl-564",
+    "plate-carrier-cuirass-qrs-xl-genii-569",
+    "plate-carrier-cuirass-tiger-elite-8685",
+    "plate-carrier-lower-accessory-pouch-genii-elite-228",
+    "pocket-bag-hardsling-lite-nr-9701",
+    "pocket-bag-x-pac-elite-8505",
+    "polartec-anatomic-tube-scarf-4806",
+    "polartec-long-tube-scarf-4840",
+    "polo-basic-6535-9102",
+    "polo-elite-tactical-coolmax-6533",
+    "poncho-3022",
+    "pouch-admin-large-elite-1008",
+    "pouch-admin-x-large-elite-1013",
+    "pouch-ak-mag-with-cover-gen3-938",
+    "pouch-double-magazine-for-pistol-aps-laser-cut-386",
+    "pouch-for-1-vog-type-grenade-979",
+    "pouch-for-2-vog-type-grenade-982",
+    "pouch-for-3-vog-type-grenade-985",
+    "pouch-for-cartridges-12-gauge-horizontal-laser-cut-10032",
+    "pouch-for-cartridges-cal-12-for-10-cartridges-elite-10403",
+    "pouch-for-folding-shovel-143",
+    "pouch-for-frag-grenade-laser-cut-1003",
+    "pouch-for-m249-cartridge-box-closed-5894"
   ]
 }
