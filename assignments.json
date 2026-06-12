@@ -59,7 +59,6 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
     "flag-odin-night-vision-630x900-5792",
-    "adapter-mantisx-picatinny-3m",
     "butt-pad-mdt-adjustable"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
@@ -1283,12 +1282,14 @@
     "stokadapters"
   ],
   "adapter-bf-1-4-bsp-female-female": [
-    "stokadapters"
+    "vulbenodigdheden"
   ],
   "adapter-bf-1-4-bsp-male-male": [
-    "stokadapters"
+    "vulbenodigdheden"
   ],
-  "adapter-bf-1-8-bsp-female-female": [],
+  "adapter-bf-1-8-bsp-female-female": [
+    "vulbenodigdheden"
+  ],
   "adapter-bf-1-8-bsp-male-female-hoek-90-graden": [
     "vulbenodigdheden"
   ],
@@ -1322,7 +1323,7 @@
     "trainingssystemen"
   ],
   "adapter-mantisx-picatinny-3m": [
-    "kolven"
+    "trainingssystemen"
   ],
   "adapter-mdt-carbine-to-fixed-stock": [
     "chassis-1"
@@ -14726,6 +14727,21 @@
       "stokadapters",
       "schoonmaak-onderhoud"
     ],
+    "adapter-bf-1-4-bsp-female-female": [
+      "stokadapters",
+      "onderhoud",
+      "schoonmaak-onderhoud"
+    ],
+    "adapter-bf-1-4-bsp-male-male": [
+      "schoonmaak-onderhoud",
+      "onderhoud",
+      "stokadapters"
+    ],
+    "adapter-bf-1-8-bsp-female-female": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
     "adapter-bf-1-8-bsp-male-female-hoek-90-graden": [
       "schoonmaak-onderhoud",
       "onderhoud",
@@ -14777,7 +14793,9 @@
     "adapter-mantisx-picatinny-3m": [
       "onderhoud",
       "stokadapters",
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "kolven",
+      "wapen-toebehoren"
     ],
     "adapter-mdt-carbine-to-fixed-stock": [
       "kolven",
@@ -26452,6 +26470,10 @@
     "adapter-bf-1-8-naar-1-4-bsp-male-male",
     "adapter-bf-1-8-bsp-male-male",
     "adapter-bf-1-8-bsp-male-female-hoek-90-graden",
-    "adapter-bf-din-male-1-8-bsp"
+    "adapter-bf-din-male-1-8-bsp",
+    "adapter-bf-1-8-bsp-female-female",
+    "adapter-bf-1-4-bsp-male-male",
+    "adapter-mantisx-picatinny-3m",
+    "adapter-bf-1-4-bsp-female-female"
   ]
 }
