@@ -1411,7 +1411,7 @@
     "onderhoudshulpmiddelen"
   ],
   "anti-rol-kit-bf-voor-persluchtfles": [
-    "persluchtcilinders"
+    "persluchtfles-accessoires"
   ],
   "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
     "vochtontrekkers"
@@ -1472,7 +1472,7 @@
     "loopkits-toebehoren"
   ],
   "barrel-sleeve-fx-carbon-fiber": [
-    "airsoft-accessoires"
+    "loopkits-toebehoren"
   ],
   "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-black": [
     "mondingsremmen"
@@ -1490,7 +1490,7 @@
     "handstoppen"
   ],
   "base-plate-pts-epm-black": [
-    "picatinny-rails"
+    "kolfplaten"
   ],
   "battery-dnt-18650-2-pack-incl-charger": [
     "nachtzicht-warmtebeeld-accessoires"
@@ -14871,6 +14871,9 @@
     "red-dot-aim-o-xps-2-z-qd-mount-dark-earth": [
       "montage-accessoires"
     ],
+    "anti-rol-kit-bf-voor-persluchtfles": [
+      "persluchtcilinders"
+    ],
     "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
       "vochtontrekkers",
       "Vochtontrekker",
@@ -14916,7 +14919,9 @@
       "airsoft"
     ],
     "barrel-sleeve-fx-carbon-fiber": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "airsoft",
+      "airsoft-accessoires"
     ],
     "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-black": [
       "luchtbuks"
@@ -14935,6 +14940,10 @@
     "barricade-stop-saber-tactical-arca-swiss": [
       "tactical-bags",
       "tactical-gear"
+    ],
+    "base-plate-pts-epm-black": [
+      "optiek",
+      "picatinny-rails"
     ],
     "battery-dnt-18650-2-pack-incl-charger": [
       "observatie-accessoires",
@@ -30169,6 +30178,10 @@
     "cover-cap-saber-tactical-for-foster-extended",
     "sealant-4uad-4uantum-seal",
     "bag-rider-saber-tactical-fx-panthera",
-    "bag-rider-saber-tactical-fx-impact-maverick"
+    "bag-rider-saber-tactical-fx-impact-maverick",
+    "barrel-sleeve-fx-carbon-fiber",
+    "bag-rider-grs",
+    "anti-rol-kit-bf-voor-persluchtfles",
+    "base-plate-pts-epm-black"
   ]
 }
