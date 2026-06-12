@@ -7669,7 +7669,7 @@
     "airsoft-diversen-1"
   ],
   "training-system-mantis-black-beard-ar15-red": [
-    "trainingshalsbanden"
+    "trainingssystemen"
   ],
   "trainingssysteem-mantis-x10-elite": [
     "trainingssystemen"
@@ -7815,9 +7815,11 @@
   "trekkoord-netarm": [
     "reinigingskoorden"
   ],
-  "trigger-lock-pin-laylax-tokyo-marui-hk416d": [],
+  "trigger-lock-pin-laylax-tokyo-marui-hk416d": [
+    "airsoft-diversen-1"
+  ],
   "trigger-lock-pin-laylax-tokyo-marui-sopmod-m4": [
-    "wapensloten"
+    "airsoft-diversen-1"
   ],
   "tripod-adaptor-bog-m-lok-to-arca-swiss": [
     "bipod-toebehoren"
@@ -17706,6 +17708,10 @@
       "chest-rigs",
       "plate-carriers"
     ],
+    "training-system-mantis-black-beard-ar15-red": [
+      "jacht",
+      "trainingshalsbanden"
+    ],
     "trainingssysteem-mantis-x10-elite": [
       "jacht",
       "trainingshalsbanden"
@@ -17749,6 +17755,16 @@
     ],
     "trekkoord-netarm": [
       "schoonmaak-onderhoud"
+    ],
+    "trigger-lock-pin-laylax-tokyo-marui-hk416d": [
+      "jacht",
+      "schietsport",
+      "wapensloten"
+    ],
+    "trigger-lock-pin-laylax-tokyo-marui-sopmod-m4": [
+      "jacht",
+      "schietsport",
+      "wapensloten"
     ],
     "tripod-adaptor-bog-m-lok-to-arca-swiss": [
       "airsoft",
@@ -29695,6 +29711,11 @@
     "tussenplaat-harris-no-7a",
     "turretstickers-groen",
     "tripod-bog-deathgrip-aluminium-realtree-excape",
-    "tripod-adaptor-bog-m-lok-to-arca-swiss"
+    "tripod-adaptor-bog-m-lok-to-arca-swiss",
+    "trigger-lock-pin-laylax-tokyo-marui-hk416d",
+    "trigger-lock-pin-laylax-tokyo-marui-sopmod-m4",
+    "trigger-guard-anschutz-for-precise-aluminium-stock",
+    "training-system-mantis-black-beard-ar15-red",
+    "tourniquet-mp-combat-application-black"
   ]
 }
