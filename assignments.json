@@ -6951,14 +6951,13 @@
     "schietmatten"
   ],
   "shooting-rest-bog-deadshot-compact-sitting": [
-    "monopods"
+    "geweersteunen"
   ],
   "shooting-rest-bog-deadshot-compact-standing": [
-    "monopods"
+    "geweersteunen"
   ],
   "schietstok-bog-havoc-bipod": [
-    "bipods",
-    "monopods"
+    "bipods"
   ],
   "schietstok-bog-havoc-monopod": [
     "monopods"
@@ -6970,17 +6969,16 @@
     "statieven"
   ],
   "shooting-stick-hill-quad-sticks": [
-    "monopods"
+    "geweersteunen"
   ],
   "shooting-stick-manfrotto-alpha-shot-v-kit": [
     "monopods"
   ],
   "shooting-stick-vanguard-quest-b38-bipod": [
-    "bipods",
-    "monopods"
+    "bipods"
   ],
   "shooting-stick-vanguard-quest-b62": [
-    "monopods"
+    "bipods"
   ],
   "shooting-stick-vanguard-quest-m49-monopod": [
     "monopods"
@@ -6989,8 +6987,7 @@
     "monopods"
   ],
   "shooting-stick-vanguard-scout-b62-bipod": [
-    "bipods",
-    "monopods"
+    "bipods"
   ],
   "shooting-stick-vanguard-scout-m62": [
     "monopods"
@@ -7153,10 +7150,10 @@
     "schoonmaaksetjes"
   ],
   "schouderhaak-anschutz-2213-8700": [
-    "kolven"
+    "schoudersteunen"
   ],
   "schouderhaak-mec-free-position-ii": [
-    "kolven"
+    "schoudersteunen"
   ],
   "schouderprotectie-past-hidden-comfort-recoil-shieldtm-for-women": [
     "schouderkussens"
@@ -7174,13 +7171,13 @@
     "schouderkussens"
   ],
   "butt-stock-bag-rider-saber-tactical-rfb-precision-fx-impact": [
-    "kolven"
+    "schoudersteunen"
   ],
   "schouderstuk-anschutz-4709a": [
-    "kolven"
+    "schoudersteunen"
   ],
   "butt-plate-ctm-type-b": [
-    "kolven"
+    "schoudersteunen"
   ],
   "schouderstuk-fx-dynamic-redback-fde": [
     "schoudersteunen"
@@ -17357,6 +17354,30 @@
       "herlaadkits",
       "polijsttrommels"
     ],
+    "shooting-rest-bog-deadshot-compact-sitting": [
+      "monopods",
+      "wapen-toebehoren"
+    ],
+    "shooting-rest-bog-deadshot-compact-standing": [
+      "monopods",
+      "wapen-toebehoren"
+    ],
+    "schietstok-bog-havoc-bipod": [
+      "monopods"
+    ],
+    "shooting-stick-hill-quad-sticks": [
+      "monopods",
+      "wapen-toebehoren"
+    ],
+    "shooting-stick-vanguard-quest-b38-bipod": [
+      "monopods"
+    ],
+    "shooting-stick-vanguard-quest-b62": [
+      "monopods"
+    ],
+    "shooting-stick-vanguard-scout-b62-bipod": [
+      "monopods"
+    ],
     "schoonmaakborstel-bore-tech-bronze": [
       "schoonmaak-onderhoud"
     ],
@@ -17519,6 +17540,21 @@
     "cleaning-set-gunpany-5-piece": [
       "schoonmaakborstels",
       "schoonmaak-onderhoud"
+    ],
+    "schouderhaak-anschutz-2213-8700": [
+      "kolven"
+    ],
+    "schouderhaak-mec-free-position-ii": [
+      "kolven"
+    ],
+    "butt-stock-bag-rider-saber-tactical-rfb-precision-fx-impact": [
+      "kolven"
+    ],
+    "schouderstuk-anschutz-4709a": [
+      "kolven"
+    ],
+    "butt-plate-ctm-type-b": [
+      "kolven"
     ],
     "schouderstuk-fx-dynamic-redback-fde": [
       "kolven"
@@ -29860,6 +29896,26 @@
     "steel-pillars-anschutz-precise",
     "schouderstuk-saber-tactical-fx-impact-maverick",
     "schouderstuk-mec-contact-iii",
-    "schouderstuk-fx-dynamic-redback-fde"
+    "schouderstuk-fx-dynamic-redback-fde",
+    "butt-plate-ctm-type-b",
+    "schouderstuk-anschutz-4709a",
+    "butt-stock-bag-rider-saber-tactical-rfb-precision-fx-impact",
+    "schouderhaak-mec-free-position-ii",
+    "schouderhaak-anschutz-2213-8700",
+    "schiettafel-caldwell-stable-table",
+    "shooting-stick-vanguard-scout-m62",
+    "shooting-stick-vanguard-scout-b62-bipod",
+    "shooting-stick-vanguard-quest-m62",
+    "shooting-stick-vanguard-quest-m49-monopod",
+    "shooting-stick-vanguard-quest-b38-bipod",
+    "shooting-stick-manfrotto-alpha-shot-v-kit",
+    "shooting-stick-hill-quad-sticks",
+    "shooting-stick-vanguard-quest-b62",
+    "shooting-stick-fiery-deer-tripod-gen-4",
+    "shooting-stick-fiery-deer-monopod-gen-4",
+    "schietstok-bog-havoc-bipod",
+    "schietstok-bog-havoc-monopod",
+    "shooting-rest-bog-deadshot-compact-standing",
+    "shooting-rest-bog-deadshot-compact-sitting"
   ]
 }
