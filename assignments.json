@@ -1426,13 +1426,10 @@
     "persluchtfles-accessoires"
   ],
   "adapter-bore-tech-bore-stix": [
-    "schoonmaaksetjes",
-    "schoonmaakstokken"
+    "stokadapters"
   ],
   "adapter-bore-tech-proof-positive-bore-stix-22-rf": [
-    "schoonmaakborstels",
-    "schoonmaaksetjes",
-    "schoonmaakstokken"
+    "stokadapters"
   ],
   "admin-pouch-nuprol-green": [
     "admin-pouches"
@@ -15112,6 +15109,17 @@
     "adapter-plate-walther-fixlock-holosun-509t": [
       "richtmiddel-accessoires"
     ],
+    "adapter-bore-tech-bore-stix": [
+      "schoonmaaksetjes",
+      "schoonmaakstokken",
+      "schoonmaak-onderhoud"
+    ],
+    "adapter-bore-tech-proof-positive-bore-stix-22-rf": [
+      "schoonmaaksetjes",
+      "schoonmaakborstels",
+      "schoonmaakstokken",
+      "schoonmaak-onderhoud"
+    ],
     "admin-pouch-nuprol-green": [
       "utility-pouches",
       "pouches"
@@ -22485,6 +22493,10 @@
     "mounting-base-kmr-s-02-or-trijicon-rmr-sro",
     "adapter-plate-kmr-s-02-leupold-delta-point-pro",
     "adapterplaat-kmr-s-02-or-shield",
-    "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw"
+    "advanced-trigger-board-wolverine-with-optical-sensor-for-mtw",
+    "adapter-bore-tech-proof-positive-bore-stix-22-rf",
+    "adapter-bore-tech-bore-stix",
+    "admin-pouch-nuprol-green",
+    "admin-pouch-nuprol-tan"
   ]
 }
