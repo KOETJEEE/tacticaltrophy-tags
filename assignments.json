@@ -7647,7 +7647,7 @@
     "revisiesetjes"
   ],
   "test-stofplug-bf-foster": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "thermo-pouch-manfrotto-alpha-shot-tripod": [
     "statieven"
@@ -17707,6 +17707,9 @@
     "tactical-vest-nuprol-low-profile-harness-pmc-tan": [
       "chest-rigs",
       "plate-carriers"
+    ],
+    "test-stofplug-bf-foster": [
+      "persluchtfles-accessoires"
     ],
     "training-system-mantis-black-beard-ar15-red": [
       "jacht",
@@ -29716,6 +29719,7 @@
     "trigger-lock-pin-laylax-tokyo-marui-sopmod-m4",
     "trigger-guard-anschutz-for-precise-aluminium-stock",
     "training-system-mantis-black-beard-ar15-red",
-    "tourniquet-mp-combat-application-black"
+    "tourniquet-mp-combat-application-black",
+    "test-stofplug-bf-foster"
   ]
 }
