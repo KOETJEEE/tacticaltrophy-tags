@@ -10822,15 +10822,13 @@
     "broeken"
   ],
   "pants-army-genii-nyco-extreme-2759": [
-    "tactical-broeken",
-    "broeken"
+    "tactical-broeken"
   ],
   "pants-cotton-classic-7990": [
     "joggingbroeken",
     "broeken"
   ],
   "pants-field-nyco-1350": [
-    "broeken",
     "tactical-broeken"
   ],
   "pants-fleece-delta-level-2-hex-10061": [
@@ -12024,8 +12022,8 @@
     "riemen-bretels"
   ],
   "shoulder-straps-for-tactical-belt-laser-cut-803": [
-    "tactical-riemen",
-    "tactical-vests"
+    "tactical-vests",
+    "riemen-bretels"
   ],
   "skull-stopper-bead-5040": [
     "paracord"
@@ -12121,16 +12119,13 @@
     "tussenseizoenjassen"
   ],
   "soft-shell-jacket-with-liner-3929": [
-    "jassen",
     "winterjassen"
   ],
   "soft-shell-police-jacket-3004": [
-    "jassen",
     "softshell-jassen",
     "tussenseizoenjassen"
   ],
   "space-armor-jacket-genii-1378": [
-    "jassen",
     "tussenseizoenjassen",
     "softshell-jassen"
   ],
@@ -20837,7 +20832,8 @@
       "military-broeken",
       "m-tac",
       "maattabel-mtac",
-      "winter-jassen"
+      "winter-jassen",
+      "broeken"
     ],
     "pants-cotton-classic-7990": [
       "Clothing > Pants",
@@ -20847,7 +20843,8 @@
       "Clothing > Pants > Military Pants",
       "military-broeken",
       "m-tac",
-      "maattabel-mtac"
+      "maattabel-mtac",
+      "broeken"
     ],
     "pants-fleece-delta-level-2-hex-10061": [
       "Clothing > Underwear > Thermoactive pants"
@@ -22807,7 +22804,8 @@
       "Tactical gear > Tactical belts",
       "kleding",
       "bretels",
-      "belts"
+      "belts",
+      "tactical-riemen"
     ],
     "skull-stopper-bead-5040": [
       "paracord",
@@ -22966,6 +22964,16 @@
     ],
     "socks-merino-trekking-10010": [
       "Clothing > Socks",
+      "m-tac"
+    ],
+    "soft-shell-jacket-with-liner-3929": [
+      "jassen",
+      "Clothing > Jackets > Winter jackets",
+      "m-tac"
+    ],
+    "space-armor-jacket-genii-1378": [
+      "jassen",
+      "Clothing > Jackets > Mid-season jackets",
       "m-tac"
     ],
     "spark-gouging-device-7618": [
@@ -24823,7 +24831,13 @@
     "m-tac-t-shirt-surf-club-6872",
     "m-tac-t-shirt-ua-side-6742",
     "m-tac-t-shirt-warrior-8636",
-    "m-tac-tablet-bag-laser-cut-hex-763"
+    "m-tac-tablet-bag-laser-cut-hex-763",
+    "skull-stopper-bead-5040",
+    "small-folding-knife-7-tools-5935",
+    "sniper-t-shirt-6682",
+    "sticker-tactical-girl-3-water-play-5796",
+    "sticker-tactical-girl-4-tatoo-yakuza-5795",
+    "sticker-tactical-girl-9-rpg-skandinavik-7954"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -28114,6 +28128,70 @@
     "modular-insert-for-5-ml-ampules-8901",
     "modular-insert-for-sd-cards-3-sections-9770",
     "pants-aggressor-elite-nyco-extreme-8392",
-    "pants-aggressor-genii-vintage-2628"
+    "pants-aggressor-genii-vintage-2628",
+    "pants-aggressor-lady-flex-2143",
+    "pants-aggressor-special-edition-8457",
+    "pants-aggressor-summer-flex-2263",
+    "pants-aggressor-summer-flex-lady-4001",
+    "pants-aggressor-summer-genii-flex-9315",
+    "pants-aggressor-vintage-3328",
+    "pants-army-genii-nyco-extreme-2759",
+    "pants-cotton-classic-7990",
+    "pants-field-nyco-1350",
+    "pants-fleece-delta-level-2-hex-10061",
+    "pants-fleece-delta-level-2-lady-5837",
+    "pants-patrol-flex-9215",
+    "pants-patrol-geniii-8796",
+    "rip-stop-flecce-helmet-liner-4898",
+    "shoulder-straps-for-tactical-belt-elite-257",
+    "shoulder-straps-for-tactical-belt-laser-cut-803",
+    "small-carabiner-9726",
+    "small-tactical-ruler-nato-blue-10191",
+    "smartphone-pouch-106",
+    "smartphone-pouch-elite-large-282",
+    "smartphone-pouch-elite-large-hex-468",
+    "smartphone-pouch-elite-medium-hex-439",
+    "sneakers-tactical-caiman-10414",
+    "sneakers-tactical-demi-season-4182",
+    "sneakers-tactical-demi-season-pro-line-7786",
+    "soft-shell-jacket-2976",
+    "soft-shell-jacket-lady-9837",
+    "soft-shell-jacket-with-liner-3929",
+    "soft-shell-police-jacket-3004",
+    "space-armor-jacket-genii-1378",
+    "sphaera-hardsling-bag-large-elite-5716",
+    "sphaera-hardsling-bag-largewith-velcro-closure-elite-5834",
+    "sphaera-hex-hardsling-bag-genii-10184",
+    "spork-cutlery-set-with-a-carabiner-5931",
+    "spork-cutlery-set-with-a-carabiner-5932",
+    "sprint-fleece-sweatshirt-polartec-3774",
+    "steel-large-ccutlery-set-4-items-7414",
+    "steel-small-ccutlery-set-4-items-7415",
+    "sticker-tactical-girl-10-at4-skandinavik-7949",
+    "sturm-ballistic-gorget-for-inserts-9038",
+    "summer-light-sneakers-7541",
+    "sweat-wicking-t-shirt-athletic-6488",
+    "sweat-wicking-t-shirt-athletic-tactical-genii-6513",
+    "sweat-wicking-t-shirt-genii-6561",
+    "sweater-nord-fleece-polartec-lady-3957",
+    "sweatshirt-born-by-revolution-8852",
+    "t-shirt-937-6571",
+    "t-shirt-937-summer-2879",
+    "red-dot-vector-optics-frenzy-1x26x32",
+    "red-dot-vector-optics-frenzy-plus-1x18x22",
+    "red-dot-vector-optics-frenzy-plus-3-moa",
+    "red-dot-vector-optics-frenzy-plus-multi-reticle",
+    "red-dot-vector-optics-frenzy-rd-3-moa",
+    "red-dot-vector-optics-frenzy",
+    "red-dot-vector-optics-frenzy-s-1x17x20-multi-reticle",
+    "red-dot-vector-optics-frenzy-s-1x17x20",
+    "red-dot-vector-optics-frenzy-x-genii",
+    "spotting-scope-vector-optics-forester-20-60x60",
+    "rifle-scope-vector-optics-grizzly-1-6x24i-hd",
+    "rifle-scope-vector-optics-grizzly-2-5-15x50i-hd",
+    "rifle-scope-vector-optics-grizzly-3-12x56",
+    "rifle-scope-vector-optics-grizzly-3-18x56i-hd",
+    "rifle-scope-vector-optics-hugo-gt-3-12x44-voi-10bdc",
+    "rifle-scope-vector-optics-hugo-gt-4-16x44-voi-10bdc"
   ]
 }
