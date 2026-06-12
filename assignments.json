@@ -6294,13 +6294,13 @@
     "gehoorbescherming"
   ],
   "storage-case-plano-element-proof-field-ammo-box-compact-34x14": [
-    "wapenkoffers"
+    "munitieboxen"
   ],
   "storage-case-plano-element-proof-field-ammo-box-small-29x18": [
-    "wapenkoffers"
+    "munitieboxen"
   ],
   "storage-case-plano-hinged-sportsman-s-trunk-large-od-green-95x34": [
-    "wapenkoffers"
+    "munitieboxen"
   ],
   "rifle-scope-optisan-cp-10x32p-mh10": [
     "richtkijkers"
@@ -16872,6 +16872,21 @@
     "eyecup-dnt-zulus-hd-tnc225r": [
       "observatie-accessoires"
     ],
+    "storage-case-plano-element-proof-field-ammo-box-compact-34x14": [
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "storage-case-plano-element-proof-field-ammo-box-small-29x18": [
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "storage-case-plano-hinged-sportsman-s-trunk-large-od-green-95x34": [
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "fold-up-hex-allen-key-wrench-walther-universal-tool": [
+      "schoonmaak-onderhoud"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -25397,6 +25412,23 @@
     "ontlaadhamer-frankford-arsenal-quick-n-ez",
     "eyecup-dnt-hydra-tnc335r-tnc635r",
     "eyecup-dnt-zulus-hd-tnc225r",
-    "ear-bud-code-red-easy-shape"
+    "ear-bud-code-red-easy-shape",
+    "ear-plugs-caldwell-e-max-shadow-pro",
+    "ear-plugs-sordin-smartear-impulse",
+    "oorpluggen-walker-s-neon-yellow-soft-foam-met-koord-2-pack",
+    "ear-plugs-walker-s-orange-soft-foam-5-pack",
+    "ear-plugs-walker-s-orange-soft-foam-7-pack",
+    "ear-plugs-walker-s-orange-soft-foam-corded-2-pack",
+    "ear-plugs-walker-s-rubber-corded",
+    "oorproppen-caldwell-range-plugs",
+    "ear-plugs-walker-s-silicone-putty-3-pack",
+    "ear-insert-code-red-earmold-black",
+    "ear-insert-code-red-earmold-transparent",
+    "storage-case-plano-element-proof-field-ammo-box-compact-34x14",
+    "storage-case-plano-element-proof-field-ammo-box-small-29x18",
+    "storage-case-plano-hinged-sportsman-s-trunk-large-od-green-95x34",
+    "rifle-scope-optisan-cp-10x32p-mh10",
+    "rifle-scope-optisan-cp-3-12x32p-mh10",
+    "fold-up-hex-allen-key-wrench-walther-universal-tool"
   ]
 }
