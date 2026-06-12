@@ -5412,16 +5412,16 @@
     "2-delige-montages"
   ],
   "mount-vector-optics-zr-25-4-30-mm-high-dovetail": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-walther-fixlock-red-dot-mounting-base": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mount-walther-fixlock-rings": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-walther-fixlock-sr-swarovski-optik-rail": [
-    "montage-accessoires"
+    "montagebasissen"
   ],
   "mount-walther-fixlock-weaver-picatinny": [
     "montagebasissen"
@@ -16463,6 +16463,18 @@
     "mount-vector-optics-x-accu-adjustable-elevation-34-mm-dovetail": [
       "montage-accessoires"
     ],
+    "mount-vector-optics-zr-25-4-30-mm-high-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-walther-fixlock-red-dot-mounting-base": [
+      "richtmiddel-accessoires"
+    ],
+    "mount-walther-fixlock-rings": [
+      "montage-accessoires"
+    ],
+    "mount-walther-fixlock-sr-swarovski-optik-rail": [
+      "montage-accessoires"
+    ],
     "mount-walther-fixlock-weaver-picatinny": [
       "1-delige-montages"
     ],
@@ -26224,6 +26236,11 @@
     "mounting-rail-utg-accu-sync-qr-side-mount-for-ak",
     "mounting-rail-tokyo-marui-vsr-10-picatinny",
     "mounting-rail-saber-tactical-picatinny-to-picatinny",
-    "mount-walther-fixlock-zm-vm-zeiss-rail"
+    "mount-walther-fixlock-zm-vm-zeiss-rail",
+    "mount-walther-fixlock-weaver-picatinny",
+    "mount-walther-fixlock-sr-swarovski-optik-rail",
+    "mount-walther-fixlock-rings",
+    "mount-walther-fixlock-red-dot-mounting-base",
+    "mount-vector-optics-zr-25-4-30-mm-high-dovetail"
   ]
 }
