@@ -500,16 +500,13 @@
     "geweertassen-foudralen"
   ],
   "explorer-cases-tas-f-voor-4820-255070": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-tas-r-voor-2712-255040": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-tas-g-voor-582258235833-255075": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-universele-draagriem-set-255470": [
     "koffers",
@@ -14258,6 +14255,27 @@
       "koffers",
       "wapenkoffers"
     ],
+    "explorer-cases-tas-f-voor-4820-255070": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-tas-r-voor-2712-255040": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-tas-g-voor-582258235833-255075": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
     "flir-breach-ptq136-objectief-beschermlens-13431910": [
       "nachtzicht-en-warmtebeeldaccessoires",
       "warmtebeeld-accessoires"
@@ -22077,6 +22095,9 @@
     "explorer-cases-red-line-9413-geweer-koffer-met-plukschuim-251261",
     "explorer-cases-tas-114-voor-11413-255140",
     "explorer-cases-tas-135-voor-13513-255145",
-    "explorer-cases-tas-94-voor-9413-255130"
+    "explorer-cases-tas-94-voor-9413-255130",
+    "explorer-cases-tas-f-voor-4820-255070",
+    "explorer-cases-tas-r-voor-2712-255040",
+    "explorer-cases-tas-g-voor-582258235833-255075"
   ]
 }
