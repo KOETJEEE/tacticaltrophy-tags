@@ -7474,7 +7474,7 @@
     "tassen-rugzakken"
   ],
   "spray-birchwood-synthetic-stock-cleaner-protectant-60-ml": [
-    "kolven"
+    "kolfolien"
   ],
   "speaker-mic-baofeng-bs-uv25-tactical": [
     "portofoons"
@@ -7620,7 +7620,7 @@
     "geweertassen-foudralen"
   ],
   "tactical-kit-fx-dreamline": [
-    "kolven"
+    "montage-rails"
   ],
   "tactical-vest-nuprol-low-profile-harness-pmc-black": [
     "chest-rigs"
@@ -7632,14 +7632,13 @@
     "tactical-vests"
   ],
   "tactical-vest-nuprol-mini-green": [
-    "plate-carriers"
+    "tactical-vests"
   ],
   "tactical-vest-nuprol-mini-tan": [
-    "plate-carriers"
+    "tactical-vests"
   ],
   "tactical-vest-nuprol-molle-harness-pmc-black": [
-    "chest-rigs",
-    "plate-carriers"
+    "tactical-vests"
   ],
   "team-armband-g-g-6-pack": [
     "airsoft-diversen-1"
@@ -17623,6 +17622,10 @@
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
     ],
+    "spray-birchwood-synthetic-stock-cleaner-protectant-60-ml": [
+      "kolven",
+      "wapen-toebehoren"
+    ],
     "steeksleutel-element-delta-ring-butt-stock": [
       "kolven"
     ],
@@ -17733,6 +17736,10 @@
       "foudralen",
       "geweertassen"
     ],
+    "tactical-kit-fx-dreamline": [
+      "kolven",
+      "wapen-toebehoren"
+    ],
     "tactical-vest-nuprol-low-profile-harness-pmc-black": [
       "plate-carriers"
     ],
@@ -17741,6 +17748,16 @@
       "chest-rigs"
     ],
     "tactical-vest-nuprol-low-profile-harness-pmc-tan": [
+      "chest-rigs",
+      "plate-carriers"
+    ],
+    "tactical-vest-nuprol-mini-green": [
+      "plate-carriers"
+    ],
+    "tactical-vest-nuprol-mini-tan": [
+      "plate-carriers"
+    ],
+    "tactical-vest-nuprol-molle-harness-pmc-black": [
       "chest-rigs",
       "plate-carriers"
     ],
@@ -29772,6 +29789,11 @@
     "marker-birchwood-sight-touch-up-super-bright-pen-kit",
     "steeksleutel-element-delta-ring-butt-stock",
     "cradle-for-pigeon-crow",
-    "standaard-lockdown-handgun-rack-single-3-stuks"
+    "standaard-lockdown-handgun-rack-single-3-stuks",
+    "spray-birchwood-synthetic-stock-cleaner-protectant-60-ml",
+    "tactical-vest-nuprol-mini-green",
+    "tactical-vest-nuprol-mini-tan",
+    "tactical-vest-nuprol-molle-harness-pmc-black",
+    "tactical-kit-fx-dreamline"
   ]
 }
