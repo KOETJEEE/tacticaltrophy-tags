@@ -1292,13 +1292,13 @@
     "stokadapters"
   ],
   "adapter-bf-1-8-bsp-male-female-hoek-90-graden": [
-    "stokadapters"
+    "vulbenodigdheden"
   ],
   "adapter-bf-1-8-bsp-male-male": [
-    "stokadapters"
+    "vulbenodigdheden"
   ],
   "adapter-bf-1-8-naar-1-4-bsp-male-male": [
-    "stokadapters"
+    "vulbenodigdheden"
   ],
   "adapter-best-fittings-200-232-bar-din-female-1-8-bsp-male": [
     "vulbenodigdheden"
@@ -1307,7 +1307,8 @@
     "vulbenodigdheden"
   ],
   "adapter-bf-din-male-1-8-bsp": [
-    "stokadapters"
+    "stokadapters",
+    "vulbenodigdheden"
   ],
   "adapter-fx-klapkolf": [
     "stokadapters",
@@ -14728,6 +14729,21 @@
       "stokadapters",
       "schoonmaak-onderhoud"
     ],
+    "adapter-bf-1-8-bsp-male-female-hoek-90-graden": [
+      "schoonmaak-onderhoud",
+      "onderhoud",
+      "stokadapters"
+    ],
+    "adapter-bf-1-8-bsp-male-male": [
+      "schoonmaak-onderhoud",
+      "onderhoud",
+      "stokadapters"
+    ],
+    "adapter-bf-1-8-naar-1-4-bsp-male-male": [
+      "onderhoud",
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
     "adapter-best-fittings-200-232-bar-din-female-1-8-bsp-male": [
       "onderhoud",
       "stokadapters",
@@ -26430,6 +26446,9 @@
     "barrel-band-fx-dreamline",
     "barrel-inlet-fx-drs-5-5-mm-22",
     "adapter-best-fittings-200-232-bar-din-female-1-8-bsp-male",
-    "adaptor-best-fittings-300-bar-din-female-1-8-bsp-male"
+    "adaptor-best-fittings-300-bar-din-female-1-8-bsp-male",
+    "adapter-bf-1-8-naar-1-4-bsp-male-male",
+    "adapter-bf-1-8-bsp-male-male",
+    "adapter-bf-1-8-bsp-male-female-hoek-90-graden"
   ]
 }
