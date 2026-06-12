@@ -1380,7 +1380,7 @@
     "geweersteunen"
   ],
   "adaptor-vanguard-endeavor-swivel-stud-to-weaver-picatinny": [
-    "stokadapters"
+    "geweersteunen"
   ],
   "adapter-vfg-voor-us-poetsstokken": [
     "stokadapters"
@@ -15083,6 +15083,11 @@
       "stokadapters",
       "schoonmaak-onderhoud"
     ],
+    "adaptor-vanguard-endeavor-swivel-stud-to-weaver-picatinny": [
+      "schoonmaak-onderhoud",
+      "onderhoud",
+      "stokadapters"
+    ],
     "adapter-vfg-voor-us-poetsstokken": [
       "stokadapters"
     ],
@@ -22502,6 +22507,8 @@
     "adapter-bore-tech-proof-positive-bore-stix-22-rf",
     "adapter-bore-tech-bore-stix",
     "admin-pouch-nuprol-green",
-    "admin-pouch-nuprol-tan"
+    "admin-pouch-nuprol-tan",
+    "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss",
+    "adaptor-vanguard-endeavor-swivel-stud-to-weaver-picatinny"
   ]
 }
