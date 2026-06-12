@@ -4196,10 +4196,10 @@
     "kolven"
   ],
   "kolf-hogue-ar15-omc-mil-spec": [
-    "kolven"
+    "buttstocks"
   ],
   "kolf-hogue-ar15-omc-mil-spec-met-buffertube": [
-    "kolven"
+    "buttstocks"
   ],
   "stock-hogue-ar15-omcb-mil-spec-with-grip-aqua": [
     "kolven"
@@ -16357,6 +16357,12 @@
     ],
     "pellet-catcher-krale-hammerite-23x23": [
       "luchtdrukmunitie-accessoires"
+    ],
+    "kolf-hogue-ar15-omc-mil-spec": [
+      "kolven"
+    ],
+    "kolf-hogue-ar15-omc-mil-spec-met-buffertube": [
+      "kolven"
     ],
     "stock-oil-birchwood-genuine-oil-90-ml": [
       "schoonmaak-onderhoud"
