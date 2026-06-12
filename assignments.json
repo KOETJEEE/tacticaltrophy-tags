@@ -7604,13 +7604,16 @@
     "geweertassen-foudralen"
   ],
   "tacstack-s-accessory-pouch": [
-    "die-accessoires"
+    "die-accessoires",
+    "tassen-rugzakken"
   ],
   "tacstack-s-bag-organiser": [
-    "tactical-bags"
+    "tactical-bags",
+    "tassen-rugzakken"
   ],
   "tacstack-s-wave-foam-bag-organiser": [
-    "tactical-bags"
+    "tactical-bags",
+    "tassen-rugzakken"
   ],
   "tacstack-xl-130x30-rifle-bag": [
     "geweertassen-foudralen"
@@ -7619,16 +7622,13 @@
     "kolven"
   ],
   "tactical-vest-nuprol-low-profile-harness-pmc-black": [
-    "chest-rigs",
-    "plate-carriers"
+    "chest-rigs"
   ],
   "tactical-vest-nuprol-low-profile-harness-pmc-camo": [
-    "chest-rigs",
-    "plate-carriers"
+    "tactical-vests"
   ],
   "tactical-vest-nuprol-low-profile-harness-pmc-tan": [
-    "chest-rigs",
-    "plate-carriers"
+    "tactical-vests"
   ],
   "tactical-vest-nuprol-mini-green": [
     "plate-carriers"
@@ -17703,6 +17703,21 @@
     "tacstack-s-75x30-rifle-bag": [
       "foudralen",
       "geweertassen"
+    ],
+    "tacstack-xl-130x30-rifle-bag": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "tactical-vest-nuprol-low-profile-harness-pmc-black": [
+      "plate-carriers"
+    ],
+    "tactical-vest-nuprol-low-profile-harness-pmc-camo": [
+      "plate-carriers",
+      "chest-rigs"
+    ],
+    "tactical-vest-nuprol-low-profile-harness-pmc-tan": [
+      "chest-rigs",
+      "plate-carriers"
     ],
     "utility-pouch-nuprol-medium-pmc-green": [
       "tactical-gear",
@@ -29352,6 +29367,13 @@
     "tacstack-organising-patches-tactical",
     "tacstack-rubber-patch",
     "tacstack-s-75x30-rifle-bag",
-    "tacstack-pick-pluck-foam-for-xl-131x34-rifle-case"
+    "tacstack-pick-pluck-foam-for-xl-131x34-rifle-case",
+    "tacstack-s-accessory-pouch",
+    "tacstack-s-bag-organiser",
+    "tacstack-s-wave-foam-bag-organiser",
+    "tacstack-xl-130x30-rifle-bag",
+    "tactical-vest-nuprol-low-profile-harness-pmc-black",
+    "tactical-vest-nuprol-low-profile-harness-pmc-camo",
+    "tactical-vest-nuprol-low-profile-harness-pmc-tan"
   ]
 }
