@@ -2759,16 +2759,17 @@
     "lokduiven"
   ],
   "pigeon-decoy-sillosocks-3d-head": [
-    "lokmiddel-toebehoren"
+    "lokmiddel-toebehoren",
+    "lokduiven"
   ],
   "pigeon-decoy-sillosocks-harvester-12-pack": [
-    "lokmiddel-toebehoren"
+    "lokduiven"
   ],
   "pigeon-decoy-sillosocks-hypa-flap": [
-    "lokmiddel-toebehoren"
+    "lokduiven"
   ],
   "pigeon-decoy-sillosocks-hypa-flap-motorised-remote-controlled": [
-    "lokmiddel-toebehoren"
+    "lokduiven"
   ],
   "ear-defender-sordin-supreme-pro-x-sfa-leather-black": [
     "gehoorbescherming"
@@ -2951,16 +2952,13 @@
     "lokganzen"
   ],
   "decoy-sillosocks-3d-pink-foot-grey-lag-goose-feeding": [
-    "lokganzen",
-    "lokmiddel-toebehoren"
+    "lokganzen"
   ],
   "decoy-sillosocks-3d-pink-foot-grey-lag-goose-sentry": [
-    "lokganzen",
-    "lokmiddel-toebehoren"
+    "lokganzen"
   ],
   "decoy-sillosocks-canada-goose-foraging-12-pack": [
-    "lokganzen",
-    "lokmiddel-toebehoren"
+    "lokganzen"
   ],
   "decoy-sillosocks-canada-goose-harvester-12-pack": [
     "lokganzen",
@@ -15483,6 +15481,24 @@
     "doorslagset-wheeler-messing-8-delig": [
       "schoonmaak-onderhoud"
     ],
+    "pigeon-decoy-sillosocks-harvester-12-pack": [
+      "lokmiddel-toebehoren"
+    ],
+    "pigeon-decoy-sillosocks-hypa-flap": [
+      "lokmiddel-toebehoren"
+    ],
+    "pigeon-decoy-sillosocks-hypa-flap-motorised-remote-controlled": [
+      "lokmiddel-toebehoren"
+    ],
+    "decoy-sillosocks-3d-pink-foot-grey-lag-goose-feeding": [
+      "lokmiddel-toebehoren"
+    ],
+    "decoy-sillosocks-3d-pink-foot-grey-lag-goose-sentry": [
+      "lokmiddel-toebehoren"
+    ],
+    "decoy-sillosocks-canada-goose-foraging-12-pack": [
+      "lokmiddel-toebehoren"
+    ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
     ],
@@ -23047,6 +23063,40 @@
     "doelstickers-caldwell-orange-peel-8",
     "doelstickers-caldwell-orange-peel-bullseye-targets-4",
     "doorslagset-wheeler-engineering-roll-pin-punch-set",
-    "doorslagset-wheeler-messing-8-delig"
+    "doorslagset-wheeler-messing-8-delig",
+    "pigeon-decoy-electronic",
+    "pigeon-decoy-flocked-flapper",
+    "pigeon-decoy-flocked-foraging-new",
+    "pigeon-decoy-flocked-standing-new",
+    "pigeon-decoy-flocked-flying-new",
+    "pigeon-decoy-sillosocks-3d-head",
+    "pigeon-decoy-sillosocks-harvester-12-pack",
+    "pigeon-decoy-sillosocks-hypa-flap",
+    "pigeon-decoy-sillosocks-hypa-flap-motorised-remote-controlled",
+    "ear-defender-sordin-supreme-pro-x-sfa-leather-black",
+    "mallard-decoy-floating-hen",
+    "mallard-decoy-floating-drake",
+    "decoy-sillosocks-hypa-flap-mallard-drake",
+    "decoy-sillosocks-2d-mallard-drake-sleeper-12-pack",
+    "element-optics-etx-red-dot",
+    "rangefinder-element-optics-helix-1500",
+    "binocular-element-optics-helix-hd-10x42",
+    "binocular-element-optics-helix-hd-8x42",
+    "rifle-scope-element-optics-helix-hd-2-16x50-raptr-1",
+    "electronic-game-caller-hunters-specialties-johnny-stewart-executioner",
+    "flattening-stone-taidea-tg1804",
+    "element-optics-theos-2-10x42-mpr-1d-mrad-richtkijker-black",
+    "element-optics-theos-2-10x42-mpr-1d-mrad-richtkijker-fde",
+    "rifle-scope-element-optics-theos-6-36x56-apr-2d-mrad-black",
+    "rangefinder-element-optics-titan-3k",
+    "decoy-greylag-goose-flocked-foraging-6-pack",
+    "decoy-greylag-goose-flocked-resting-6-pack",
+    "decoy-greylag-goose-flocked-standing-6-pack",
+    "decoy-white-fronted-goose-flocked-foraging-6-pack",
+    "decoy-white-fronted-goose-flocked-resting-6-pack",
+    "decoy-white-fronted-goose-flocked-standing-6-pack",
+    "decoy-sillosocks-3d-pink-foot-grey-lag-goose-feeding",
+    "decoy-sillosocks-3d-pink-foot-grey-lag-goose-sentry",
+    "decoy-sillosocks-canada-goose-foraging-12-pack"
   ]
 }
