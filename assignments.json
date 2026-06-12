@@ -8535,7 +8535,7 @@
     "gereedschap"
   ],
   "wildbak-wegu-gft-92x60x20": [
-    "wildvoer"
+    "wilddragers"
   ],
   "wildlife-camera-hikmicro-m15": [
     "wildcameras"
@@ -18545,6 +18545,9 @@
     ],
     "werkblok-wheeler-universeel": [
       "schoonmaak-onderhoud"
+    ],
+    "wildbak-wegu-gft-92x60x20": [
+      "wildvoer"
     ],
     "wolborstel-bore-tech-proof-positive": [
       "schoonmaak-onderhoud"
@@ -30345,6 +30348,7 @@
     "timer-sillosocks-flapper",
     "tool-head-frankford-arsenal-x-10",
     "trekkerslot-lockdown-met-cijfercombinatie",
-    "walther-p99-6-mm-0-08j"
+    "walther-p99-6-mm-0-08j",
+    "wildbak-wegu-gft-92x60x20"
   ]
 }
