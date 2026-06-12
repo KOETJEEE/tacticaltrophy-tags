@@ -3224,7 +3224,7 @@
     "airsoft-dempers"
   ],
   "moderator-donnyfl-ryu-1-2-unf": [
-    "airsoft-dempers"
+    "luchtbuks-dempers"
   ],
   "moderator-donnyfl-shogun-p-1-2-unf": [
     "luchtbuks-dempers"
@@ -15581,6 +15581,33 @@
       "wapen-toebehoren",
       "luchtbuks"
     ],
+    "moderator-donnyfl-shogun-p-1-2-unf": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-shogun-1-2-unf": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-sumo-1-2-unf": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-sumo-vulcan": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-tanto-1-2-unf": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-tatsu-1-2-unf": [
+      "luchtbuks"
+    ],
+    "moderator-donnyfl-yokozuna-n": [
+      "luchtbuks"
+    ],
+    "moderator-donnyfl-yokozuna": [
+      "luchtbuks"
+    ],
+    "moderator-epic-airguns": [
+      "luchtbuks"
+    ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
     ],
@@ -23260,6 +23287,16 @@
     "moderator-donnyfl-ronin-p-1-2-unf",
     "geluiddemper-donnyfl-ronin-1-2-unf",
     "geluiddemper-donnyfl-ronin-m18x1",
-    "geluiddemper-donnyfl-ronin-vulcan"
+    "geluiddemper-donnyfl-ronin-vulcan",
+    "moderator-donnyfl-ryu-1-2-unf",
+    "moderator-donnyfl-shogun-p-1-2-unf",
+    "geluiddemper-donnyfl-shogun-1-2-unf",
+    "geluiddemper-donnyfl-sumo-1-2-unf",
+    "geluiddemper-donnyfl-sumo-vulcan",
+    "geluiddemper-donnyfl-tanto-1-2-unf",
+    "geluiddemper-donnyfl-tatsu-1-2-unf",
+    "moderator-donnyfl-yokozuna-n",
+    "moderator-donnyfl-yokozuna",
+    "moderator-epic-airguns"
   ]
 }
