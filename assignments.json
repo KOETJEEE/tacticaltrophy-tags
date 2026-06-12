@@ -2304,8 +2304,7 @@
     "schoonmaakborstels"
   ],
   "bronzen-kamerborstel-bore-tech-proof-positive-ar15": [
-    "schoonmaakborstels",
-    "schoonmaaksetjes"
+    "schoonmaakborstels"
   ],
   "buffer-tube-key-arma-key-501-for-ar15-mil-spec-black": [
     "airsoft-accessoires"
@@ -15323,6 +15322,25 @@
       "mondstukken",
       "gebitsbeschermers"
     ],
+    "bronsborstel-bore-tech-proof-positive-3-pack": [
+      "schoonmaak-onderhoud"
+    ],
+    "bronsborstel-bore-tech-proof-positive-pistol-3-pack": [
+      "schoonmaak-onderhoud"
+    ],
+    "bronsborstel-bore-tech-spiral-voor-hagelgeweer": [
+      "schoonmaak-onderhoud"
+    ],
+    "bronsborstel-bore-tech-wire-voor-hagelgeweer": [
+      "schoonmaak-onderhoud"
+    ],
+    "bronzen-kamerborstel-bore-tech-proof-positive-ar10": [
+      "schoonmaak-onderhoud"
+    ],
+    "bronzen-kamerborstel-bore-tech-proof-positive-ar15": [
+      "schoonmaak-onderhoud",
+      "schoonmaaksetjes"
+    ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
     ],
@@ -22808,6 +22826,16 @@
     "schietbril-caldwell-pro-range-glasses",
     "glasses-walker-s-sport-with-interchangeable-lens",
     "glasses-wiley-x-alfa-grey-lenses-crystal-green-frame",
-    "glasses-wiley-x-alfa-captivate-polarized-bronze-mirror-gloss-crystal-light-olive-grey-frame"
+    "glasses-wiley-x-alfa-captivate-polarized-bronze-mirror-gloss-crystal-light-olive-grey-frame",
+    "glasses-wiley-x-alfa-captivated-polarized-grey-gloss-black-frame",
+    "glasses-wiley-x-contend-grey-lenses-matte-black-frame",
+    "glasses-wiley-x-covert-captivate-polarized-copper-lenses-gloss-coffee-crystal-brown-frame",
+    "glasses-wiley-x-covert-grey-lenses-gloss-black-frame",
+    "bronsborstel-bore-tech-proof-positive-3-pack",
+    "bronsborstel-bore-tech-proof-positive-pistol-3-pack",
+    "bronsborstel-bore-tech-spiral-voor-hagelgeweer",
+    "bronsborstel-bore-tech-wire-voor-hagelgeweer",
+    "bronzen-kamerborstel-bore-tech-proof-positive-ar10",
+    "bronzen-kamerborstel-bore-tech-proof-positive-ar15"
   ]
 }
