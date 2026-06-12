@@ -1032,7 +1032,7 @@
     "nachtzicht-handheld"
   ],
   "sionyx-ir-illuminator-set-940nmschroefdraad-504107": [
-    "nachtzicht-handheld"
+    "infraroodlampen"
   ],
   "sionyx-nightwave-c014700-maritieme-full-color-nachtzicht-camera-grijs-504111": [
     "filmen-opnemen"
@@ -1178,59 +1178,58 @@
     "montage-accessoires"
   ],
   "accessory-rail-air-marksman-backbone-ribcage-slotted": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-air-marksman-backbone-ribcage-triangular": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-air-marksman-loki-compact-black": [
     "picatinny-rails"
   ],
   "accessory-rail-air-marksman-loki-compact-bronze": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-air-marksman-loki-standard-black": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-air-marksman-loki-standard-bronze": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-bergara-monopod-for-b14-bmp": [
-    "monopods",
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-element-optics-accu-lite-diving-board-weaver-picatinny": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-epic-airguns-arca-swiss-extended-for-vision-cfb-420-mm": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-epic-airguns-arca-swiss-extended-for-vision-classic-420-mm": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-fx-dynamic-panthera-mkii-control-bridge": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-fx-dynamic-panthera-mkii-nv-bridge": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-fx-panthera-compact-arca": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessoirerail-krale-voor-snowpeak-pp750": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-mdt-oryx-arca": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rails-rome-h10-l55-weaver-picatinny": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rails-rome-h20-l75-weaver-picatinny": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rails-rome-h25-l85-weaver-picatinny": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-saber-tactical-arca-swiss-2-compact": [
     "picatinny-rails"
@@ -14649,6 +14648,24 @@
       "verrekijkers-accessoires",
       "verrekijkers"
     ],
+    "kowa-verrekijker-svii-10x25-442263": [
+      "kowa"
+    ],
+    "kowa-verrekijker-svii-10x32-441903": [
+      "kowa"
+    ],
+    "kowa-verrekijker-svii-8x25-442262": [
+      "kowa"
+    ],
+    "kowa-verrekijker-svii-8x32-441901": [
+      "kowa"
+    ],
+    "kowa-verrekijker-yfii-6x30-440835": [
+      "kowa"
+    ],
+    "kowa-verrekijker-yfii-8x30-440836": [
+      "kowa"
+    ],
     "kowa-wide-oculair-30x-tse14-wd-voor-tsn600660-445031": [
       "kowa",
       "spotting-scopes-accessoires"
@@ -14737,6 +14754,11 @@
     ],
     "sionyx-digitale-full-color-nachtkijker-aurora-pro-504104": [
       "monoculair"
+    ],
+    "sionyx-ir-illuminator-set-940nmschroefdraad-504107": [
+      "ir-illuminators",
+      "nachtzicht-en-warmtebeeldaccessoires",
+      "nachtzicht"
     ],
     "sionyx-nightwave-c014700-maritieme-full-color-nachtzicht-camera-grijs-504111": [
       "monoculair",
@@ -14935,28 +14957,67 @@
       "picatinny-rails"
     ],
     "accessory-rail-air-marksman-backbone-ribcage-slotted": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "picatinny-rails"
     ],
     "accessory-rail-air-marksman-backbone-ribcage-triangular": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "picatinny-rails"
     ],
     "accessory-rail-air-marksman-loki-compact-black": [
       "wapen-accessoires"
     ],
     "accessory-rail-air-marksman-loki-compact-bronze": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "picatinny-rails"
     ],
     "accessory-rail-air-marksman-loki-standard-black": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "picatinny-rails"
     ],
     "accessory-rail-air-marksman-loki-standard-bronze": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "picatinny-rails"
     ],
     "accessory-rail-bergara-monopod-for-b14-bmp": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "monopods",
+      "picatinny-rails",
+      "wapen-toebehoren"
     ],
     "accessory-rail-element-optics-accu-lite-diving-board-weaver-picatinny": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "picatinny-rails"
+    ],
+    "accessory-rail-epic-airguns-arca-swiss-extended-for-vision-cfb-420-mm": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-epic-airguns-arca-swiss-extended-for-vision-classic-420-mm": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-fx-dynamic-panthera-mkii-control-bridge": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-fx-dynamic-panthera-mkii-nv-bridge": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-fx-panthera-compact-arca": [
+      "picatinny-rails"
+    ],
+    "accessoirerail-krale-voor-snowpeak-pp750": [
+      "picatinny-rails"
+    ],
+    "accessory-rail-mdt-oryx-arca": [
+      "picatinny-rails"
+    ],
+    "accessory-rails-rome-h10-l55-weaver-picatinny": [
+      "picatinny-rails"
+    ],
+    "accessory-rails-rome-h20-l75-weaver-picatinny": [
+      "picatinny-rails"
+    ],
+    "accessory-rails-rome-h25-l85-weaver-picatinny": [
+      "picatinny-rails"
     ],
     "adapter-vfg-voor-us-poetsstokken": [
       "stokadapters"
@@ -22278,6 +22339,30 @@
     "kowa-verrekijker-bd56-xd-8x56-440856",
     "kowa-verrekijker-bdii-65x32-xd-441895",
     "kowa-verrekijker-bdii-8x32-xd-441896",
-    "kowa-verrekijker-statief-adapter-kb2-mt-441047"
+    "kowa-verrekijker-statief-adapter-kb2-mt-441047",
+    "kowa-verrekijker-svii-10x25-442263",
+    "kowa-verrekijker-svii-10x32-441903",
+    "kowa-verrekijker-svii-8x25-442262",
+    "kowa-verrekijker-svii-8x32-441901",
+    "kowa-verrekijker-yfii-6x30-440835",
+    "kowa-verrekijker-yfii-8x30-440836",
+    "sionyx-ir-illuminator-set-940nmschroefdraad-504107",
+    "accessory-rail-air-marksman-backbone-ribcage-slotted",
+    "accessory-rail-air-marksman-backbone-ribcage-triangular",
+    "accessory-rail-air-marksman-loki-compact-black",
+    "accessory-rail-air-marksman-loki-compact-bronze",
+    "accessory-rail-air-marksman-loki-standard-black",
+    "accessory-rail-air-marksman-loki-standard-bronze",
+    "accessory-rail-bergara-monopod-for-b14-bmp",
+    "accessory-rail-element-optics-accu-lite-diving-board-weaver-picatinny",
+    "accessory-rail-epic-airguns-arca-swiss-extended-for-vision-cfb-420-mm",
+    "accessory-rail-epic-airguns-arca-swiss-extended-for-vision-classic-420-mm",
+    "accessory-rail-fx-dynamic-panthera-mkii-control-bridge",
+    "accessory-rail-fx-dynamic-panthera-mkii-nv-bridge",
+    "accessory-rail-fx-panthera-compact-arca",
+    "accessoirerail-krale-voor-snowpeak-pp750",
+    "accessory-rail-mdt-oryx-arca",
+    "accessory-rails-rome-h10-l55-weaver-picatinny",
+    "accessory-rails-rome-h20-l75-weaver-picatinny"
   ]
 }
