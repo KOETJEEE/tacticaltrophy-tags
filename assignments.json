@@ -2767,7 +2767,7 @@
     "mosfets"
   ],
   "first-regulator-bypass-saber-tactical-fx-impact-m3": [
-    "persluchtfles-accessoires"
+    "regulators"
   ],
   "flash-hider-pts-griffin-m4sd-flashcomp-14mm-ccw-black": [
     "flash-hiders"
@@ -15450,6 +15450,10 @@
     ],
     "magnifier-falke-b5x": [
       "voorzetkijkers"
+    ],
+    "first-regulator-bypass-saber-tactical-fx-impact-m3": [
+      "persluchtfles-accessoires",
+      "schietsport"
     ],
     "rifle-bag-plano-tactical-gun-backpack-87x30": [
       "foudralen",
@@ -29998,6 +30002,10 @@
     "bore-light-birchwood-flexible",
     "laser-cartridge-mantis-pink-rhino-training",
     "large-swage-prime-pin-assembly-frankford-x-10",
-    "flashlight-element-x300-pistol"
+    "flashlight-element-x300-pistol",
+    "first-regulator-bypass-saber-tactical-fx-impact-m3",
+    "fiber-optic-lpa-bfo-rood",
+    "fiber-optic-lpa-bfo-groen",
+    "fiber-optic-lpa-bfo-geel"
   ]
 }
