@@ -4571,6 +4571,54 @@
   "loopreinigingskoord-vector-optics-5-5-mm-22": [
     "reinigingskoorden"
   ],
+  "luchtdrukkogeltjes-aea-center-punch-4-5-mm-10-3-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-4-5-mm-13-7-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-4-5-mm-8-72-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-5-5-mm-15-9-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-5-5-mm-18-3-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-5-5-mm-21-9-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-5-5-mm-25-3-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-6-35-mm-25-3-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-6-35-mm-29-5-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-6-35-mm-33-9-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-7-62-mm-45-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-7-62-mm-50-5-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-7-62-mm-66-2-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-9-mm-110-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-aea-center-punch-9-mm-80-8-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-fx-4-52-mm-10-3-grain": [
+    "luchtdrukwapenmunitie"
+  ],
   "mag-pouch-amomax-double-universal-black": [
     "magazijn-pouches"
   ],
@@ -16523,28 +16571,66 @@
       "schoonmaak-onderhoud"
     ],
     "luchtdrukkogeltjes-aea-center-punch-4-5-mm-10-3-grain": [
-      "luchtbuks-accessoires"
+      "luchtbuks-accessoires",
+      "luchtdrukmunitie",
+      "schietsport"
     ],
     "luchtdrukkogeltjes-aea-center-punch-4-5-mm-13-7-grain": [
-      "luchtbuks-accessoires"
+      "luchtbuks-accessoires",
+      "schietsport",
+      "luchtdrukmunitie"
     ],
     "luchtdrukkogeltjes-aea-center-punch-4-5-mm-8-72-grain": [
-      "luchtbuks-accessoires"
+      "luchtbuks-accessoires",
+      "schietsport",
+      "luchtdrukmunitie"
     ],
     "luchtdrukkogeltjes-aea-center-punch-5-5-mm-15-9-grain": [
-      "luchtbuks-accessoires"
+      "luchtbuks-accessoires",
+      "schietsport",
+      "luchtdrukmunitie"
     ],
     "luchtdrukkogeltjes-aea-center-punch-5-5-mm-18-3-grain": [
-      "luchtbuks-accessoires"
+      "luchtbuks-accessoires",
+      "schietsport",
+      "luchtdrukmunitie"
     ],
     "luchtdrukkogeltjes-aea-center-punch-5-5-mm-21-9-grain": [
-      "luchtbuks-accessoires"
+      "luchtbuks-accessoires",
+      "schietsport",
+      "luchtdrukmunitie"
     ],
     "luchtdrukkogeltjes-aea-center-punch-5-5-mm-25-3-grain": [
       "schietsport",
-      "luchtbuks-accessoires"
+      "luchtbuks-accessoires",
+      "pellets"
     ],
     "luchtdrukkogeltjes-aea-center-punch-6-35-mm-25-3-grain": [
+      "luchtbuks-accessoires",
+      "schietsport",
+      "luchtdrukmunitie"
+    ],
+    "luchtdrukkogeltjes-aea-center-punch-6-35-mm-29-5-grain": [
+      "luchtbuks-accessoires"
+    ],
+    "luchtdrukkogeltjes-aea-center-punch-6-35-mm-33-9-grain": [
+      "luchtbuks-accessoires"
+    ],
+    "luchtdrukkogeltjes-aea-center-punch-7-62-mm-45-grain": [
+      "luchtbuks-accessoires",
+      "schietsport"
+    ],
+    "luchtdrukkogeltjes-aea-center-punch-7-62-mm-50-5-grain": [
+      "schietsport",
+      "luchtbuks-accessoires"
+    ],
+    "luchtdrukkogeltjes-aea-center-punch-7-62-mm-66-2-grain": [
+      "luchtbuks-accessoires"
+    ],
+    "luchtdrukkogeltjes-aea-center-punch-9-mm-80-8-grain": [
+      "luchtbuks-accessoires"
+    ],
+    "airgun-pellets-fx-4-52-mm-10-3-grain": [
       "luchtbuks-accessoires"
     ],
     "mag-pouch-amomax-double-universal-black": [
