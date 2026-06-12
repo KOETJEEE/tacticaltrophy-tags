@@ -7725,7 +7725,8 @@
     "trekkers"
   ],
   "trekkerslot-lockdown-met-cijfercombinatie": [
-    "trekkers"
+    "trekkers",
+    "wapensloten"
   ],
   "trekkerslot-lockdown-met-sleutel": [
     "wapensloten"
@@ -30333,6 +30334,8 @@
     "team-armband-g-g-6-pack",
     "temperature-sensor-kit-hill-ec-3000",
     "thermo-pouch-manfrotto-alpha-shot-tripod",
-    "timer-sillosocks-flapper"
+    "timer-sillosocks-flapper",
+    "tool-head-frankford-arsenal-x-10",
+    "trekkerslot-lockdown-met-cijfercombinatie"
   ]
 }
