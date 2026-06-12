@@ -414,28 +414,22 @@
     "koffers"
   ],
   "explorer-cases-5833-koffer-zwart-met-vakverdeler-251062": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-7630-koffer-oranje-251161": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-7641-koffer-zwart-met-plukschuim-251180": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-7745-koffer-zwart-251201": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-7745-koffer-zwart-met-plukschuim-251200": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-9433-koffer-zwart-met-plukschuim-251251": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-bph53-fotovideo-rugzak-met-vakverdeler-250850": [
     "tactical-bags",
@@ -14060,6 +14054,50 @@
     "explorer-cases-5833-koffer-zwart-met-plukschuim-251063": [
       "explorer-cases",
       "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-5833-koffer-zwart-met-vakverdeler-251062": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "wapenkoffers",
+      "airsoft"
+    ],
+    "explorer-cases-7630-koffer-oranje-251161": [
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "explorer-cases-7641-koffer-zwart-met-plukschuim-251180": [
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport",
+      "airsoft"
+    ],
+    "explorer-cases-7745-koffer-zwart-251201": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-7745-koffer-zwart-met-plukschuim-251200": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-9433-koffer-zwart-met-plukschuim-251251": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
       "transport"
     ],
     "flir-breach-ptq136-objectief-beschermlens-13431910": [
@@ -21848,6 +21886,13 @@
     "explorer-cases-5822-koffer-zwart-met-plukschuim-250940",
     "explorer-cases-5823-koffer-oranje-251011",
     "explorer-cases-5823-koffer-zwart-met-plukschuim-251000",
-    "explorer-cases-5833-koffer-zwart-251061"
+    "explorer-cases-5833-koffer-zwart-251061",
+    "explorer-cases-5833-koffer-zwart-met-plukschuim-251063",
+    "explorer-cases-5833-koffer-zwart-met-vakverdeler-251062",
+    "explorer-cases-7630-koffer-oranje-251161",
+    "explorer-cases-7641-koffer-zwart-met-plukschuim-251180",
+    "explorer-cases-7745-koffer-zwart-251201",
+    "explorer-cases-7745-koffer-zwart-met-plukschuim-251200",
+    "explorer-cases-9433-koffer-zwart-met-plukschuim-251251"
   ]
 }
