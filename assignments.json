@@ -7397,37 +7397,37 @@
     "schoonmaaksetjes"
   ],
   "schoonmaakpatches-bore-tech-round-2-3-4-50": [
-    "patches"
+    "reinigingspatches"
   ],
   "schoonmaakpatches-bore-tech-round-2-30-45": [
-    "schoonmaaksetjes"
+    "reinigingspatches"
   ],
   "schoonmaakpatches-bore-tech-round-3-1-2-10-12-16-20": [
-    "schoonmaaksetjes"
+    "reinigingspatches"
   ],
   "schoonmaakpatches-bore-tech-square-1-1-8-223": [
-    "schoonmaaksetjes"
+    "reinigingspatches"
   ],
   "schoonmaakpatches-bore-tech-square-1-3-4-284-308": [
-    "schoonmaaksetjes"
+    "reinigingspatches"
   ],
   "schoonmaakpatches-bore-tech-square-1-3-8-243-284": [
-    "schoonmaaksetjes"
+    "reinigingspatches"
   ],
   "schoonmaakpatches-bore-tech-square-1-20-22": [
-    "schoonmaaksetjes"
+    "reinigingspatches"
   ],
   "schoonmaakpatches-bore-tech-square-2-1-4-35-45": [
-    "schoonmaaksetjes"
+    "reinigingspatches"
   ],
   "schoonmaakpatches-bore-tech-square-2-308-45": [
-    "schoonmaaksetjes"
+    "reinigingspatches"
   ],
   "schoonmaakpatches-bore-tech-square-3-50-10-20": [
-    "schoonmaaksetjes"
+    "reinigingspatches"
   ],
   "schoonmaakpatches-bore-tech-square-3-4-177-4-5-mm": [
-    "schoonmaaksetjes"
+    "reinigingspatches"
   ],
   "schoonmaakproppen-vfg-comfort-22": [
     "reinigingsproppen"
@@ -17132,6 +17132,86 @@
       "airsoft",
       "schietsport"
     ],
+    "schoonmaakpatches-bore-tech-round-2-1-2-35-45": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakpatches-bore-tech-round-2-3-4-50": [
+      "patches",
+      "tactical-gear"
+    ],
+    "schoonmaakpatches-bore-tech-round-2-30-45": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakpatches-bore-tech-round-3-1-2-10-12-16-20": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakpatches-bore-tech-square-1-1-8-223": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakpatches-bore-tech-square-1-3-4-284-308": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakpatches-bore-tech-square-1-3-8-243-284": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakpatches-bore-tech-square-1-20-22": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakpatches-bore-tech-square-2-1-4-35-45": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakpatches-bore-tech-square-2-308-45": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakpatches-bore-tech-square-3-50-10-20": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakpatches-bore-tech-square-3-4-177-4-5-mm": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-22": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-375": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-45": [
+      "schoonmaak-onderhoud"
+    ],
+    "cleaning-pellets-vfg-comfort-50": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-10-3-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "cleaning-pellets-vfg-comfort-12": [
+      "schoonmaak-onderhoud"
+    ],
+    "cleaning-pellets-vfg-comfort-16": [
+      "schoonmaak-onderhoud"
+    ],
+    "cleaning-pellets-vfg-comfort-20": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-4-5-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-5-5-mm": [
+      "schoonmaak-onderhoud"
+    ],
+    "schoonmaakproppen-vfg-comfort-6-mm": [
+      "schoonmaak-onderhoud"
+    ],
     "utility-pouch-nuprol-medium-pmc-green": [
       "tactical-gear",
       "utility-pouches",
@@ -25832,6 +25912,48 @@
     "smoke-grenade-enola-gaye-wp40-d-green",
     "smoke-grenade-enola-gaye-wp40-d-orange",
     "smoke-grenade-enola-gaye-wp40-d-purple",
-    "smoke-grenade-enola-gaye-wp40-d-yellow"
+    "smoke-grenade-enola-gaye-wp40-d-yellow",
+    "shooting-target-artemis-rocker",
+    "shooting-target-caldwell-ar500-dueling-tree",
+    "resetting-target-caldwell-ar500-rimfire-kyl-challenge",
+    "resetting-target-caldwell-ar500-rimfire-kyl-ring-challenge",
+    "schietdoel-caldwell-plink-n-swingtm-22-rimfire-triple-spin-target",
+    "schietdoel-caldwell-resetting-airgun",
+    "schietdoel-caldwell-rimfire",
+    "shooting-target-caldwell-ultimate-stand",
+    "schietdoel-haas-prikker",
+    "schietdoel-konijn-prikker",
+    "schietdoel-kraai-prikker",
+    "schietdoel-rat-prikker",
+    "schietdoel-snowpeak-met-3-doelen",
+    "schietdoel-snowpeak-met-5-doelen",
+    "schietdoel-snowpeak-moving-target",
+    "shooting-mat-birchwood",
+    "shooting-mat-ulfhednar-field",
+    "shooting-mat-ulfhednar-roller",
+    "schoonmaakpatches-bore-tech-round-1-1-2-25-38",
+    "schoonmaakpatches-bore-tech-round-1-1-4-22-243",
+    "schoonmaakpatches-bore-tech-round-2-1-2-35-45",
+    "schoonmaakpatches-bore-tech-round-2-3-4-50",
+    "schoonmaakpatches-bore-tech-round-2-30-45",
+    "schoonmaakpatches-bore-tech-round-3-1-2-10-12-16-20",
+    "schoonmaakpatches-bore-tech-square-1-1-8-223",
+    "schoonmaakpatches-bore-tech-square-1-3-4-284-308",
+    "schoonmaakpatches-bore-tech-square-1-3-8-243-284",
+    "schoonmaakpatches-bore-tech-square-1-20-22",
+    "schoonmaakpatches-bore-tech-square-2-1-4-35-45",
+    "schoonmaakpatches-bore-tech-square-2-308-45",
+    "schoonmaakpatches-bore-tech-square-3-50-10-20",
+    "schoonmaakpatches-bore-tech-square-3-4-177-4-5-mm",
+    "schoonmaakproppen-vfg-comfort-22",
+    "schoonmaakproppen-vfg-comfort-375",
+    "schoonmaakproppen-vfg-comfort-45",
+    "cleaning-pellets-vfg-comfort-50",
+    "schoonmaakproppen-vfg-comfort-10-3-mm",
+    "cleaning-pellets-vfg-comfort-12",
+    "cleaning-pellets-vfg-comfort-16",
+    "cleaning-pellets-vfg-comfort-20",
+    "schoonmaakproppen-vfg-comfort-4-5-mm",
+    "schoonmaakproppen-vfg-comfort-5-5-mm"
   ]
 }
