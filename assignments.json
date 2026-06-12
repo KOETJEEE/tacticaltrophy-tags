@@ -186,9 +186,6 @@
     "tactical-handschoenen",
     "camouflage-kleding"
   ],
-  "buteo-photo-gear-camouflage-tape-720038": [
-    "gaffer-tape"
-  ],
   "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208": [
     "tassen-rugzakken"
   ],
@@ -269,18 +266,6 @@
   ],
   "carson-zakloep-wm-01-25x-creditcard-formaat-loep-met-6x-spot-lens-186126": [
     "loepen"
-  ],
-  "deltec-gaffer-tape-pro-grijs-46-mm-x-50-m-2964954": [
-    "gaffer-tape"
-  ],
-  "deltec-gaffer-tape-pro-rood-50-mm-x-50-m-2964955": [
-    "gaffer-tape"
-  ],
-  "deltec-gaffer-tape-pro-wit-46-mm-x-50-m-2964950": [
-    "gaffer-tape"
-  ],
-  "deltec-gaffer-tape-pro-zwart-46-mm-x-50-m-2964952": [
-    "gaffer-tape"
   ],
   "explorer-cases-10840-koffer-zwart-251301": [
     "koffers"
@@ -528,12 +513,6 @@
   ],
   "falcon-eyes-eenbeenstatief-3-weg-kop-mp-3-4-secties-178-cm-295003": [
     "statieven"
-  ],
-  "falcon-eyes-gaffer-tape-grijs-5-cm-x-50-m-2964905": [
-    "gaffer-tape"
-  ],
-  "falcon-eyes-gaffer-tape-zwart-5-cm-x-50-m-2964910": [
-    "gaffer-tape"
   ],
   "flir-breach-ptq136-adapter-voor-dual-helm-bridge-dovetail-13431909": [
     "helmen"
@@ -10924,12 +10903,6 @@
   "m-tac-raglan-t-shirt-937-6766": [
     "t-shirts-polos"
   ],
-  "m-tac-reinforced-tape-25-mm-10-m-8550": [
-    "gaffer-tape"
-  ],
-  "m-tac-reinforced-tape-50-mm-10-m-8549": [
-    "gaffer-tape"
-  ],
   "m-tac-seat-pad-20-mm-7610": [
     "slaapzakken-matten"
   ],
@@ -13370,13 +13343,13 @@
     "statieven"
   ],
   "falcon-eyes-gaffer-tape-blauw-5-cm-x-50-m-2964907": [
-    "gaffer-tape"
+    "tape"
   ],
   "falcon-eyes-gaffer-tape-groen-5-cm-x-50-m-2964903": [
-    "gaffer-tape"
+    "tape"
   ],
   "falcon-eyes-gaffer-tape-wit-5-cm-x-50-m-2964901": [
-    "gaffer-tape"
+    "tape"
   ],
   "flir-oculair-ooggedeelte-voor-scout-134127309": [
     "observatie-accessoires"
@@ -21151,15 +21124,18 @@
     ],
     "falcon-eyes-gaffer-tape-blauw-5-cm-x-50-m-2964907": [
       "falcon-eyes",
-      "tape"
+      "tape",
+      "gaffer-tape"
     ],
     "falcon-eyes-gaffer-tape-groen-5-cm-x-50-m-2964903": [
       "falcon-eyes",
-      "tape"
+      "tape",
+      "gaffer-tape"
     ],
     "falcon-eyes-gaffer-tape-wit-5-cm-x-50-m-2964901": [
       "falcon-eyes",
-      "tape"
+      "tape",
+      "gaffer-tape"
     ],
     "flir-oculair-ooggedeelte-voor-scout-134127309": [
       "nachtzicht-en-warmtebeeldaccessoires",
