@@ -2627,7 +2627,8 @@
     "persluchtfles-accessoires"
   ],
   "pistol-lanyard-amomax-tactical": [
-    "geweerriemen"
+    "geweerriemen",
+    "safety-cords"
   ],
   "sling-manfrotto-alpha-shot-tripod": [
     "statieven"
@@ -2657,7 +2658,7 @@
     "holsters-toebehoren"
   ],
   "dry-pac-hill-ec-3000-compressor-pro-air-dryer-filter": [
-    "revisiesetjes"
+    "compressors"
   ],
   "dry-pack-hill-handpomp": [
     "pcp-handpompen"
@@ -15561,6 +15562,10 @@
       "bretels",
       "kleding"
     ],
+    "dry-pac-hill-ec-3000-compressor-pro-air-dryer-filter": [
+      "revisiesets",
+      "wapen-toebehoren"
+    ],
     "pigeon-decoy-sillosocks-harvester-12-pack": [
       "lokmiddel-toebehoren"
     ],
@@ -27002,6 +27007,9 @@
     "burst-disk-kit-hill-ec-3000",
     "butt-pad-mdt-adjustable",
     "drop-belt-loop-amomax-low-ride-duty-black",
-    "drop-belt-loop-amomax-low-ride-duty-fde"
+    "drop-belt-loop-amomax-low-ride-duty-fde",
+    "dry-pac-hill-ec-3000-compressor-pro-air-dryer-filter",
+    "sling-manfrotto-alpha-shot-tripod",
+    "pistol-lanyard-amomax-tactical"
   ]
 }
