@@ -1568,7 +1568,6 @@
     "schoudersteunen"
   ],
   "ballistic-turret-vector-optics-continental-hunting": [
-    "montage-accessoires",
     "richtmiddel-accessoires"
   ],
   "vise-tipton-best-gun-360": [
@@ -14932,6 +14931,9 @@
     "ar-combo-wrench-utg-armorer-s-multi-function-tool-for-ar15": [
       "schoonmaak-onderhoud"
     ],
+    "ballistic-turret-vector-optics-continental-hunting": [
+      "montage-accessoires"
+    ],
     "vise-tipton-best-gun-360": [
       "gereedschap",
       "schoonmaak-onderhoud",
@@ -26411,6 +26413,8 @@
     "adapter-fx-klapkolf",
     "adapter-fx-folding-stock-panthera",
     "adapter-mantisx-luchtgeweer",
-    "adapter-mantisx-luchtpistool"
+    "adapter-mantisx-luchtpistool",
+    "ballistic-turret-vector-optics-continental-hunting",
+    "barrel-band-fx-dreamline"
   ]
 }
