@@ -7492,10 +7492,11 @@
     "lokmiddel-toebehoren"
   ],
   "steeksleutel-element-delta-ring-butt-stock": [
-    "kolven"
+    "buttstocks",
+    "gereedschap"
   ],
   "marker-birchwood-sight-touch-up-super-bright-pen-kit": [
-    "vizieren"
+    "korrels"
   ],
   "stock-pts-enhanced-polymer-black": [
     "buttstocks"
@@ -17621,6 +17622,13 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "steeksleutel-element-delta-ring-butt-stock": [
+      "kolven"
+    ],
+    "marker-birchwood-sight-touch-up-super-bright-pen-kit": [
+      "optiek",
+      "vizieren"
     ],
     "stock-pts-enhanced-polymer-black": [
       "kolven"
@@ -29760,6 +29768,10 @@
     "stock-wolverine-wraith-x-for-hpa-tank",
     "stock-wolverine-wraith-x-for-aeg",
     "stock-pts-enhanced-polymer-black",
-    "stock-wolverine-wraith-x-for-mtw"
+    "stock-wolverine-wraith-x-for-mtw",
+    "marker-birchwood-sight-touch-up-super-bright-pen-kit",
+    "steeksleutel-element-delta-ring-butt-stock",
+    "cradle-for-pigeon-crow",
+    "standaard-lockdown-handgun-rack-single-3-stuks"
   ]
 }
