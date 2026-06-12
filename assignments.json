@@ -4045,7 +4045,7 @@
     "wildcameras"
   ],
   "cable-code-red-mrc-down-lead-for-modular-tactical-headsets": [
-    "portofoons"
+    "headsets-toebehoren"
   ],
   "machete-kershaw-camp-10-black": [
     "machetes-kapmessen"
@@ -16308,6 +16308,11 @@
     ],
     "memory-card-reader-stealth-cam-sd-for-ios": [
       "lokmiddel-toebehoren"
+    ],
+    "cable-code-red-mrc-down-lead-for-modular-tactical-headsets": [
+      "schietsport",
+      "portofoons",
+      "jacht"
     ],
     "machete-kershaw-camp-10-black": [
       "bijlen"
@@ -30560,6 +30565,7 @@
     "camera-adapter-eagle-vision-side-cam-gopro-5-6-7-25-x75",
     "camera-adapter-eagle-vision-side-cam-gopro-9-10-11-12-13-25x75",
     "insert-wiley-x-twist-lock",
-    "memory-card-reader-stealth-cam-sd-for-ios"
+    "memory-card-reader-stealth-cam-sd-for-ios",
+    "cable-code-red-mrc-down-lead-for-modular-tactical-headsets"
   ]
 }
