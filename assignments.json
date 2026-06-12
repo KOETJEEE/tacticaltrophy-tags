@@ -4001,10 +4001,10 @@
     "herlaadkits"
   ],
   "hulzencentrifuge-frankford-arsenal-wet-dry": [
-    "herlaadkits"
+    "hulzencentrifuges"
   ],
   "hulzendroger-frankford-arsenal-brass-dryer": [
-    "herlaadkits"
+    "hulzencentrifuges"
   ],
   "hulzenreiniger-bore-tech-case-cleaner-945-ml": [
     "hulzenreinigers"
@@ -15919,6 +15919,12 @@
       "schietsport",
       "wapen-toebehoren"
     ],
+    "hulzencentrifuge-frankford-arsenal-wet-dry": [
+      "herlaadkits"
+    ],
+    "hulzendroger-frankford-arsenal-brass-dryer": [
+      "herlaadkits"
+    ],
     "hulzenreiniger-bore-tech-case-cleaner-945-ml": [
       "onderhoud",
       "schoonmaaksetjes",
@@ -26344,6 +26350,8 @@
     "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-black",
     "barrel-tuner-eagle-vision-with-muzzle-brake-air-stripper-1-2-unf-silver",
     "barrel-tuner-shroud-fx",
-    "hulzenreiniger-bore-tech-case-cleaner-945-ml"
+    "hulzenreiniger-bore-tech-case-cleaner-945-ml",
+    "hulzendroger-frankford-arsenal-brass-dryer",
+    "hulzencentrifuge-frankford-arsenal-wet-dry"
   ]
 }
