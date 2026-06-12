@@ -61,8 +61,6 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
     "flag-odin-night-vision-630x900-5792",
-    "adapter-mdt-spuhr-to-v-mount",
-    "adapter-mdt-m-lok-to-v-mount",
     "adapter-mdt-folding-stock-carbine-to-fixed",
     "adapter-mdt-folding-stock-carbine-to-carbine",
     "adapter-mdt-carbine-to-fixed-stock"
@@ -1343,12 +1341,10 @@
     "stokadapters"
   ],
   "adapter-mdt-m-lok-to-v-mount": [
-    "montage-accessoires",
-    "stokadapters"
+    "waterpassen"
   ],
   "adapter-mdt-spuhr-to-v-mount": [
-    "montage-accessoires",
-    "stokadapters"
+    "waterpassen"
   ],
   "adapter-megaline-1-8-bsw-female-for-cleaning-pellets": [
     "stokadapters"
@@ -15077,6 +15073,18 @@
       "die-accessoires",
       "herladen"
     ],
+    "adapter-mdt-m-lok-to-v-mount": [
+      "montage-accessoires",
+      "stokadapters",
+      "onderhoud",
+      "schoonmaak-onderhoud"
+    ],
+    "adapter-mdt-spuhr-to-v-mount": [
+      "montage-accessoires",
+      "stokadapters",
+      "onderhoud",
+      "schoonmaak-onderhoud"
+    ],
     "adapter-megaline-1-8-bsw-female-for-cleaning-pellets": [
       "schoonmaak-onderhoud"
     ],
@@ -22550,6 +22558,8 @@
     "adapter-nine-reloaded-charlie",
     "adapter-nine-reloaded-delta",
     "adapter-nine-reloaded-echo",
-    "adapter-nine-reloaded-foxtrot"
+    "adapter-nine-reloaded-foxtrot",
+    "adapter-mdt-spuhr-to-v-mount",
+    "adapter-mdt-m-lok-to-v-mount"
   ]
 }
