@@ -1377,7 +1377,7 @@
     "stokadapters"
   ],
   "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss": [
-    "stokadapters"
+    "geweersteunen"
   ],
   "adaptor-vanguard-endeavor-swivel-stud-to-weaver-picatinny": [
     "stokadapters"
@@ -15076,6 +15076,11 @@
       "schoonmaak-onderhoud"
     ],
     "adapter-megaline-for-us-cleaning-rods": [
+      "schoonmaak-onderhoud"
+    ],
+    "adaptor-vanguard-endeavor-lda-g2-weaver-picatinny-to-arca-swiss": [
+      "onderhoud",
+      "stokadapters",
       "schoonmaak-onderhoud"
     ],
     "adapter-vfg-voor-us-poetsstokken": [
