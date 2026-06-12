@@ -2537,10 +2537,10 @@
     "kolven"
   ],
   "conversion-kit-wolverine-bolt-sniper": [
-    "persen-onderdelen"
+    "airsoft-cilinders"
   ],
   "conversion-connector-prometheus-voor-next-gen-m4-sopmod-kolf": [
-    "kolven"
+    "connectors"
   ],
   "richtkijker-delta-optical-titanium-2-5-15x56-hd-4a": [
     "richtkijkers"
@@ -15665,6 +15665,14 @@
       "persen-onderdelen",
       "herladen"
     ],
+    "conversion-kit-wolverine-bolt-sniper": [
+      "herladen",
+      "persen-onderdelen"
+    ],
+    "conversion-connector-prometheus-voor-next-gen-m4-sopmod-kolf": [
+      "kolven",
+      "wapen-toebehoren"
+    ],
     "suppressor-g-g-double-screw": [
       "luchtbuks"
     ],
@@ -26248,6 +26256,9 @@
     "conversion-kit-fx-dreamline-classic-bullpup-to-tactical",
     "conversion-kit-fx-dreamline-lite-classic-tactical-to-bullpup",
     "conversiekit-fx-voor-hi-cap-side-shot-magazijn",
-    "conversion-kit-saber-tactical-fx-panthera-dynamic-king-chassis"
+    "conversion-kit-saber-tactical-fx-panthera-dynamic-king-chassis",
+    "conversion-kit-wolverine-bolt-sniper",
+    "conversion-connector-prometheus-voor-next-gen-m4-sopmod-kolf",
+    "richtkijker-delta-optical-titanium-2-5-15x56-hd-4a"
   ]
 }
