@@ -8865,7 +8865,6 @@
     "hulzencentrifuges"
   ],
   "zeefdeksel-frankford-arsenal-rotary-tumbler": [
-    "herlaadkits",
     "polijsttrommels"
   ],
   "side-wheel-vector-optics-universal-big": [
@@ -17894,6 +17893,9 @@
     "zeef-frankford-arsenal-standard-media-seperator-quick-n-ez": [
       "herlaadkits",
       "polijsttrommels"
+    ],
+    "zeefdeksel-frankford-arsenal-rotary-tumbler": [
+      "herlaadkits"
     ],
     "admin-pouch-bag-medium-elite-8107": [
       "schietsport",
@@ -28439,6 +28441,7 @@
     "shooting-bag-ulfhednar-squeezy",
     "shooting-bag-vanguard-endeavor-srb-large-filled",
     "shooting-bags-vanguard-endeavor-srb-front-rear-filled",
-    "zeef-frankford-arsenal-standard-media-seperator-quick-n-ez"
+    "zeef-frankford-arsenal-standard-media-seperator-quick-n-ez",
+    "zeefdeksel-frankford-arsenal-rotary-tumbler"
   ]
 }
