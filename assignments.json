@@ -2522,24 +2522,19 @@
     "kolven"
   ],
   "conversion-kit-fx-dreamline-classic-bullpup-to-lite": [
-    "kolven",
-    "persen-onderdelen"
+    "kolven"
   ],
   "conversion-kit-fx-dreamline-classic-bullpup-to-tactical": [
-    "kolven",
-    "persen-onderdelen"
+    "kolven"
   ],
   "conversion-kit-fx-dreamline-lite-classic-tactical-to-bullpup": [
-    "kolven",
-    "persen-onderdelen"
+    "kolven"
   ],
   "conversiekit-fx-voor-hi-cap-side-shot-magazijn": [
-    "kolven",
-    "persen-onderdelen"
+    "kolven"
   ],
   "conversion-kit-saber-tactical-fx-panthera-dynamic-king-chassis": [
-    "kolven",
-    "persen-onderdelen"
+    "kolven"
   ],
   "conversion-kit-wolverine-bolt-sniper": [
     "persen-onderdelen"
@@ -15650,6 +15645,26 @@
       "persen-onderdelen",
       "herladen"
     ],
+    "conversion-kit-fx-dreamline-classic-bullpup-to-lite": [
+      "persen-onderdelen",
+      "herladen"
+    ],
+    "conversion-kit-fx-dreamline-classic-bullpup-to-tactical": [
+      "herladen",
+      "persen-onderdelen"
+    ],
+    "conversion-kit-fx-dreamline-lite-classic-tactical-to-bullpup": [
+      "herladen",
+      "persen-onderdelen"
+    ],
+    "conversiekit-fx-voor-hi-cap-side-shot-magazijn": [
+      "persen-onderdelen",
+      "herladen"
+    ],
+    "conversion-kit-saber-tactical-fx-panthera-dynamic-king-chassis": [
+      "persen-onderdelen",
+      "herladen"
+    ],
     "suppressor-g-g-double-screw": [
       "luchtbuks"
     ],
@@ -26228,6 +26243,11 @@
     "collets-set-frankford-arsenal-aluminium",
     "connector-nuprol-tamiya-small-female",
     "connector-nuprol-tamiya-small-male",
-    "conversion-kit-fx-dreamline-bullpup-lite-tactical-to-classic-synthetic"
+    "conversion-kit-fx-dreamline-bullpup-lite-tactical-to-classic-synthetic",
+    "conversion-kit-fx-dreamline-classic-bullpup-to-lite",
+    "conversion-kit-fx-dreamline-classic-bullpup-to-tactical",
+    "conversion-kit-fx-dreamline-lite-classic-tactical-to-bullpup",
+    "conversiekit-fx-voor-hi-cap-side-shot-magazijn",
+    "conversion-kit-saber-tactical-fx-panthera-dynamic-king-chassis"
   ]
 }
