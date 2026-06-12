@@ -2278,7 +2278,7 @@
     "persen-onderdelen"
   ],
   "bullet-knock-out-set-bore-tech": [
-    "schoonmaaksetjes"
+    "stokadapters"
   ],
   "bullet-puller-frankford-arsenal-pile-driver": [
     "herlaadkits"
@@ -15248,6 +15248,10 @@
       "schoonmaak-onderhoud",
       "schoonmaaksetjes"
     ],
+    "bullet-knock-out-set-bore-tech": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
     "burst-disk-dominator-1-8k": [
       "revisiesets",
       "wapen-toebehoren"
@@ -27019,6 +27023,7 @@
     "dual-bottle-adapter-saber-tactical-for-fx-impact",
     "wireguide-clamp-wadsn-for-handguard-tail-remote-switch",
     "bag-rider-fx-panthera-mkii",
-    "bag-rider-epic-airguns-two-adjustable"
+    "bag-rider-epic-airguns-two-adjustable",
+    "bullet-knock-out-set-bore-tech"
   ]
 }
