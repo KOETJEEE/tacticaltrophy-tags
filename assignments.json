@@ -3966,34 +3966,34 @@
     "helmen"
   ],
   "herlaadblok-frankford-arsenal-perfect-fit-3-9mm": [
-    "herlaadkits"
+    "herlaadblokken"
   ],
   "herlaadblok-frankford-arsenal-perfect-fit-4-38-357": [
-    "herlaadkits"
+    "herlaadblokken"
   ],
   "herlaadblok-frankford-arsenal-perfect-fit-4s-40-s-w": [
-    "herlaadkits"
+    "herlaadblokken"
   ],
   "herlaadblok-frankford-arsenal-perfect-fit-5-308-win-30-06": [
-    "herlaadkits"
+    "herlaadblokken"
   ],
   "herlaadblok-frankford-arsenal-perfect-fit-5s-45-acp": [
-    "herlaadkits"
+    "herlaadblokken"
   ],
   "herlaadblok-frankford-arsenal-perfect-fit-6-44-40-45": [
-    "herlaadkits"
+    "herlaadblokken"
   ],
   "herlaadblok-frankford-arsenal-perfect-fit-7-300": [
-    "herlaadkits"
+    "herlaadblokken"
   ],
   "herlaadblok-frankford-arsenal-perfect-fit-8-7-62x54": [
-    "herlaadkits"
+    "herlaadblokken"
   ],
   "herlaadblok-frankford-arsenal-universal-fit": [
-    "herlaadkits"
+    "herlaadblokken"
   ],
   "herlaadblok-frankford-arsenal-perfect-fit-2-223-30": [
-    "herlaadkits"
+    "herlaadblokken"
   ],
   "reloading-press-frankford-arsenal-f-1-single-stage": [
     "herlaadpersen-single-stage"
@@ -15911,6 +15911,39 @@
       "foudralen",
       "geweertassen"
     ],
+    "herlaadblok-frankford-arsenal-perfect-fit-3-9mm": [
+      "herlaadkits"
+    ],
+    "herlaadblok-frankford-arsenal-perfect-fit-4-38-357": [
+      "herlaadkits"
+    ],
+    "herlaadblok-frankford-arsenal-perfect-fit-4s-40-s-w": [
+      "herlaadkits"
+    ],
+    "herlaadblok-frankford-arsenal-perfect-fit-5-308-win-30-06": [
+      "herlaadkits"
+    ],
+    "herlaadblok-frankford-arsenal-perfect-fit-5s-45-acp": [
+      "herlaadkits"
+    ],
+    "herlaadblok-frankford-arsenal-perfect-fit-6-44-40-45": [
+      "herlaadkits"
+    ],
+    "herlaadblok-frankford-arsenal-perfect-fit-7-300": [
+      "herlaadkits"
+    ],
+    "herlaadblok-frankford-arsenal-perfect-fit-8-7-62x54": [
+      "herlaadkits"
+    ],
+    "herlaadblok-frankford-arsenal-universal-fit": [
+      "herlaadkits"
+    ],
+    "herlaadblok-frankford-arsenal-perfect-fit-2-223-30": [
+      "herlaadkits"
+    ],
+    "night-vision-scope-hikmicro-alpex-4k-a50e": [
+      "nachtzicht-richtkijker"
+    ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
     ],
@@ -23879,6 +23912,26 @@
     "grip-walther-ssp-3d-laminate",
     "grip-walther-ssp-3d-protouch",
     "grip-walther-ssp-3d-walnut",
-    "grip-panels-lok-grips-walther-q-series-sf-gridlok-brass"
+    "grip-panels-lok-grips-walther-q-series-sf-gridlok-brass",
+    "hand-pump-hill-mk5",
+    "hand-pump-hill-mk5-with-dry-pac",
+    "hand-pump-hill-spartan-mk2",
+    "handpomp-snowpeak-30e",
+    "handstop-anschutz-4751",
+    "herlaadblok-frankford-arsenal-perfect-fit-3-9mm",
+    "herlaadblok-frankford-arsenal-perfect-fit-4-38-357",
+    "herlaadblok-frankford-arsenal-perfect-fit-4s-40-s-w",
+    "herlaadblok-frankford-arsenal-perfect-fit-5-308-win-30-06",
+    "herlaadblok-frankford-arsenal-perfect-fit-5s-45-acp",
+    "herlaadblok-frankford-arsenal-perfect-fit-6-44-40-45",
+    "herlaadblok-frankford-arsenal-perfect-fit-7-300",
+    "herlaadblok-frankford-arsenal-perfect-fit-8-7-62x54",
+    "herlaadblok-frankford-arsenal-universal-fit",
+    "herlaadblok-frankford-arsenal-perfect-fit-2-223-30",
+    "reloading-press-frankford-arsenal-f-1-single-stage",
+    "herlaadpers-frankford-arsenal-m-press-co-axial",
+    "reloading-press-frankford-arsenal-precision-single-stage",
+    "reloading-press-frankford-arsenal-precision-turret",
+    "reloading-press-frankford-arsenal-x-10-progressive-with-case-feeder"
   ]
 }
