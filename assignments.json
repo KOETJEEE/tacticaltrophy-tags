@@ -1634,7 +1634,7 @@
     "nachtzicht-warmtebeeld-accessoires"
   ],
   "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": [
-    "airsoft-diversen-1"
+    "batterijen"
   ],
   "batterij-nuprol-lipo-11-1v-1100mah-stick": [
     "batterijen"
@@ -15234,6 +15234,9 @@
       "observatie-accessoires",
       "richtmiddel-accessoires"
     ],
+    "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck": [
+      "airsoft-diversen"
+    ],
     "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": [
       "optiek",
       "jacht",
@@ -22731,6 +22734,7 @@
     "batterij-nuprol-lipo-11-1v-3000mah-nunchuck",
     "batterij-nuprol-lipo-11-1v-3300mah-nunchuck",
     "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
-    "batterij-nuprol-nimh-8-4v-1600mah-small"
+    "batterij-nuprol-nimh-8-4v-1600mah-small",
+    "batterij-nuprol-li-fe-9-9v-1500mah-nunchuck"
   ]
 }
