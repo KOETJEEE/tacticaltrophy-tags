@@ -5403,61 +5403,62 @@
     "2-delige-montages"
   ],
   "mount-arken-rigid-precision-cantilever-30-mm-weaver-picatinny-20-moa": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-arken-rigid-precision-cantilever-34-mm-weaver-picatinny-0-moa": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-arken-rigid-precision-cantilever-34-mm-weaver-picatinny-20-moa": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-audere-adversus-30-mm-high-20-moa-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-audere-adversus-30-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-audere-adversus-30-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-audere-adversus-34-mm-high-20-moa-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-audere-adversus-34-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-audere-adversus-34-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-audere-levitas-cantilever-30-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-audere-levitas-cantilever-34-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-audere-psr-30-mm-high-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-audere-psr-30-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-audere-psr-30-mm-low-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-audere-psr-30-mm-medium-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "montage-audere-psr-30-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-audere-psr-34-mm-high-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-audere-psr-34-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-audere-psr-34-mm-low-weaver-picatinny": [
-    "montage-accessoires"
+    "montage-accessoires",
+    "2-delige-montages"
   ],
   "mount-audere-psr-34-mm-medium-dovetail": [
     "montage-accessoires"
@@ -16220,6 +16221,13 @@
       "picatinny-rails",
       "optiek"
     ],
+    "barrel-case-ulfhednar-cordura-75x6": [
+      "foudralen",
+      "geweertassen"
+    ],
+    "loopklem-wheeler-engineering-universal": [
+      "schoonmaak-onderhoud"
+    ],
     "bore-cleaner-birchwood-scrubber": [
       "schoonmaak-onderhoud"
     ],
@@ -16356,6 +16364,60 @@
       "montage-accessoires"
     ],
     "mount-arken-rigid-precision-cantilever-30-mm-weaver-picatinny-0-moa": [
+      "montage-accessoires"
+    ],
+    "mount-arken-rigid-precision-cantilever-30-mm-weaver-picatinny-20-moa": [
+      "montage-accessoires"
+    ],
+    "mount-arken-rigid-precision-cantilever-34-mm-weaver-picatinny-0-moa": [
+      "montage-accessoires"
+    ],
+    "mount-arken-rigid-precision-cantilever-34-mm-weaver-picatinny-20-moa": [
+      "montage-accessoires"
+    ],
+    "mount-audere-adversus-30-mm-high-20-moa-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-adversus-30-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-adversus-30-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-adversus-34-mm-high-20-moa-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-adversus-34-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-adversus-34-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-levitas-cantilever-30-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-levitas-cantilever-34-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-psr-30-mm-high-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-audere-psr-30-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-psr-30-mm-low-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-psr-30-mm-medium-dovetail": [
+      "montage-accessoires"
+    ],
+    "montage-audere-psr-30-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-psr-34-mm-high-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-audere-psr-34-mm-high-weaver-picatinny": [
       "montage-accessoires"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
@@ -24641,6 +24703,38 @@
     "headband-wrap-walker-s-camo",
     "headband-wrap-walker-s-coyote-brown",
     "headband-wrap-walker-s-fde",
-    "headband-wrap-walker-s-od-green"
+    "headband-wrap-walker-s-od-green",
+    "killflash-aim-o-acog-black",
+    "killflash-aim-o-acog-dark-earth",
+    "killflash-aim-o-rd1-rd2",
+    "killflash-aim-o-rmr",
+    "killflash-aim-o-xps",
+    "clay-pigeons-magazine-nordic-clays",
+    "blade-cold-steel-click-n-cut-bowie-clip-point-3-pack",
+    "blade-cold-steel-click-n-cut-gut-hook-3-pack",
+    "loopgewicht-steyr-lp10-e-evo10-e-lp50-4x10-gram",
+    "barrel-weight-hammerli-x-esse-100-grams",
+    "loopgewicht-fx-panthera-dynamic-90-mm-250-gram",
+    "barrel-weight-walther-lg400-300-grams",
+    "barrel-case-ulfhednar-cordura-75x6",
+    "loopklem-wheeler-engineering-universal",
+    "mount-arken-rigid-precision-cantilever-30-mm-weaver-picatinny-20-moa",
+    "mount-arken-rigid-precision-cantilever-34-mm-weaver-picatinny-0-moa",
+    "mount-arken-rigid-precision-cantilever-34-mm-weaver-picatinny-20-moa",
+    "mount-audere-adversus-30-mm-high-20-moa-weaver-picatinny",
+    "mount-audere-adversus-30-mm-high-weaver-picatinny",
+    "mount-audere-adversus-30-mm-medium-weaver-picatinny",
+    "mount-audere-adversus-34-mm-high-20-moa-weaver-picatinny",
+    "mount-audere-adversus-34-mm-high-weaver-picatinny",
+    "mount-audere-adversus-34-mm-medium-weaver-picatinny",
+    "mount-audere-levitas-cantilever-30-mm-high-weaver-picatinny",
+    "mount-audere-levitas-cantilever-34-mm-high-weaver-picatinny",
+    "mount-audere-psr-30-mm-high-dovetail",
+    "mount-audere-psr-30-mm-high-weaver-picatinny",
+    "mount-audere-psr-30-mm-low-weaver-picatinny",
+    "mount-audere-psr-30-mm-medium-dovetail",
+    "montage-audere-psr-30-mm-medium-weaver-picatinny",
+    "mount-audere-psr-34-mm-high-dovetail",
+    "mount-audere-psr-34-mm-high-weaver-picatinny"
   ]
 }
