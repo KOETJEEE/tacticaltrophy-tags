@@ -68,7 +68,10 @@
     "adapter-mdt-spuhr-to-v-mount",
     "adapter-nine-reloaded-alpha",
     "adapter-nine-reloaded-bravo",
-    "adapter-mdt-m-lok-to-v-mount"
+    "adapter-mdt-m-lok-to-v-mount",
+    "adapter-mdt-folding-stock-carbine-to-fixed",
+    "adapter-mdt-folding-stock-carbine-to-carbine",
+    "adapter-mdt-carbine-to-fixed-stock"
   ],
   "stealth-gear-camouflage-tape-720115": [
     "tape"
