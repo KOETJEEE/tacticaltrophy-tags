@@ -22,7 +22,6 @@
     "tactical-polo-shirt-long-sleeve-6535-6696",
     "tactical-polo-shirt-ranger-6535-9260",
     "batterij-nuprol-nimh-8-4v-1600mah-small",
-    "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
     "mirage-band-attachment-rome",
     "seating-pad-with-belt-20",
     "m-tac-seating-pad-with-belt-18",
@@ -1641,25 +1640,25 @@
     "batterijen"
   ],
   "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": [
-    "statieven"
+    "batterijen"
   ],
   "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans": [
     "batterijen"
   ],
   "batterij-nuprol-lipo-11-1v-2200mah-triplet-t-plug-deans": [
-    "airsoft-diversen-1"
+    "batterijen"
   ],
   "batterij-nuprol-lipo-11-1v-3000mah-nunchuck": [
-    "airsoft-diversen-1"
+    "batterijen"
   ],
   "batterij-nuprol-lipo-11-1v-3300mah-nunchuck": [
-    "airsoft-diversen-1"
+    "batterijen"
   ],
   "batterij-nuprol-nimh-8-4v-1600mah-nunchuck": [
-    "airsoft-diversen-1"
+    "batterijen"
   ],
   "batterij-nuprol-nimh-8-4v-1600mah-small": [
-    "airsoft-diversen-1"
+    "batterijen"
   ],
   "battery-sillosocks-large-12-ah-12v": [
     "lokmiddel-toebehoren"
@@ -15235,6 +15234,28 @@
       "observatie-accessoires",
       "richtmiddel-accessoires"
     ],
+    "batterij-nuprol-lipo-11-1v-1300mah-peq-micro": [
+      "optiek",
+      "jacht",
+      "schietsport",
+      "statieven",
+      "wapen-toebehoren"
+    ],
+    "batterij-nuprol-lipo-11-1v-2200mah-triplet-t-plug-deans": [
+      "airsoft-diversen"
+    ],
+    "batterij-nuprol-lipo-11-1v-3000mah-nunchuck": [
+      "airsoft-diversen"
+    ],
+    "batterij-nuprol-lipo-11-1v-3300mah-nunchuck": [
+      "airsoft-diversen"
+    ],
+    "batterij-nuprol-nimh-8-4v-1600mah-nunchuck": [
+      "airsoft-diversen"
+    ],
+    "batterij-nuprol-nimh-8-4v-1600mah-small": [
+      "airsoft-diversen"
+    ],
     "battery-charger-hikmicro": [
       "observatie-accessoires"
     ],
@@ -22702,6 +22723,14 @@
     "batterij-hikmicro-hm-3632dc-lithium-oplaadbaar-3-6v-3200mah",
     "battery-hikmicro-thunder-2-0-3-0-hm-3644dc-rechargeable-3-6v-4400mah",
     "barricade-stop-saber-tactical-arca-swiss",
-    "barricade-stop-rome-picatinny"
+    "barricade-stop-rome-picatinny",
+    "batterij-nuprol-lipo-11-1v-1100mah-stick",
+    "batterij-nuprol-lipo-11-1v-1300mah-peq-micro",
+    "batterij-nuprol-lipo-11-1v-1600mah-triplet-t-plug-deans",
+    "batterij-nuprol-lipo-11-1v-2200mah-triplet-t-plug-deans",
+    "batterij-nuprol-lipo-11-1v-3000mah-nunchuck",
+    "batterij-nuprol-lipo-11-1v-3300mah-nunchuck",
+    "batterij-nuprol-nimh-8-4v-1600mah-nunchuck",
+    "batterij-nuprol-nimh-8-4v-1600mah-small"
   ]
 }
