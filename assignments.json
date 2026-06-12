@@ -3995,7 +3995,7 @@
     "hpa-tanks"
   ],
   "hulzen-onderhoudsset-frankford-arsenal": [
-    "herlaadkits"
+    "gereedschap"
   ],
   "hulzencentrifuge-frankford-arsenal-quick-n-ez": [
     "hulzencentrifuges"
@@ -15918,6 +15918,10 @@
       "manometers",
       "schietsport",
       "wapen-toebehoren"
+    ],
+    "hulzen-onderhoudsset-frankford-arsenal": [
+      "herlaadkits",
+      "herladen"
     ],
     "hulzencentrifuge-frankford-arsenal-quick-n-ez": [
       "herlaadkits"
