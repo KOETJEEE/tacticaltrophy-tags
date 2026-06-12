@@ -7349,10 +7349,10 @@
     "persluchtfles-accessoires"
   ],
   "snelkoppeling-foster-female-zwart": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "snelkoppeling-fx-mkii": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "snelkoppeling-foster-female-verlengd": [
     "vulbenodigdheden"
@@ -17994,6 +17994,12 @@
       "herlaadpersen-turret-progressive",
       "herlaadpersen-progressive",
       "herlaadpersen-turret"
+    ],
+    "snelkoppeling-foster-female-zwart": [
+      "persluchtfles-accessoires"
+    ],
+    "snelkoppeling-fx-mkii": [
+      "persluchtfles-accessoires"
     ],
     "snelkoppeling-foster-female-verlengd": [
       "persluchtfles-accessoires"
@@ -30395,6 +30401,8 @@
     "snelkoppelingset-bf-starter-kit",
     "snelkoppeling-foster-male",
     "spare-locator-buttons-frankford-x-10-8-pack-small",
-    "snelkoppeling-foster-female-verlengd"
+    "snelkoppeling-foster-female-verlengd",
+    "snelkoppeling-fx-mkii",
+    "snelkoppeling-foster-female-zwart"
   ]
 }
