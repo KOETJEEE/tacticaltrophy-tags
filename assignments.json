@@ -13438,9 +13438,8 @@
   ],
   "agm-rusan-quick-release-clip-on-montage-voor-comanche-22-121108": [
     "montage-accessoires",
-    "nachtzicht-handheld",
-    "voorzetkijkers",
-    "observatie-accessoires"
+    "observatie-accessoires",
+    "voorzetkijkers"
   ],
   "agm-pvs-14-ap-monoculaire-nachtkijker-gen2-green-phosphor-121070": [
     "nachtzicht-handheld"
@@ -13449,7 +13448,7 @@
     "nachtzicht-handheld"
   ],
   "agm-sioux940-long-range-infraroodstraler-940nm800mw-121101": [
-    "observatie-accessoires"
+    "infraroodlampen"
   ],
   "agm-voyage-lrf-tb50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121241": [
     "afstandsmeters",
@@ -20030,7 +20029,8 @@
       "richtmiddel-accessoires"
     ],
     "agm-rusan-quick-release-clip-on-montage-voor-comanche-22-121108": [
-      "nachtzicht-en-warmtebeeldaccessoires"
+      "nachtzicht-en-warmtebeeldaccessoires",
+      "nachtzicht"
     ],
     "agm-pvs-14-ap-monoculaire-nachtkijker-gen2-green-phosphor-121070": [
       "monoculair"
@@ -20041,7 +20041,8 @@
     "agm-sioux940-long-range-infraroodstraler-940nm800mw-121101": [
       "nachtzicht",
       "ir-illuminators",
-      "nachtzicht-en-warmtebeeldaccessoires"
+      "nachtzicht-en-warmtebeeldaccessoires",
+      "observatie-accessoires"
     ],
     "agm-voyage-lrf-tb50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121241": [
       "warmtebeeld"
@@ -20788,6 +20789,8 @@
     "konus-richtkijker-konuspro-3-9x50-met-verlicht-dradenkruis-437294",
     "flir-oculair-ooggedeelte-voor-scout-134127309",
     "braun-wildcamera-scouting-cam-black400-wifi-solar-535659",
-    "braun-wildcamera-black300-535630"
+    "braun-wildcamera-black300-535630",
+    "whistle-5947",
+    "agm-sioux940-long-range-infraroodstraler-940nm800mw-121101"
   ]
 }
