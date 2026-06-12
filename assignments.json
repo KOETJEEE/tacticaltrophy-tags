@@ -3600,11 +3600,9 @@
     "gereedschap"
   ],
   "hamer-fx-impact-m3-tungsten": [
-    "luchtdruk-onderdelen",
     "tuning-parts"
   ],
   "hammer-fx-maverick-wildcat-mkiii-dreamline-panthera-dynamic-king-drs-tungsten": [
-    "luchtdruk-onderdelen",
     "tuning-parts"
   ],
   "hamer-wheeler-nylon-messing": [
@@ -15840,6 +15838,12 @@
     "hamer-doorslagset-wheeler": [
       "schoonmaak-onderhoud"
     ],
+    "hamer-fx-impact-m3-tungsten": [
+      "luchtdruk-onderdelen"
+    ],
+    "hammer-fx-maverick-wildcat-mkiii-dreamline-panthera-dynamic-king-drs-tungsten": [
+      "luchtdruk-onderdelen"
+    ],
     "hamer-wheeler-nylon-messing": [
       "schoonmaak-onderhoud"
     ],
@@ -15848,6 +15852,12 @@
     ],
     "hand-priming-tool-frankford-arsenal-perfect-seat": [
       "herlaadkits"
+    ],
+    "hand-wipes-birchwood-lead-scrubber": [
+      "doeken",
+      "schoonmaak-onderhoud",
+      "wattenstaafjes",
+      "werkbankmatten"
     ],
     "herlaadblok-frankford-arsenal-perfect-fit-3-9mm": [
       "herlaadkits"
@@ -27041,6 +27051,9 @@
     "weight-reservoir-caldwell-lead-sled-4-dft-3-2-pack",
     "memory-card-hikmicro-sd-64gb",
     "memory-card-hikmicro-sd-32gb",
-    "grip-plug-ergo-air-tactical-deluxe-zero-angle"
+    "grip-plug-ergo-air-tactical-deluxe-zero-angle",
+    "hamer-fx-impact-m3-tungsten",
+    "hammer-fx-maverick-wildcat-mkiii-dreamline-panthera-dynamic-king-drs-tungsten",
+    "hand-wipes-birchwood-lead-scrubber"
   ]
 }
