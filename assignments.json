@@ -508,10 +508,7 @@
   "explorer-cases-tas-g-voor-582258235833-255075": [
     "koffers"
   ],
-  "explorer-cases-universele-draagriem-set-255470": [
-    "koffers",
-    "wapenkoffers"
-  ],
+  "explorer-cases-universele-draagriem-set-255470": [],
   "explorer-cases-waterproof-rack-frame-trolley-koffer-5140-b6u-251270": [
     "koffers"
   ],
@@ -14272,6 +14269,16 @@
       "transport",
       "wapenkoffers",
       "airsoft"
+    ],
+    "explorer-cases-universele-draagriem-set-255470": [
+      "airsoft",
+      "jacht",
+      "koffers",
+      "schietsport",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
     ],
     "explorer-cases-waterproof-rack-frame-trolley-koffer-5140-b6u-251270": [
       "airsoft",
