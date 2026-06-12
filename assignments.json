@@ -7933,10 +7933,11 @@
     "waterpassen"
   ],
   "turretstickers-groen": [
-    "schietdoelen"
+    "richtmiddel-accessoires"
   ],
   "tussenplaat-harris-no-7a": [
-    "geweersteunen"
+    "geweersteunen",
+    "bipod-toebehoren"
   ],
   "tussenplaat-wegu": [
     "kolfplaten"
@@ -17750,6 +17751,11 @@
     ],
     "trekkoord-netarm": [
       "schoonmaak-onderhoud"
+    ],
+    "turretstickers-groen": [
+      "airsoft",
+      "schietdoelen",
+      "schietsport"
     ],
     "stock-spacers-mdt-buttstock-spacer-kit": [
       "kolven"
@@ -29680,6 +29686,9 @@
     "field-jacket-patrol-ranger-flex-9497",
     "stock-spacers-mdt-buttstock-spacer-kit",
     "u-yoke-vanguard-for-quest-veo-2-veo-2s",
-    "tussenplaat-wegu"
+    "tussenplaat-wegu",
+    "tussenplaat-harris-no-7a",
+    "turretstickers-groen",
+    "tripod-bog-deathgrip-aluminium-realtree-excape"
   ]
 }
