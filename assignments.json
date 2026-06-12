@@ -8010,7 +8010,7 @@
     "verrekijkers"
   ],
   "magnifier-vector-optics-3x": [
-    "voorzetkijkers"
+    "voorzetvergrotingen"
   ],
   "rifle-scope-vector-optics-continental-1-6x24": [
     "richtkijkers"
@@ -8344,43 +8344,43 @@
     "voorhoutsteunen"
   ],
   "voorzetadapter-eagle-vision-pard-nv007": [
-    "voorzetkijkers"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "adapter-ring-hikmicro-thunder": [
-    "voorzetkijkers"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "adapter-ring-hikmicro-thunder-2-0": [
-    "voorzetkijkers"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "adapter-clamp-rusan-modular": [
-    "voorzetkijkers"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "voorzetadapter-rusan-q-r-m52x0-75-56mm": [
-    "voorzetkijkers"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "clip-on-adapter-ring-rusan-hikmicro-thunder-th35c": [
-    "adapterringen"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "adapter-ring-rusan-m52x0-75-to-modular": [
-    "adapterringen"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "adapter-ring-rusan-modular-m35x1": [
-    "adapterringen"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "adapter-ring-rusan-modular-m44x0-75-swarovski-tm-35": [
-    "adapterringen"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "adapter-ring-rusan-modular-m46x0-75": [
-    "adapterringen"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "adapter-ring-rusan-modular-m52x0-75": [
-    "adapterringen"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "voorzetadapterring-rusan-modular-hikmicro-thunder-v2": [
-    "adapterringen"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "adapter-ring-rusan-modular-pulsar-f455-4-pins": [
-    "adapterringen"
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "magnifier-aim-o-et-style-g33-3x-black": [
     "voorzetkijkers"
@@ -17683,6 +17683,9 @@
       "utility-pouches",
       "pouches"
     ],
+    "magnifier-vector-optics-3x": [
+      "voorzetkijkers"
+    ],
     "magnifier-vector-optics-maverick-4x": [
       "voorzetkijkers"
     ],
@@ -17742,6 +17745,61 @@
       "schoonmaak-onderhoud",
       "wapenvet",
       "wapenolie"
+    ],
+    "viziergereedschap-wheeler-armorers-handgun": [
+      "schoonmaak-onderhoud"
+    ],
+    "sight-tool-wheeler-digital-alignment-system-reti-level": [
+      "schoonmaak-onderhoud"
+    ],
+    "voorzetadapter-eagle-vision-pard-nv007": [
+      "voorzetkijkers"
+    ],
+    "adapter-ring-hikmicro-thunder": [
+      "voorzetkijkers"
+    ],
+    "adapter-ring-hikmicro-thunder-2-0": [
+      "voorzetkijkers"
+    ],
+    "adapter-clamp-rusan-modular": [
+      "voorzetkijkers"
+    ],
+    "voorzetadapter-rusan-q-r-m52x0-75-56mm": [
+      "voorzetkijkers"
+    ],
+    "clip-on-adapter-ring-rusan-hikmicro-thunder-th35c": [
+      "adapterring",
+      "optiek",
+      "voorzetadapterring"
+    ],
+    "adapter-ring-rusan-m52x0-75-to-modular": [
+      "voorzetadapterring",
+      "optiek",
+      "adapterring"
+    ],
+    "adapter-ring-rusan-modular-m35x1": [
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "adapter-ring-rusan-modular-m44x0-75-swarovski-tm-35": [
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "adapter-ring-rusan-modular-m46x0-75": [
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "adapter-ring-rusan-modular-m52x0-75": [
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "voorzetadapterring-rusan-modular-hikmicro-thunder-v2": [
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "adapter-ring-rusan-modular-pulsar-f455-4-pins": [
+      "adapterring",
+      "voorzetadapterring"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
@@ -28279,6 +28337,50 @@
     "rifle-scope-vector-optics-continental-5-30x56-vct-34ffp-tactical-mil",
     "rifle-scope-vector-optics-continental-5-30x56-vec-mbr",
     "rifle-scope-vector-optics-continental-x6-6-36x56",
-    "rifle-scope-vector-optics-forester-1-8x24-vfd-3-black"
+    "rifle-scope-vector-optics-forester-1-8x24-vfd-3-black",
+    "viziergereedschap-wheeler-armorers-handgun",
+    "magnifier-vector-optics-3x",
+    "binocular-vanguard-vesta-8x42",
+    "sight-tool-wheeler-digital-alignment-system-reti-level",
+    "spotting-scope-vanguard-vesta-560a-15-45x60",
+    "spotting-scope-vanguard-vesta-460a-15-50x60",
+    "spotting-scope-vanguard-endeavor-xf-60a-15-45x60",
+    "spotting-scope-vanguard-endeavor-xf-80a-20-60x80",
+    "binocular-vanguard-veo-ed-10x42",
+    "binocular-vanguard-veo-ed-10x50",
+    "spotting-scope-vanguard-veo-hd-iv-65a-18-45x65",
+    "spotting-scope-vanguard-veo-hd-iv-82a-25-60x82",
+    "binocular-vanguard-veo-hd2-10x42",
+    "binocular-vanguard-veo-hd2-8x42",
+    "binocular-vanguard-vesta-10x42",
+    "vizierlijnverhoging-anschutz-6817",
+    "raiser-block-walther-centra-block-club",
+    "vizierlijnverhoging-verlenger-walther-up",
+    "vochtontrekker-lockdown-silica-gel-450-gram",
+    "vochtonttrekker-lockdown-silica-gel-750-gram",
+    "moisture-absorber-silent-dry-cube-2-pack",
+    "moisture-absorber-silent-dry-double-m",
+    "moisture-absorber-silent-dry-hypercube",
+    "moisture-absorber-silent-dry-invisible-4-pack",
+    "moisture-absorber-silent-dry-mine",
+    "moisture-absorber-silent-dry-pioneer",
+    "moisture-absorber-silent-dry-shotgun-jr",
+    "interior-forend-weights-fx-dynamic-panthera-mkii-145-grams-4-pack",
+    "loopgewichtset-fx-panthera-m-lok-150-gram",
+    "forend-weights-mdt-acc-interior-236-grams",
+    "forend-weights-mdt-baker-wings-180-grams",
+    "forend-weights-mdt-m-lok-160-grams",
+    "voorhoutverhoging-set-feinwerkbau-700-800",
+    "voorzetadapter-eagle-vision-pard-nv007",
+    "adapter-ring-hikmicro-thunder",
+    "adapter-ring-hikmicro-thunder-2-0",
+    "adapter-clamp-rusan-modular",
+    "voorzetadapter-rusan-q-r-m52x0-75-56mm",
+    "clip-on-adapter-ring-rusan-hikmicro-thunder-th35c",
+    "adapter-ring-rusan-m52x0-75-to-modular",
+    "adapter-ring-rusan-modular-m35x1",
+    "adapter-ring-rusan-modular-m44x0-75-swarovski-tm-35",
+    "adapter-ring-rusan-modular-m46x0-75",
+    "adapter-ring-rusan-modular-m52x0-75"
   ]
 }
