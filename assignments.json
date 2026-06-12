@@ -1281,7 +1281,7 @@
     "stokadapters"
   ],
   "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw": [
-    "stokadapters"
+    "vulbenodigdheden"
   ],
   "adapter-plate-kmr-s-02-leupold-delta-point-pro": [
     "montagebasissen"
@@ -14770,6 +14770,11 @@
       "stokadapters"
     ],
     "adapter-vfg-voor-vfg-schoonmaakproppen": [
+      "schoonmaak-onderhoud"
+    ],
+    "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw": [
+      "onderhoud",
+      "stokadapters",
       "schoonmaak-onderhoud"
     ],
     "adapter-plate-kmr-s-02-leupold-delta-point-pro": [
@@ -30144,6 +30149,7 @@
     "flir-breach-ptq136-adapter-voor-dual-helm-bridge-dovetail-13431909",
     "noblex-ipsc-mount-for-noblexdocter-460600",
     "adapter-vfg-voor-vfg-schoonmaakproppen",
-    "adapter-saber-tactical-fx-impact-bag-rider"
+    "adapter-saber-tactical-fx-impact-bag-rider",
+    "adapter-wolverine-fixed-rear-airline-connector-frac-for-mtw"
   ]
 }
