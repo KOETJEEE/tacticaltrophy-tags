@@ -4011,18 +4011,16 @@
     "herlaadpersen-turret-progressive"
   ],
   "night-vision-scope-hikmicro-alpex-4k-a50e": [
-    "inspectie-cameras",
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-alpex-4k-a50el-lrf": [
-    "inspectie-cameras",
     "nachtzicht-richtkijkers"
   ],
   "hikmicro-alpex-4k-lite-a40e-night-vision-scope": [
-    "inspectie-cameras"
+    "nachtzicht-richtkijkers"
   ],
   "hikmicro-alpex-4k-lite-a40el-lrf-night-vision-scope": [
-    "inspectie-cameras"
+    "nachtzicht-richtkijkers"
   ],
   "hikmicro-alpex-pro-a50p-night-vision-scope": [
     "nachtzicht-richtkijkers"
@@ -4031,16 +4029,19 @@
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-850-nm-ir": [
-    "nachtzicht-handheld"
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir": [
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir": [
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir-no-reticle": [
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-850-nm-ir": [
     "nachtzicht-handheld"
@@ -15942,7 +15943,27 @@
       "herlaadkits"
     ],
     "night-vision-scope-hikmicro-alpex-4k-a50e": [
+      "nachtzicht-richtkijker",
+      "inspectie-cameras"
+    ],
+    "night-vision-scope-hikmicro-alpex-4k-a50el-lrf": [
+      "inspectie-cameras",
       "nachtzicht-richtkijker"
+    ],
+    "hikmicro-alpex-4k-lite-a40e-night-vision-scope": [
+      "inspectie-cameras"
+    ],
+    "hikmicro-alpex-4k-lite-a40el-lrf-night-vision-scope": [
+      "inspectie-cameras"
+    ],
+    "hikmicro-alpex-pro-a50p-night-vision-scope": [
+      "nachtzicht-richtkijker"
+    ],
+    "hikmicro-alpex-pro-a50pl-lrf-night-vision-scope": [
+      "nachtzicht-richtkijker"
+    ],
+    "night-vision-scope-hikmicro-cheetah-850-nm-ir": [
+      "nachtzicht"
     ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
@@ -23932,6 +23953,16 @@
     "herlaadpers-frankford-arsenal-m-press-co-axial",
     "reloading-press-frankford-arsenal-precision-single-stage",
     "reloading-press-frankford-arsenal-precision-turret",
-    "reloading-press-frankford-arsenal-x-10-progressive-with-case-feeder"
+    "reloading-press-frankford-arsenal-x-10-progressive-with-case-feeder",
+    "night-vision-scope-hikmicro-alpex-4k-a50e",
+    "night-vision-scope-hikmicro-alpex-4k-a50el-lrf",
+    "hikmicro-alpex-4k-lite-a40e-night-vision-scope",
+    "hikmicro-alpex-4k-lite-a40el-lrf-night-vision-scope",
+    "hikmicro-alpex-pro-a50p-night-vision-scope",
+    "hikmicro-alpex-pro-a50pl-lrf-night-vision-scope",
+    "night-vision-scope-hikmicro-cheetah-850-nm-ir",
+    "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir",
+    "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir",
+    "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir-no-reticle"
   ]
 }
