@@ -63,9 +63,6 @@
     "ergonomic-shoulder-protection-for-ballistic-panel-inserts-pair-9048",
     "flag-odin-night-vision-630x900-5792"
   ],
-  "t-shirt-68-oeb-10000": [
-    "shirts"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-handheld"
@@ -81,9 +78,6 @@
     "nachtzicht-handheld"
   ],
   "agm-foxbat-8-nw1-nachtzicht-verrekijker-8x-vergroting-gen2-white-phosphor-121092": [
-    "nachtzicht-handheld"
-  ],
-  "agm-nvg-40-apw-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121083": [
     "nachtzicht-handheld"
   ],
   "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080": [
@@ -1403,34 +1397,7 @@
   "accessory-rail-saber-tactical-arca-swiss-to-weaver-picatinny": [
     "picatinny-rails"
   ],
-  "accessory-rail-saber-tactical-fx-impact-arca-swiss-3-compact": [
-    "picatinny-rails"
-  ],
   "accessoirerail-saber-tactical-fx-impact-extended-picatinny": [
-    "picatinny-rails"
-  ],
-  "accessory-rail-saber-tactical-fx-impact-low-profile-arca-swiss-3-full": [
-    "picatinny-rails"
-  ],
-  "accessory-rail-saber-tactical-fx-panthera": [
-    "picatinny-rails"
-  ],
-  "accessoirerail-saber-tactical-fx-panthera-hunter-dynamic-compact-arca": [
-    "picatinny-rails"
-  ],
-  "accessory-rail-saber-tactical-fx-panthera-standard-bottom-arca": [
-    "picatinny-rails"
-  ],
-  "accessory-rail-saber-tactical-fx-panthera-dynamic-king-bronze": [
-    "picatinny-rails"
-  ],
-  "accessory-rail-saber-tactical-fx-panthera-dynamic-king-grey": [
-    "picatinny-rails"
-  ],
-  "accessory-rail-saber-tactical-picatinny-to-arca-swiss-large": [
-    "picatinny-rails"
-  ],
-  "accessory-rail-saber-tactical-picatinny-to-arca-swiss-short": [
     "picatinny-rails"
   ],
   "accessory-rail-ulfhednar-m-lok-arca-swiss-gen-ii-5-cm": [
@@ -2654,37 +2621,10 @@
   "chassis-mdt-xrs-tikka-t3-t3x-sa-black": [
     "kolven"
   ],
-  "chassis-rome-lorica-bergara-b14r": [
-    "kolven"
-  ],
-  "chassis-rome-lorica-tikka-t1x": [
-    "kolven"
-  ],
-  "chassis-rome-lorica-e-tikka-t3": [
-    "kolven"
-  ],
-  "chassis-rome-lorica-r-remington-sa": [
-    "kolven"
-  ],
-  "chassis-rome-lorica-r-tikka-t3": [
-    "kolven"
-  ],
   "chassis-rome-motus-cz-457": [
     "kolven"
   ],
   "chassis-rome-motus-tikka-t1x": [
-    "kolven"
-  ],
-  "chassis-saber-tactical-fx-drs-bronze": [
-    "kolven"
-  ],
-  "chassis-saber-tactical-fx-drs-grey": [
-    "kolven"
-  ],
-  "chassis-saber-tactical-fx-panthera-dynamic-king-bronze": [
-    "kolven"
-  ],
-  "chassis-saber-tactical-fx-panthera-dynamic-king-grey": [
     "kolven"
   ],
   "cheek-rest-saber-tactical-trs-fx-impact-m4": [
@@ -4202,59 +4142,6 @@
   "hand-wipes-birchwood-lead-scrubber": [
     "onderhoudshulpmiddelen"
   ],
-  "handschoenen-mechanix-fast-fit-covert-black": [
-    "tactical-handschoenen"
-  ],
-  "handschoenen-mechanix-fast-fit-coyote": [
-    "tactical-handschoenen"
-  ],
-  "gloves-mechanix-fast-fit-multicam": [
-    "tactical-handschoenen"
-  ],
-  "gloves-mechanix-fast-fit-od-green": [
-    "tactical-handschoenen"
-  ],
-  "handschoenen-mechanix-m-pact-covert": [
-    "tactical-handschoenen"
-  ],
-  "handschoenen-mechanix-m-pact-coyote": [
-    "tactical-handschoenen"
-  ],
-  "handschoenen-mechanix-m-pact-fingerless-black": [
-    "tactical-handschoenen"
-  ],
-  "handschoenen-mechanix-m-pact-fingerless": [
-    "tactical-handschoenen"
-  ],
-  "handschoenen-mechanix-m-pact-multicam": [
-    "tactical-handschoenen"
-  ],
-  "gloves-mechanix-m-pact-od-green": [
-    "tactical-handschoenen"
-  ],
-  "gloves-mechanix-precision-pro-high-dexterity-grip-covert-black": [
-    "grips",
-    "tactical-handschoenen"
-  ],
-  "gloves-mechanix-precision-pro-high-dexterity-grip-coyote": [
-    "grips",
-    "tactical-handschoenen"
-  ],
-  "handschoenen-mechanix-the-original-covert": [
-    "tactical-handschoenen"
-  ],
-  "handschoenen-mechanix-the-original-coyote": [
-    "tactical-handschoenen"
-  ],
-  "handschoenen-mechanix-the-original-multicam": [
-    "tactical-handschoenen"
-  ],
-  "gloves-mechanix-the-original-multicam-black": [
-    "tactical-handschoenen"
-  ],
-  "gloves-mechanix-the-original-od-green": [
-    "tactical-handschoenen"
-  ],
   "handstop-anschutz-4751": [
     "handstoppen"
   ],
@@ -4273,23 +4160,11 @@
   "headset-code-red-silent-listen-only-3-5-mm-connector-with-replacement-pack": [
     "portofoons"
   ],
-  "headset-code-red-tbch-pro-b-m-tactical-bone-conduction": [
-    "portofoons"
-  ],
   "headset-z-tactical-bowman-evo-iii-green": [
     "portofoons"
   ],
   "headset-z-tactical-comtac-ii-green": [
     "portofoons"
-  ],
-  "helmet-pts-mtek-flux-black": [
-    "helmen"
-  ],
-  "helmet-pts-mtek-flux-coyote": [
-    "helmen"
-  ],
-  "helmet-pts-mtek-flux-od-green": [
-    "helmen"
   ],
   "helmet-adapters-code-red-cr-miltac-rear-arc-for-fast-rail": [
     "helmen"
@@ -4301,12 +4176,6 @@
     "helmen"
   ],
   "helmet-adapters-tac-sky-comtac-arc-fde": [
-    "helmen"
-  ],
-  "helmet-adapters-tac-sky-comtac-mtek-black": [
-    "helmen"
-  ],
-  "helmet-adapters-tac-sky-comtac-mtek-fde": [
     "helmen"
   ],
   "herlaadblok-frankford-arsenal-perfect-fit-3-9mm": [
@@ -4513,9 +4382,6 @@
   "holster-ctm-hi-capa": [
     "holsters"
   ],
-  "holster-belt-black-scorpion-gear-pro-heavy-duty-competition": [
-    "holsters"
-  ],
   "holsterriem-caldwell-tac-ops": [
     "holsters"
   ],
@@ -4544,9 +4410,6 @@
     "hop-ups"
   ],
   "hop-up-bucking-g-g-cold-resistant": [
-    "hop-ups"
-  ],
-  "hop-up-bucking-laylax-nine-ball-wide-use": [
     "hop-ups"
   ],
   "hop-up-bucking-prometheus-hard": [
@@ -4880,12 +4743,6 @@
     "luchtdrukmunitie-accessoires"
   ],
   "kolf-aea-zeus": [
-    "kolven"
-  ],
-  "stock-ctm-twinfold-fixed-4-2": [
-    "kolven"
-  ],
-  "stock-ctm-twinfold-fixed-6-6": [
     "kolven"
   ],
   "stock-evanix-viper-adjustable": [
@@ -5249,9 +5106,6 @@
     "loopgewichten"
   ],
   "barrel-weight-hammerli-x-esse-100-grams": [
-    "loopgewichten"
-  ],
-  "barrel-weight-saber-tactical-m-lok-v2-230-grams": [
     "loopgewichten"
   ],
   "loopgewicht-steyr-lp10-e-evo10-e-lp50-4x10-gram": [
@@ -6252,25 +6106,7 @@
   "mounting-rail-rome-tikka-t3x-20-moa-weaver-picatinny": [
     "picatinny-rails"
   ],
-  "accessory-rail-saber-tactical-fx-maverick-trs-compact": [
-    "picatinny-rails"
-  ],
-  "accessory-rail-saber-tactical-fx-maverick-trs-standard": [
-    "picatinny-rails"
-  ],
   "mounting-rail-saber-tactical-picatinny-to-picatinny": [
-    "picatinny-rails"
-  ],
-  "montagerail-saber-tactical-fx-impact-trs-compact": [
-    "picatinny-rails"
-  ],
-  "montagerail-saber-tactical-trs-compact-fx-impact-m4": [
-    "picatinny-rails"
-  ],
-  "montagerail-saber-tactical-fx-impact-trs": [
-    "picatinny-rails"
-  ],
-  "montagerail-saber-tactical-trs-fx-impact-m4": [
     "picatinny-rails"
   ],
   "mounting-rail-tokyo-marui-vsr-10-picatinny": [
@@ -6829,19 +6665,10 @@
   "patch-jtg-3d-pvc-i-need-beer-gid": [
     "patches"
   ],
-  "patch-jtg-3d-pvc-i-m-the-storm-punisher": [
-    "patches"
-  ],
   "patch-jtg-3d-pvc-installing-muscles-please-wait": [
     "patches"
   ],
   "patch-jtg-3d-pvc-lost-raiders": [
-    "patches"
-  ],
-  "patch-jtg-3d-pvc-mama-says-i-m-special-blackops": [
-    "patches"
-  ],
-  "patch-jtg-3d-pvc-mama-says-i-m-special-swat": [
     "patches"
   ],
   "patch-jtg-3d-pvc-marshal": [
@@ -7375,12 +7202,6 @@
   "quick-release-adapter-amomax": [
     "stokadapters"
   ],
-  "rail-weight-saber-tactical-fx-panthera-brass-bridge": [
-    "tactical-bags"
-  ],
-  "rail-weights-saber-tactical-m-lok-227-grams": [
-    "loopgewichten"
-  ],
   "range-bag-plano-x2-medium": [
     "range-bags"
   ],
@@ -7441,15 +7262,6 @@
   ],
   "scope-guard-element-optics-neoprene": [
     "beschermkappen"
-  ],
-  "belt-amomax-greyhawk-molle-double-black": [
-    "riemen-bretels"
-  ],
-  "belt-amomax-greyhawk-molle-double-coyote-brown": [
-    "riemen-bretels"
-  ],
-  "belt-amomax-greyhawk-molle-double-ranger-green": [
-    "riemen-bretels"
   ],
   "riembeugel-anschutz-met-ronde-bal": [
     "riembeugels"
@@ -7731,9 +7543,6 @@
   ],
   "schietdoel-snowpeak-moving-target": [
     "schietdoelen"
-  ],
-  "schiethandschoen-caldwell-ultimate-shooters-glove-c": [
-    "tactical-handschoenen"
   ],
   "shooting-mat-birchwood": [
     "schietmatten"
@@ -8344,10 +8153,6 @@
   "tacstack-22x9-outdoor-storage-box": [
     "wapenkoffers"
   ],
-  "tacstack-24l-backpack": [
-    "tassen-rugzakken",
-    "tactical-bags"
-  ],
   "tacstack-32x22-pistol-case-green": [
     "wapenkoffers"
   ],
@@ -8372,22 +8177,7 @@
   "tacstack-l-100x30-rifle-bag": [
     "geweertassen-foudralen"
   ],
-  "tacstack-l-95x30-rifle-case-green": [
-    "wapenkoffers"
-  ],
-  "tacstack-l-95x30-rifle-case-black": [
-    "wapenkoffers"
-  ],
   "tacstack-l-bag-organiser": [
-    "tactical-bags"
-  ],
-  "tacstack-m-88x30-rifle-bag": [
-    "geweertassen-foudralen"
-  ],
-  "tacstack-m-accessory-pouch": [
-    "die-accessoires"
-  ],
-  "tacstack-m-bag-organiser": [
     "tactical-bags"
   ],
   "tacstack-molle-web-belt-clamp-3-pack": [
@@ -8434,12 +8224,6 @@
   ],
   "tacstack-xl-130x30-rifle-bag": [
     "geweertassen-foudralen"
-  ],
-  "tacstack-xl-131x34-rifle-case-green": [
-    "wapenkoffers"
-  ],
-  "tacstack-xl-131x34-rifle-case-black": [
-    "wapenkoffers"
   ],
   "tactical-kit-fx-dreamline": [
     "kolven"
@@ -8871,9 +8655,6 @@
   ],
   "spotting-scope-vector-optics-forester-20-60x60": [
     "spotting-scopes"
-  ],
-  "red-dot-vector-optics-frenzy-1x24x29-genii": [
-    "red-dots"
   ],
   "red-dot-vector-optics-frenzy-1x26x32": [
     "red-dots"
@@ -13680,29 +13461,9 @@
   "braun-wildcamera-scouting-cam-black400-wifi-solar-535659": [
     "wildcameras"
   ],
-  "camo-screen-foldable-wetland": [
-    "camouflagenetten",
-    "schuiltenten"
-  ],
   "frankonia-277057": [
     "fleece",
     "jacht-vesten"
-  ],
-  "ecopybook-tactical-linijka-prokurator-okraga-130-mm-nato-8041": [
-    "veldnotitie",
-    "tactical-bags"
-  ],
-  "rifle-scope-element-optics-helix-genii-4-16x44": [
-    "richtkijkers"
-  ],
-  "rifle-scope-element-optics-helix-genii-6-24x50": [
-    "richtkijkers"
-  ],
-  "rifle-scope-element-optics-theos-6-36x56-apr-2d": [
-    "richtkijkers"
-  ],
-  "rifle-scope-element-optics-titan-3-18x50-apr-2d": [
-    "richtkijkers"
   ],
   "explorer-cases-15416-koffer-zwart-met-plukschuim-251501": [
     "koffers"
@@ -13765,13 +13526,6 @@
   "rifle-case-plano-rustrictor-all-weather-2-42-113x43": [
     "wapenkoffers"
   ],
-  "geweersteun-bog-fieldpod": [
-    "geweersteunen",
-    "statieven"
-  ],
-  "geweersteun-caldwell-stinger": [
-    "geweersteunen"
-  ],
   "konus-digitale-dag-en-nachtkijker-konuspy-12-5-40x32-437933": [
     "nachtzicht-handheld"
   ],
@@ -13803,7 +13557,8 @@
   ],
   "kowa-adapterring-tsn-ar30-440230": [
     "adapterringen",
-    "observatie-accessoires"
+    "observatie-accessoires",
+    "filmen-opnemen"
   ],
   "kowa-compact-spottingscope-tsn-553-prominar-15-45x55-446553": [
     "spotting-scopes"
@@ -13829,44 +13584,8 @@
   "luna-optics-stargazer-digitale-binoculaire-nachtkijker-6-36x50-411361": [
     "nachtzicht-handheld"
   ],
-  "m-tac-cobra-buckle-belt-627": [
-    "riemen-bretels",
-    "tactical-riemen"
-  ],
-  "m-tac-double-pouch-for-the-aps-laser-cut-pistol-magazine-genii-771": [
-    "magazijn-pouches",
-    "holsters"
-  ],
-  "m-tac-seating-pad-with-belt-18": [
-    "slaapzakken-matten"
-  ],
-  "m-tac-waterproof-case-for-documents-16x12-cm-7604": [
-    "admin-pouches",
-    "veldnotitie"
-  ],
   "magazijn-ataman-m2": [
     "magazijnen"
-  ],
-  "microfiber-towel-army-green-120x60cm-9724": [
-    "onderhoudshulpmiddelen"
-  ],
-  "microfiber-towel-army-green-150x75cm-9725": [
-    "onderhoudshulpmiddelen"
-  ],
-  "microfiber-towel-weapon-150x75-10405": [
-    "onderhoudshulpmiddelen"
-  ],
-  "microfiber-towel-weapon-150x75-10406": [
-    "onderhoudshulpmiddelen"
-  ],
-  "microfiber-towel-weapon-80x40-10407": [
-    "onderhoudshulpmiddelen"
-  ],
-  "microfiber-towel-weapon-8040-10408": [
-    "onderhoudshulpmiddelen"
-  ],
-  "mounting-base-vector-optics-tek-red-dot-offset-picatinny": [
-    "montage-accessoires"
   ],
   "nest-aluminium-statief-kop-wt-3110a-h102-cm-295809": [
     "statieven"
@@ -13895,17 +13614,8 @@
   "outdoor-club-wildcamera-night-vision-4k-535216": [
     "wildcameras"
   ],
-  "patch-kitty-embroidery-5537": [
-    "patches"
-  ],
   "shooting-target-caldwell-ar500-prairie-dog-auto-reset": [
     "schietdoelen"
-  ],
-  "seating-pad-with-belt-20": [
-    "tactical-riemen"
-  ],
-  "shorts-sport-fit-cotton-2622": [
-    "korte-broeken"
   ],
   "sionyx-digitale-full-color-nachtkijker-aurora-pro-explorer-kit-504105": [
     "nachtzicht-handheld"
@@ -13950,19 +13660,8 @@
     "shirts",
     "camouflage-kleding"
   ],
-  "tactical-sneakers-patrol-r-4081": [
-    "schoenen",
-    "tactical-sneakers"
-  ],
-  "tactical-sneakers-shooter-10202": [
-    "schoenen",
-    "tactical-sneakers"
-  ],
-  "red-dot-vector-optics-maverick-gen-ii": [
-    "red-dots"
-  ],
-  "pocket-knife-kershaw-concierge": [
-    "zakmessen"
+  "patch-kitty-embroidery-5537": [
+    "patches"
   ],
   "_removed": {
     "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-woodland-15x3-m-720025": [
@@ -14081,12 +13780,6 @@
       "kleding-accessoires",
       "kleding"
     ],
-    "t-shirt-68-oeb-10000": [
-      "Clothing > T-shirts",
-      "Polo > Printing",
-      "kleding",
-      "shirts"
-    ],
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080": [
       "binoculair"
     ],
@@ -14173,9 +13866,6 @@
       "airsoft-onderdelen"
     ],
     "hop-up-bucking-4uad-4uantum-friction-pro-gbb": [
-      "airsoft-onderdelen"
-    ],
-    "hop-up-bucking-laylax-nine-ball-wide-use": [
       "airsoft-onderdelen"
     ],
     "hop-up-bucking-prometheus-hard": [
@@ -20536,77 +20226,6 @@
     "luna-optics-stargazer-digitale-binoculaire-nachtkijker-6-36x50-411361": [
       "binoculair"
     ],
-    "m-tac-cobra-buckle-belt-627": [
-      "Clothing > Belt",
-      "m-tac",
-      "riemen-bretels"
-    ],
-    "m-tac-double-pouch-for-the-aps-laser-cut-pistol-magazine-genii-771": [
-      "pouches",
-      "Tactical gear > Pouches > Pistol Pouches",
-      "pistol-pouches",
-      "tactical-gear"
-    ],
-    "m-tac-seating-pad-with-belt-18": [
-      "bushcraft",
-      "Equipment and gear > Survival",
-      "matten",
-      "m-tac",
-      "Military Line",
-      "riemen-bretels",
-      "slaapzakken",
-      "tourism > Mats"
-    ],
-    "m-tac-waterproof-case-for-documents-16x12-cm-7604": [
-      "wapen-accessoires",
-      "Equipment and gear > Bags and backpacks > Waterproof bags",
-      "waterdichte-tassen",
-      "Outdoor Line",
-      "m-tac"
-    ],
-    "microfiber-towel-army-green-120x60cm-9724": [
-      "survival",
-      "bushcraft",
-      "Equipment and gear > Survival",
-      "m-tac",
-      "tourism > Tourist hygiene",
-      "hygiene"
-    ],
-    "microfiber-towel-army-green-150x75cm-9725": [
-      "survival",
-      "bushcraft",
-      "Equipment and gear > Survival",
-      "m-tac",
-      "tourism > Tourist hygiene",
-      "hygiene"
-    ],
-    "microfiber-towel-weapon-150x75-10405": [
-      "tourism",
-      "Equipment and gear > Survival",
-      "bushcraft",
-      "survival"
-    ],
-    "microfiber-towel-weapon-150x75-10406": [
-      "survival",
-      "bushcraft",
-      "Equipment and gear > Survival",
-      "tourism"
-    ],
-    "microfiber-towel-weapon-80x40-10407": [
-      "survival",
-      "bushcraft",
-      "Equipment and gear > Survival",
-      "tourism"
-    ],
-    "microfiber-towel-weapon-8040-10408": [
-      "survival",
-      "bushcraft",
-      "Equipment and gear > Survival",
-      "tourism"
-    ],
-    "mounting-base-vector-optics-tek-red-dot-offset-picatinny": [
-      "red-dots"
-    ],
     "nest-aluminium-statief-kop-wt-3110a-h102-cm-295809": [
       "optiek-accessoires",
       "tripods"
@@ -20639,17 +20258,6 @@
     "outdoor-club-wildcamera-night-vision-4k-535216": [
       "nachtzicht",
       "optiek"
-    ],
-    "seating-pad-with-belt-20": [
-      "Equipment and gear > Survival",
-      "matten",
-      "riemen-bretels",
-      "slaapzakken",
-      "tourism > Mats"
-    ],
-    "shorts-sport-fit-cotton-2622": [
-      "Clothing > Shorts",
-      "m-tac"
     ],
     "sionyx-digitale-full-color-nachtkijker-aurora-pro-explorer-kit-504105": [
       "monoculair"
@@ -20693,9 +20301,6 @@
     "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-s-710165": [
       "outdoor-kleding",
       "stealth-gear"
-    ],
-    "tactical-sneakers-patrol-r-4081": [
-      "sneakers"
     ],
     "magazijn-walther-ppq-m1-9-mm-15-2-schots": [
       "airsoft-magazijn-toebehoren",
