@@ -2853,13 +2853,13 @@
     "revisiesetjes"
   ],
   "gas-tank-tokyo-marui-ksg": [
-    "airsoft-gas"
+    "airsoft-diversen-1"
   ],
   "gas-tank-tokyo-marui-m870-breacher": [
-    "airsoft-gas"
+    "airsoft-diversen-1"
   ],
   "gas-tank-tokyo-marui-m870-tactical": [
-    "airsoft-gas"
+    "airsoft-diversen-1"
   ],
   "gearbox-g-g-cm16-complete-front-wired": [
     "gearboxen"
@@ -3299,8 +3299,7 @@
     "geweersteunen"
   ],
   "granulaat-frankford-arsenal-walnut-media": [
-    "herlaadkits",
-    "polijsttrommels"
+    "polijst-media"
   ],
   "grip-eagle-vision-ar-style-for-fx-edgun": [
     "grips"
@@ -15692,6 +15691,12 @@
     "gas-release-valve-laylax-nine-ball-neo-r-for-umarex-glock-series": [
       "airsoft-gas"
     ],
+    "gas-tank-tokyo-marui-ksg": [
+      "airsoft-gas"
+    ],
+    "gas-tank-tokyo-marui-m870-breacher": [
+      "airsoft-gas"
+    ],
     "memory-card-hikmicro-sd-32gb": [
       "observatie-accessoires",
       "richtmiddel-accessoires",
@@ -15868,6 +15873,10 @@
     "rifle-bag-vanguard-endeavor-53-128x24": [
       "foudralen",
       "geweertassen"
+    ],
+    "granulaat-frankford-arsenal-walnut-media": [
+      "herlaadkits",
+      "polijsttrommels"
     ],
     "hammer-and-punch-birchwood-armorer-s": [
       "schoonmaak-onderhoud"
@@ -30217,6 +30226,10 @@
     "front-bottle-adapter-saber-tactical-fx-panthera",
     "front-bottle-drop-down-adapter-saber-tactical-fx-panthera",
     "gas-release-valve-laylax-nine-ball-neo-r-for-umarex-glock-series",
-    "gas-seal-laylax-nine-ball-for-umarex-glock-series-2-pack"
+    "gas-seal-laylax-nine-ball-for-umarex-glock-series-2-pack",
+    "gas-tank-tokyo-marui-ksg",
+    "gas-tank-tokyo-marui-m870-breacher",
+    "gas-tank-tokyo-marui-m870-tactical",
+    "granulaat-frankford-arsenal-walnut-media"
   ]
 }
