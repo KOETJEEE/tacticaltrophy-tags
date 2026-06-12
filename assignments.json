@@ -6648,7 +6648,7 @@
     "regulators"
   ],
   "reinigingshaakje-bore-tech-polymer": [
-    "schoonmaaksetjes"
+    "gereedschap"
   ],
   "reinigingshaakjes-tipton-gun-cleaning-picks-kunststof": [
     "gereedschap"
@@ -6657,10 +6657,11 @@
     "gereedschap"
   ],
   "suppressor-cleaner-bore-tech-decimator": [
-    "schoonmaaksetjes"
+    "loopreinigers"
   ],
   "scope-guard-element-optics-neoprene": [
-    "beschermkappen"
+    "beschermkappen",
+    "richtmiddel-accessoires"
   ],
   "riembeugel-anschutz-met-ronde-bal": [
     "riembeugels"
@@ -17232,6 +17233,11 @@
     ],
     "powder-trickler-frankford-arsenal": [
       "herlaadkits"
+    ],
+    "suppressor-cleaner-bore-tech-decimator": [
+      "schoonmaaksetjes",
+      "luchtbuks",
+      "schoonmaak-onderhoud"
     ],
     "sling-swivel-vector-optics-picatinny-mount": [
       "geweerriemen",
@@ -29916,6 +29922,11 @@
     "schietstok-bog-havoc-bipod",
     "schietstok-bog-havoc-monopod",
     "shooting-rest-bog-deadshot-compact-standing",
-    "shooting-rest-bog-deadshot-compact-sitting"
+    "shooting-rest-bog-deadshot-compact-sitting",
+    "suppressor-cleaner-bore-tech-decimator",
+    "reinigingshaakjes-tipton-gun-cleaning-picks-rvs",
+    "reinigingshaakjes-tipton-gun-cleaning-picks-kunststof",
+    "reinigingshaakje-bore-tech-polymer",
+    "scope-guard-element-optics-neoprene"
   ]
 }
