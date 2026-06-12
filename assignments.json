@@ -14174,6 +14174,9 @@
     "sionyx-digitale-full-color-nachtkijker-aurora-pro-504104": [
       "monoculair"
     ],
+    "sionyx-opsin-digitale-full-color-nachtkijker-goggles-504108": [
+      "monoculair"
+    ],
     "sionyx-picatinny-rail-montage-504106": [
       "nachtzicht",
       "picatinny-rails",
@@ -14225,6 +14228,25 @@
       "tactical-handschoenen"
     ],
     "stealth-gear-bat-4k-wildcamera-720131": [
+      "stealth-gear"
+    ],
+    "stealth-gear-bretels-urban-charcoal-710001": [
+      "outdoor-kleding",
+      "riemen-bretels",
+      "stealth-gear"
+    ],
+    "stealth-gear-broek-2n-bosgroen-maat-xxxl30-710173": [
+      "outdoor-kleding",
+      "stealth-gear"
+    ],
+    "stealth-gear-broek-2n-bosgroen-maat-xxxl32-710174": [
+      "outdoor-kleding",
+      "stealth-gear"
+    ],
+    "stealth-gear-fox-solar-4k-wifi-wildcamera-720135": [
+      "stealth-gear"
+    ],
+    "stealth-gear-hedgehog-1080p-4g-wildcamera-720132": [
       "stealth-gear"
     ],
     "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2": [
@@ -21412,6 +21434,13 @@
     "sirui-sportich-s6080a-gn-spotting-scope-20-60x80-610542",
     "sirui-sportich-statief-sp004g5x-groen-610401",
     "stealth-gear-3d-blaadjes-handschoenen-720114",
-    "stealth-gear-bat-4k-wildcamera-720131"
+    "stealth-gear-bat-4k-wildcamera-720131",
+    "sionyx-picatinny-rail-montage-504106",
+    "sionyx-opsin-digitale-full-color-nachtkijker-goggles-504108",
+    "stealth-gear-bretels-urban-charcoal-710001",
+    "stealth-gear-broek-2n-bosgroen-maat-xxxl30-710173",
+    "stealth-gear-broek-2n-bosgroen-maat-xxxl32-710174",
+    "stealth-gear-fox-solar-4k-wifi-wildcamera-720135",
+    "stealth-gear-hedgehog-1080p-4g-wildcamera-720132"
   ]
 }
