@@ -8960,15 +8960,14 @@
     "tactical-bags"
   ],
   "assistant-bag-7388": [
-    "tassen-rugzakken"
+    "sling-bags"
   ],
   "backpack-bag-for-a-quadcopter-avata-2-9298": [
     "tactical-bags",
     "tassen-rugzakken"
   ],
   "backpack-bag-for-fpv-10-lightweight-drones-without-shelves-8548": [
-    "tactical-bags",
-    "tassen-rugzakken"
+    "tactical-bags"
   ],
   "backpack-bag-for-fpv-7-drones-without-shelves-laser-cut-8512": [
     "tactical-bags",
@@ -18008,6 +18007,138 @@
       "Clothing > Jackets > Winter jackets",
       "m-tac",
       "jassen"
+    ],
+    "anatomic-tube-scarf-with-a-drawstring-polartec-4794": [
+      "balaclava",
+      "Clothing > Headwear > Balaclava",
+      "m-tac",
+      "headwear"
+    ],
+    "anatomical-snood-adjustable-elite-fleece-320m2-4688": [
+      "Clothing > Neck Warmer",
+      "m-tac"
+    ],
+    "arctic-winter-pants-arctic-1866": [
+      "Clothing > Pants",
+      "m-tac"
+    ],
+    "armored-vest-cover-sturm-elite-8294": [
+      "m-tac",
+      "Tactical gear > Tactical vests"
+    ],
+    "armored-vest-cover-sturm-genii-elite-8170": [
+      "m-tac",
+      "Tactical gear > Tactical vests"
+    ],
+    "army-compass-7340": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "Military Line",
+      "m-tac",
+      "navigatie",
+      "tourism > Compasses"
+    ],
+    "assault-pack-968": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "Tactical Line",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "assault-pack-laser-cut-971": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "rugzakken",
+      "tassen",
+      "Military Line",
+      "m-tac"
+    ],
+    "assault-tactical-mk3-fingerless-gloves-7192": [
+      "Clothing > Gloves > Fingerless",
+      "handschoenen",
+      "m-tac"
+    ],
+    "assistant-bag-7388": [
+      "Equipment and gear > Bags and backpacks > Bags",
+      "tassen",
+      "rugzakken",
+      "m-tac",
+      "jacht",
+      "schietsport",
+      "tassen-rugzakken"
+    ],
+    "backpack-bag-for-a-quadcopter-avata-2-9298": [
+      "Equipment and gear > Bags and backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "backpack-bag-for-fpv-10-lightweight-drones-without-shelves-8548": [
+      "Equipment and gear > Bags and backpacks",
+      "tassen",
+      "rugzakken",
+      "schietsport",
+      "tassen-rugzakken",
+      "m-tac",
+      "jacht"
+    ],
+    "backpack-bag-for-fpv-7-drones-without-shelves-laser-cut-8512": [
+      "Equipment and gear > Bags and backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "backpack-genii-elite-large-239": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "backpack-geniii-elite-small-233": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "backpack-large-elite-hex-geniv-711": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "backpack-large-geniii-elite-238": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "backpack-large-geniv-elite-243": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "backpack-mission-pack-elite-hex-692": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "backpack-recon-elite-10444": [
+      "m-tac",
+      "rugzakken",
+      "tassen"
+    ],
+    "backpack-single-strap-agent-elite-hex-black-10199": [
+      "Equipment and gear > Bags and backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
+    ],
+    "backpack-sturm-elite-777": [
+      "Equipment and gear > Bags and backpacks > Backpacks",
+      "tassen",
+      "rugzakken",
+      "m-tac"
     ],
     "backpack-sturm-elite-genii-x-large-7756": [
       "Equipment and gear > Bags and backpacks > Backpacks",
@@ -28533,6 +28664,27 @@
     "admin-pouch-large-elite-genii-5868",
     "alpha-geniii-pro-primaloft-winter-jacket-8324",
     "alpha-geniii-pro-winter-jacket-3250",
-    "alpha-geniii-winter-jacket-3205"
+    "alpha-geniii-winter-jacket-3205",
+    "anatomic-tube-scarf-with-a-drawstring-polartec-4794",
+    "anatomical-snood-adjustable-elite-fleece-320m2-4688",
+    "arctic-winter-pants-arctic-1866",
+    "armored-vest-cover-sturm-elite-8294",
+    "armored-vest-cover-sturm-genii-elite-8170",
+    "army-compass-7340",
+    "assault-pack-968",
+    "assault-pack-laser-cut-971",
+    "assault-tactical-mk3-fingerless-gloves-7192",
+    "assistant-bag-7388",
+    "backpack-bag-for-a-quadcopter-avata-2-9298",
+    "backpack-bag-for-fpv-10-lightweight-drones-without-shelves-8548",
+    "backpack-bag-for-fpv-7-drones-without-shelves-laser-cut-8512",
+    "backpack-genii-elite-large-239",
+    "backpack-geniii-elite-small-233",
+    "backpack-large-elite-hex-geniv-711",
+    "backpack-large-geniii-elite-238",
+    "backpack-large-geniv-elite-243",
+    "backpack-mission-pack-elite-hex-692",
+    "backpack-recon-elite-10444",
+    "backpack-single-strap-agent-elite-hex-black-10199"
   ]
 }
