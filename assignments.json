@@ -4387,42 +4387,35 @@
     "oogbescherming"
   ],
   "ir-delete-cap-dnt-m21-for-18650-zulus-hd-thermnight-tnc225r": [
-    "multispectral-richtkijkers"
+    "multispectral-richtkijkers",
+    "nachtzicht-warmtebeeld-accessoires"
   ],
   "ir-delete-cap-dnt-m24-for-21700-thermnight-tnc335r-tnc635r": [
-    "multispectral-richtkijkers"
+    "infraroodlampen"
   ],
   "ir-illuminator-arken-zulus-module-940-nm": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "infraroodlampen"
   ],
   "ir-illuminator-hikmicro-pro-850-nm": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "infraroodlampen"
   ],
   "ir-illuminator-hikmicro-pro-940-nm": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "infraroodlampen"
   ],
   "ir-illuminator-dnt-m24-850-nm-for-tnc335r-tnc635r": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "infraroodlampen"
   ],
   "ir-illuminator-dnt-m21-850-nm-for-zulus-hd-tnc225r": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "infraroodlampen"
   ],
   "ir-illuminator-dnt-m24-940-nm-for-tnc335r-tnc635r": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "infraroodlampen"
   ],
   "ir-illuminator-hikmicro-habrok-pro-810-nm": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "infraroodlampen"
   ],
   "ir-illuminator-hikmicro-habrok-pro-940-nm": [
-    "observatie-accessoires",
-    "richtmiddel-accessoires"
+    "infraroodlampen"
   ],
   "hunting-knife-cold-steel-click-n-cut-hunters-fixed-blade": [
     "jachtmessen"
@@ -16100,29 +16093,48 @@
     "inner-barrel-prometheus-eg-next-gen-hk416d": [
       "airsoft-onderdelen"
     ],
+    "ir-delete-cap-dnt-m24-for-21700-thermnight-tnc335r-tnc635r": [
+      "multispectral-richtkijkers"
+    ],
     "ir-illuminator-arken-zulus-module-940-nm": [
-      "ir-illuminators"
+      "ir-illuminators",
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
     ],
     "ir-illuminator-hikmicro-pro-850-nm": [
-      "ir-illuminators"
+      "ir-illuminators",
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
     ],
     "ir-illuminator-hikmicro-pro-940-nm": [
-      "ir-illuminators"
+      "ir-illuminators",
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
     ],
     "ir-illuminator-dnt-m24-850-nm-for-tnc335r-tnc635r": [
-      "ir-illuminators"
+      "ir-illuminators",
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
     ],
     "ir-illuminator-dnt-m21-850-nm-for-zulus-hd-tnc225r": [
-      "ir-illuminators"
+      "ir-illuminators",
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
     ],
     "ir-illuminator-dnt-m24-940-nm-for-tnc335r-tnc635r": [
-      "ir-illuminators"
+      "ir-illuminators",
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
     ],
     "ir-illuminator-hikmicro-habrok-pro-810-nm": [
-      "ir-illuminators"
+      "ir-illuminators",
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
     ],
     "ir-illuminator-hikmicro-habrok-pro-940-nm": [
-      "ir-illuminators"
+      "ir-illuminators",
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
@@ -24068,6 +24080,15 @@
     "hulzenvanger-caldwell-universal-sa",
     "hulzenvanger-caldwell-brass-catcher-ar-15",
     "hulzenvanger-caldwell-ar-15-picatinny-rail",
-    "hulzentrimmer-frankford-arsenal-universal"
+    "hulzentrimmer-frankford-arsenal-universal",
+    "ir-illuminator-dnt-m24-850-nm-for-tnc335r-tnc635r",
+    "ir-illuminator-dnt-m24-940-nm-for-tnc335r-tnc635r",
+    "ir-illuminator-dnt-m21-850-nm-for-zulus-hd-tnc225r",
+    "ir-illuminator-hikmicro-habrok-pro-810-nm",
+    "ir-illuminator-hikmicro-habrok-pro-940-nm",
+    "ir-illuminator-hikmicro-pro-940-nm",
+    "ir-illuminator-hikmicro-pro-850-nm",
+    "ir-illuminator-arken-zulus-module-940-nm",
+    "ir-delete-cap-dnt-m24-for-21700-thermnight-tnc335r-tnc635r"
   ]
 }
