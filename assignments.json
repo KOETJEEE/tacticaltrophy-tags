@@ -1216,43 +1216,43 @@
     "wildcameras"
   ],
   "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-l-710027": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-m-710026": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-xl-710028": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-xxl-710029": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-l-710032": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-m-710031": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-s-710030": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-xl-710033": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-xxl-710034": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-l-710167": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-m-710166": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-xl-710168": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-xxl-710169": [
-    "shirts"
+    "camouflage-kleding"
   ],
   "studioking-pocket-c-stand-pcs-6202-572527": [
     "statieven"
@@ -14249,6 +14249,90 @@
     "stealth-gear-hedgehog-1080p-4g-wildcamera-720132": [
       "stealth-gear"
     ],
+    "stealth-gear-owl-solar-4k-wifi-wildcamera-720134": [
+      "stealth-gear"
+    ],
+    "stealth-gear-racoon-solar-4k-wildcamera-720130": [
+      "stealth-gear"
+    ],
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-l-710027": [
+      "kleding",
+      "shirts",
+      "outdoor-kleding",
+      "stealth-gear"
+    ],
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-m-710026": [
+      "outdoor-kleding",
+      "stealth-gear",
+      "shirts",
+      "kleding"
+    ],
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-xl-710028": [
+      "outdoor-kleding",
+      "stealth-gear",
+      "kleding",
+      "shirts"
+    ],
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-xxl-710029": [
+      "outdoor-kleding",
+      "stealth-gear",
+      "kleding",
+      "shirts"
+    ],
+    "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-l-710032": [
+      "kleding",
+      "shirts",
+      "outdoor-kleding",
+      "stealth-gear"
+    ],
+    "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-m-710031": [
+      "outdoor-kleding",
+      "stealth-gear",
+      "kleding",
+      "shirts"
+    ],
+    "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-s-710030": [
+      "kleding",
+      "shirts",
+      "outdoor-kleding",
+      "stealth-gear"
+    ],
+    "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-xl-710033": [
+      "outdoor-kleding",
+      "stealth-gear",
+      "kleding",
+      "shirts"
+    ],
+    "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-xxl-710034": [
+      "outdoor-kleding",
+      "stealth-gear",
+      "kleding",
+      "shirts"
+    ],
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-l-710167": [
+      "outdoor-kleding",
+      "stealth-gear",
+      "kleding",
+      "shirts"
+    ],
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-m-710166": [
+      "outdoor-kleding",
+      "stealth-gear",
+      "kleding",
+      "shirts"
+    ],
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-xl-710168": [
+      "outdoor-kleding",
+      "stealth-gear",
+      "kleding",
+      "shirts"
+    ],
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-xxl-710169": [
+      "outdoor-kleding",
+      "stealth-gear",
+      "kleding",
+      "shirts"
+    ],
     "accessory-rail-mdt-nv-bridge-for-acc-elite-and-premier-gen-2": [
       "wapen-accessoires"
     ],
@@ -21441,6 +21525,21 @@
     "stealth-gear-broek-2n-bosgroen-maat-xxxl30-710173",
     "stealth-gear-broek-2n-bosgroen-maat-xxxl32-710174",
     "stealth-gear-fox-solar-4k-wifi-wildcamera-720135",
-    "stealth-gear-hedgehog-1080p-4g-wildcamera-720132"
+    "stealth-gear-hedgehog-1080p-4g-wildcamera-720132",
+    "stealth-gear-owl-solar-4k-wifi-wildcamera-720134",
+    "stealth-gear-racoon-solar-4k-wildcamera-720130",
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-l-710027",
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-m-710026",
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-xl-710028",
+    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-xxl-710029",
+    "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-l-710032",
+    "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-m-710031",
+    "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-s-710030",
+    "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-xl-710033",
+    "stealth-gear-t-shirt-lange-mouw-camo-bosprint-maat-xxl-710034",
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-l-710167",
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-m-710166",
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-xl-710168",
+    "stealth-gear-t-shirt-lange-mouw-camo-rietprint-maat-xxl-710169"
   ]
 }
