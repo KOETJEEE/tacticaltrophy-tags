@@ -735,23 +735,18 @@
     "2-delige-montages"
   ],
   "konus-red-green-dot-richtkijker-konusight-437338": [
-    "richtkijkers",
     "red-dots"
   ],
   "konus-red-green-dot-richtkijker-sight-pro-r8-437337": [
-    "richtkijkers",
     "red-dots"
   ],
   "konus-red-dot-richtkijker-fission-mr-437335": [
-    "richtkijkers",
     "red-dots"
   ],
   "konus-red-dot-richtkijker-nuclear-1x22-437217": [
-    "richtkijkers",
     "red-dots"
   ],
   "konus-red-dot-richtkijker-sight-pro-pts2-437203": [
-    "richtkijkers",
     "red-dots"
   ],
   "konus-richtkijker-event-1-10x24-437183": [
@@ -818,24 +813,16 @@
     "richtkijkers"
   ],
   "konus-spotting-scope-konuspot-100c-20-60x100-437127": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "konus-spotting-scope-konuspot-65c-15-45x65-437128": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "konus-spotting-scope-konuspot-70b-20-60x70-437336": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "konus-spotting-scope-konuspot-80c-20-60x80-437126": [
-    "spotting-scopes",
-    "monoculairs",
-    "richtkijkers"
+    "spotting-scopes"
   ],
   "konus-statief-3-pod-9-431959": [
     "statieven"
@@ -13852,6 +13839,41 @@
       "lampen",
       "tactical-gear"
     ],
+    "konus-red-green-dot-richtkijker-konusight-437338": [
+      "richtkijkers"
+    ],
+    "konus-red-green-dot-richtkijker-sight-pro-r8-437337": [
+      "richtkijkers"
+    ],
+    "konus-red-dot-richtkijker-fission-mr-437335": [
+      "richtkijkers"
+    ],
+    "konus-red-dot-richtkijker-nuclear-1x22-437217": [
+      "richtkijkers"
+    ],
+    "konus-red-dot-richtkijker-sight-pro-pts2-437203": [
+      "richtkijkers"
+    ],
+    "konus-spotting-scope-konuspot-100c-20-60x100-437127": [
+      "monoculairs",
+      "richtkijkers",
+      "konus"
+    ],
+    "konus-spotting-scope-konuspot-65c-15-45x65-437128": [
+      "richtkijkers",
+      "konus",
+      "monoculairs"
+    ],
+    "konus-spotting-scope-konuspot-70b-20-60x70-437336": [
+      "monoculairs",
+      "richtkijkers",
+      "konus"
+    ],
+    "konus-spotting-scope-konuspot-80c-20-60x80-437126": [
+      "monoculairs",
+      "richtkijkers",
+      "konus"
+    ],
     "nest-monopod-wt-1003-h171-cm-295810": [
       "optiek-accessoires",
       "tripods"
@@ -20896,6 +20918,35 @@
     "konus-quick-release-montageringen-254-mm-medium-437407",
     "konus-quick-release-montageringen-30-mm-hoog-437409",
     "konus-quick-release-montageringen-30-mm-laag-437411",
-    "konus-quick-release-montageringen-30-mm-medium-437410"
+    "konus-quick-release-montageringen-30-mm-medium-437410",
+    "konus-red-green-dot-richtkijker-konusight-437338",
+    "konus-red-green-dot-richtkijker-sight-pro-r8-437337",
+    "konus-red-dot-richtkijker-fission-mr-437335",
+    "konus-red-dot-richtkijker-nuclear-1x22-437217",
+    "konus-red-dot-richtkijker-sight-pro-pts2-437203",
+    "konus-richtkijker-event-1-10x24-437183",
+    "konus-richtkijker-fighter-3-9x40-437331",
+    "konus-richtkijker-fighter-4-12x40ao-437332",
+    "konus-richtkijker-glory-3-24x56-sfp-fine-moa-437189",
+    "konus-richtkijker-konusfire-4x32-437350",
+    "konus-richtkijker-konuspro-2-7x32-437260",
+    "konus-richtkijker-konuspro-3-9x32-inclusief-montering-437267",
+    "konus-richtkijker-konuspro-3-9x40-437264",
+    "konus-richtkijker-konuspro-3-9x50-437265",
+    "konus-richtkijker-konuspro-4x32-437262",
+    "konus-richtkijker-konuspro-6-24x44-437259",
+    "konus-richtkijker-konuspro-evo-3-12x50-437190",
+    "konus-richtkijker-konuspro-lz-30-25-10x50-437180",
+    "konus-richtkijker-konuspro-lz-30-3-12x56-437181",
+    "konus-richtkijker-konuspro-m-30-1-4x24-met-verlicht-dradenkruis-437184",
+    "konus-richtkijker-konuspro-t30-3-12x44-437291",
+    "konus-richtkijker-konuspro-550-impact-4-16x50-437277",
+    "konus-richtkijker-konuspro-m30-1-6x24-met-verlicht-dradenkruis-437182",
+    "konus-richtkijker-konuspro-plus-6-24x50-met-verlicht-dradenkruis-437274",
+    "konus-richtkijker-wild-3-9x40-437333",
+    "konus-richtkijker-wild-4-12x40-437334",
+    "konus-spotting-scope-konuspot-100c-20-60x100-437127",
+    "konus-spotting-scope-konuspot-65c-15-45x65-437128",
+    "konus-spotting-scope-konuspot-70b-20-60x70-437336"
   ]
 }
