@@ -1525,7 +1525,7 @@
   ],
   "anti-fog-4uad-4uantum-fogg-off-eyewear-spray": [
     "oogbescherming",
-    "reinigingsvloeistoffen"
+    "onderhoudshulpmiddelen"
   ],
   "anti-rol-kit-bf-voor-persluchtfles": [
     "persluchtcilinders"
@@ -1685,7 +1685,7 @@
     "grips"
   ],
   "bb-grenade-tokyo-marui-m320a1": [
-    "airsoft-bbs"
+    "granaten"
   ],
   "bb-s-bioval-bio-0-20-white-zak-5000-st": [
     "airsoft-bbs"
@@ -15227,6 +15227,9 @@
     "barrel-sleeve-fx-carbon-fiber": [
       "wapen-accessoires"
     ],
+    "bb-grenade-tokyo-marui-m320a1": [
+      "airsoft-bbs"
+    ],
     "cover-rusan-modular-for-connector-clip-on": [
       "adapterring",
       "voorzetadapterring",
@@ -22597,6 +22600,15 @@
     "anti-corrosion-silent-dry-vaportack-9-mm-cartridge",
     "anti-corrosion-silent-dry-vaportack-12-gauge-cartridge",
     "anti-fog-4uad-4uantum-fogg-off-eyewear-spray",
-    "anti-odor-spray-scent-a-way-max-odorless"
+    "anti-odor-spray-scent-a-way-max-odorless",
+    "bb-grenade-tokyo-marui-m320a1",
+    "bb-s-bioval-bio-0-20-white-zak-5000-st",
+    "bb-s-bioval-bio-0-23-white-bag-4350-pcs",
+    "bb-s-bioval-bio-0-25-white-zak-4000-st",
+    "bb-s-bioval-bio-0-28-white-bag-3570-pcs",
+    "bb-s-bioval-bio-0-30-white-zak-3300-st",
+    "bb-s-bioval-bio-0-40-white-zak-2500-st",
+    "beenholster-platform-amomax-drop-leg",
+    "leg-holser-platform-amomax-drop-leg-fde"
   ]
 }
