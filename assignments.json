@@ -3218,13 +3218,13 @@
     "luchtbuks-dempers"
   ],
   "geluiddemper-donnyfl-ronin-m18x1": [
-    "luchtbuks-dempers"
+    "airsoft-dempers"
   ],
   "geluiddemper-donnyfl-ronin-vulcan": [
-    "luchtbuks-dempers"
+    "airsoft-dempers"
   ],
   "moderator-donnyfl-ryu-1-2-unf": [
-    "luchtbuks-dempers"
+    "airsoft-dempers"
   ],
   "moderator-donnyfl-shogun-p-1-2-unf": [
     "luchtbuks-dempers"
@@ -15533,6 +15533,54 @@
     "decoy-sillosocks-knockdown-headless-canada-goose-6-pack": [
       "lokmiddel-toebehoren"
     ],
+    "geluiddemper-artemis-pp700s-a-m16": [
+      "luchtbuks"
+    ],
+    "moderator-donnyfl-emperor-p-m18x1": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-emperor-v3-1-2-unf": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-emperor-v3-m18x1": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-fatboy": [
+      "luchtbuks"
+    ],
+    "moderator-donnyfl-fx-airguns": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-great-kami-m18x1": [
+      "luchtbuks"
+    ],
+    "moderator-donnyfl-great-kami-m23x1": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-koi-1-2-unf": [
+      "luchtbuks"
+    ],
+    "moderator-donnyfl-ronin-p-1-2-unf": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-ronin-1-2-unf": [
+      "luchtbuks"
+    ],
+    "geluiddemper-donnyfl-ronin-m18x1": [
+      "luchtbuks",
+      "luchtbuks-dempers",
+      "wapen-toebehoren"
+    ],
+    "geluiddemper-donnyfl-ronin-vulcan": [
+      "luchtbuks-dempers",
+      "wapen-toebehoren",
+      "luchtbuks"
+    ],
+    "moderator-donnyfl-ryu-1-2-unf": [
+      "luchtbuks-dempers",
+      "wapen-toebehoren",
+      "luchtbuks"
+    ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
     ],
@@ -23157,6 +23205,61 @@
     "gas-puff-dino-power-up-14-kg",
     "gas-puff-dino-power-up-14-kg-silicone-free",
     "gas-puff-dino-standard-power-12-kg",
-    "gas-puff-dino-standard-power-12-kg-silicone-free"
+    "gas-puff-dino-standard-power-12-kg-silicone-free",
+    "gearbox-g-g-cm16-complete-front-wired",
+    "gearbox-g-g-cm16-complete-rear-wired",
+    "gearbox-g-g-complete-v2-rear-wired",
+    "gehoorbeschermer-caldwell-e-max-low-profile-electronic-groen",
+    "gehoorbeschermer-caldwell-e-max-pro-bt",
+    "ear-defender-caldwell-e-max-pro-bt-comms",
+    "ear-defender-sordin-supreme-pro-leather-green",
+    "hearing-protector-sordin-supreme-pro-x-leather-black",
+    "ear-defender-sordin-supreme-pro-x-leather-ember",
+    "hearing-protector-sordin-supreme-pro-x-leather-green",
+    "hearing-protector-sordin-supreme-pro-x-led-leather-blaze",
+    "hearing-protector-sordin-supreme-pro-x-led-textile",
+    "ear-defender-sordin-supreme-pro-x-led-textile-camo",
+    "ear-defender-sordin-supreme-pro-x-slim-black",
+    "ear-defender-sordin-supreme-pro-x-slim-ember",
+    "ear-defender-sordin-supreme-pro-x-slim-green",
+    "ear-defender-sordin-supreme-pro-x-sfa-leather-green",
+    "hearing-protector-sordin-supreme-pro-x-textile",
+    "ear-defender-sordin-supreme-pro-x-textile-camo",
+    "ear-defender-sordin-supreme-t2-leather-black",
+    "ear-defender-sordin-supreme-t2-leather-green",
+    "ear-defender-sordin-supreme-t2-leather-tan",
+    "ear-defender-sordin-supreme-x2-gel-green",
+    "ear-defender-sordin-supreme-x2-gel-black",
+    "ear-defender-sordin-supreme-x2-memory-foam-green",
+    "ear-defender-sordin-supreme-x2-memory-foam-black",
+    "ear-defender-walker-s-cloak-single-mic",
+    "ear-defender-walker-s-razor-quad-muff-slim-electronic-realtree-xtra",
+    "ear-defender-walker-s-razor-slim-electronic-kryptek-camo",
+    "ear-defender-walker-s-razor-slim-electronic-sage-green",
+    "ear-defender-walker-s-razor-slim-electronic-black",
+    "ear-defender-walker-s-razor-slim-electronic-fde",
+    "ear-defender-walker-s-razor-slim-electronic-multicam-black",
+    "ear-defender-walker-s-razor-slim-electronic-multicam-green",
+    "ear-defender-walker-s-razor-slim-passive-black",
+    "ear-defender-walker-s-razor-slim-passive-fde",
+    "ear-defender-walker-s-razor-slim-passive-od-green",
+    "ear-defender-walker-s-razor-x-trm-black",
+    "ear-defender-walker-s-razor-x-trm-fde",
+    "ear-defender-walker-s-ultimate-power-quads-black",
+    "geluiddemper-vulcan-long",
+    "geluiddemper-vulcan-short",
+    "geluiddemper-artemis-pp700s-a-m16",
+    "moderator-donnyfl-emperor-p-m18x1",
+    "geluiddemper-donnyfl-emperor-v3-1-2-unf",
+    "geluiddemper-donnyfl-emperor-v3-m18x1",
+    "geluiddemper-donnyfl-fatboy",
+    "moderator-donnyfl-fx-airguns",
+    "geluiddemper-donnyfl-great-kami-m18x1",
+    "moderator-donnyfl-great-kami-m23x1",
+    "geluiddemper-donnyfl-koi-1-2-unf",
+    "moderator-donnyfl-ronin-p-1-2-unf",
+    "geluiddemper-donnyfl-ronin-1-2-unf",
+    "geluiddemper-donnyfl-ronin-m18x1",
+    "geluiddemper-donnyfl-ronin-vulcan"
   ]
 }
