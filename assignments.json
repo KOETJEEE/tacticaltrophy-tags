@@ -858,30 +858,28 @@
     "warmtebeeld"
   ],
   "konus-zaklamp-konuscap-433911": [
-    "zaklampen-hoofdlampen",
-    "lampen-1"
+    "zaklampen-hoofdlampen"
   ],
   "kowa-21x-groothoek-oculair-tse-21wh-voor-highlander-446006": [
     "oculairs"
   ],
   "kowa-adapter-ring-tsn-ar-ys-41mm-440918": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapter-ring-tsn-ar11wz-55mm-440919": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapter-ring-tsn-ar500-375mm-440216": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapter-ring-voor-swarovski-atssts-446724": [
-    "adapterringen",
-    "spotting-scopes"
+    "filmen-opnemen"
   ],
   "kowa-adapter-tsn-ar25bd-32mm-440225": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapter-tsn-ar33ge-43mm-440233": [
-    "adapterringen"
+    "filmen-opnemen"
   ],
   "kowa-adapter-tsn-ar42gt-440218": [
     "adapterringen"
@@ -13912,6 +13910,54 @@
     "konus-verrekijker-vivisport-16x32-432040": [
       "konus"
     ],
+    "konus-zaklamp-konuscap-433911": [
+      "lampen",
+      "tactical-gear",
+      "lampen-1",
+      "konus",
+      "lampen-en-lasers"
+    ],
+    "kowa-21x-groothoek-oculair-tse-21wh-voor-highlander-446006": [
+      "kowa",
+      "observatiekijkers"
+    ],
+    "kowa-adapter-ring-tsn-ar-ys-41mm-440918": [
+      "adapterringen",
+      "kowa",
+      "verrekijkers-accessoires",
+      "voorzetadapterring",
+      "adapterring"
+    ],
+    "kowa-adapter-ring-tsn-ar11wz-55mm-440919": [
+      "adapterringen",
+      "kowa",
+      "spotting-scopes-accessoires",
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "kowa-adapter-ring-tsn-ar500-375mm-440216": [
+      "adapterring",
+      "voorzetadapterring",
+      "adapterringen",
+      "kowa",
+      "spotting-scopes-accessoires"
+    ],
+    "kowa-adapter-ring-voor-swarovski-atssts-446724": [
+      "spotting-scopes",
+      "adapterringen",
+      "kowa",
+      "spotting-scopes-accessoires",
+      "adapterring",
+      "voorzetadapterring"
+    ],
+    "kowa-adapter-tsn-ar25bd-32mm-440225": [
+      "voorzetadapterring",
+      "adapterring"
+    ],
+    "kowa-adapter-tsn-ar33ge-43mm-440233": [
+      "adapterring",
+      "voorzetadapterring"
+    ],
     "nest-monopod-wt-1003-h171-cm-295810": [
       "optiek-accessoires",
       "tripods"
@@ -20997,6 +21043,15 @@
     "konus-verrekijker-basic-8x21-432007",
     "konus-verrekijker-konusvue-10x50-wa-432103",
     "konus-verrekijker-konusvue-8x40-wa-432101",
-    "konus-verrekijker-vivisport-16x32-432040"
+    "konus-verrekijker-vivisport-16x32-432040",
+    "konus-warmtebeeldcamera-fiery-2x-16x-437957",
+    "konus-zaklamp-konuscap-433911",
+    "kowa-21x-groothoek-oculair-tse-21wh-voor-highlander-446006",
+    "kowa-adapter-ring-tsn-ar-ys-41mm-440918",
+    "kowa-adapter-ring-tsn-ar11wz-55mm-440919",
+    "kowa-adapter-ring-tsn-ar500-375mm-440216",
+    "kowa-adapter-ring-voor-swarovski-atssts-446724",
+    "kowa-adapter-tsn-ar25bd-32mm-440225",
+    "kowa-adapter-tsn-ar33ge-43mm-440233"
   ]
 }
