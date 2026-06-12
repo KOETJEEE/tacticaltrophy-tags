@@ -4537,8 +4537,7 @@
     "laarzen"
   ],
   "boot-jack-with-brushes": [
-    "laarzen",
-    "schoenen"
+    "laarzen"
   ],
   "flashlight-element-x300-pistol": [
     "zaklampen-hoofdlampen",
@@ -16032,6 +16031,9 @@
     "boot-jack": [
       "schoenen"
     ],
+    "boot-jack-with-brushes": [
+      "schoenen"
+    ],
     "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny": [
       "picatinny-rails",
       "optiek"
@@ -26036,6 +26038,8 @@
     "richtkijker-delta-optical-titanium-2-5-15x56-hd-4a",
     "dielocker-lock-rings-frankford-with-wrench",
     "cylinder-prometheus-type-c",
-    "cylinder-prometheus-type-d"
+    "cylinder-prometheus-type-d",
+    "boot-jack",
+    "boot-jack-with-brushes"
   ]
 }
