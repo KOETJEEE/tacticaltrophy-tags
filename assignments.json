@@ -62,12 +62,6 @@
     "adapter-mantisx-picatinny-3m",
     "butt-pad-mdt-adjustable"
   ],
-  "carson-drijvende-brillenkoord-fa-1001-zwart-186181": [
-    "brillenkoorden"
-  ],
-  "carson-drijvende-brillenkoord-fa-1002-oranje-186182": [
-    "brillenkoorden"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -251,6 +245,12 @@
   ],
   "carson-digitale-pocket-nachtkijker-186449": [
     "nachtzicht-handheld"
+  ],
+  "carson-drijvende-brillenkoord-fa-1001-zwart-186181": [
+    "brillenkoorden"
+  ],
+  "carson-drijvende-brillenkoord-fa-1002-oranje-186182": [
+    "brillenkoorden"
   ],
   "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
     "voorzetkijkers",
@@ -4133,7 +4133,7 @@
     "schietdoelen"
   ],
   "angle-cosine-indicator-rome-ruac-system": [
-    "montage-accessoires"
+    "waterpassen"
   ],
   "holster-black-scorpion-gear-competition-speed-1911-2011-blue": [
     "holsters"
@@ -4842,6 +4842,9 @@
   ],
   "laser-utg-tactical-red": [
     "tactical-bags"
+  ],
+  "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny": [
+    "picatinny-rails"
   ],
   "laser-cartridge-mantis-pink-rhino-training": [
     "trainingshalsbanden"
@@ -5950,55 +5953,55 @@
     "multitools"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-1001-32-9mm": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-1003-38spl-38super-357mag": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-1005-222-223": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-1007-41-44-45": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-1008-45acp": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-1009-243-308": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-501-32-9mm": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-503-38-357": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-504-22-hornet-30-m1-carbine": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-505-222-223": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-507-41-44-45": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-508-10mm-45": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-509-243-308": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-510-6-5mmsw-8x57": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-511-300-375": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-512-7-62x39": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitiedoos-frankford-arsenal-hinge-top-514-45-70": [
-    "herlaadkits"
+    "munitieboxen"
   ],
   "munitieriem-g-g-mg42": [
     "munitieboxen"
@@ -6034,7 +6037,6 @@
     "mondingsremmen"
   ],
   "muzzle-brake-donnyfl-qd": [
-    "luchtbuks-dempers",
     "mondingsremmen"
   ],
   "muzzle-brake-eagle-vision-air-stripper": [
@@ -16016,6 +16018,9 @@
     "night-vision-camera-hikmicro-heimdal-h4d": [
       "inspectie-cameras"
     ],
+    "angle-cosine-indicator-rome-ruac-system": [
+      "montage-accessoires"
+    ],
     "hop-up-bucking-nub-prometheus-firm-type-60": [
       "airsoft-onderdelen"
     ],
@@ -16755,6 +16760,64 @@
     ],
     "mounting-rail-utg-super-slim-rdm20": [
       "picatinny-rails"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-1001-32-9mm": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-1003-38spl-38super-357mag": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-1005-222-223": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-1007-41-44-45": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-1008-45acp": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-1009-243-308": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-501-32-9mm": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-503-38-357": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-504-22-hornet-30-m1-carbine": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-505-222-223": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-507-41-44-45": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-508-10mm-45": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-509-243-308": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-510-6-5mmsw-8x57": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-511-300-375": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-512-7-62x39": [
+      "herlaadkits"
+    ],
+    "munitiedoos-frankford-arsenal-hinge-top-514-45-70": [
+      "herlaadkits"
+    ],
+    "muzzle-brake-donnyfl-qd": [
+      "luchtbuks",
+      "luchtbuks-dempers"
+    ],
+    "muzzle-brake-eagle-vision-air-stripper": [
+      "luchtbuks"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
@@ -25200,6 +25263,39 @@
     "montagerail-utg-keymod-8-slot-black",
     "montagerail-utg-m-lok-4-slot",
     "montagerail-utg-m-lok-8-slot",
-    "mounting-rail-utg-super-slim-rdm20"
+    "mounting-rail-utg-super-slim-rdm20",
+    "angle-cosine-indicator-rome-ruac-system",
+    "multitool-birchwood-glock",
+    "multitool-birchwood-universal-gun",
+    "multitool-birchwood-pistol-gun",
+    "multitool-birchwood-ar-15",
+    "munitiedoos-frankford-arsenal-hinge-top-1001-32-9mm",
+    "munitiedoos-frankford-arsenal-hinge-top-1003-38spl-38super-357mag",
+    "munitiedoos-frankford-arsenal-hinge-top-1005-222-223",
+    "munitiedoos-frankford-arsenal-hinge-top-1007-41-44-45",
+    "munitiedoos-frankford-arsenal-hinge-top-1008-45acp",
+    "munitiedoos-frankford-arsenal-hinge-top-1009-243-308",
+    "munitiedoos-frankford-arsenal-hinge-top-501-32-9mm",
+    "munitiedoos-frankford-arsenal-hinge-top-503-38-357",
+    "munitiedoos-frankford-arsenal-hinge-top-504-22-hornet-30-m1-carbine",
+    "munitiedoos-frankford-arsenal-hinge-top-505-222-223",
+    "munitiedoos-frankford-arsenal-hinge-top-507-41-44-45",
+    "munitiedoos-frankford-arsenal-hinge-top-508-10mm-45",
+    "munitiedoos-frankford-arsenal-hinge-top-509-243-308",
+    "munitiedoos-frankford-arsenal-hinge-top-510-6-5mmsw-8x57",
+    "munitiedoos-frankford-arsenal-hinge-top-511-300-375",
+    "munitiedoos-frankford-arsenal-hinge-top-512-7-62x39",
+    "munitiedoos-frankford-arsenal-hinge-top-514-45-70",
+    "muzzle-brake-audere-hmb",
+    "muzzle-brake-audere-hmb-varmint",
+    "muzzle-brake-audere-imperium-5-8x24",
+    "muzzle-brake-audere-imperium-m15x1",
+    "muzzle-brake-audere-imperium-m18x1",
+    "muzzle-brake-audere-quarter-stroke-1-2x28",
+    "muzzle-brake-audere-quarter-stroke-5-8x24",
+    "muzzle-brake-audere-quarter-stroke-m15x1-223",
+    "muzzle-brake-bergara-omni-m14x1",
+    "muzzle-brake-bergara-tp1-m18x1",
+    "muzzle-brake-donnyfl-qd"
   ]
 }
