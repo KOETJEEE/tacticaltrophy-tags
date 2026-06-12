@@ -2334,8 +2334,6 @@
   "butt-pad-mdt-adjustable": [
     "kolven"
   ],
-  "camera-adapter-eagle-vision-side-cam-gopro-5-6-7-25-x75": [],
-  "camera-adapter-eagle-vision-side-cam-gopro-9-10-11-12-13-25x75": [],
   "camo-net-treestand": [
     "aanzitladders-hoogzitten"
   ],
@@ -2444,9 +2442,7 @@
   "cheek-rest-saber-tactical-trs-fx-impact-m4": [
     "kolfplaten"
   ],
-  "cheek-riser-saber-tactical-fx-impact": [
-    "kolfplaten"
-  ],
+  "cheek-riser-saber-tactical-fx-impact": [],
   "cheek-riser-saber-tactical-fx-maverick-wildcat": [
     "kolfplaten"
   ],
@@ -15626,6 +15622,10 @@
     ],
     "chassis-rome-motus-tikka-t1x": [
       "kolven"
+    ],
+    "cheek-riser-saber-tactical-fx-impact": [
+      "kolfplaten",
+      "wapen-toebehoren"
     ],
     "suppressor-g-g-double-screw": [
       "luchtbuks"
