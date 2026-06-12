@@ -5457,14 +5457,13 @@
     "2-delige-montages"
   ],
   "mount-audere-psr-34-mm-low-weaver-picatinny": [
-    "montage-accessoires",
     "2-delige-montages"
   ],
   "mount-audere-psr-34-mm-medium-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-audere-psr-34-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "montage-caldwell-picatinny-rail-voor-hulzenvanger": [
     "picatinny-rails"
@@ -5485,88 +5484,88 @@
     "1-delige-montages"
   ],
   "mount-eagle-vision-backward-infinity-elevation-adjustable-30-mm-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-eagle-vision-backward-infinity-elevation-adjustable-34-mm-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-eagle-vision-infinity-elevation-adjustable-30-mm-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-eagle-vision-infinity-elevation-adjustable-30-mm-picatinny-ins-30": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-eagle-vision-infinity-elevation-adjustable-30-mm-picatinny-ips-30": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-eagle-vision-infinity-elevation-adjustable-34-mm-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-eagle-vision-infinity-elevation-adjustable-34-mm-picatinny-ins-34": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-eagle-vision-infinity-elevation-adjustable-34-mm-picatinny-ips-34": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-eagle-vision-infinity-elevation-forward-34-mm": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-eagle-vision-infinity-forward-elevation-30-mm-picatinny": [
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "mount-element-optics-accu-lite-30-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-accu-lite-30-mm-low-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-accu-lite-30-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-accu-lite-34-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-accu-lite-34-mm-low-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-accu-lite-34-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-xt-mounts-25-4-mm-high-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-xt-mounts-25-4-mm-low-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-xt-mounts-25-4-mm-medium-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-xt-mounts-30-mm-high-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-xt-mounts-30-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-xt-mounts-30-mm-low-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-xt-mounts-30-mm-medium-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-element-optics-xt-mounts-30-mm-medium-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "montage-fx-no-limit-25-4-mm-high-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "montage-fx-no-limit-30-mm-high-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "montage-fx-no-limit-30-mm-high-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-fx-no-limit-34-mm-high-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-fx-no-limit-34-mm-high-picatinny": [
     "1-delige-montages"
@@ -16420,6 +16419,96 @@
     "mount-audere-psr-34-mm-high-weaver-picatinny": [
       "montage-accessoires"
     ],
+    "mount-audere-psr-34-mm-low-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-audere-psr-34-mm-medium-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-audere-psr-34-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-eagle-vision-backward-infinity-elevation-adjustable-30-mm-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-eagle-vision-backward-infinity-elevation-adjustable-34-mm-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-eagle-vision-infinity-elevation-adjustable-30-mm-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-eagle-vision-infinity-elevation-adjustable-30-mm-picatinny-ins-30": [
+      "montage-accessoires"
+    ],
+    "mount-eagle-vision-infinity-elevation-adjustable-30-mm-picatinny-ips-30": [
+      "montage-accessoires"
+    ],
+    "mount-eagle-vision-infinity-elevation-adjustable-34-mm-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-eagle-vision-infinity-elevation-adjustable-34-mm-picatinny-ins-34": [
+      "montage-accessoires"
+    ],
+    "mount-eagle-vision-infinity-elevation-adjustable-34-mm-picatinny-ips-34": [
+      "montage-accessoires"
+    ],
+    "mount-eagle-vision-infinity-elevation-forward-34-mm": [
+      "montage-accessoires"
+    ],
+    "mount-eagle-vision-infinity-forward-elevation-30-mm-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-accu-lite-30-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-accu-lite-30-mm-low-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-accu-lite-30-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-accu-lite-34-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-accu-lite-34-mm-low-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-accu-lite-34-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-xt-mounts-25-4-mm-high-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-xt-mounts-25-4-mm-low-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-xt-mounts-25-4-mm-medium-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-xt-mounts-30-mm-high-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-xt-mounts-30-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-xt-mounts-30-mm-low-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-xt-mounts-30-mm-medium-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-element-optics-xt-mounts-30-mm-medium-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "montage-fx-no-limit-25-4-mm-high-dovetail": [
+      "montage-accessoires"
+    ],
+    "montage-fx-no-limit-30-mm-high-dovetail": [
+      "montage-accessoires"
+    ],
+    "montage-fx-no-limit-30-mm-high-picatinny": [
+      "montage-accessoires"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -24735,6 +24824,36 @@
     "mount-audere-psr-30-mm-medium-dovetail",
     "montage-audere-psr-30-mm-medium-weaver-picatinny",
     "mount-audere-psr-34-mm-high-dovetail",
-    "mount-audere-psr-34-mm-high-weaver-picatinny"
+    "mount-audere-psr-34-mm-high-weaver-picatinny",
+    "mount-audere-psr-34-mm-low-weaver-picatinny",
+    "mount-audere-psr-34-mm-medium-dovetail",
+    "mount-audere-psr-34-mm-medium-weaver-picatinny",
+    "mount-eagle-vision-backward-infinity-elevation-adjustable-30-mm-picatinny",
+    "mount-eagle-vision-backward-infinity-elevation-adjustable-34-mm-picatinny",
+    "mount-eagle-vision-infinity-elevation-adjustable-30-mm-picatinny-ips-30",
+    "mount-eagle-vision-infinity-elevation-adjustable-30-mm-picatinny-ins-30",
+    "mount-eagle-vision-infinity-elevation-adjustable-30-mm-picatinny",
+    "mount-eagle-vision-infinity-elevation-adjustable-34-mm-picatinny",
+    "mount-eagle-vision-infinity-elevation-adjustable-34-mm-picatinny-ins-34",
+    "mount-eagle-vision-infinity-elevation-adjustable-34-mm-picatinny-ips-34",
+    "mount-eagle-vision-infinity-elevation-forward-34-mm",
+    "mount-eagle-vision-infinity-forward-elevation-30-mm-picatinny",
+    "mount-element-optics-accu-lite-30-mm-high-weaver-picatinny",
+    "mount-element-optics-accu-lite-30-mm-low-weaver-picatinny",
+    "mount-element-optics-accu-lite-30-mm-medium-weaver-picatinny",
+    "mount-element-optics-accu-lite-34-mm-high-weaver-picatinny",
+    "mount-element-optics-accu-lite-34-mm-low-weaver-picatinny",
+    "mount-element-optics-accu-lite-34-mm-medium-weaver-picatinny",
+    "mount-element-optics-xt-mounts-25-4-mm-high-dovetail",
+    "mount-element-optics-xt-mounts-25-4-mm-low-dovetail",
+    "mount-element-optics-xt-mounts-25-4-mm-medium-dovetail",
+    "mount-element-optics-xt-mounts-30-mm-high-dovetail",
+    "mount-element-optics-xt-mounts-30-mm-high-weaver-picatinny",
+    "mount-element-optics-xt-mounts-30-mm-low-weaver-picatinny",
+    "mount-element-optics-xt-mounts-30-mm-medium-dovetail",
+    "mount-element-optics-xt-mounts-30-mm-medium-weaver-picatinny",
+    "montage-fx-no-limit-25-4-mm-high-dovetail",
+    "montage-fx-no-limit-30-mm-high-dovetail",
+    "montage-fx-no-limit-30-mm-high-picatinny"
   ]
 }
