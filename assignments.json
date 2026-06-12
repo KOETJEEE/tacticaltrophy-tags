@@ -6195,22 +6195,22 @@
     "patroonhouders"
   ],
   "pellet-probe-fx-crown": [
-    "luchtdrukmunitie-accessoires"
+    "loopkits-toebehoren"
   ],
   "pellet-probe-fx-dreamline": [
-    "luchtdrukmunitie-accessoires"
+    "loopkits-toebehoren"
   ],
   "pellet-probe-fx-dynamic-panthera-king-5-5-mm-22": [
-    "luchtdrukmunitie-accessoires"
+    "loopkits-toebehoren"
   ],
   "pellet-probe-fx-impact": [
-    "luchtdrukmunitie-accessoires"
+    "loopkits-toebehoren"
   ],
   "pellet-probe-fx-wildcat-mkiii-maverick": [
-    "luchtdrukmunitie-accessoires"
+    "loopkits-toebehoren"
   ],
   "pellet-probe-nielsen-fx-impact": [
-    "luchtdrukmunitie-accessoires"
+    "loopkits-toebehoren"
   ],
   "persluchtcilinder-anschutz-lg": [
     "persluchtcilinders"
@@ -17116,6 +17116,30 @@
       "luchtbuks-accessoires",
       "airsoft",
       "co2-patronen"
+    ],
+    "pellet-probe-fx-crown": [
+      "luchtdrukmunitie-accessoires",
+      "schietsport"
+    ],
+    "pellet-probe-fx-dreamline": [
+      "luchtdrukmunitie-accessoires",
+      "schietsport"
+    ],
+    "pellet-probe-fx-dynamic-panthera-king-5-5-mm-22": [
+      "luchtdrukmunitie-accessoires",
+      "schietsport"
+    ],
+    "pellet-probe-fx-impact": [
+      "luchtdrukmunitie-accessoires",
+      "schietsport"
+    ],
+    "pellet-probe-fx-wildcat-mkiii-maverick": [
+      "luchtdrukmunitie-accessoires",
+      "schietsport"
+    ],
+    "pellet-probe-nielsen-fx-impact": [
+      "luchtdrukmunitie-accessoires",
+      "schietsport"
     ],
     "persluchtkraan-mde-jubilee-300-bar-din-met-manometer-en-slang": [
       "manometers",
@@ -29927,6 +29951,12 @@
     "reinigingshaakjes-tipton-gun-cleaning-picks-rvs",
     "reinigingshaakjes-tipton-gun-cleaning-picks-kunststof",
     "reinigingshaakje-bore-tech-polymer",
-    "scope-guard-element-optics-neoprene"
+    "scope-guard-element-optics-neoprene",
+    "pellet-probe-fx-dreamline",
+    "pellet-probe-fx-crown",
+    "pellet-probe-fx-dynamic-panthera-king-5-5-mm-22",
+    "pellet-probe-fx-impact",
+    "pellet-probe-fx-wildcat-mkiii-maverick",
+    "pellet-probe-nielsen-fx-impact"
   ]
 }
