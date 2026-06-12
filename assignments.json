@@ -9741,7 +9741,6 @@
   "jacket-alpha-microfleece-genii-3114": [
     "fleece"
   ],
-  "jacket-berserk-polartec-primaloft-9657": [],
   "jacket-berserk-polartec-primaloft-elite-9654": [
     "jassen",
     "tussenseizoenjassen"
@@ -9786,8 +9785,7 @@
     "tactical-shirts"
   ],
   "jacket-military-elite-nyco-extreme-8538": [
-    "tactical-shirts",
-    "jassen"
+    "tactical-shirts"
   ],
   "jacket-nord-polartec-3504": [
     "fleece"
@@ -9799,30 +9797,22 @@
     "tactical-shirts"
   ],
   "jacket-sheriff-9501": [
-    "jassen",
-    "tussenseizoenjassen",
-    "softshell-jassen"
+    "tussenseizoenjassen"
   ],
   "jacket-space-armor-genii-primaloft-10395": [
-    "winterjassen",
-    "jassen",
     "tussenseizoenjassen",
     "softshell-jassen"
   ],
   "jacket-stalker-geniii-3836": [
-    "jassen",
-    "tussenseizoenjassen",
-    "softshell-jassen"
+    "tussenseizoenjassen"
   ],
   "jacket-sturm-genii-nyco-extreme-7874": [
     "tactical-shirts"
   ],
   "jacket-sturm-nyco-extreme-2958": [
-    "winterjassen",
     "tactical-shirts"
   ],
   "jacket-sturm-nyco-extreme-8531": [
-    "winterjassen",
     "tactical-shirts"
   ],
   "jeans-aggressor-2782": [
@@ -19521,7 +19511,8 @@
       "Clothing > Shirts",
       "m-tac",
       "winter-jassen",
-      "kleding"
+      "kleding",
+      "jassen"
     ],
     "jacket-nord-polartec-3504": [
       "fleeces",
@@ -19539,16 +19530,20 @@
     ],
     "jacket-sheriff-9501": [
       "Clothing > Jackets > Mid-season jackets",
-      "m-tac"
+      "m-tac",
+      "jassen"
     ],
     "jacket-space-armor-genii-primaloft-10395": [
       "Clothing > Jackets > Mid-season jackets",
-      "m-tac"
+      "m-tac",
+      "jassen",
+      "winter-jassen"
     ],
     "jacket-stalker-geniii-3836": [
       "Clothing > Jackets > Mid-season jackets",
       "maattabel-mtac",
-      "m-tac"
+      "m-tac",
+      "jassen"
     ],
     "jacket-sturm-genii-nyco-extreme-7874": [
       "Clothing > Shirts",
@@ -19557,11 +19552,15 @@
     ],
     "jacket-sturm-nyco-extreme-2958": [
       "Clothing > Shirts",
-      "m-tac"
+      "m-tac",
+      "kleding",
+      "winter-jassen"
     ],
     "jacket-sturm-nyco-extreme-8531": [
       "Clothing > Shirts",
-      "m-tac"
+      "m-tac",
+      "kleding",
+      "winter-jassen"
     ],
     "jeans-aggressor-2782": [
       "Clothing > Pants > Jeans",
@@ -29224,6 +29223,20 @@
     "jacket-knight-primaloft-8442",
     "hook-loop-low-profile-admin-panel-197",
     "field-maintenance-tray-24x24cm-747",
-    "jacket-military-elite-nyco-1143"
+    "jacket-military-elite-nyco-1143",
+    "jacket-military-elite-nyco-extreme-8538",
+    "jacket-legatus-microfleece-9729",
+    "jacket-nord-polartec-3504",
+    "jacket-patrol-flex-1214",
+    "jacket-patrol-flex-lady-8329",
+    "jacket-sheriff-9501",
+    "jacket-space-armor-genii-primaloft-10395",
+    "jacket-stalker-geniii-3836",
+    "jacket-sturm-genii-nyco-extreme-7874",
+    "jacket-sturm-nyco-extreme-2958",
+    "jacket-sturm-nyco-extreme-8531",
+    "jeans-aggressor-2782",
+    "jeans-tactical-geni-cordura-regular-3388",
+    "kettle-12-l-7617"
   ]
 }
