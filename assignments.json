@@ -8387,37 +8387,37 @@
     "voorzetvergrotingen"
   ],
   "vuladapter-anschutz": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vuladapter-bf-voor-steyr-lg": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vuladapter-bf-walther-hammerli-1-8-bsp": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vuladapter-bf-new-style-walther": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vuladapter-bf-voor-feinwerkbau": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vuladapter-bf-voor-steyr-200-300-bar-lg": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vuladapter-bf-voor-steyr-200-300-bar-lp": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vuladapter-bf-voor-steyr-lp": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "fill-adapter-snowpeak-pp20-mat300": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "fill-adaptor-walther-air-rifle": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "fill-adapter-walther-air-pistol": [
-    "persluchtfles-accessoires"
+    "vulbenodigdheden"
   ],
   "vulnippel-aea-7-mm-type-a": [
     "persluchtfles-accessoires"
@@ -17901,6 +17901,36 @@
     ],
     "magnifier-aim-o-et-style-g33-3x-dark-earth": [
       "voorzetkijkers"
+    ],
+    "vuladapter-bf-voor-steyr-lg": [
+      "persluchtfles-accessoires"
+    ],
+    "vuladapter-bf-walther-hammerli-1-8-bsp": [
+      "persluchtfles-accessoires"
+    ],
+    "vuladapter-bf-new-style-walther": [
+      "persluchtfles-accessoires"
+    ],
+    "vuladapter-bf-voor-feinwerkbau": [
+      "persluchtfles-accessoires"
+    ],
+    "vuladapter-bf-voor-steyr-200-300-bar-lg": [
+      "persluchtfles-accessoires"
+    ],
+    "vuladapter-bf-voor-steyr-200-300-bar-lp": [
+      "persluchtfles-accessoires"
+    ],
+    "vuladapter-bf-voor-steyr-lp": [
+      "persluchtfles-accessoires"
+    ],
+    "fill-adapter-snowpeak-pp20-mat300": [
+      "persluchtfles-accessoires"
+    ],
+    "fill-adaptor-walther-air-rifle": [
+      "persluchtfles-accessoires"
+    ],
+    "fill-adapter-walther-air-pistol": [
+      "persluchtfles-accessoires"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
@@ -29505,6 +29535,17 @@
     "utility-pouch-nuprol-medium-pmc-green",
     "utility-pouch-nuprol-medium-pmc-tan",
     "utility-pouch-nuprol-medium-zipped-green",
-    "red-dot-utg-4-2-ita"
+    "red-dot-utg-4-2-ita",
+    "vuladapter-anschutz",
+    "vuladapter-bf-voor-steyr-lg",
+    "vuladapter-bf-walther-hammerli-1-8-bsp",
+    "vuladapter-bf-new-style-walther",
+    "vuladapter-bf-voor-feinwerkbau",
+    "vuladapter-bf-voor-steyr-200-300-bar-lg",
+    "vuladapter-bf-voor-steyr-200-300-bar-lp",
+    "vuladapter-bf-voor-steyr-lp",
+    "fill-adapter-snowpeak-pp20-mat300",
+    "fill-adaptor-walther-air-rifle",
+    "fill-adapter-walther-air-pistol"
   ]
 }
