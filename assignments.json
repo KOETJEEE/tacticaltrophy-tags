@@ -283,8 +283,7 @@
     "gaffer-tape"
   ],
   "explorer-cases-10840-koffer-zwart-251301": [
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-11413-koffer-zwart-met-plukschuim-251380": [
     "koffers"
@@ -429,14 +428,11 @@
   ],
   "explorer-cases-bph53-fotovideo-rugzak-met-vakverdeler-250850": [
     "tactical-bags",
-    "tassen-rugzakken",
-    "koffers",
-    "wapenkoffers"
+    "tassen-rugzakken"
   ],
   "explorer-cases-combinatieslot-255415": [
     "wapensloten",
-    "koffers",
-    "wapenkoffers"
+    "koffers"
   ],
   "explorer-cases-combinatieslot-tsa-gekeurd-255420": [
     "wapensloten",
@@ -13795,6 +13791,13 @@
       "carson",
       "monoculair"
     ],
+    "explorer-cases-10840-koffer-zwart-251301": [
+      "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
     "explorer-cases-11413-koffer-zwart-met-plukschuim-251380": [
       "explorer-cases",
       "hardcases",
@@ -14119,6 +14122,18 @@
     ],
     "explorer-cases-9433-koffer-zwart-met-plukschuim-251251": [
       "airsoft",
+      "wapenkoffers",
+      "explorer-cases",
+      "hardcases",
+      "transport"
+    ],
+    "explorer-cases-bph53-fotovideo-rugzak-met-vakverdeler-250850": [
+      "koffers",
+      "airsoft",
+      "wapenkoffers"
+    ],
+    "explorer-cases-combinatieslot-255415": [
+      "koffers",
       "wapenkoffers",
       "explorer-cases",
       "hardcases",
@@ -21920,6 +21935,9 @@
     "explorer-cases-9433-koffer-zwart-met-plukschuim-251251",
     "explorer-cases-1908-koffer-zwart-250001",
     "explorer-cases-13527-koffer-zwart-met-plukschuim-251500",
-    "explorer-cases-13513-koffer-zwart-met-plukschuim-251440"
+    "explorer-cases-13513-koffer-zwart-met-plukschuim-251440",
+    "explorer-cases-11413-koffer-zwart-met-plukschuim-251380",
+    "explorer-cases-10840-koffer-zwart-251301",
+    "explorer-cases-combinatieslot-255415"
   ]
 }
