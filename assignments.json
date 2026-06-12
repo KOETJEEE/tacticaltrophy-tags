@@ -5280,13 +5280,13 @@
     "magazijn-pouches"
   ],
   "magazine-pouch-black-scorpion-gear-single-double-stack-competition-black": [
-    "magazijn-pouches"
+    "holsters"
   ],
   "magazine-pouch-black-scorpion-gear-single-double-stack-competition-blue": [
-    "magazijn-pouches"
+    "holsters"
   ],
   "magazine-pouch-black-scorpion-gear-single-double-stack-competition-red": [
-    "magazijn-pouches"
+    "holsters"
   ],
   "magazijnhouder-donnyfl-fx-wildcat": [
     "luchtbuks-dempers",
@@ -16266,6 +16266,15 @@
       "wapen-toebehoren"
     ],
     "magazine-pouch-black-scorpion-gear-single-double-stack-competition-black": [
+      "pouches",
+      "magazijn-pouches"
+    ],
+    "magazine-pouch-black-scorpion-gear-single-double-stack-competition-blue": [
+      "pouches",
+      "magazijn-pouches"
+    ],
+    "magazine-pouch-black-scorpion-gear-single-double-stack-competition-red": [
+      "magazijn-pouches",
       "pouches"
     ],
     "rookgranaat-enola-gaye-burst-blue": [
@@ -24502,6 +24511,9 @@
     "magazine-utg-glock-17-rounds",
     "magazine-wolverine-mtw-epm-pts-m4",
     "magazine-wolverine-mtw-tti-jw4-dracarys-gen-12",
-    "mag-pouch-amomax-double-clip"
+    "mag-pouch-amomax-double-clip",
+    "magazine-pouch-black-scorpion-gear-single-double-stack-competition-red",
+    "magazine-pouch-black-scorpion-gear-single-double-stack-competition-blue",
+    "magazine-pouch-black-scorpion-gear-single-double-stack-competition-black"
   ]
 }
