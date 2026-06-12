@@ -4252,10 +4252,11 @@
     "hop-ups"
   ],
   "hpa-tank-dominator-13-3000-aluminium-0-2-liters-207-bar-with-pressure-gauge": [
-    "manometers"
+    "hpa-tanks"
   ],
   "hpa-tank-dominator-48-3000-aluminium-0-8-liters-207-bar-with-pressure-gauge": [
-    "manometers"
+    "manometers",
+    "hpa-tanks"
   ],
   "hpa-tank-dominator-48-4500-carbon-0-8-liters-310-bar-with-pressure-gauge": [
     "manometers"
@@ -16022,6 +16023,11 @@
     "hop-up-wolverine-mtw": [
       "airsoft-onderdelen"
     ],
+    "hpa-tank-dominator-13-3000-aluminium-0-2-liters-207-bar-with-pressure-gauge": [
+      "manometers",
+      "schietsport",
+      "wapen-toebehoren"
+    ],
     "inner-barrel-prometheus-eg-6-00-gbb-tokyo-marui-m4a1-mws-370-mm": [
       "airsoft-onderdelen"
     ],
@@ -24009,6 +24015,28 @@
     "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-pdp-5-carbon",
     "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-q5-match-polyframe-carbon",
     "holster-black-scorpion-gear-pro-heavy-duty-competition-walther-q5-match-sf-carbon",
-    "holster-ctm-hi-capa"
+    "holster-ctm-hi-capa",
+    "hop-up-bucking-nub-prometheus-firm-type-60",
+    "hop-up-bucking-4uad-4uantum-friction-pro-aeg",
+    "hop-up-bucking-4uad-4uantum-friction-pro-gbb",
+    "hop-up-bucking-g-g-cold-resistant",
+    "hop-up-bucking-prometheus-hard",
+    "hop-up-bucking-prometheus-soft",
+    "hop-up-bucking-prometheus-straight-chamber-extra-soft",
+    "hop-up-bucking-prometheus-straight-chamber-soft",
+    "hop-up-chamber-4uad-4uantum-magnus-pro-precision-ar-ghk-vfc",
+    "hop-up-chamber-g-g-egm",
+    "hop-up-chamber-g-g-gr14-series",
+    "hop-up-chamber-g-g-gr16-rotary-style",
+    "hop-up-chamber-g-g-gr16-series",
+    "hop-up-chamber-g-g-gr25-series",
+    "hop-up-chamber-g-g-sg550-sg552-sg553",
+    "hop-up-chamber-g-g-umg",
+    "hop-up-chamber-prometheus-elite-cnc-m4-m16",
+    "hop-up-chamber-prometheus-elite-cnc-vfc-aeg",
+    "hop-up-tensioner-prometheus-bridge",
+    "hop-up-tensioner-prometheus-flat",
+    "hop-up-wolverine-mtw",
+    "hpa-tank-dominator-13-3000-aluminium-0-2-liters-207-bar-with-pressure-gauge"
   ]
 }
