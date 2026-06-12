@@ -6515,7 +6515,7 @@
     "polijstmiddelen"
   ],
   "polyballs-umarex-t4e-practice-plb-50-27-5-grain": [
-    "airsoft-diversen-1"
+    "luchtdrukmunitie"
   ],
   "polyballs-umarex-t4e-practice-plb-50-bulk-27-5-grain": [
     "airsoft-diversen-1"
@@ -17613,6 +17613,10 @@
     ],
     "polijstvloeistof-frankford-arsenal-ultrasonic-brass-946-ml": [
       "herlaadkits"
+    ],
+    "polyballs-umarex-t4e-practice-plb-50-27-5-grain": [
+      "airsoft",
+      "airsoft-diversen"
     ],
     "powder-trickler-frankford-arsenal": [
       "herlaadkits"
@@ -30710,6 +30714,7 @@
     "fastening-with-d-ring-677",
     "elastic-tourniquet-holder-geniii-359",
     "elastic-pouch-for-1-magazine-elite-cordura-503",
-    "m-tac-elastic-cord-with-hooks-2-pcs-7732"
+    "m-tac-elastic-cord-with-hooks-2-pcs-7732",
+    "polyballs-umarex-t4e-practice-plb-50-27-5-grain"
   ]
 }
