@@ -8461,11 +8461,9 @@
     "waterpassen"
   ],
   "electronic-level-mdt-send-it-gen2-center-mount": [
-    "montage-accessoires",
     "waterpassen"
   ],
   "electronic-level-mdt-send-it-gen2-side-mount": [
-    "montage-accessoires",
     "waterpassen"
   ],
   "bubble-level-ulfhednar-picatinny-with-d-o-p-e-card": [
@@ -8499,21 +8497,18 @@
     "waterpassen"
   ],
   "wattenstaafjes-bore-tech": [
-    "schoonmaaksetjes"
+    "onderhoudshulpmiddelen"
   ],
   "weaverrail-steyr-luchtpistool": [
     "picatinny-rails"
   ],
   "scale-and-dispenser-frankford-intellidropper-2-0": [
-    "herlaadkits",
     "weegschalen"
   ],
   "weegschaal-en-kruitdispenser-frankford-platinum-series-intellidropper-electronic": [
-    "herlaadkits",
     "weegschalen"
   ],
   "weegschaal-frankford-arsenal-ds-750-electronisch": [
-    "herlaadkits",
     "weegschalen"
   ],
   "werkblok-wheeler-universeel": [
@@ -8562,8 +8557,7 @@
     "schoonmaakborstels"
   ],
   "wolborstel-ks": [
-    "schoonmaakborstels",
-    "stokadapters"
+    "schoonmaakborstels"
   ],
   "wollen-kamerborstel-bore-tech-large": [
     "schoonmaakborstels"
@@ -17410,6 +17404,47 @@
     "wapenkluis-infac-sentinel-sd7": [
       "wapen-accessoires"
     ],
+    "electronic-level-mdt-send-it-gen2-center-mount": [
+      "montage-accessoires"
+    ],
+    "electronic-level-mdt-send-it-gen2-side-mount": [
+      "montage-accessoires"
+    ],
+    "wattenstaafjes-bore-tech": [
+      "schoonmaaksetjes",
+      "schoonmaak-onderhoud"
+    ],
+    "scale-and-dispenser-frankford-intellidropper-2-0": [
+      "herlaadkits"
+    ],
+    "weegschaal-en-kruitdispenser-frankford-platinum-series-intellidropper-electronic": [
+      "herlaadkits"
+    ],
+    "weegschaal-frankford-arsenal-ds-750-electronisch": [
+      "herlaadkits"
+    ],
+    "wolborstel-bore-tech-proof-positive": [
+      "schoonmaak-onderhoud"
+    ],
+    "wolborstel-bore-tech-proof-positive-12-16-ga": [
+      "schoonmaak-onderhoud"
+    ],
+    "wolborstel-bore-tech-proof-positive-20-28-ga": [
+      "schoonmaak-onderhoud"
+    ],
+    "wolborstel-ks": [
+      "stokadapters",
+      "schoonmaak-onderhoud"
+    ],
+    "wollen-kamerborstel-bore-tech-large": [
+      "schoonmaak-onderhoud"
+    ],
+    "wollen-kamerborstel-bore-tech-medium": [
+      "schoonmaak-onderhoud"
+    ],
+    "wollen-kamerborstel-bore-tech-small": [
+      "schoonmaak-onderhoud"
+    ],
     "admin-pouch-bag-medium-elite-8107": [
       "schietsport",
       "jacht",
@@ -17541,7 +17576,8 @@
     ],
     "baseball-ripstop-cap-elite-flex-4739": [
       "Clothing > Headwear > Caps",
-      "headwear"
+      "headwear",
+      "m-tac"
     ],
     "chain-for-tokens-8313": [
       "Clothing > Accessories",
@@ -26510,6 +26546,60 @@
     "baseball-cap-five-panel-9390",
     "baseball-cap-five-panel-nyco-extreme-9494",
     "baseball-cap-flex-rip-stop-4650",
-    "baseball-cap-mesh-elite-tactical-nyco-extreme-9661"
+    "baseball-cap-mesh-elite-tactical-nyco-extreme-9661",
+    "baseball-ripstop-cap-elite-flex-4739",
+    "wolborstel-bore-tech-proof-positive",
+    "wolborstel-bore-tech-proof-positive-12-16-ga",
+    "wolborstel-bore-tech-proof-positive-20-28-ga",
+    "wolborstel-ks",
+    "wollen-kamerborstel-bore-tech-large",
+    "wollen-kamerborstel-bore-tech-medium",
+    "wollen-kamerborstel-bore-tech-small",
+    "saw-kershaw-taskmaster-2",
+    "pocket-knife-bul-axe-folding-black",
+    "pocket-knife-bul-axe-folding-silver",
+    "pocket-knife-bul-mini-cleaver-carbon-gold",
+    "pocket-knife-cold-steel-double-safe-hunter-orange",
+    "pocket-knife-kershaw-aftereffect",
+    "pocket-knife-kershaw-camshaft",
+    "pocket-knife-kershaw-chill",
+    "pocket-knife-kershaw-cryo",
+    "windmeter-caldwell-wind-wizard-ii",
+    "game-carrier-leather",
+    "game-carrier-nylon",
+    "wildlife-camera-stealth-cam-qs20ng-no-glo-combo-pack",
+    "wildlife-camera-stealth-cam-px20",
+    "wildlife-camera-stealth-cam-gmax-32",
+    "wind-meter-tempest-weatherflow-weathermeter-precision-shooting",
+    "wildcamera-stealth-cam-ds4k-ultimate",
+    "wildlife-camera-hikmicro-m15",
+    "pocket-knife-kershaw-fatback",
+    "pocket-knife-kershaw-ferrite",
+    "pocket-knife-kershaw-filter",
+    "pocket-knife-kershaw-fringe",
+    "pocket-knife-kershaw-leek-blackwash",
+    "pocket-knife-kershaw-lightyear",
+    "pocket-knife-kershaw-link-stonewashed-olive",
+    "pocket-knife-kershaw-misdirect",
+    "pocket-knife-kershaw-salvage",
+    "pocket-knife-kershaw-scallion",
+    "pocket-knife-kershaw-scallion-navy-blue",
+    "pocket-knife-kershaw-scallion-olive",
+    "pocket-knife-kershaw-scallion-purple",
+    "pocket-knife-kershaw-showtime",
+    "weegschaal-en-kruitdispenser-frankford-platinum-series-intellidropper-electronic",
+    "scale-and-dispenser-frankford-intellidropper-2-0",
+    "weegschaal-frankford-arsenal-ds-750-electronisch",
+    "wattenstaafjes-bore-tech",
+    "waterpas-wheeler-scope-level",
+    "bubble-level-vector-optics-offset-weaver-picatinny-genii-21-mm",
+    "bubble-level-vector-optics-offset-level-ring-34-mm",
+    "waterpas-wheeler-anti-cant-indicator-25-4-mm",
+    "waterpas-wheeler-anti-cant-indicator-30-mm",
+    "waterpas-wheeler-anti-cant-indicator-picatinny",
+    "electronic-level-mdt-send-it-gen2-center-mount",
+    "electronic-level-mdt-send-it-gen2-side-mount",
+    "bubble-level-eagle-vision-universal-360-weaver-picatinny",
+    "bubble-level-eagle-vision-m4-yellow"
   ]
 }
