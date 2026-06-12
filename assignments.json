@@ -9405,8 +9405,7 @@
   ],
   "fingerless-gloves-assault-tactical-mk1-7162": [
     "tactical-handschoenen",
-    "vingerloze-handschoenen",
-    "tactical-bags"
+    "vingerloze-handschoenen"
   ],
   "flag-odin-night-vision-630x900-5792": [
     "nachtzicht-handheld"
@@ -9599,7 +9598,6 @@
     "winter-handschoenen"
   ],
   "gloves-winter-leather-7313": [
-    "tactical-handschoenen",
     "winter-handschoenen"
   ],
   "gloves-winter-soft-shell-7110": [
@@ -9741,21 +9739,15 @@
     "drinkflessen-thermos"
   ],
   "jacket-alpha-microfleece-genii-3114": [
-    "fleece",
-    "jassen"
+    "fleece"
   ],
-  "jacket-berserk-polartec-primaloft-9657": [
-    "jassen",
-    "tussenseizoenjassen"
-  ],
+  "jacket-berserk-polartec-primaloft-9657": [],
   "jacket-berserk-polartec-primaloft-elite-9654": [
     "jassen",
     "tussenseizoenjassen"
   ],
   "jacket-berserk-primaloft-toray-10119": [
-    "jassen",
-    "tussenseizoenjassen",
-    "softshell-jassen"
+    "jassen"
   ],
   "jacket-combat-fleece-polartec-3850": [
     "fleece"
@@ -9770,22 +9762,18 @@
     "tactical-shirts"
   ],
   "jacket-flash-3685": [
-    "jassen",
-    "tussenseizoenjassen",
-    "softshell-jassen"
+    "tussenseizoenjassen"
   ],
   "jacket-jarl-2806": [
     "jassen",
     "softshell-jassen"
   ],
   "jacket-jarl-primaloft-8517": [
-    "jassen",
     "softshell-jassen",
     "tussenseizoenjassen"
   ],
   "jacket-knight-primaloft-8442": [
-    "winterjassen",
-    "jassen"
+    "tussenseizoenjassen"
   ],
   "jacket-konung-primaloft-9477": [
     "winterjassen",
@@ -9795,8 +9783,7 @@
     "fleece"
   ],
   "jacket-military-elite-nyco-1143": [
-    "tactical-shirts",
-    "jassen"
+    "tactical-shirts"
   ],
   "jacket-military-elite-nyco-extreme-8538": [
     "tactical-shirts",
@@ -18795,7 +18782,8 @@
     "fingerless-gloves-assault-tactical-mk1-7162": [
       "Clothing > Gloves > Fingerless",
       "m-tac",
-      "handschoenen"
+      "handschoenen",
+      "tactical-bags"
     ],
     "flag-odin-night-vision-630x900-5792": [
       "optiek",
@@ -19164,7 +19152,9 @@
     "gloves-winter-leather-7313": [
       "Clothing > Gloves > Winter gloves",
       "handschoenen",
-      "m-tac"
+      "m-tac",
+      "tactical-gear",
+      "tactical-handschoenen"
     ],
     "gloves-winter-soft-shell-7110": [
       "Clothing > Gloves > Winter gloves",
@@ -19412,6 +19402,14 @@
       "m-tac",
       "tourism > Thermal mugs"
     ],
+    "insulated-mug-with-a-lid-280-ml-5927": [
+      "bushcraft",
+      "Equipment and gear > Survival",
+      "Outdoor Line",
+      "m-tac",
+      "thermosbekers",
+      "tourism > Thermal mugs"
+    ],
     "insulated-mug-with-a-lid-400-ml-7395": [
       "bushcraft",
       "Equipment and gear > Survival",
@@ -19430,13 +19428,19 @@
     ],
     "jacket-alpha-microfleece-genii-3114": [
       "Clothing > Jackets > Fleece jackets",
-      "m-tac"
+      "m-tac",
+      "jassen"
     ],
     "jacket-berserk-polartec-primaloft-9657": [
       "Clothing > Jackets > Military jackets",
       "military",
       "m-tac",
-      "winter-jassen"
+      "winter-jassen",
+      "kleding",
+      "mid-season",
+      "jassen",
+      "softshell",
+      "windbreaker"
     ],
     "jacket-berserk-polartec-primaloft-elite-9654": [
       "m-tac",
@@ -19447,7 +19451,12 @@
     "jacket-berserk-primaloft-toray-10119": [
       "winter-jassen",
       "Clothing > Jackets > Mid-season jackets",
-      "m-tac"
+      "m-tac",
+      "kleding",
+      "jassen",
+      "mid-season",
+      "softshell",
+      "windbreaker"
     ],
     "jacket-combat-fleece-polartec-3850": [
       "Clothing > Fleeces",
@@ -19473,7 +19482,8 @@
     ],
     "jacket-flash-3685": [
       "Clothing > Jackets > Windbreaker jackets",
-      "m-tac"
+      "m-tac",
+      "jassen"
     ],
     "jacket-jarl-2806": [
       "Clothing > Jackets",
@@ -19482,11 +19492,14 @@
     "jacket-jarl-primaloft-8517": [
       "Clothing > Jackets > Mid-season jackets",
       "m-tac",
-      "winter-jassen"
+      "winter-jassen",
+      "jassen"
     ],
     "jacket-knight-primaloft-8442": [
       "Clothing > Jackets > Winter jackets",
-      "m-tac"
+      "m-tac",
+      "jassen",
+      "winter-jassen"
     ],
     "jacket-konung-primaloft-9477": [
       "Clothing > Jackets > Winter jackets",
@@ -19500,7 +19513,9 @@
     ],
     "jacket-military-elite-nyco-1143": [
       "Clothing > Shirts",
-      "m-tac"
+      "m-tac",
+      "jassen",
+      "kleding"
     ],
     "jacket-military-elite-nyco-extreme-8538": [
       "Clothing > Shirts",
@@ -25527,7 +25542,8 @@
     "hoodie-polartec-sport-6450",
     "hoodie-cotton-hard-fatum-10028",
     "gas-can-pouch-vertical-961",
-    "fleece-jacket-senator-polartec-3672"
+    "fleece-jacket-senator-polartec-3672",
+    "flag-odin-night-vision-630x900-5792"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -29173,6 +29189,41 @@
     "fleece-jacket-windblock-division-geniii-9955",
     "fleece-sweatshirt-shadow-polartec-4033",
     "fleece-jacket-windblock-division-genii-8074",
-    "flaskbottle-pouch-elite-278"
+    "flaskbottle-pouch-elite-278",
+    "gloves-winter-extreme-tactical-7284",
+    "gloves-winter-leather-7313",
+    "fingerless-gloves-assault-tactical-mk1-7162",
+    "gloves-winter-soft-shell-7110",
+    "hermetic-container-matches-7729",
+    "hoodie-cotton-raglan-3732",
+    "horizontal-medical-pouch-elite-483",
+    "horizontal-medical-pouch-large-elite-750",
+    "horizontal-medical-pouch-roll-elite-5889",
+    "hydration-bladder-2l-7620",
+    "hydration-bladder-gen-2-9525",
+    "ifak-elite-individual-tactical-medkit-10138",
+    "individual-cookware-set-7614",
+    "individual-cookware-under-the-burner-set-7616",
+    "individual-pot-7613",
+    "inflatable-sleeping-pad-195x120x5-cm-5939",
+    "insulated-mug-250-ml-4047",
+    "insulated-mug-450-ml-7713",
+    "insulated-mug-with-a-lid-280-ml-5927",
+    "insulated-mug-with-a-lid-400-ml-7395",
+    "insulated-mug-with-a-lid-450-ml-5928",
+    "jacket-alpha-microfleece-genii-3114",
+    "jacket-berserk-polartec-primaloft-elite-9654",
+    "jacket-berserk-primaloft-toray-10119",
+    "jacket-combat-fleece-polartec-3850",
+    "jacket-combat-fleece-polartec-lady-3977",
+    "jacket-field-nyco-2688",
+    "jacket-field-nyco-extreme-2643",
+    "jacket-flash-3685",
+    "jacket-jarl-2806",
+    "jacket-jarl-primaloft-8517",
+    "jacket-knight-primaloft-8442",
+    "hook-loop-low-profile-admin-panel-197",
+    "field-maintenance-tray-24x24cm-747",
+    "jacket-military-elite-nyco-1143"
   ]
 }
