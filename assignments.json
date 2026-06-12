@@ -5674,34 +5674,34 @@
     "2-delige-montages"
   ],
   "mount-utg-accushot-30-mm-high-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-utg-accushot-30-mm-high-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-utg-accushot-30-mm-low-weaver-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-utg-accushot-30-mm-medium-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-utg-accushot-30-mm-medium-weaver-picatinny": [
-    "1-delige-montages"
+    "2-delige-montages"
   ],
   "montage-utg-flip-to-side-ring-mount": [
     "1-delige-montages"
   ],
   "montage-utg-quick-detach-lock-25-4mm-high-weaver": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-utg-max-strength-qd-lock-25-4-mm-medium-weaver-picatinny": [
-    "1-delige-montages"
+    "2-delige-montages"
   ],
   "mount-utg-max-strength-qd-lock-30-mm-medium-weaver-picatinny": [
-    "1-delige-montages"
+    "2-delige-montages"
   ],
   "mount-vector-optics-x-accu-adjustable-elevation-30-mm-dovetail": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-vector-optics-x-accu-adjustable-elevation-34-mm-dovetail": [
     "2-delige-montages"
@@ -5725,25 +5725,25 @@
     "montage-accessoires"
   ],
   "mount-wheeler-25-4-mm-low-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-25-4-mm-medium-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-30-mm-high-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-30-mm-medium-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-34-mm-high-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-34-mm-low-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-34-mm-medium-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-msr-cantilever-25-4-mm-picatinny": [
     "1-delige-montages"
@@ -5755,37 +5755,37 @@
     "1-delige-montages"
   ],
   "mount-wheeler-sporter-bi-weaver-25-4-mm-high-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-sporter-bi-weaver-25-4-mm-medium-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-sporter-bi-weaver-30-mm-high-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-sporter-bi-weaver-30-mm-low-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-sporter-bi-weaver-30-mm-medium-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-sporter-bi-weaver-34-mm-high-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-sporter-bi-weaver-34-mm-low-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-sporter-bi-weaver-34-mm-medium-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mount-wheeler-sporter-bi-weaver-picatinny-25-4-mm-low-picatinny": [
-    "montage-accessoires"
+    "2-delige-montages"
   ],
   "mounting-base-2bme-cz-shadow-2-or-delta-point-pro": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-2bme-glock-mos-aimpoint-acro-steel-edition": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-2bme-glock-mos-delta-point-pro": [
     "richtmiddel-accessoires"
@@ -16588,6 +16588,87 @@
     "mount-utg-accushot-25-4-mm-medium-weaver-picatinny": [
       "1-delige-montages"
     ],
+    "mount-utg-accushot-30-mm-high-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accushot-30-mm-high-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accushot-30-mm-low-weaver-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accushot-30-mm-medium-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-utg-accushot-30-mm-medium-weaver-picatinny": [
+      "1-delige-montages"
+    ],
+    "montage-utg-quick-detach-lock-25-4mm-high-weaver": [
+      "montage-accessoires"
+    ],
+    "mount-utg-max-strength-qd-lock-25-4-mm-medium-weaver-picatinny": [
+      "1-delige-montages"
+    ],
+    "mount-utg-max-strength-qd-lock-30-mm-medium-weaver-picatinny": [
+      "1-delige-montages"
+    ],
+    "mount-vector-optics-x-accu-adjustable-elevation-30-mm-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-vector-optics-x-accu-adjustable-elevation-34-mm-dovetail": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-25-4-mm-low-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-25-4-mm-medium-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-30-mm-high-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-30-mm-medium-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-34-mm-high-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-34-mm-low-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-34-mm-medium-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-sporter-bi-weaver-25-4-mm-high-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-sporter-bi-weaver-25-4-mm-medium-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-sporter-bi-weaver-30-mm-high-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-sporter-bi-weaver-30-mm-low-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-sporter-bi-weaver-30-mm-medium-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-sporter-bi-weaver-34-mm-high-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-sporter-bi-weaver-34-mm-low-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-sporter-bi-weaver-34-mm-medium-picatinny": [
+      "montage-accessoires"
+    ],
+    "mount-wheeler-sporter-bi-weaver-picatinny-25-4-mm-low-picatinny": [
+      "montage-accessoires"
+    ],
+    "mounting-base-2bme-cz-shadow-2-or-delta-point-pro": [
+      "richtmiddel-accessoires"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "schietsport",
       "airsoft",
@@ -24962,6 +25043,36 @@
     "mount-utg-accushot-25-4-mm-high-dovetail",
     "mount-utg-accushot-25-4-mm-high-weaver-picatinny",
     "mount-utg-accushot-25-4-mm-medium-dovetail",
-    "mount-utg-accushot-25-4-mm-medium-weaver-picatinny"
+    "mount-utg-accushot-25-4-mm-medium-weaver-picatinny",
+    "mount-utg-accushot-30-mm-high-dovetail",
+    "mount-utg-accushot-30-mm-high-weaver-picatinny",
+    "mount-utg-accushot-30-mm-low-weaver-picatinny",
+    "mount-utg-accushot-30-mm-medium-dovetail",
+    "mount-utg-accushot-30-mm-medium-weaver-picatinny",
+    "montage-utg-quick-detach-lock-25-4mm-high-weaver",
+    "mount-utg-max-strength-qd-lock-25-4-mm-medium-weaver-picatinny",
+    "mount-utg-max-strength-qd-lock-30-mm-medium-weaver-picatinny",
+    "mount-vector-optics-x-accu-adjustable-elevation-30-mm-dovetail",
+    "mount-vector-optics-x-accu-adjustable-elevation-34-mm-dovetail",
+    "mount-wheeler-25-4-mm-low-picatinny",
+    "mount-wheeler-25-4-mm-medium-picatinny",
+    "mount-wheeler-30-mm-high-picatinny",
+    "mount-wheeler-30-mm-medium-picatinny",
+    "mount-wheeler-34-mm-high-picatinny",
+    "mount-wheeler-34-mm-low-picatinny",
+    "mount-wheeler-34-mm-medium-picatinny",
+    "mount-wheeler-msr-cantilever-25-4-mm-picatinny",
+    "mount-wheeler-msr-cantilever-30-mm-picatinny",
+    "mount-wheeler-msr-cantilever-34-mm-picatinny",
+    "mount-wheeler-sporter-bi-weaver-25-4-mm-high-picatinny",
+    "mount-wheeler-sporter-bi-weaver-25-4-mm-medium-picatinny",
+    "mount-wheeler-sporter-bi-weaver-30-mm-high-picatinny",
+    "mount-wheeler-sporter-bi-weaver-30-mm-low-picatinny",
+    "mount-wheeler-sporter-bi-weaver-30-mm-medium-picatinny",
+    "mount-wheeler-sporter-bi-weaver-34-mm-high-picatinny",
+    "mount-wheeler-sporter-bi-weaver-34-mm-low-picatinny",
+    "mount-wheeler-sporter-bi-weaver-34-mm-medium-picatinny",
+    "mount-wheeler-sporter-bi-weaver-picatinny-25-4-mm-low-picatinny",
+    "mounting-base-2bme-cz-shadow-2-or-delta-point-pro"
   ]
 }
