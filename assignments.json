@@ -1396,32 +1396,31 @@
     "stokadapters"
   ],
   "adapter-plate-kmr-s-02-leupold-delta-point-pro": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "adapterplaat-kmr-s-02-or-shield": [
-    "montage-accessoires",
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-kmr-s-02-or-trijicon-rmr-sro": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-kmr-s-02-or-docter-vortex-venom-viper": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "mounting-base-kmr-s-02-or-vortex-razor": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "adapter-plate-walther-fixlock-aimpoint-acro": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "adapter-plate-walther-fixlock-aimpoint-coa": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "adapter-plate-walther-fixlock-aimpoint-micro": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "adapter-plate-walther-fixlock-holosun-509t": [
-    "richtmiddel-accessoires"
+    "montagebasissen"
   ],
   "adapter-set-saber-tactical-karma-eq-bottle": [
     "persluchtfles-accessoires"
@@ -15085,6 +15084,34 @@
     "adapter-vfg-voor-us-poetsstokken": [
       "stokadapters"
     ],
+    "adapter-plate-kmr-s-02-leupold-delta-point-pro": [
+      "richtmiddel-accessoires"
+    ],
+    "adapterplaat-kmr-s-02-or-shield": [
+      "montage-accessoires",
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-kmr-s-02-or-trijicon-rmr-sro": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-kmr-s-02-or-docter-vortex-venom-viper": [
+      "richtmiddel-accessoires"
+    ],
+    "mounting-base-kmr-s-02-or-vortex-razor": [
+      "richtmiddel-accessoires"
+    ],
+    "adapter-plate-walther-fixlock-aimpoint-acro": [
+      "richtmiddel-accessoires"
+    ],
+    "adapter-plate-walther-fixlock-aimpoint-coa": [
+      "richtmiddel-accessoires"
+    ],
+    "adapter-plate-walther-fixlock-aimpoint-micro": [
+      "richtmiddel-accessoires"
+    ],
+    "adapter-plate-walther-fixlock-holosun-509t": [
+      "richtmiddel-accessoires"
+    ],
     "admin-pouch-nuprol-green": [
       "utility-pouches",
       "pouches"
@@ -22445,6 +22472,15 @@
     "kowa-twist-up-voor-spotting-scope-oculair-te-10zte11wz-en-te17w-446600",
     "kowa-groothoek-oculair-te-80xw-35x40x-440996",
     "adapter-megaline-1-8-bsw-female-for-cleaning-pellets",
-    "adapter-megaline-for-us-cleaning-rods"
+    "adapter-megaline-for-us-cleaning-rods",
+    "adapter-plate-walther-fixlock-aimpoint-coa",
+    "adapter-plate-walther-fixlock-aimpoint-acro",
+    "adapter-plate-walther-fixlock-aimpoint-micro",
+    "adapter-plate-walther-fixlock-holosun-509t",
+    "mounting-base-kmr-s-02-or-vortex-razor",
+    "mounting-base-kmr-s-02-or-docter-vortex-venom-viper",
+    "mounting-base-kmr-s-02-or-trijicon-rmr-sro",
+    "adapter-plate-kmr-s-02-leupold-delta-point-pro",
+    "adapterplaat-kmr-s-02-or-shield"
   ]
 }
