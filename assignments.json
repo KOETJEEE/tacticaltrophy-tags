@@ -17363,6 +17363,21 @@
       "utility-pouches",
       "pouches"
     ],
+    "vet-anschutz-5-gr": [
+      "schoonmaak-onderhoud",
+      "wapenolie",
+      "wapenvet"
+    ],
+    "vet-birchwood-rig-universal-gun-grease-85-gr": [
+      "schoonmaak-onderhoud",
+      "wapenvet",
+      "wapenolie"
+    ],
+    "vet-bore-tech-extreme-grease-hd-10-ml": [
+      "schoonmaak-onderhoud",
+      "wapenvet",
+      "wapenolie"
+    ],
     "vet-feinwerkbau-4-gr": [
       "schoonmaak-onderhoud",
       "wapenolie",
@@ -17372,6 +17387,11 @@
       "schoonmaak-onderhoud",
       "wapenolie",
       "wapenvet"
+    ],
+    "grease-hill-silicone-nlgi-2-15-ml": [
+      "schoonmaak-onderhoud",
+      "wapenvet",
+      "wapenolie"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
@@ -26651,6 +26671,9 @@
     "rifle-scope-vector-optics-cerato-3-9x32-sfp-mil-dot",
     "victoptics-c1-4x32-etched-glass-prism-rifle-scope",
     "vet-feinwerkbau-4-gr",
-    "grease-gun-butter-trigger-locking-lug"
+    "grease-gun-butter-trigger-locking-lug",
+    "vet-bore-tech-extreme-grease-hd-10-ml",
+    "vet-birchwood-rig-universal-gun-grease-85-gr",
+    "grease-hill-silicone-nlgi-2-15-ml"
   ]
 }
