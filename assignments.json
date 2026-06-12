@@ -7611,11 +7611,10 @@
     "gereedschap"
   ],
   "schuifmaat-frankford-arsenal-electronisch": [
-    "herlaadkits"
+    "gereedschap"
   ],
   "scope-protector-aim-o-folding-protection": [
-    "beschermkappen",
-    "richtkijkers"
+    "beschermkappen"
   ],
   "scope-protector-laylax-direct-mount-aegis-hg-hi-capa": [
     "beschermkappen",
@@ -17295,6 +17294,37 @@
       "schoonmaakborstels",
       "schoonmaak-onderhoud"
     ],
+    "screwdriver-set-wheeler-benchtop-hex-torx-30-piece": [
+      "schoonmaak-onderhoud"
+    ],
+    "screwdriver-set-wheeler-benchtop-metric-hex-10-piece": [
+      "schoonmaak-onderhoud"
+    ],
+    "screwdriver-set-wheeler-gunsmithing-43-piece": [
+      "schoonmaak-onderhoud"
+    ],
+    "screwdriver-set-wheeler-hex-torx-65-piece": [
+      "schoonmaak-onderhoud"
+    ],
+    "schroevendraaierset-wheeler-precision-micro": [
+      "schoonmaak-onderhoud"
+    ],
+    "screwdriver-set-wheeler-professional-100-piece": [
+      "schoonmaak-onderhoud"
+    ],
+    "schroevendraaierset-wheeler-professional-gunsmith-hex-torx-metric-inch-45-delig": [
+      "schoonmaak-onderhoud"
+    ],
+    "schroevendraaierset-wheeler-professional-gunsmith-hex-torx-metric-inch-p-handle-set-30-delig": [
+      "schoonmaak-onderhoud"
+    ],
+    "schroevendraaierset-wheeler-space-saver": [
+      "schoonmaak-onderhoud"
+    ],
+    "schuifmaat-frankford-arsenal-electronisch": [
+      "herlaadkits",
+      "herladen"
+    ],
     "utility-pouch-nuprol-medium-pmc-green": [
       "tactical-gear",
       "utility-pouches",
@@ -26064,6 +26094,24 @@
     "schoonmaakborstelset-tipton",
     "schoonmaakborstel-bore-tech-stainless",
     "schoonmaakborstel-bore-tech-nylon",
-    "schoonmaakborstel-bore-tech-bronze"
+    "schoonmaakborstel-bore-tech-bronze",
+    "schouderprotectie-past-magnum-recoil-shieldtm-ambidextrous",
+    "schouderprotectie-past-field-recoil-shieldtm-ambidextrous",
+    "schouderprotectie-past-mag-plus-recoil-shieldtm-ambidextrous",
+    "schouderprotectie-past-super-mag-plus-recoil-shieldtm-ambidextrous",
+    "schouderprotectie-past-hidden-comfort-recoil-shieldtm-for-women",
+    "screwdriver-set-wheeler-benchtop-hex-torx-30-piece",
+    "screwdriver-set-wheeler-benchtop-metric-hex-10-piece",
+    "screwdriver-set-wheeler-benchtop-sae-hex-10-piece",
+    "screwdriver-set-wheeler-benchtop-torx-10-piece",
+    "screwdriver-set-wheeler-gunsmithing-43-piece",
+    "screwdriver-set-wheeler-gunsmithing-89-piece",
+    "screwdriver-set-wheeler-hex-torx-65-piece",
+    "schroevendraaierset-wheeler-precision-micro",
+    "screwdriver-set-wheeler-professional-100-piece",
+    "schroevendraaierset-wheeler-professional-gunsmith-hex-torx-metric-inch-45-delig",
+    "schroevendraaierset-wheeler-professional-gunsmith-hex-torx-metric-inch-p-handle-set-30-delig",
+    "schroevendraaierset-wheeler-space-saver",
+    "schuifmaat-frankford-arsenal-electronisch"
   ]
 }
