@@ -2733,7 +2733,7 @@
     "persluchtcilinders"
   ],
   "front-bottle-drop-down-adapter-saber-tactical-fx-panthera": [
-    "persluchtfles-accessoires"
+    "persluchtcilinders"
   ],
   "richtkijker-fx-3-12x44-mil-dot": [
     "richtkijkers"
@@ -15624,6 +15624,9 @@
       "geweertassen"
     ],
     "front-bottle-adapter-saber-tactical-fx-panthera": [
+      "persluchtfles-accessoires"
+    ],
+    "front-bottle-drop-down-adapter-saber-tactical-fx-panthera": [
       "persluchtfles-accessoires"
     ],
     "decoy-sillosocks-3d-pink-foot-grey-lag-goose-feeding": [
@@ -30208,6 +30211,7 @@
     "bottle-adapter-epic-airguns-two-for-cfb",
     "flesadapter-fx-dreamline",
     "foresight-holder-fx",
-    "front-bottle-adapter-saber-tactical-fx-panthera"
+    "front-bottle-adapter-saber-tactical-fx-panthera",
+    "front-bottle-drop-down-adapter-saber-tactical-fx-panthera"
   ]
 }
