@@ -16,9 +16,6 @@
     "winter-jacket-alpha-geniv-pro-pimaloft-3915",
     "seat-pad-with-belt-armor-8095",
     "seat-mat-with-belt-attachment-armor-5769",
-    "satellite-magnet-bag-genii-elite-hex-379",
-    "satellite-magnet-bag-elite-hex-378",
-    "satellite-bag-genii-7655",
     "m-tac-seating-pad-with-belt-20",
     "m-tac-seat-pad-20-mm-7610",
     "m-tac-passport-cover-722",
@@ -10775,7 +10772,6 @@
     "veldnotitie"
   ],
   "organiser-a5-elite-8543": [
-    "tactical-bags",
     "admin-pouches"
   ],
   "organizer-hardshell-utility-box-l-9958": [
@@ -10820,7 +10816,6 @@
     "patch-panels"
   ],
   "pants-aggressor-elite-nyco-3149": [
-    "broeken",
     "tactical-broeken"
   ],
   "pants-aggressor-elite-nyco-extreme-8392": [
@@ -10880,7 +10875,6 @@
     "broeken"
   ],
   "pants-patrol-nyco-extreme-9815": [
-    "broeken",
     "tactical-broeken"
   ],
   "pants-rubicon-flex-2409": [
@@ -12007,7 +12001,6 @@
     "sjaal-nekwarmer"
   ],
   "shirt-lumberjack-cotton-shirt-9353": [
-    "shirts",
     "tactical-shirts"
   ],
   "shirt-lumberjack-merino-cold-weather-9000": [
@@ -12045,7 +12038,7 @@
     "korte-broeken"
   ],
   "shotgun-shell-pouch-velcro-for-12-gauge-9769": [
-    "admin-pouches"
+    "magazijn-pouches"
   ],
   "shoulder-damper-for-plate-carrier-cuirass-qrs-560": [
     "plate-carriers"
@@ -20692,7 +20685,8 @@
     "organiser-a5-elite-8543": [
       "m-tac",
       "pouches",
-      "Tactical gear > Pouches"
+      "Tactical gear > Pouches",
+      "tactical-bags"
     ],
     "organizer-hardshell-utility-box-l-9958": [
       "tactical-gear",
@@ -20768,7 +20762,8 @@
       "Clothing > Pants > Military Pants",
       "Military Line",
       "m-tac",
-      "military-broeken"
+      "military-broeken",
+      "broeken"
     ],
     "pants-aggressor-elite-nyco-extreme-8392": [
       "Clothing > Pants > Military Pants",
@@ -20837,7 +20832,8 @@
     "pants-patrol-nyco-extreme-9815": [
       "Clothing > Pants > Military Pants",
       "military-broeken",
-      "m-tac"
+      "m-tac",
+      "broeken"
     ],
     "pants-rubicon-flex-2409": [
       "tactical-broeken",
@@ -22678,37 +22674,79 @@
       "slaapzakken",
       "tourism > Mats"
     ],
+    "shemagh-scarf-5008": [
+      "Clothing > Headwear > Arafatki",
+      "m-tac",
+      "headwear"
+    ],
+    "shemagh-scarf-pirate-skull-5017": [
+      "Clothing > Headwear > Arafatki",
+      "m-tac",
+      "headwear"
+    ],
+    "shemagh-scarf-spartan-5020": [
+      "Clothing > Headwear > Arafatki",
+      "m-tac",
+      "headwear"
+    ],
+    "shemagh-scarf-til-valhall-5022": [
+      "Clothing > Headwear > Arafatki",
+      "m-tac",
+      "headwear"
+    ],
+    "shirt-lumberjack-cotton-shirt-9353": [
+      "Clothing > Shirts",
+      "m-tac",
+      "shirts",
+      "kleding"
+    ],
     "shooter-high-boots-10228": [
-      "laarzen"
+      "laarzen",
+      "m-tac"
     ],
     "shorts-aggressor-genii-flex-1078": [
-      "Clothing > Shorts"
+      "Clothing > Shorts",
+      "m-tac"
     ],
     "shorts-aggressor-short-1113": [
-      "Clothing > Shorts"
+      "Clothing > Shorts",
+      "m-tac"
     ],
     "shorts-aggressor-summer-flex-3581": [
-      "Clothing > Shorts"
+      "Clothing > Shorts",
+      "m-tac"
     ],
     "shorts-casual-fit-cotton-2603": [
-      "Clothing > Shorts"
+      "Clothing > Shorts",
+      "m-tac"
     ],
     "shorts-conquistador-flex-8667": [
-      "Clothing > Shorts"
+      "Clothing > Shorts",
+      "m-tac"
     ],
     "shorts-rubicon-flex-2203": [
-      "Clothing > Shorts"
+      "Clothing > Shorts",
+      "m-tac"
     ],
     "shorts-stealth-active-8645": [
-      "Clothing > Shorts"
+      "Clothing > Shorts",
+      "m-tac"
     ],
     "shorts-sturm-genii-nyco-extreme-7754": [
-      "Clothing > Shorts"
+      "Clothing > Shorts",
+      "m-tac"
     ],
     "shorts-urban-casual-9937": [
       "Clothing > Shorts",
       "m-tac",
       "shorts"
+    ],
+    "shotgun-shell-pouch-velcro-for-12-gauge-9769": [
+      "survival",
+      "admin-pouches",
+      "Equipment and gear > Bags and backpacks > Backpack accessories",
+      "rugzak-accessoires",
+      "m-tac"
     ],
     "shoulder-protection-case-for-ballistic-inserts-for-cuirass-qrs-9058": [
       "tactical-gear",
@@ -27642,6 +27680,64 @@
     "safety-cord-medium-for-carbine-5733",
     "safety-cord-medium-universal-5730",
     "safety-cord-medium-with-d-ring-and-fastex-5736",
-    "safety-cord-with-d-ring-5727"
+    "safety-cord-with-d-ring-5727",
+    "replacement-wire-cutter-kit-5937",
+    "pants-sahara-flex-light-1870",
+    "pants-rubicon-flex-2409",
+    "pants-patrol-nyco-extreme-9815",
+    "satellite-bag-genii-7655",
+    "satellite-magnet-bag-elite-hex-378",
+    "satellite-magnet-bag-genii-elite-hex-379",
+    "scout-tactical-mk2-gloves-7288",
+    "scout-tactical-mk2-leather-gloves-8258",
+    "shemagh-scarf-5008",
+    "shemagh-scarf-pirate-skull-5017",
+    "shemagh-scarf-til-valhall-5022",
+    "shemagh-scarf-spartan-5020",
+    "shirt-lumberjack-cotton-shirt-9353",
+    "shirt-lumberjack-merino-cold-weather-9000",
+    "shooter-high-boots-10228",
+    "shorts-aggressor-genii-flex-1078",
+    "shorts-aggressor-summer-flex-3581",
+    "shorts-aggressor-short-1113",
+    "shorts-casual-fit-cotton-2603",
+    "shorts-conquistador-flex-8667",
+    "shorts-rubicon-flex-2203",
+    "shorts-stealth-active-8645",
+    "shorts-sturm-genii-nyco-extreme-7754",
+    "shorts-urban-casual-9937",
+    "shotgun-shell-pouch-velcro-for-12-gauge-9769",
+    "panama-genii-flex-rip-stop-4983",
+    "panama-genii-nyco-4952",
+    "panama-hat-genii-nyco-extreme-9374",
+    "panama-hat-genii-summer-flex-4958",
+    "panama-hat-with-a-mesh-nyco-extreme-8604",
+    "panama-rip-stop-3054",
+    "panama-with-a-net-elite-nyco-1155",
+    "panel-for-patches-universal-roll-8068",
+    "panel-for-patches-universal-roll-65x95-8071",
+    "paladin-jacket-primaloft-toray-9860",
+    "paladin-jacket-3572",
+    "organizer-hardshell-utility-box-l-9958",
+    "organizer-hardshell-utility-box-s-9962",
+    "pants-aggressor-elite-nyco-3149",
+    "organiser-a5-elite-8543",
+    "norman-windblock-fleece-jacket-1196",
+    "neck-gaiter-lightweight-war-camo-10176",
+    "neck-gaiter-lightweight-samurai-10175",
+    "multitool-type-1-5921",
+    "multitool-type-10-9531",
+    "multitool-type-11-9532",
+    "multitool-type-12-9528",
+    "multitool-type-13-10009",
+    "multitool-type-15-10570",
+    "multitool-type-3-5940",
+    "multitool-type-4-5941",
+    "multitool-type-5-5942",
+    "multitool-type-6-5943",
+    "multitool-type-7-5944",
+    "multitool-type-8-5945",
+    "multitool-type-9-5946",
+    "mug-with-carabiner-5929"
   ]
 }
