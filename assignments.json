@@ -8383,10 +8383,10 @@
     "nachtzicht-warmtebeeld-accessoires"
   ],
   "magnifier-aim-o-et-style-g33-3x-black": [
-    "voorzetkijkers"
+    "voorzetvergrotingen"
   ],
   "magnifier-aim-o-et-style-g33-3x-dark-earth": [
-    "voorzetkijkers"
+    "voorzetvergrotingen"
   ],
   "vuladapter-anschutz": [
     "persluchtfles-accessoires"
@@ -17800,6 +17800,12 @@
     "adapter-ring-rusan-modular-pulsar-f455-4-pins": [
       "adapterring",
       "voorzetadapterring"
+    ],
+    "magnifier-aim-o-et-style-g33-3x-black": [
+      "voorzetkijkers"
+    ],
+    "magnifier-aim-o-et-style-g33-3x-dark-earth": [
+      "voorzetkijkers"
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
@@ -28381,6 +28387,11 @@
     "adapter-ring-rusan-modular-m35x1",
     "adapter-ring-rusan-modular-m44x0-75-swarovski-tm-35",
     "adapter-ring-rusan-modular-m46x0-75",
-    "adapter-ring-rusan-modular-m52x0-75"
+    "adapter-ring-rusan-modular-m52x0-75",
+    "voorzetadapterring-rusan-modular-hikmicro-thunder-v2",
+    "adapter-ring-rusan-modular-pulsar-f455-4-pins",
+    "magnifier-aim-o-et-style-g33-3x-black",
+    "magnifier-aim-o-et-style-g33-3x-dark-earth",
+    "uv-slip-over-jacket-sillosocks-for-pigeon-12-pack"
   ]
 }
