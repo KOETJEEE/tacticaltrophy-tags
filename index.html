@@ -1253,10 +1253,7 @@ async function fetchShopifyStatus() {
   } catch(e) {
     btn.textContent = origText;
     btn.title = 'Leest laatste Shopify-snapshot snel (geen page reload)';
-    alert('Status ophalen mislukt: ' + e.message
-      + '
-
-Mogelijk is de snapshot nog niet gepubliceerd — klik eerst op "Haal op van Shopify".');
+    alert('Status ophalen mislukt: ' + e.message + ' — Mogelijk is de snapshot nog niet gepubliceerd. Klik eerst op "Haal op van Shopify".');
   } finally {
     btn.disabled = false;
   }
