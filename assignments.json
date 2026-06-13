@@ -10,7 +10,13 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "flag-odin-night-vision-630x900-5792"
   ],
-  "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-bruin-15x3-m-720023": [],
+  "ecopybook-tactical-ruler-ts-nato-853": [
+    "tactical-bags"
+  ],
+  "jacket-berserk-polartec-primaloft-9657": [
+    "jassen",
+    "tussenseizoenjassen"
+  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -181,12 +187,12 @@
     "brillenkoorden"
   ],
   "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
-    "loepen",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "loepen"
   ],
   "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [
-    "loepen",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "loepen"
   ],
   "carson-magnigrip-mg-88-loep-met-pincet-186154": [
     "loepen"
@@ -1451,8 +1457,8 @@
     "vochtontrekkers"
   ],
   "anti-odor-spray-scent-a-way-max-odorless": [
-    "onderhoudshulpmiddelen",
-    "insectenbescherming"
+    "insectenbescherming",
+    "onderhoudshulpmiddelen"
   ],
   "ar-combo-wrench-element-multifunctional": [
     "gereedschap"
@@ -4996,8 +5002,8 @@
     "manometers"
   ],
   "masker-nuprol-v1-tan": [
-    "sjaal-nekwarmer",
-    "airsoft-diversen-1"
+    "airsoft-diversen-1",
+    "sjaal-nekwarmer"
   ],
   "media-frankford-arsenal-stainless-steel-2-lbs": [
     "polijst-media"
@@ -5757,8 +5763,8 @@
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir-no-reticle": [
-    "nachtzicht-handheld",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-handheld"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-940-nm-ir": [
     "nachtzicht-richtkijkers"
@@ -5891,8 +5897,8 @@
     "headsets-toebehoren"
   ],
   "service-kit-fx-crown-impact-regulator-s-n-183534": [
-    "revisiesetjes",
-    "regulators"
+    "regulators",
+    "revisiesetjes"
   ],
   "onderhoudsmat-tipton-handwapen": [
     "schoonmaakstations"
@@ -9648,8 +9654,8 @@
     "hoodies"
   ],
   "hook-loop-low-profile-admin-panel-197": [
-    "admin-pouches",
-    "patch-panels"
+    "patch-panels",
+    "admin-pouches"
   ],
   "horizontal-medical-pouch-elite-483": [
     "ehbo",
@@ -9942,12 +9948,12 @@
     "sling-bags"
   ],
   "m-tac-bandolier-with-velcro-for-2-cartridges-cal-308-776": [
-    "magazijn-pouches",
-    "velcro-strips"
+    "velcro-strips",
+    "magazijn-pouches"
   ],
   "m-tac-bandolier-with-velcro-for-2-cartridges-cal-338-775": [
-    "magazijn-pouches",
-    "velcro-strips"
+    "velcro-strips",
+    "magazijn-pouches"
   ],
   "m-tac-baseball-cap-flex-rip-stop-4664": [
     "petten"
@@ -9986,8 +9992,8 @@
     "tactical-riemen"
   ],
   "m-tac-collapsible-grappling-hook-7630": [
-    "karabijnhaken",
-    "velcro-strips"
+    "velcro-strips",
+    "karabijnhaken"
   ],
   "m-tac-cross-bag-slim-elite-hex-698": [
     "sling-bags"
@@ -10184,8 +10190,8 @@
     "paracord"
   ],
   "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
-    "paracord",
-    "kompassen"
+    "kompassen",
+    "paracord"
   ],
   "m-tac-paracord-survival-951": [
     "paracord"
@@ -12046,8 +12052,8 @@
   ],
   "sweat-wicking-t-shirt-genii-6561": [
     "shirts",
-    "thermokleding",
     "tactical-shirts",
+    "thermokleding",
     "thermoshirts"
   ],
   "sweater-nord-fleece-polartec-lady-3957": [
@@ -12304,8 +12310,8 @@
     "tactical-riemen"
   ],
   "tiger-belt-cobra-buckle-811": [
-    "riemen-bretels",
-    "tactical-riemen"
+    "tactical-riemen",
+    "riemen-bretels"
   ],
   "toiletry-bag-316": [
     "admin-pouches"
@@ -12932,9 +12938,9 @@
     "shirts"
   ],
   "t-shirt-ua-side-long-sleeve-6752": [
-    "shirts",
     "t-shirts-polos",
-    "tactical-shirts"
+    "tactical-shirts",
+    "shirts"
   ],
   "t-shirt-viking-2853": [
     "shirts"
@@ -16562,11 +16568,13 @@
       "schoonmaak-onderhoud"
     ],
     "bore-cleaner-birchwood-scrubber": [
-      "schoonmaak-onderhoud"
+      "schoonmaak-onderhoud",
+      "bore-cleaner"
     ],
     "loopreiniger-bore-tech-black-powder-solvent-473-ml": [
       "schoonmaak-onderhoud",
-      "schoonmaaksetjes"
+      "schoonmaaksetjes",
+      "bore-cleaner"
     ],
     "loopreiniger-bore-tech-c4-carbon-remover": [
       "schoonmaaksetjes",
