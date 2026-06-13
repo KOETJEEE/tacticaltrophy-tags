@@ -558,7 +558,8 @@ function renderStats() {
   document.getElementById('fc-tagged').textContent   = tagged;
   document.getElementById('fc-untagged').textContent = untagged;
   document.getElementById('fc-filtered').textContent = filtCount || '';
-  document.getElementById('fc-done').textContent     = done.size || '';
+  const doneCount = PRODUCTS.filter(p => done.has(p.handle) && !p.deletedFromShopify).length;
+  document.getElementById('fc-done').textContent     = doneCount || '';
 }
 
 function visibleProducts() {
@@ -569,11 +570,11 @@ function visibleProducts() {
     if (s && p.supplier !== s) return false;
     if (f && !p.title.toLowerCase().includes(f)) return false;
     if (tagFilter.length > 0) {
-      const allTags = new Set([...p.colTags, ...p.nonColTags].map(t => t.toLowerCase()));
+      const allTags = new Set([...p.colTags, ...p.nonColTags, ...computeNewTagsForProduct(p)].map(t => t.toLowerCase()));
       if (!tagFilter.every(t => allTags.has(t))) return false;
     }
     if (tabFilter === 'filtered')  return p.deletedFromShopify || filtered.has(p.handle);
-    if (tabFilter === 'done')      return done.has(p.handle);
+    if (tabFilter === 'done')      return done.has(p.handle) && !p.deletedFromShopify;
     if (tabFilter === 'tagged')    return !p.deletedFromShopify && !filtered.has(p.handle) && !done.has(p.handle) && assignments[p.handle].size > 0;
     if (tabFilter === 'untagged')  return !p.deletedFromShopify && !filtered.has(p.handle) && !done.has(p.handle) && assignments[p.handle].size === 0;
     return !p.deletedFromShopify;
