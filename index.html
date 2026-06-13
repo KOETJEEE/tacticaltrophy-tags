@@ -1491,7 +1491,12 @@ function writeToShopify() {
   cancelBtn.textContent = 'Annuleren';
 
   if (!diffs.length) {
-    diffEl.innerHTML = '<em style="color:#16a34a">✓ Geen wijzigingen t.o.v. huidige toolstatus.</em>';
+    diffEl.innerHTML = '<em style="color:#16a34a">✓ Geen wijzigingen t.o.v. huidige toolstatus.</em>'
+      + '<br><br><span style="color:#94a3b8;font-size:.75rem">Tags kwijt door een import of backup geladen? '
+      + '<button onclick="enableForceWrite()" style="background:none;border:none;color:#7c3aed;'
+      + 'cursor:pointer;font-size:.75rem;text-decoration:underline;padding:0">'
+      + 'Forceer schrijven</button>'
+      + ' — de workflow haalt live Shopify-tags op en corrigeert echte verschillen.</span>';
     cancelBtn.textContent = 'Sluiten';
   } else {
     diffEl.innerHTML = '<div style="margin-bottom:8px;color:#64748b;font-size:.78rem">'
@@ -1523,6 +1528,14 @@ function closeWriteModal() {
   document.getElementById('write-cancel').disabled = false;
   document.getElementById('write-progress').textContent = '';
   document.getElementById('write-progress').style.color = '';
+}
+
+function enableForceWrite() {
+  const diffEl    = document.getElementById('write-diff');
+  const confirmBtn = document.getElementById('write-confirm');
+  diffEl.innerHTML = '<em style="color:#f59e0b">⚠ Forceer schrijven: de workflow vergelijkt live '
+    + 'met Shopify en schrijft alle echte wijzigingen — ook als de tool hierboven geen diff ziet.</em>';
+  confirmBtn.disabled = false;
 }
 
 async function confirmWriteToShopify() {
