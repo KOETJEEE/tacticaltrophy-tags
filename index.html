@@ -207,6 +207,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 #write-cancel{padding:7px 16px;border:1px solid #d1d5db;background:#fff;border-radius:7px;cursor:pointer;font-size:.85rem;color:#374151}
 #write-confirm{padding:7px 16px;background:#7c3aed;color:#fff;border:none;border-radius:7px;cursor:pointer;font-size:.85rem;font-weight:600}
 #write-confirm:disabled{background:#a78bfa;cursor:not-allowed}
+#sync-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:500;align-items:center;justify-content:center}
+#sync-modal.open{display:flex}
+#sync-box{background:#fff;border-radius:12px;padding:24px;max-width:520px;width:92%;max-height:80vh;display:flex;flex-direction:column;gap:12px;box-shadow:0 16px 48px rgba(0,0,0,.3)}
+#sync-box h3{font-size:1rem;font-weight:700;color:#dc2626;margin:0}
+#sync-list{flex:1;overflow-y:auto;font-size:.8rem;border:1px solid #e2e8f0;border-radius:8px;padding:8px;min-height:80px;max-height:320px;background:#f8fafc}
+.sync-row{padding:4px 6px;border-bottom:1px solid #f1f5f9;color:#1e293b;font-size:.78rem;cursor:pointer}
+.sync-row:hover{background:#fef2f2}
+#sync-footer{display:flex;gap:8px;justify-content:flex-end;align-items:center}
 </style>
 </head>
 <body>
@@ -316,6 +324,17 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   </div>
 </div>
 
+<div id="sync-modal">
+  <div id="sync-box">
+    <h3>⚠️ Uit sync in Shopify</h3>
+    <div id="sync-list"></div>
+    <div id="sync-footer">
+      <button onclick="document.getElementById('sync-modal').classList.remove('open')" style="padding:7px 16px;border:1px solid #d1d5db;background:#fff;border-radius:7px;cursor:pointer;font-size:.85rem">Sluiten</button>
+      <button onclick="document.getElementById('sync-modal').classList.remove('open');writeToShopify();" style="padding:7px 16px;background:#7c3aed;color:#fff;border:none;border-radius:7px;cursor:pointer;font-size:.85rem;font-weight:600">Schrijf naar Shopify</button>
+    </div>
+  </div>
+</div>
+
 <div id="dbg" style="position:fixed;bottom:0;left:0;right:0;background:#fef08a;padding:6px 10px;font-family:monospace;font-size:12px;z-index:99999;display:none"></div>
 <div id="pw-overlay">
   <div id="pw-box">
@@ -381,6 +400,7 @@ const addedTags   = {};   // product_handle → Set(raw_tag_string) — handmati
 const flagged     = new Set();   // gemarkeerde product_handles
 const filtered    = new Set();   // uitgefilterde product_handles
 const done        = new Set();   // afgeronde product_handles
+let _outOfSyncProducts = null;   // null = nog niet gefetcht; [] = in sync; [...] = uit sync
 const _dirty      = new Set();   // handles gewijzigd in deze sessie (in-memory, reset bij reload)
 let selectedHandle  = null;
 let selectedHandles = new Set();   // multi-selectie (Ctrl+klik)
@@ -478,7 +498,10 @@ function init() {
   document.getElementById('write-btn').addEventListener('click', writeToShopify);
   document.getElementById('sync-btn').addEventListener('click', saveToGitHub);
   document.getElementById('refresh-btn').addEventListener('click', triggerRefreshWorkflow);
-  document.getElementById('status-btn').addEventListener('click', fetchShopifyStatus);
+  document.getElementById('status-btn').addEventListener('click', () => {
+    if (_outOfSyncProducts && _outOfSyncProducts.length > 0) showOutOfSyncModal();
+    else fetchShopifyStatus();
+  });
   document.getElementById('flag-filter-btn').addEventListener('click', () => {
     flagFilter = !flagFilter;
     document.getElementById('flag-filter-btn').classList.toggle('active', flagFilter);
@@ -1236,14 +1259,15 @@ async function fetchShopifyStatus() {
         updated++;
       }
     }
-    const outOfSync = PRODUCTS.filter(p =>
+    _outOfSyncProducts = PRODUCTS.filter(p =>
       done.has(p.handle) && !isInSync(p) && !p.deletedFromShopify
-    ).length;
+    );
+    const outOfSync = _outOfSyncProducts.length;
     renderStats();
     renderList();
     if (outOfSync > 0) {
       btn.textContent = '📊 Status (' + outOfSync + ' uit sync)';
-      btn.title = outOfSync + ' Afgerond-producten staan nu in Getagd — tags kloppen niet in Shopify';
+      btn.title = 'Klik om te zien welke ' + outOfSync + ' Afgerond-producten uit sync zijn';
       btn.style.background = '#dc2626';
     } else {
       btn.textContent = '📊 Status ✓';
@@ -1257,6 +1281,26 @@ async function fetchShopifyStatus() {
   } finally {
     btn.disabled = false;
   }
+}
+
+function showOutOfSyncModal() {
+  const list = document.getElementById('sync-list');
+  list.innerHTML = '';
+  (_outOfSyncProducts || []).forEach(p => {
+    const row = document.createElement('div');
+    row.className = 'sync-row';
+    const expected = computeNewTagsForProduct(p).join(', ') || '(geen tags)';
+    const actual = [...p.colTags, ...p.nonColTags].join(', ') || '(geen tags)';
+    row.innerHTML = '<strong>' + (p.title || p.handle) + '</strong>'
+      + '<br><span style="color:#64748b">Verwacht: </span><span style="color:#16a34a">' + expected + '</span>'
+      + '<br><span style="color:#64748b">Shopify:&nbsp;&nbsp;</span><span style="color:#dc2626">' + actual + '</span>';
+    row.addEventListener('click', () => {
+      document.getElementById('sync-modal').classList.remove('open');
+      selectProduct(p.handle);
+    });
+    list.appendChild(row);
+  });
+  document.getElementById('sync-modal').classList.add('open');
 }
 
 async function triggerRefreshWorkflow() {
