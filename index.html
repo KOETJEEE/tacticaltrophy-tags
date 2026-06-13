@@ -574,25 +574,20 @@ function init() {
 
 // ── Render ──
 function renderStats() {
-  let tagged = 0, untagged = 0;
-  for (const p of PRODUCTS) {
-    if (p.deletedFromShopify) continue;
-    if (filtered.has(p.handle)) continue;
-    if (done.has(p.handle)) continue;
-    assignments[p.handle].size > 0 ? tagged++ : untagged++;
-  }
+  const active = PRODUCTS.filter(p => !p.deletedFromShopify && !filtered.has(p.handle));
+  const tagged   = active.filter(p => assignments[p.handle].size > 0 && (!done.has(p.handle) || !isInSync(p))).length;
+  const untagged = active.filter(p => assignments[p.handle].size === 0 && !done.has(p.handle)).length;
+  const doneCount = active.filter(p => done.has(p.handle) && isInSync(p)).length;
   const filtCount = PRODUCTS.filter(p => p.deletedFromShopify || filtered.has(p.handle)).length;
+  const allCount  = PRODUCTS.filter(p => !p.deletedFromShopify).length;
   const flagCount = flagged.size;
   const flagPart = flagCount > 0 ? ` &nbsp; <span style="color:#f59e0b">🚩</span> ${flagCount} gemarkeerd` : '';
   document.getElementById('stats').innerHTML =
     `<span class="stat-r">●</span> ${untagged} ongetagd &nbsp; <span class="stat-g">●</span> ${tagged} getagd${flagPart}`;
-  // Tab tellers
-  const allCount = PRODUCTS.filter(p => !p.deletedFromShopify).length;
   document.getElementById('fc-all').textContent      = allCount;
   document.getElementById('fc-tagged').textContent   = tagged;
   document.getElementById('fc-untagged').textContent = untagged;
   document.getElementById('fc-filtered').textContent = filtCount || '';
-  const doneCount = PRODUCTS.filter(p => done.has(p.handle) && isInSync(p) && !p.deletedFromShopify).length;
   document.getElementById('fc-done').textContent     = doneCount || '';
 }
 
