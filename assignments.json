@@ -10,12 +10,6 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "flag-odin-night-vision-630x900-5792"
   ],
-  "battery-charger-hikmicro-thunder-2-0": [
-    "nachtzicht-warmtebeeld-accessoires"
-  ],
-  "gas-tank-tokyo-marui-m870-breacher": [
-    "airsoft-diversen-1"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -1573,6 +1567,9 @@
   "battery-charger-hikmicro": [
     "nachtzicht-warmtebeeld-accessoires"
   ],
+  "battery-charger-hikmicro-thunder-2-0": [
+    "nachtzicht-warmtebeeld-accessoires"
+  ],
   "battery-charger-sillosocks-eu-12v": [
     "lokmiddel-toebehoren"
   ],
@@ -2892,6 +2889,9 @@
     "revisiesetjes"
   ],
   "gas-tank-tokyo-marui-ksg": [
+    "airsoft-diversen-1"
+  ],
+  "gas-tank-tokyo-marui-m870-breacher": [
     "airsoft-diversen-1"
   ],
   "gas-tank-tokyo-marui-m870-tactical": [
@@ -13044,13 +13044,6 @@
     "stealth-gear-schuiltent-two-man-square-hide-710111": [
       "oversize"
     ],
-    "battery-charger-hikmicro-thunder-2-0": [
-      "observatie-accessoires",
-      "richtmiddel-accessoires"
-    ],
-    "gas-tank-tokyo-marui-m870-breacher": [
-      "airsoft-gas"
-    ],
     "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
       "airsoft-onderdelen"
     ],
@@ -15118,6 +15111,10 @@
     "battery-charger-hikmicro": [
       "observatie-accessoires"
     ],
+    "battery-charger-hikmicro-thunder-2-0": [
+      "observatie-accessoires",
+      "richtmiddel-accessoires"
+    ],
     "battery-charger-hikmicro-habrok-pro": [
       "observatie-accessoires",
       "richtmiddel-accessoires"
@@ -15834,6 +15831,9 @@
       "airsoft-gas"
     ],
     "gas-tank-tokyo-marui-ksg": [
+      "airsoft-gas"
+    ],
+    "gas-tank-tokyo-marui-m870-breacher": [
       "airsoft-gas"
     ],
     "memory-card-hikmicro-sd-32gb": [
