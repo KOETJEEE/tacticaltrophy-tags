@@ -1296,6 +1296,27 @@ async function fetchShopifyStatus() {
         || JSON.stringify([...p.nonColTags].sort()) !== JSON.stringify([...newNonColTags].sort());
       if (changed) { p.colTags = newColTags; p.nonColTags = newNonColTags; updated++; }
     }
+    // Voor done-maar-uit-sync producten: verwijder assignments die niet meer in Shopify staan.
+    // Bescherming: als ALLE colTags weg zijn (bijv. import-wipe) → niet auto-aanpassen.
+    let autoFixed = 0;
+    for (const p of PRODUCTS) {
+      if (!done.has(p.handle) || p.deletedFromShopify || isInSync(p)) continue;
+      if (p.colTags.length === 0) continue;  // Alles weg → handmatig herstellen
+      const shopifyTagSet = new Set(p.colTags.map(t => t.toLowerCase()));
+      const newAsgn = new Set();
+      for (const colHandle of (assignments[p.handle] || new Set())) {
+        const col = COLLECTIONS.find(c => c.handle === colHandle);
+        if (!col) continue;
+        if (col.tags.some(t => shopifyTagSet.has(t.toLowerCase()))) newAsgn.add(colHandle);
+      }
+      if (newAsgn.size !== (assignments[p.handle]?.size || 0)) {
+        assignments[p.handle] = newAsgn;
+        _dirty.add(p.handle);
+        autoFixed++;
+      }
+    }
+    if (autoFixed > 0) save();
+
     _outOfSyncProducts = PRODUCTS.filter(p =>
       done.has(p.handle) && !isInSync(p) && !p.deletedFromShopify
     );
