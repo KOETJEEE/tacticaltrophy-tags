@@ -1471,6 +1471,7 @@ function writeToShopify() {
   const PERMIT_TAGS = new Set();
   const diffs = [];
   for (const p of PRODUCTS) {
+    if (filtered.has(p.handle) || p.deletedFromShopify) continue;
     const newTags  = computeNewTagsForProduct(p);
     const curTags  = [...new Set([...p.colTags, ...p.nonColTags])].sort();
     const addedT   = newTags.filter(t => !curTags.includes(t) && !PERMIT_TAGS.has(t));
@@ -1583,6 +1584,7 @@ async function confirmWriteToShopify() {
             progressEl.style.color = '#16a34a';
             // Update PRODUCTS in memory zodat de diff direct klopt (geen stale p.nonColTags meer)
             for (const p of PRODUCTS) {
+              if (filtered.has(p.handle) || p.deletedFromShopify) continue;
               const newTags = computeNewTagsForProduct(p);
               const curTags = [...new Set([...p.colTags, ...p.nonColTags])].sort();
               if (newTags.join(',') !== curTags.join(',')) {
