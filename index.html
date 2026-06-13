@@ -212,8 +212,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 #sync-box{background:#fff;border-radius:12px;padding:24px;max-width:520px;width:92%;max-height:80vh;display:flex;flex-direction:column;gap:12px;box-shadow:0 16px 48px rgba(0,0,0,.3)}
 #sync-box h3{font-size:1rem;font-weight:700;color:#dc2626;margin:0}
 #sync-list{flex:1;overflow-y:auto;font-size:.8rem;border:1px solid #e2e8f0;border-radius:8px;padding:8px;min-height:80px;max-height:320px;background:#f8fafc}
-.sync-row{padding:4px 6px;border-bottom:1px solid #f1f5f9;color:#1e293b;font-size:.78rem;cursor:pointer}
+.sync-row{padding:6px 8px;border-bottom:1px solid #f1f5f9;color:#1e293b;font-size:.78rem;cursor:pointer}
 .sync-row:hover{background:#fef2f2}
+.sync-label{color:#64748b;font-size:.72rem;display:inline-block;min-width:140px}
+.sync-ok{color:#16a34a;font-size:.72rem}
+.sync-err{color:#dc2626;font-size:.72rem}
 #sync-footer{display:flex;gap:8px;justify-content:flex-end;align-items:center}
 </style>
 </head>
@@ -1283,17 +1286,41 @@ async function fetchShopifyStatus() {
   }
 }
 
+function tagsToColTitles(tagArr) {
+  const handles = [...new Set(tagArr.flatMap(t => colTagMap[t] || []))];
+  return handles.map(h => COLLECTIONS.find(c => c.handle === h)?.title || h);
+}
+
 function showOutOfSyncModal() {
   const list = document.getElementById('sync-list');
   list.innerHTML = '';
   (_outOfSyncProducts || []).forEach(p => {
+    // Tool side: assigned collections + computed non-col tags
+    const toolColTitles = [...(assignments[p.handle] || new Set())]
+      .map(h => COLLECTIONS.find(c => c.handle === h)?.title || h).sort();
+    const computedTags  = computeNewTagsForProduct(p);
+    const toolNonTags   = computedTags.filter(t => colTagMap[t] === undefined).sort();
+
+    // Shopify side (from fetched snapshot)
+    const shopColTitles = tagsToColTitles(p.colTags).sort();
+    const shopNonTags   = [...p.nonColTags].sort();
+
+    const colsSame = JSON.stringify(toolColTitles) === JSON.stringify(shopColTitles);
+    const tagsSame = JSON.stringify(toolNonTags)   === JSON.stringify(shopNonTags);
+
     const row = document.createElement('div');
     row.className = 'sync-row';
-    const expected = computeNewTagsForProduct(p).join(', ') || '(geen tags)';
-    const actual = [...p.colTags, ...p.nonColTags].join(', ') || '(geen tags)';
-    row.innerHTML = '<strong>' + (p.title || p.handle) + '</strong>'
-      + '<br><span style="color:#64748b">Verwacht: </span><span style="color:#16a34a">' + expected + '</span>'
-      + '<br><span style="color:#64748b">Shopify:&nbsp;&nbsp;</span><span style="color:#dc2626">' + actual + '</span>';
+    let html = '<strong>' + (p.title || p.handle) + '</strong>';
+
+    if (!colsSame) {
+      html += '<br><span class="sync-label">Collecties tagtool:</span> <span class="sync-ok">'  + (toolColTitles.join(', ') || '—') + '</span>'
+            + '<br><span class="sync-label">Collecties Shopify:&nbsp;</span> <span class="sync-err">' + (shopColTitles.join(', ') || '—') + '</span>';
+    }
+    if (!tagsSame) {
+      html += '<br><span class="sync-label">Tags tagtool:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class="sync-ok">'  + (toolNonTags.join(', ') || '—') + '</span>'
+            + '<br><span class="sync-label">Tags Shopify:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <span class="sync-err">' + (shopNonTags.join(', ') || '—') + '</span>';
+    }
+    row.innerHTML = html;
     row.addEventListener('click', () => {
       document.getElementById('sync-modal').classList.remove('open');
       selectProduct(p.handle);
