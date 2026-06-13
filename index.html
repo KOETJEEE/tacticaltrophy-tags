@@ -1310,14 +1310,13 @@ async function fetchShopifyStatus() {
       if (colRes.ok) {
         const colSnap = await colRes.json();
         const fetchedHandles = new Set(Object.keys(colSnap));
-        const liveHandles    = new Set(COLLECTIONS.map(c => c.handle));
-        const added   = [...fetchedHandles].filter(h => !liveHandles.has(h)).map(h => colSnap[h].title);
+        // Alleen vergelijken wat de tool al kent — niet alle 355 Shopify-collecties
         const removed = COLLECTIONS.filter(c => !fetchedHandles.has(c.handle)).map(c => c.title);
         const renamed = COLLECTIONS
           .filter(c => fetchedHandles.has(c.handle) && colSnap[c.handle].title !== c.title)
           .map(c => ({ was: c.title, now: colSnap[c.handle].title }));
-        _colChanges = (added.length || removed.length || renamed.length)
-          ? { added, removed, renamed } : null;
+        _colChanges = (removed.length || renamed.length)
+          ? { added: [], removed, renamed } : null;
       }
     } catch(_) { /* collecties niet beschikbaar, geen probleem */ }
 
