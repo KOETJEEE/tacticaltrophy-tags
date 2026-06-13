@@ -2258,102 +2258,6 @@
   "carousel-with-3-crows": [
     "elektronische-lokkers"
   ],
-  "chassis-mdt-acc-elite-cz-457-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-elite-cz-457-fde": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-elite-cz-457-titanium-blue": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-elite-remington-700-sa-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-elite-remington-700-sa-titanium-blue": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-elite-remington-700-sa-fde": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-elite-tikka-t3-t3x-sa-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-elite-tikka-t3-t3x-sa-fde": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-elite-tikka-t3-t3x-sa-titanium-blue": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-premier-gen2-cz-457-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-premier-gen2-cz-457-fde": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-premier-gen2-remington-700-sa-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-premier-gen2-remington-700-sa-fde": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-premier-gen2-tikka-t3-t3x-sa-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-acc-premier-gen2-tikka-t3-t3x-sa-fde": [
-    "chassis-1"
-  ],
-  "chassis-mdt-field-stock-cz-457-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-field-stock-remington-700-sa-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-field-stock-tikka-t3-t3x-sa-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-hnt26-folding-remington-700-sa": [
-    "chassis-1"
-  ],
-  "chassis-mdt-hnt26-non-folding-remington-700-sa": [
-    "chassis-1"
-  ],
-  "chassis-mdt-oryx-cz-457-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-oryx-cz-457-fde": [
-    "chassis-1"
-  ],
-  "chassis-mdt-oryx-remington-700-sa-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-oryx-remington-700-sa-fde": [
-    "chassis-1"
-  ],
-  "chassis-mdt-oryx-tikka-t1x-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-oryx-tikka-t1x-fde": [
-    "chassis-1"
-  ],
-  "chassis-mdt-oryx-tikka-t3-t3x-sa-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-oryx-tikka-t3-t3x-sa-fde": [
-    "chassis-1"
-  ],
-  "chassis-mdt-xrs-remington-700-sa-black": [
-    "chassis-1"
-  ],
-  "chassis-mdt-xrs-tikka-t3-t3x-sa-black": [
-    "chassis-1"
-  ],
-  "chassis-rome-motus-cz-457": [
-    "chassis-1"
-  ],
-  "chassis-rome-motus-tikka-t1x": [
-    "chassis-1"
-  ],
   "cheek-rest-saber-tactical-trs-fx-impact-m4": [
     "cheek-risers"
   ],
@@ -12916,21 +12820,6 @@
   ],
   "umarex-t4e-tp50-gen2": [
     "airsoft-diversen-1"
-  ],
-  "explorer-cases-5117-koffer-zwart-met-plukschuim-250700": [
-    "koffers"
-  ],
-  "explorer-cases-5140-trolley-zwart-met-plukschuim-lades-250780": [
-    "koffers"
-  ],
-  "explorer-cases-5833-koffer-zwart-251061": [
-    "koffers"
-  ],
-  "portofoon-baofeng-k63": [
-    "portofoons"
-  ],
-  "tripod-vanguard-endeavor-l-303agm65-aluminium": [
-    "statieven"
   ],
   "_removed": {
     "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-woodland-15x3-m-720025": [
@@ -26418,27 +26307,6 @@
       "m-tac",
       "maattabel-mtac",
       "Polo"
-    ],
-    "explorer-cases-5117-koffer-zwart-met-plukschuim-250700": [
-      "explorer-cases",
-      "hardcases",
-      "transport",
-      "wapenkoffers",
-      "airsoft"
-    ],
-    "explorer-cases-5140-trolley-zwart-met-plukschuim-lades-250780": [
-      "explorer-cases",
-      "hardcases",
-      "transport",
-      "wapenkoffers",
-      "airsoft"
-    ],
-    "explorer-cases-5833-koffer-zwart-251061": [
-      "wapenkoffers",
-      "airsoft",
-      "explorer-cases",
-      "hardcases",
-      "transport"
     ]
   },
   "_added": {
