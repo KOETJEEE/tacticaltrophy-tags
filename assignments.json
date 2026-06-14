@@ -10,6 +10,9 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "flag-odin-night-vision-630x900-5792"
   ],
+  "barrel-cover-g-g": [
+    "airsoft-diversen"
+  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -1426,6 +1429,9 @@
   ],
   "angled-pressure-gauge-bracket-outgun-1-8-bsp": [
     "manometers"
+  ],
+  "angled-stock-adaptor-ctm": [
+    "airsoft-diversen"
   ],
   "anti-fog-4uad-4uantum-fogg-off-eyewear-spray": [
     "oogbescherming",
@@ -2879,8 +2885,20 @@
   "gas-puff-dino-standard-power-12-kg-silicone-free": [
     "airsoft-gas"
   ],
+  "gas-release-valve-laylax-nine-ball-neo-r-for-umarex-glock-series": [
+    "airsoft-diversen"
+  ],
   "gas-seal-laylax-nine-ball-for-umarex-glock-series-2-pack": [
     "revisiesetjes"
+  ],
+  "gas-tank-tokyo-marui-ksg": [
+    "airsoft-diversen"
+  ],
+  "gas-tank-tokyo-marui-m870-breacher": [
+    "airsoft-diversen"
+  ],
+  "gas-tank-tokyo-marui-m870-tactical": [
+    "airsoft-diversen"
   ],
   "gearbox-g-g-cm16-complete-front-wired": [
     "gearboxen"
@@ -5670,6 +5688,9 @@
   "munitiedoos-frankford-arsenal-hinge-top-514-45-70": [
     "munitieboxen"
   ],
+  "munitieriem-g-g-mg42": [
+    "airsoft-diversen"
+  ],
   "muzzle-brake-audere-hmb": [
     "mondingsremmen"
   ],
@@ -7655,6 +7676,9 @@
   "tactical-vest-nuprol-molle-harness-pmc-black": [
     "tactical-vests"
   ],
+  "team-armband-g-g-6-pack": [
+    "airsoft-diversen"
+  ],
   "temperature-sensor-kit-hill-ec-3000": [
     "compressors"
   ],
@@ -7833,6 +7857,12 @@
   ],
   "trekkoord-netarm": [
     "reinigingskoorden"
+  ],
+  "trigger-lock-pin-laylax-tokyo-marui-hk416d": [
+    "airsoft-diversen"
+  ],
+  "trigger-lock-pin-laylax-tokyo-marui-sopmod-m4": [
+    "airsoft-diversen"
   ],
   "tripod-adaptor-bog-m-lok-to-arca-swiss": [
     "bipod-toebehoren"
@@ -12309,6 +12339,12 @@
   "touring-thermos-1600-ml-stainless-7721": [
     "drinkflessen-thermos"
   ],
+  "tourist-hanging-flashlight-7631": [
+    "lampen"
+  ],
+  "tourist-lamp-matt-7611": [
+    "lampen"
+  ],
   "train-hard-oversized-cotton-t-shirt-hard-10190": [
     "t-shirts-polos"
   ],
@@ -13037,6 +13073,11 @@
     ],
     "hpa-kit-ctm-m4ximus-for-tm-hi-capa-black": [
       "airsoft-onderdelen"
+    ],
+    "barrel-cover-g-g": [
+      "airsoft",
+      "airsoft-diversen",
+      "airsoft-diversen-1"
     ],
     "eva-knee-pad-inserts-pair-genii-grey-517": [
       "tactical-gear",
@@ -16519,10 +16560,6 @@
     "laser-cartridge-mantis-pink-rhino-training": [
       "jacht",
       "trainingshalsbanden"
-    ],
-    "barrel-cover-g-g": [
-      "airsoft",
-      "airsoft-diversen"
     ],
     "barrel-case-ulfhednar-cordura-75x6": [
       "foudralen",
