@@ -91,7 +91,7 @@
       "airsoft-dempers"
     ]
   },
-  "airsoft-diversen-1": {
+  "airsoft-diversen": {
     "title": "Airsoft diversen",
     "disjunctive": false,
     "tags": [
@@ -1075,7 +1075,7 @@
       "laarzen"
     ]
   },
-  "lampen-1": {
+  "lampen": {
     "title": "Lampen",
     "disjunctive": true,
     "tags": [
