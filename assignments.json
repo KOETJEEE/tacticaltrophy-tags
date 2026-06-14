@@ -13300,23 +13300,30 @@
     "battery-dnt-21700-2-pack-incl-charger": [
       "nachtzicht-warmtebeeld-accessoires"
     ],
+    "battery-hikmicro-thunder-2-0-3-0-hm-3644dc-rechargeable-3-6v-4400mah": [
+      "nachtzicht-warmtebeeld-accessoires"
+    ],
     "battery-charger-hikmicro": [
-      "observatie-accessoires"
+      "observatie-accessoires",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "battery-charger-hikmicro-thunder-2-0": [
       "observatie-accessoires",
-      "richtmiddel-accessoires"
+      "richtmiddel-accessoires",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "battery-charger-hikmicro-habrok-pro": [
       "observatie-accessoires",
-      "richtmiddel-accessoires"
+      "richtmiddel-accessoires",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "pouch-hikmicro": [
       "jacht",
       "schietsport",
       "tassen-rugzakken",
       "rugzakken",
-      "tassen"
+      "tassen",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "carrying-bag-hikmicro-binocular-harness": [
       "observatie-accessoires",
@@ -13324,13 +13331,16 @@
       "tassen",
       "schietsport",
       "jacht",
-      "tassen-rugzakken"
+      "tassen-rugzakken",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "gas-release-valve-laylax-nine-ball-neo-r-for-umarex-glock-series": [
-      "airsoft-gas"
+      "airsoft-gas",
+      "airsoft-diversen-1"
     ],
     "gas-tank-tokyo-marui-ksg": [
-      "airsoft-gas"
+      "airsoft-gas",
+      "airsoft-diversen-1"
     ],
     "gas-tank-tokyo-marui-m870-breacher": [
       "airsoft-gas"
@@ -13358,7 +13368,11 @@
       "observatie-accessoires"
     ],
     "eyecup-dnt-zulus-hd-tnc225r": [
-      "observatie-accessoires"
+      "observatie-accessoires",
+      "nachtzicht-warmtebeeld-accessoires"
+    ],
+    "team-armband-g-g-6-pack": [
+      "airsoft-diversen-1"
     ],
     "trigger-lock-pin-laylax-tokyo-marui-hk416d": [
       "jacht",
@@ -13371,13 +13385,16 @@
       "wapensloten"
     ],
     "voorzetadapter-eagle-vision-pard-nv007": [
-      "voorzetkijkers"
+      "voorzetkijkers",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "adapter-ring-hikmicro-thunder": [
-      "voorzetkijkers"
+      "voorzetkijkers",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "adapter-ring-hikmicro-thunder-2-0": [
-      "voorzetkijkers"
+      "voorzetkijkers",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "adapter-clamp-rusan-modular": [
       "voorzetkijkers"
@@ -13388,36 +13405,44 @@
     "clip-on-adapter-ring-rusan-hikmicro-thunder-th35c": [
       "adapterring",
       "optiek",
-      "voorzetadapterring"
+      "voorzetadapterring",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "adapter-ring-rusan-m52x0-75-to-modular": [
       "voorzetadapterring",
       "optiek",
-      "adapterring"
+      "adapterring",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "adapter-ring-rusan-modular-m35x1": [
       "adapterring",
-      "voorzetadapterring"
+      "voorzetadapterring",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "adapter-ring-rusan-modular-m44x0-75-swarovski-tm-35": [
       "adapterring",
-      "voorzetadapterring"
+      "voorzetadapterring",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "adapter-ring-rusan-modular-m46x0-75": [
       "adapterring",
-      "voorzetadapterring"
+      "voorzetadapterring",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "adapter-ring-rusan-modular-m52x0-75": [
       "adapterring",
-      "voorzetadapterring"
+      "voorzetadapterring",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "voorzetadapterring-rusan-modular-hikmicro-thunder-v2": [
       "adapterring",
-      "voorzetadapterring"
+      "voorzetadapterring",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "adapter-ring-rusan-modular-pulsar-f455-4-pins": [
       "adapterring",
-      "voorzetadapterring"
+      "voorzetadapterring",
+      "nachtzicht-warmtebeeld-accessoires"
     ],
     "ecopybook-tactical-ruler-ts-nato-853": [
       "tactical-bags",
