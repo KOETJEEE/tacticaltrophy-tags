@@ -295,12 +295,12 @@
     "brillenkoorden"
   ],
   "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
-    "voorzetkijkers",
-    "loepen"
+    "loepen",
+    "voorzetkijkers"
   ],
   "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [
-    "voorzetkijkers",
-    "loepen"
+    "loepen",
+    "voorzetkijkers"
   ],
   "carson-magnigrip-mg-88-loep-met-pincet-186154": [
     "loepen"
@@ -1589,8 +1589,8 @@
     "vochtontrekkers"
   ],
   "anti-odor-spray-scent-a-way-max-odorless": [
-    "insectenbescherming",
-    "onderhoudshulpmiddelen"
+    "onderhoudshulpmiddelen",
+    "insectenbescherming"
   ],
   "ar-combo-wrench-element-multifunctional": [
     "gereedschap"
@@ -5220,8 +5220,8 @@
     "manometers"
   ],
   "masker-nuprol-v1-tan": [
-    "airsoft-diversen-1",
-    "sjaal-nekwarmer"
+    "sjaal-nekwarmer",
+    "airsoft-diversen-1"
   ],
   "media-frankford-arsenal-stainless-steel-2-lbs": [
     "polijst-media"
@@ -5996,8 +5996,8 @@
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir-no-reticle": [
-    "voorzetkijkers",
-    "nachtzicht-handheld"
+    "nachtzicht-handheld",
+    "voorzetkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-940-nm-ir": [
     "nachtzicht-richtkijkers"
@@ -6130,8 +6130,8 @@
     "headsets-toebehoren"
   ],
   "service-kit-fx-crown-impact-regulator-s-n-183534": [
-    "regulators",
-    "revisiesetjes"
+    "revisiesetjes",
+    "regulators"
   ],
   "onderhoudsmat-tipton-handwapen": [
     "schoonmaakstations"
@@ -9888,8 +9888,8 @@
     "hoodies"
   ],
   "hook-loop-low-profile-admin-panel-197": [
-    "patch-panels",
-    "admin-pouches"
+    "admin-pouches",
+    "patch-panels"
   ],
   "horizontal-medical-pouch-elite-483": [
     "ehbo",
@@ -10182,12 +10182,12 @@
     "sling-bags"
   ],
   "m-tac-bandolier-with-velcro-for-2-cartridges-cal-308-776": [
-    "velcro-strips",
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "velcro-strips"
   ],
   "m-tac-bandolier-with-velcro-for-2-cartridges-cal-338-775": [
-    "velcro-strips",
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "velcro-strips"
   ],
   "m-tac-baseball-cap-flex-rip-stop-4664": [
     "petten"
@@ -10226,8 +10226,8 @@
     "tactical-riemen"
   ],
   "m-tac-collapsible-grappling-hook-7630": [
-    "velcro-strips",
-    "karabijnhaken"
+    "karabijnhaken",
+    "velcro-strips"
   ],
   "m-tac-cross-bag-slim-elite-hex-698": [
     "sling-bags"
@@ -10424,8 +10424,8 @@
     "paracord"
   ],
   "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
-    "kompassen",
-    "paracord"
+    "paracord",
+    "kompassen"
   ],
   "m-tac-paracord-survival-951": [
     "paracord"
@@ -12286,8 +12286,8 @@
   ],
   "sweat-wicking-t-shirt-genii-6561": [
     "shirts",
-    "tactical-shirts",
     "thermokleding",
+    "tactical-shirts",
     "thermoshirts"
   ],
   "sweater-nord-fleece-polartec-lady-3957": [
@@ -12544,8 +12544,8 @@
     "tactical-riemen"
   ],
   "tiger-belt-cobra-buckle-811": [
-    "tactical-riemen",
-    "riemen-bretels"
+    "riemen-bretels",
+    "tactical-riemen"
   ],
   "toiletry-bag-316": [
     "admin-pouches"
@@ -13175,9 +13175,9 @@
     "shirts"
   ],
   "t-shirt-ua-side-long-sleeve-6752": [
+    "shirts",
     "t-shirts-polos",
-    "tactical-shirts",
-    "shirts"
+    "tactical-shirts"
   ],
   "t-shirt-viking-2853": [
     "shirts"
@@ -13300,30 +13300,23 @@
     "battery-dnt-21700-2-pack-incl-charger": [
       "nachtzicht-warmtebeeld-accessoires"
     ],
-    "battery-hikmicro-thunder-2-0-3-0-hm-3644dc-rechargeable-3-6v-4400mah": [
-      "nachtzicht-warmtebeeld-accessoires"
-    ],
     "battery-charger-hikmicro": [
-      "observatie-accessoires",
-      "nachtzicht-warmtebeeld-accessoires"
+      "observatie-accessoires"
     ],
     "battery-charger-hikmicro-thunder-2-0": [
       "observatie-accessoires",
-      "richtmiddel-accessoires",
-      "nachtzicht-warmtebeeld-accessoires"
+      "richtmiddel-accessoires"
     ],
     "battery-charger-hikmicro-habrok-pro": [
       "observatie-accessoires",
-      "richtmiddel-accessoires",
-      "nachtzicht-warmtebeeld-accessoires"
+      "richtmiddel-accessoires"
     ],
     "pouch-hikmicro": [
       "jacht",
       "schietsport",
       "tassen-rugzakken",
       "rugzakken",
-      "tassen",
-      "nachtzicht-warmtebeeld-accessoires"
+      "tassen"
     ],
     "carrying-bag-hikmicro-binocular-harness": [
       "observatie-accessoires",
@@ -13331,16 +13324,13 @@
       "tassen",
       "schietsport",
       "jacht",
-      "tassen-rugzakken",
-      "nachtzicht-warmtebeeld-accessoires"
+      "tassen-rugzakken"
     ],
     "gas-release-valve-laylax-nine-ball-neo-r-for-umarex-glock-series": [
-      "airsoft-gas",
-      "airsoft-diversen-1"
+      "airsoft-gas"
     ],
     "gas-tank-tokyo-marui-ksg": [
-      "airsoft-gas",
-      "airsoft-diversen-1"
+      "airsoft-gas"
     ],
     "gas-tank-tokyo-marui-m870-breacher": [
       "airsoft-gas"
@@ -13368,11 +13358,7 @@
       "observatie-accessoires"
     ],
     "eyecup-dnt-zulus-hd-tnc225r": [
-      "observatie-accessoires",
-      "nachtzicht-warmtebeeld-accessoires"
-    ],
-    "team-armband-g-g-6-pack": [
-      "airsoft-diversen-1"
+      "observatie-accessoires"
     ],
     "trigger-lock-pin-laylax-tokyo-marui-hk416d": [
       "jacht",
@@ -13385,16 +13371,13 @@
       "wapensloten"
     ],
     "voorzetadapter-eagle-vision-pard-nv007": [
-      "voorzetkijkers",
-      "nachtzicht-warmtebeeld-accessoires"
+      "voorzetkijkers"
     ],
     "adapter-ring-hikmicro-thunder": [
-      "voorzetkijkers",
-      "nachtzicht-warmtebeeld-accessoires"
+      "voorzetkijkers"
     ],
     "adapter-ring-hikmicro-thunder-2-0": [
-      "voorzetkijkers",
-      "nachtzicht-warmtebeeld-accessoires"
+      "voorzetkijkers"
     ],
     "adapter-clamp-rusan-modular": [
       "voorzetkijkers"
@@ -13405,44 +13388,36 @@
     "clip-on-adapter-ring-rusan-hikmicro-thunder-th35c": [
       "adapterring",
       "optiek",
-      "voorzetadapterring",
-      "nachtzicht-warmtebeeld-accessoires"
+      "voorzetadapterring"
     ],
     "adapter-ring-rusan-m52x0-75-to-modular": [
       "voorzetadapterring",
       "optiek",
-      "adapterring",
-      "nachtzicht-warmtebeeld-accessoires"
+      "adapterring"
     ],
     "adapter-ring-rusan-modular-m35x1": [
       "adapterring",
-      "voorzetadapterring",
-      "nachtzicht-warmtebeeld-accessoires"
+      "voorzetadapterring"
     ],
     "adapter-ring-rusan-modular-m44x0-75-swarovski-tm-35": [
       "adapterring",
-      "voorzetadapterring",
-      "nachtzicht-warmtebeeld-accessoires"
+      "voorzetadapterring"
     ],
     "adapter-ring-rusan-modular-m46x0-75": [
       "adapterring",
-      "voorzetadapterring",
-      "nachtzicht-warmtebeeld-accessoires"
+      "voorzetadapterring"
     ],
     "adapter-ring-rusan-modular-m52x0-75": [
       "adapterring",
-      "voorzetadapterring",
-      "nachtzicht-warmtebeeld-accessoires"
+      "voorzetadapterring"
     ],
     "voorzetadapterring-rusan-modular-hikmicro-thunder-v2": [
       "adapterring",
-      "voorzetadapterring",
-      "nachtzicht-warmtebeeld-accessoires"
+      "voorzetadapterring"
     ],
     "adapter-ring-rusan-modular-pulsar-f455-4-pins": [
       "adapterring",
-      "voorzetadapterring",
-      "nachtzicht-warmtebeeld-accessoires"
+      "voorzetadapterring"
     ],
     "ecopybook-tactical-ruler-ts-nato-853": [
       "tactical-bags",
