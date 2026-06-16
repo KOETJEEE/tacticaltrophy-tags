@@ -616,7 +616,7 @@ function visibleProducts() {
     if (tabFilter === 'done')      return done.has(p.handle) && isInSync(p) && !p.deletedFromShopify;
     if (tabFilter === 'tagged')    return !p.deletedFromShopify && !filtered.has(p.handle) && assignments[p.handle].size > 0 && (!done.has(p.handle) || !isInSync(p));
     if (tabFilter === 'untagged')  return !p.deletedFromShopify && !filtered.has(p.handle) && assignments[p.handle].size === 0 && !done.has(p.handle);
-    if (tabFilter === 'shipping')  return !!p.suggestedShipping && !p.deletedFromShopify;
+    if (tabFilter === 'shipping')  return !!p.suggestedShipping && !p.deletedFromShopify && !done.has(p.handle);
     return !p.deletedFromShopify;
   });
 }
