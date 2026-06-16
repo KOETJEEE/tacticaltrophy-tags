@@ -26152,6 +26152,57 @@
     "geweerkoffer-fx-impact-extended-120x32": [
       "oversize"
     ],
+    "geweerkoffer-fx-impact-m3-sniper-118x30": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-110x25": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-125x25": [
+      "oversize"
+    ],
+    "rifle-case-megaline-130x35": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-110x25": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-118x30": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-118x35": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-125x25": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-140x30": [
+      "oversize"
+    ],
+    "geweerkoffer-plano-all-weather-series-109x36": [
+      "oversize"
+    ],
+    "geweerkoffer-plano-all-weather-series-131x36": [
+      "oversize"
+    ],
+    "rifle-case-plano-pro-max-contoured-132x26": [
+      "oversize"
+    ],
+    "rifle-case-plano-pro-max-double-scoped-133x41": [
+      "oversize"
+    ],
+    "rifle-case-plano-pro-max-single-scoped-132x29": [
+      "oversize"
+    ],
+    "rifle-case-plano-rustrictor-all-weather-2-52-132x35": [
+      "oversize"
+    ],
+    "rifle-case-plano-se-single-scoped-121x26": [
+      "oversize"
+    ],
+    "rifle-case-plano-tactical-42-106x40": [
+      "oversize"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "age-18"
     ],
@@ -27785,7 +27836,6 @@
     "rifle-bag-vanguard-endeavor-44-105x24",
     "rifle-bag-vanguard-endeavor-48-116x24",
     "rifle-bag-vanguard-endeavor-53-128x24",
-    "geweerkoffer-fx-impact-extended-120x32",
     "geweerkoffer-fx-impact-lang",
     "geweerkoffer-fx-impact-m3-sniper-118x30",
     "rifle-case-fx-wildcat-maverick-80x29",
@@ -30854,6 +30904,7 @@
     "wapenkluis-infac-sentinel-sd5",
     "wapenkluis-infac-sentinel-sd14",
     "wapenkluis-infac-sentinel-sd10",
-    "gun-safe-griffon-ge-450k-l-black-cr"
+    "gun-safe-griffon-ge-450k-l-black-cr",
+    "geweerkoffer-fx-impact-extended-120x32"
   ]
 }
