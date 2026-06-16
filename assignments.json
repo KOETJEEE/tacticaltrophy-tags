@@ -13,6 +13,9 @@
   "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
     "motors"
   ],
+  "hpa-engine-wolverine-inferno-gen2-premium": [
+    "motors"
+  ],
   "motor-g-g-ifrit-long-axis-25-000-rpm": [
     "motors"
   ],
@@ -30817,6 +30820,7 @@
     "battery-dnt-21700-2-pack-incl-charger",
     "hpa-engine-wolverine-inferno-gen2-heretic-edition",
     "motor-g-g-ifrit-long-axis-25-000-rpm",
-    "motor-g-g-original-long-axis-18-000-rpm"
+    "motor-g-g-original-long-axis-18-000-rpm",
+    "hpa-engine-wolverine-inferno-gen2-premium"
   ]
 }
