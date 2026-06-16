@@ -29233,16 +29233,12 @@
     "bubble-level-arken-30-mm",
     "bubble-level-arken-34-mm",
     "thermal-imaging-camera-hikmicro-thunder-2-0-clip-on-tq35cr",
-    "wapenkluis-infac-sentinel-sd7",
-    "wapenkluis-infac-sentinel-sd5",
     "gun-safe-griffon-glt-340-k",
     "gun-safe-griffon-gs-420-k",
     "gun-safe-griffon-glst-650-k",
     "gun-safe-griffon-gg-700-e",
     "gun-safe-griffon-s-25-ep",
     "wapenkluis-infac-delta-1",
-    "wapenkluis-infac-sentinel-sd10",
-    "wapenkluis-infac-sentinel-sd14",
     "gun-safe-griffon-ge-450k-l-black-cr",
     "rifle-scope-victoptics-soi-3-9x40-vnm-1-mil",
     "rifle-scope-victoptics-soi-4-12x40-vnm-1-mil",
@@ -30854,6 +30850,10 @@
     "motor-g-g-ifrit-long-axis-25-000-rpm",
     "motor-g-g-original-long-axis-18-000-rpm",
     "hpa-engine-wolverine-inferno-gen2-premium",
-    "gun-safe-griffon-glst-470-k"
+    "gun-safe-griffon-glst-470-k",
+    "wapenkluis-infac-sentinel-sd7",
+    "wapenkluis-infac-sentinel-sd5",
+    "wapenkluis-infac-sentinel-sd14",
+    "wapenkluis-infac-sentinel-sd10"
   ]
 }
