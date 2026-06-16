@@ -26338,6 +26338,24 @@
     "gun-safe-griffon-glst-650-k": [
       "oversize"
     ],
+    "gun-safe-griffon-glt-340-k": [
+      "oversize"
+    ],
+    "gun-safe-griffon-gs-420-k": [
+      "oversize"
+    ],
+    "wapenkluis-infac-sentinel-sd10": [
+      "oversize"
+    ],
+    "wapenkluis-infac-sentinel-sd14": [
+      "oversize"
+    ],
+    "wapenkluis-infac-sentinel-sd5": [
+      "oversize"
+    ],
+    "wapenkluis-infac-sentinel-sd7": [
+      "oversize"
+    ],
     "brief-active-level-i-6160": [
       "maattabel-mtac"
     ],
@@ -29221,7 +29239,6 @@
     "gun-safe-griffon-gs-420-k",
     "gun-safe-griffon-glst-650-k",
     "gun-safe-griffon-gg-700-e",
-    "gun-safe-griffon-glst-470-k",
     "gun-safe-griffon-s-25-ep",
     "wapenkluis-infac-delta-1",
     "wapenkluis-infac-sentinel-sd10",
@@ -30836,6 +30853,7 @@
     "hpa-engine-wolverine-inferno-gen2-heretic-edition",
     "motor-g-g-ifrit-long-axis-25-000-rpm",
     "motor-g-g-original-long-axis-18-000-rpm",
-    "hpa-engine-wolverine-inferno-gen2-premium"
+    "hpa-engine-wolverine-inferno-gen2-premium",
+    "gun-safe-griffon-glst-470-k"
   ]
 }
