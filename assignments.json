@@ -10,18 +10,6 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "flag-odin-night-vision-630x900-5792"
   ],
-  "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
-    "motors"
-  ],
-  "hpa-engine-wolverine-inferno-gen2-premium": [
-    "motors"
-  ],
-  "motor-g-g-ifrit-long-axis-25-000-rpm": [
-    "motors"
-  ],
-  "motor-g-g-original-long-axis-18-000-rpm": [
-    "motors"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -195,12 +183,12 @@
     "brillenkoorden"
   ],
   "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
-    "voorzetkijkers",
-    "loepen"
+    "loepen",
+    "voorzetkijkers"
   ],
   "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [
-    "voorzetkijkers",
-    "loepen"
+    "loepen",
+    "voorzetkijkers"
   ],
   "carson-magnigrip-mg-88-loep-met-pincet-186154": [
     "loepen"
@@ -1480,8 +1468,8 @@
     "vochtontrekkers"
   ],
   "anti-odor-spray-scent-a-way-max-odorless": [
-    "insectenbescherming",
-    "onderhoudshulpmiddelen"
+    "onderhoudshulpmiddelen",
+    "insectenbescherming"
   ],
   "ar-combo-wrench-element-multifunctional": [
     "gereedschap"
@@ -4018,6 +4006,12 @@
   "hop-up-wolverine-mtw": [
     "hop-ups"
   ],
+  "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
+    "motors"
+  ],
+  "hpa-engine-wolverine-inferno-gen2-premium": [
+    "motors"
+  ],
   "hpa-tank-dominator-13-3000-aluminium-0-2-liters-207-bar-with-pressure-gauge": [
     "hpa-tanks"
   ],
@@ -5771,6 +5765,12 @@
   "mounting-ring-vector-optics-25-4-30-mm-with-weaver-picatinny-rail": [
     "picatinny-rails"
   ],
+  "motor-g-g-ifrit-long-axis-25-000-rpm": [
+    "motors"
+  ],
+  "motor-g-g-original-long-axis-18-000-rpm": [
+    "motors"
+  ],
   "mount-fx-no-limit-25-4-mm-high-picatinny": [
     "2-delige-montages"
   ],
@@ -5925,8 +5925,8 @@
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir-no-reticle": [
-    "voorzetkijkers",
-    "nachtzicht-handheld"
+    "nachtzicht-handheld",
+    "voorzetkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-940-nm-ir": [
     "nachtzicht-richtkijkers"
@@ -6059,8 +6059,8 @@
     "headsets-toebehoren"
   ],
   "service-kit-fx-crown-impact-regulator-s-n-183534": [
-    "regulators",
-    "revisiesetjes"
+    "revisiesetjes",
+    "regulators"
   ],
   "onderhoudsmat-tipton-handwapen": [
     "schoonmaakstations"
@@ -9871,8 +9871,8 @@
     "hoodies"
   ],
   "hook-loop-low-profile-admin-panel-197": [
-    "patch-panels",
-    "admin-pouches"
+    "admin-pouches",
+    "patch-panels"
   ],
   "horizontal-medical-pouch-elite-483": [
     "ehbo",
@@ -10169,12 +10169,12 @@
     "sling-bags"
   ],
   "m-tac-bandolier-with-velcro-for-2-cartridges-cal-308-776": [
-    "velcro-strips",
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "velcro-strips"
   ],
   "m-tac-bandolier-with-velcro-for-2-cartridges-cal-338-775": [
-    "velcro-strips",
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "velcro-strips"
   ],
   "m-tac-baseball-cap-flex-rip-stop-4664": [
     "petten"
@@ -10213,8 +10213,8 @@
     "tactical-riemen"
   ],
   "m-tac-collapsible-grappling-hook-7630": [
-    "velcro-strips",
-    "karabijnhaken"
+    "karabijnhaken",
+    "velcro-strips"
   ],
   "m-tac-cross-bag-slim-elite-hex-698": [
     "sling-bags"
@@ -10411,8 +10411,8 @@
     "paracord"
   ],
   "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
-    "kompassen",
-    "paracord"
+    "paracord",
+    "kompassen"
   ],
   "m-tac-paracord-survival-951": [
     "paracord"
@@ -12273,8 +12273,8 @@
   ],
   "sweat-wicking-t-shirt-genii-6561": [
     "shirts",
-    "tactical-shirts",
     "thermokleding",
+    "tactical-shirts",
     "thermoshirts"
   ],
   "sweater-nord-fleece-polartec-lady-3957": [
@@ -12531,8 +12531,8 @@
     "tactical-riemen"
   ],
   "tiger-belt-cobra-buckle-811": [
-    "tactical-riemen",
-    "riemen-bretels"
+    "riemen-bretels",
+    "tactical-riemen"
   ],
   "toiletry-bag-316": [
     "admin-pouches"
@@ -12944,9 +12944,9 @@
     "shirts"
   ],
   "t-shirt-ua-side-long-sleeve-6752": [
+    "shirts",
     "t-shirts-polos",
-    "tactical-shirts",
-    "shirts"
+    "tactical-shirts"
   ],
   "t-shirt-viking-2853": [
     "shirts"
@@ -13098,12 +13098,6 @@
       "luchtbuks-dempers",
       "luchtbuks",
       "wapen-toebehoren"
-    ],
-    "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
-      "airsoft-onderdelen"
-    ],
-    "hpa-engine-wolverine-inferno-gen2-premium": [
-      "airsoft-onderdelen"
     ],
     "hpa-kit-ctm-m4ximus-for-tm-hi-capa-black": [
       "airsoft-onderdelen"
@@ -16207,6 +16201,12 @@
       "airsoft-onderdelen"
     ],
     "hop-up-wolverine-mtw": [
+      "airsoft-onderdelen"
+    ],
+    "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
+      "airsoft-onderdelen"
+    ],
+    "hpa-engine-wolverine-inferno-gen2-premium": [
       "airsoft-onderdelen"
     ],
     "hpa-tank-dominator-13-3000-aluminium-0-2-liters-207-bar-with-pressure-gauge": [
@@ -26149,6 +26149,9 @@
     ]
   },
   "_added": {
+    "geweerkoffer-fx-impact-extended-120x32": [
+      "oversize"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "age-18"
     ],
