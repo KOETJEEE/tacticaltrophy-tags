@@ -13,6 +13,12 @@
   "hpa-engine-wolverine-inferno-gen2-heretic-edition": [
     "motors"
   ],
+  "motor-g-g-ifrit-long-axis-25-000-rpm": [
+    "motors"
+  ],
+  "motor-g-g-original-long-axis-18-000-rpm": [
+    "motors"
+  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -30808,6 +30814,9 @@
     "buffer-tube-key-arma-key-501-for-ar15-mil-spec-black",
     "adaptor-saber-tactical-huben-gk1-stock-brace",
     "agm-3x-afocal-vergrootlens-61023xa1-121104",
-    "battery-dnt-21700-2-pack-incl-charger"
+    "battery-dnt-21700-2-pack-incl-charger",
+    "hpa-engine-wolverine-inferno-gen2-heretic-edition",
+    "motor-g-g-ifrit-long-axis-25-000-rpm",
+    "motor-g-g-original-long-axis-18-000-rpm"
   ]
 }
