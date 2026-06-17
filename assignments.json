@@ -10459,7 +10459,6 @@
     "patches"
   ],
   "m-tac-patch-press-type-2-7333": [
-    "herlaadkits",
     "patches"
   ],
   "m-tac-patch-surprise-pvc-8355": [
@@ -21670,7 +21669,9 @@
     "m-tac-patch-press-type-2-7333": [
       "Equipment and gear > Patches",
       "m-tac",
-      "Military Line"
+      "Military Line",
+      "herlaadkits",
+      "herladen"
     ],
     "m-tac-patch-surprise-pvc-8355": [
       "Equipment and gear > Patches",
