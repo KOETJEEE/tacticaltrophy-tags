@@ -5660,9 +5660,6 @@
   "mounting-base-walther-pdp-v2-vortex": [
     "montagebasissen"
   ],
-  "mounting-base-walther-pdp-for-leupold": [
-    "montagebasissen"
-  ],
   "mounting-rail-air-marksman-backbone-30-moa-long-bronze": [
     "montage-rails"
   ],
@@ -6393,7 +6390,6 @@
     "schoonmaakborstels"
   ],
   "patchadapter-bore-tech-proof-positive-pistol": [
-    "reinigingspatches",
     "schoonmaakborstels"
   ],
   "patchadapter-bore-tech-universal-wiper": [
@@ -12766,6 +12762,9 @@
     "fleece",
     "jacht-vesten"
   ],
+  "mounting-base-walther-pdp-for-leupold": [
+    "montagebasissen"
+  ],
   "admin-bag-large-elite-hex-with-velcro-8295": [
     "tassen-rugzakken"
   ],
@@ -17160,9 +17159,6 @@
     "mounting-base-walther-pdp-v2-vortex": [
       "richtmiddel-accessoires"
     ],
-    "mounting-base-walther-pdp-for-leupold": [
-      "richtmiddel-accessoires"
-    ],
     "mounting-rail-air-marksman-backbone-30-moa-long-bronze": [
       "picatinny-rails"
     ],
@@ -17559,6 +17555,9 @@
     "paddle-holster-laylax-socom-mk23-break-out": [
       "holsters",
       "tactical-gear"
+    ],
+    "patchadapter-bore-tech-proof-positive-pistol": [
+      "reinigingspatches"
     ],
     "patchadapter-bore-tech-universal-wiper": [
       "reinigingspatches",
@@ -25847,6 +25846,9 @@
     ],
     "frankonia-277057": [
       "jassen"
+    ],
+    "mounting-base-walther-pdp-for-leupold": [
+      "richtmiddel-accessoires"
     ],
     "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190": [
       "beschermkappen",
