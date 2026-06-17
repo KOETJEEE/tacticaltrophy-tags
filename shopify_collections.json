@@ -414,13 +414,6 @@
       "dump-pouches"
     ]
   },
-  "edc-vouwmessen": {
-    "title": "EDC-vouwmessen",
-    "disjunctive": false,
-    "tags": [
-      "edc-vouwmessen"
-    ]
-  },
   "ehbo": {
     "title": "EHBO",
     "disjunctive": false,
