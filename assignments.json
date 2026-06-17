@@ -319,6 +319,24 @@
   "noblex-verrekijker-nf-8x56-advanced-460030": [
     "verrekijkers"
   ],
+  "noblex-verrekijker-nf-8x56-inception-460005": [
+    "verrekijkers"
+  ],
+  "noblex-verrekijker-nf-8x56-vector-460022": [
+    "verrekijkers"
+  ],
+  "outdoor-club-camouflagenet-brown-forest-09x18-m-531000": [
+    "camouflagenetten"
+  ],
+  "outdoor-club-camouflagenet-brown-forest-15x4-m-531001": [
+    "camouflagenetten"
+  ],
+  "outdoor-club-camouflagenet-green-forest-09x18-m-531005": [
+    "camouflagenetten"
+  ],
+  "outdoor-club-camouflagenet-green-forest-15x4-m-531006": [
+    "camouflagenetten"
+  ],
   "geluiddemperadapter-anschutz-9015": [
     "geluiddemperadapters"
   ],
@@ -19369,26 +19387,32 @@
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
-      "wapenkluizen"
+      "wapenkluizen",
+      "oversize"
     ],
     "gun-safe-griffon-gg-700-e": [
-      "wapenkluizen"
+      "wapenkluizen",
+      "oversize"
     ],
     "gun-safe-griffon-glst-470-k": [
       "wapenkluizen",
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "gun-safe-griffon-glst-650-k": [
       "wapenkluizen",
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "gun-safe-griffon-glt-340-k": [
       "wapenkluizen",
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "gun-safe-griffon-gs-420-k": [
       "wapen-accessoires",
-      "wapenkluizen"
+      "wapenkluizen",
+      "oversize"
     ],
     "gun-safe-griffon-s-25-ep": [
       "wapen-accessoires"
@@ -19397,16 +19421,20 @@
       "wapen-accessoires"
     ],
     "wapenkluis-infac-sentinel-sd10": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "wapenkluis-infac-sentinel-sd14": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "wapenkluis-infac-sentinel-sd5": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "wapenkluis-infac-sentinel-sd7": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "thermal-imaging-camera-hikmicro-thunder-2-0-clip-on-tq35cr": [
       "voorzetkijkers"
@@ -26866,36 +26894,6 @@
     ],
     "schiettafel-caldwell-stable-table": [
       "pickup-only"
-    ],
-    "gun-safe-griffon-ge-450k-l-black-cr": [
-      "oversize"
-    ],
-    "gun-safe-griffon-gg-700-e": [
-      "oversize"
-    ],
-    "gun-safe-griffon-glst-470-k": [
-      "oversize"
-    ],
-    "gun-safe-griffon-glst-650-k": [
-      "oversize"
-    ],
-    "gun-safe-griffon-glt-340-k": [
-      "oversize"
-    ],
-    "gun-safe-griffon-gs-420-k": [
-      "oversize"
-    ],
-    "wapenkluis-infac-sentinel-sd10": [
-      "oversize"
-    ],
-    "wapenkluis-infac-sentinel-sd14": [
-      "oversize"
-    ],
-    "wapenkluis-infac-sentinel-sd5": [
-      "oversize"
-    ],
-    "wapenkluis-infac-sentinel-sd7": [
-      "oversize"
     ],
     "brief-active-level-i-6160": [
       "maattabel-mtac"
