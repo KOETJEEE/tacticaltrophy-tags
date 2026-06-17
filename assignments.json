@@ -6379,7 +6379,7 @@
     "reinigingspatches"
   ],
   "patchadapter-bore-tech-hagelgeweer": [
-    "reinigingspatches"
+    "schoonmaakborstels"
   ],
   "patchadapter-bore-tech-proof-positive": [
     "reinigingspatches",
@@ -17555,6 +17555,9 @@
     "paddle-holster-laylax-socom-mk23-break-out": [
       "holsters",
       "tactical-gear"
+    ],
+    "patchadapter-bore-tech-hagelgeweer": [
+      "reinigingspatches"
     ],
     "patchadapter-bore-tech-proof-positive-pistol": [
       "reinigingspatches"
