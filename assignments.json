@@ -10314,8 +10314,8 @@
     "magazijn-pouches"
   ],
   "m-tac-bandolier-with-velcro-for-2-cartridges-cal-338-775": [
-    "velcro-strips",
-    "magazijn-pouches"
+    "magazijn-pouches",
+    "patroonhouders"
   ],
   "m-tac-baseball-cap-flex-rip-stop-4664": [
     "petten"
@@ -21214,7 +21214,8 @@
       "Military Line",
       "pouches",
       "sniper-pouches",
-      "Tactical gear > Pouches > Pouches for sniper rifles"
+      "Tactical gear > Pouches > Pouches for sniper rifles",
+      "velcro-strips"
     ],
     "m-tac-baseball-cap-flex-rip-stop-4664": [
       "Clothing > Headwear > Caps",
