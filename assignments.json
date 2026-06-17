@@ -3996,7 +3996,6 @@
     "warmtebeeld-richtkijkers"
   ],
   "hikmicro-stellar-3-0-sx60ls-thermal-imaging-rifle-scope": [
-    "inspectie-cameras",
     "warmtebeeld-richtkijkers"
   ],
   "thermal-imaging-camera-hikmicro-thunder-2-0-clip-on-te19cr": [
@@ -16225,6 +16224,9 @@
       "nachtzicht"
     ],
     "night-vision-camera-hikmicro-heimdal-h4d": [
+      "inspectie-cameras"
+    ],
+    "hikmicro-stellar-3-0-sx60ls-thermal-imaging-rifle-scope": [
       "inspectie-cameras"
     ],
     "angle-cosine-indicator-rome-ruac-system": [
