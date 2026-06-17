@@ -6389,7 +6389,7 @@
     "stokadapters"
   ],
   "patchadapter-bore-tech-proof-positive-pistol": [
-    "schoonmaakborstels"
+    "stokadapters"
   ],
   "patchadapter-bore-tech-universal-wiper": [
     "stokadapters"
@@ -17563,7 +17563,8 @@
       "schoonmaakborstels"
     ],
     "patchadapter-bore-tech-proof-positive-pistol": [
-      "reinigingspatches"
+      "reinigingspatches",
+      "schoonmaakborstels"
     ],
     "patchadapter-bore-tech-universal-wiper": [
       "reinigingspatches",
