@@ -4631,8 +4631,7 @@
     "korrels"
   ],
   "korrel-megaline-hagelgeweer-14-m2-5-white": [
-    "korrels",
-    "kruitmolens"
+    "korrels"
   ],
   "korrel-megaline-hagelgeweer-15-metaal": [
     "korrels"
@@ -16637,6 +16636,10 @@
     "bead-sight-lpa-walther-q5-match": [
       "optiek",
       "vizieren"
+    ],
+    "korrel-megaline-hagelgeweer-14-m2-5-white": [
+      "kruitmolens",
+      "herladen"
     ],
     "powder-reservoir-frankford-arsenal": [
       "herlaadkits"
