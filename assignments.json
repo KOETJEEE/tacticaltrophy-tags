@@ -6386,8 +6386,7 @@
     "schoonmaakborstels"
   ],
   "patchadapter-bore-tech-proof-positive-met-oog": [
-    "reinigingspatches",
-    "schoonmaakborstels"
+    "stokadapters"
   ],
   "patchadapter-bore-tech-proof-positive-pistol": [
     "schoonmaakborstels"
@@ -17558,6 +17557,10 @@
     ],
     "patchadapter-bore-tech-hagelgeweer": [
       "reinigingspatches"
+    ],
+    "patchadapter-bore-tech-proof-positive-met-oog": [
+      "reinigingspatches",
+      "schoonmaakborstels"
     ],
     "patchadapter-bore-tech-proof-positive-pistol": [
       "reinigingspatches"
