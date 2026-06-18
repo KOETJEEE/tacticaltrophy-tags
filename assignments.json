@@ -26701,6 +26701,30 @@
     "persluchtfles-20-liter-300-bar-met-standaard-kraan": [
       "pickup-only"
     ],
+    "poetsstok-bore-tech-bore-stix-22": [
+      "oversize"
+    ],
+    "poetsstok-bore-tech-bore-stix-223": [
+      "oversize"
+    ],
+    "poetsstok-bore-tech-bore-stix-338-41": [
+      "oversize"
+    ],
+    "poetsstok-bore-tech-bore-stix-416-50": [
+      "oversize"
+    ],
+    "poetsstok-bore-tech-bore-stix-6-mm-270": [
+      "oversize"
+    ],
+    "poetsstok-bore-tech-bore-stix-7-8-mm": [
+      "oversize"
+    ],
+    "poetsstok-bore-tech-v-stix-22-6-5-mm": [
+      "oversize"
+    ],
+    "poetsstok-bore-tech-v-stix-270": [
+      "oversize"
+    ],
     "rookgranaat-enola-gaye-burst-blue": [
       "age-18"
     ],
@@ -29220,19 +29244,9 @@
     "poetsset-megaline-geweer-3-delig-cal-12-16-20",
     "poetsset-megaline-pistool-1-delig",
     "poetsset-ma-pistool-2-delig",
-    "poetsstok-bore-tech-bore-stix-22",
-    "poetsstok-bore-tech-bore-stix-223",
-    "poetsstok-bore-tech-bore-stix-338-41",
-    "poetsstok-bore-tech-bore-stix-416-50",
-    "poetsstok-bore-tech-bore-stix-6-mm-270",
-    "poetsstok-bore-tech-bore-stix-7-8-mm",
-    "poetsstok-bore-tech-bore-stix-pistol-22-45",
-    "poetsstok-bore-tech-shotgun-stix-alloy",
     "poetsstok-bore-tech-shotgun-stix-alloy-2-delig",
     "poetsstok-bore-tech-shotgun-stix-walnut",
     "poetsstok-bore-tech-v-stix-17-20-91-cm",
-    "poetsstok-bore-tech-v-stix-22-6-5-mm",
-    "poetsstok-bore-tech-v-stix-270",
     "poetsstok-bore-tech-v-stix-pistol-22-45",
     "cleaning-rod-megaline-shotgun",
     "poetsstokgeleider-anschutz-klein-kaliber-geweer-match",
@@ -31342,7 +31356,9 @@
     "gun-safe-griffon-ge-450k-l-black-cr",
     "geweerkoffer-fx-impact-extended-120x32",
     "red-dot-vector-optics-frenzy-1x24x29-genii",
-    "agm-nvg-40-apw-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121083"
+    "agm-nvg-40-apw-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121083",
+    "poetsstok-bore-tech-bore-stix-pistol-22-45",
+    "poetsstok-bore-tech-shotgun-stix-alloy"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
