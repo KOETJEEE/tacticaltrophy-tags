@@ -1713,13 +1713,6 @@
       "reinigingsproppen"
     ]
   },
-  "reinigingsvloeistoffen": {
-    "title": "Reinigingsvloeistoffen",
-    "disjunctive": false,
-    "tags": [
-      "reinigingsvloeistoffen"
-    ]
-  },
   "replacement-mesjes": {
     "title": "Replacement-mesjes",
     "disjunctive": false,
