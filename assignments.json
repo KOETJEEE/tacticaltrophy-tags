@@ -800,9 +800,6 @@
   "kowa-adapterring-tsn-ar62-440262": [
     "filmen-opnemen"
   ],
-  "kowa-compact-spotting-scope-tsn-501-20-40x50-446501": [
-    "spotting-scopes"
-  ],
   "kowa-compact-spotting-scope-tsn-502-20-40x50-446502": [
     "spotting-scopes"
   ],
@@ -13229,6 +13226,9 @@
     "fleece",
     "jacht-vesten"
   ],
+  "kowa-compact-spotting-scope-tsn-501-20-40x50-446501": [
+    "spotting-scopes"
+  ],
   "admin-bag-large-elite-hex-with-velcro-8295": [
     "tassen-rugzakken"
   ],
@@ -14613,11 +14613,6 @@
       "spotting-scopes-accessoires",
       "voorzetadapterring",
       "adapterring"
-    ],
-    "kowa-compact-spotting-scope-tsn-501-20-40x50-446501": [
-      "monoculairs",
-      "richtkijkers",
-      "kowa"
     ],
     "kowa-compact-spotting-scope-tsn-502-20-40x50-446502": [
       "richtkijkers",
@@ -26334,6 +26329,11 @@
     "frankonia-277057": [
       "jassen"
     ],
+    "kowa-compact-spotting-scope-tsn-501-20-40x50-446501": [
+      "monoculairs",
+      "richtkijkers",
+      "kowa"
+    ],
     "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190": [
       "beschermkappen",
       "optiek",
@@ -26880,45 +26880,6 @@
     ],
     "schiettafel-caldwell-stable-table": [
       "pickup-only"
-    ],
-    "brief-active-level-i-6160": [
-      "maattabel-mtac"
-    ],
-    "jacket-sheriff-9501": [
-      "maattabel-mtac"
-    ],
-    "jacket-stalker-geniii-3836": [
-      "maattabel-mtac"
-    ],
-    "m-tac-pants-patrol-geniii-nyco-extreme-8907": [
-      "maattabel-mtac"
-    ],
-    "m-tac-tactical-sweat-wicking-t-shirt-summer-6822": [
-      "maattabel-mtac"
-    ],
-    "norman-windblock-fleece-jacket-1196": [
-      "maattabel-mtac"
-    ],
-    "pants-army-genii-nyco-extreme-2759": [
-      "maattabel-mtac"
-    ],
-    "pants-field-nyco-1350": [
-      "maattabel-mtac"
-    ],
-    "pants-fleece-delta-level-2-lady-5837": [
-      "maattabel-mtac"
-    ],
-    "sturm-nyco-extreme-combat-shirt-9644": [
-      "maattabel-mtac"
-    ],
-    "underwear-thermoline-5971": [
-      "maattabel-mtac"
-    ],
-    "womens-vest-primaloft-8499": [
-      "maattabel-mtac"
-    ],
-    "hoodie-odin-mystery-8368": [
-      "maattabel-mtac"
     ],
     "magazijn-anschutz-1420-u13-22-lr-10-schots": [
       "permit-wwm"
@@ -31382,5 +31343,17 @@
     "geweerkoffer-fx-impact-extended-120x32",
     "red-dot-vector-optics-frenzy-1x24x29-genii",
     "agm-nvg-40-apw-binoculaire-nachtkijker-goggles-gen2-white-phosphor-121083"
-  ]
+  ],
+  "_variant_profiles": {
+    "poetsstok-bore-tech-bore-stix-22": {
+      "91": "general",
+      "102": "oversize",
+      "112": "oversize"
+    },
+    "poetsstok-bore-tech-bore-stix-223": {
+      "91": "general",
+      "102": "oversize",
+      "112": "oversize"
+    }
+  }
 }
