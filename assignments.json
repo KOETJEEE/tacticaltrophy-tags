@@ -31354,6 +31354,36 @@
       "91": "general",
       "102": "oversize",
       "112": "oversize"
+    },
+    "poetsstok-bore-tech-bore-stix-338-41": {
+      "91": "general",
+      "102": "oversize",
+      "112": "oversize",
+      "122": "oversize"
+    },
+    "poetsstok-bore-tech-bore-stix-416-50": {
+      "102": "oversize",
+      "112": "oversize"
+    },
+    "poetsstok-bore-tech-bore-stix-6-mm-270": {
+      "91": "general",
+      "102": "oversize",
+      "112": "oversize"
+    },
+    "poetsstok-bore-tech-bore-stix-7-8-mm": {
+      "91": "general",
+      "102": "oversize",
+      "112": "oversize"
+    },
+    "poetsstok-bore-tech-v-stix-22-6-5-mm": {
+      "91": "general",
+      "102": "oversize",
+      "112": "oversize"
+    },
+    "poetsstok-bore-tech-v-stix-270": {
+      "91": "general",
+      "102": "oversize",
+      "112": "oversize"
     }
   }
 }
