@@ -237,12 +237,12 @@
     "brillenkoorden"
   ],
   "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
-    "loepen",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "loepen"
   ],
   "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [
-    "loepen",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "loepen"
   ],
   "carson-magnigrip-mg-88-loep-met-pincet-186154": [
     "loepen"
@@ -1789,8 +1789,8 @@
     "vochtontrekkers"
   ],
   "anti-odor-spray-scent-a-way-max-odorless": [
-    "onderhoudshulpmiddelen",
-    "insectenbescherming"
+    "insectenbescherming",
+    "onderhoudshulpmiddelen"
   ],
   "ar-combo-wrench-element-multifunctional": [
     "gereedschap"
@@ -6387,8 +6387,8 @@
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir-no-reticle": [
-    "nachtzicht-handheld",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-handheld"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-940-nm-ir": [
     "nachtzicht-richtkijkers"
@@ -6521,8 +6521,8 @@
     "headsets-toebehoren"
   ],
   "service-kit-fx-crown-impact-regulator-s-n-183534": [
-    "revisiesetjes",
-    "regulators"
+    "regulators",
+    "revisiesetjes"
   ],
   "onderhoudsmat-tipton-handwapen": [
     "schoonmaakstations"
@@ -10332,8 +10332,8 @@
     "hoodies"
   ],
   "hook-loop-low-profile-admin-panel-197": [
-    "admin-pouches",
-    "patch-panels"
+    "patch-panels",
+    "admin-pouches"
   ],
   "horizontal-medical-pouch-elite-483": [
     "ehbo",
@@ -10674,8 +10674,8 @@
     "tactical-riemen"
   ],
   "m-tac-collapsible-grappling-hook-7630": [
-    "karabijnhaken",
-    "velcro-strips"
+    "velcro-strips",
+    "karabijnhaken"
   ],
   "m-tac-cross-bag-slim-elite-hex-698": [
     "sling-bags"
@@ -10872,8 +10872,8 @@
     "paracord"
   ],
   "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
-    "paracord",
-    "kompassen"
+    "kompassen",
+    "paracord"
   ],
   "m-tac-paracord-survival-951": [
     "paracord"
@@ -12733,8 +12733,8 @@
   ],
   "sweat-wicking-t-shirt-genii-6561": [
     "shirts",
-    "thermokleding",
     "tactical-shirts",
+    "thermokleding",
     "thermoshirts"
   ],
   "sweater-nord-fleece-polartec-lady-3957": [
@@ -12991,8 +12991,8 @@
     "tactical-riemen"
   ],
   "tiger-belt-cobra-buckle-811": [
-    "riemen-bretels",
-    "tactical-riemen"
+    "tactical-riemen",
+    "riemen-bretels"
   ],
   "toiletry-bag-316": [
     "admin-pouches"
@@ -13407,9 +13407,9 @@
     "shirts"
   ],
   "t-shirt-ua-side-long-sleeve-6752": [
-    "shirts",
     "t-shirts-polos",
-    "tactical-shirts"
+    "tactical-shirts",
+    "shirts"
   ],
   "t-shirt-viking-2853": [
     "shirts"
@@ -16917,6 +16917,12 @@
     ],
     "klemstuk-anschutz-voor-schouderbasis-4759-2000": [
       "kolven"
+    ],
+    "safe-griffon-s-50-e": [
+      "pickup-only"
+    ],
+    "gun-safe-griffon-s-50-k": [
+      "pickup-only"
     ],
     "kogelvanger-10-x-10-ml": [
       "luchtdrukmunitie-accessoires"
@@ -26690,12 +26696,6 @@
   },
   "_added": {
     "compressor-hill-evo-310": [
-      "pickup-only"
-    ],
-    "safe-griffon-s-50-e": [
-      "pickup-only"
-    ],
-    "gun-safe-griffon-s-50-k": [
       "pickup-only"
     ],
     "persluchtfles-20-liter-300-bar-met-standaard-kraan": [
