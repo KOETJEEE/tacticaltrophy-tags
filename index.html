@@ -454,7 +454,7 @@ function init() {
   // Load handmatig toegevoegde tags uit localStorage
   const savedAdded = loadAddedLocal();
   for (const p of PRODUCTS) {
-    addedTags[p.handle] = new Set(savedAdded[p.handle] || []);
+    addedTags[p.handle] = new Set((savedAdded[p.handle] || []).filter(t => !HIDDEN_FREE_TAGS.has(t)));
   }
 
   // Load saved state from localStorage, always merge bestaande colTags erbij
@@ -1576,7 +1576,7 @@ async function syncFromGitHub() {
         if (_dirty.has(p.handle)) continue;
         let src = ghData._added[p.handle];
         if (!src) { for (const pfx of SUPPLIER_PREFIXES) { if (ghData._added[pfx+p.handle]) { src = ghData._added[pfx+p.handle]; break; } } }
-        const ghAdded = new Set(src || []);
+        const ghAdded = new Set((src || []).filter(t => !HIDDEN_FREE_TAGS.has(t)));
         const cur = addedTags[p.handle];
         const same = ghAdded.size === cur.size && [...ghAdded].every(x => cur.has(x));
         if (!same) { addedTags[p.handle] = ghAdded; changed = true; }
