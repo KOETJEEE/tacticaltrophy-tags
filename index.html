@@ -215,6 +215,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 #write-btn{padding:6px 12px;background:#7c3aed;color:#fff;border:none;border-radius:6px;font-size:.8rem;font-weight:600;cursor:pointer}
 #write-btn:hover{background:#6d28d9}
 #write-btn:disabled{background:#a78bfa;cursor:not-allowed}
+#shipping-panel-btn{background:#e0e7ff;color:#3730a3;border:none;border-radius:7px;padding:7px 12px;font-size:.8rem;font-weight:600;cursor:pointer}
+#shipping-panel-btn:hover{background:#c7d2fe}
 #write-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:500;align-items:center;justify-content:center}
 #write-modal.open{display:flex}
 #write-box{background:#fff;border-radius:12px;padding:24px;max-width:560px;width:92%;max-height:82vh;display:flex;flex-direction:column;gap:14px;box-shadow:0 16px 48px rgba(0,0,0,.3)}
@@ -233,6 +235,19 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 #sync-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:500;align-items:center;justify-content:center}
 #sync-modal.open{display:flex}
 #sync-box{background:#fff;border-radius:12px;padding:24px;max-width:520px;width:92%;max-height:80vh;display:flex;flex-direction:column;gap:12px;box-shadow:0 16px 48px rgba(0,0,0,.3)}
+#sp-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:500;align-items:flex-start;justify-content:center;padding-top:48px}
+#sp-modal.open{display:flex}
+#sp-box{background:#fff;border-radius:12px;padding:24px;max-width:680px;width:92%;max-height:80vh;display:flex;flex-direction:column;gap:14px;box-shadow:0 16px 48px rgba(0,0,0,.3)}
+#sp-box h3{font-size:1rem;font-weight:700;color:#1e293b;margin:0}
+#sp-content{flex:1;overflow-y:auto;display:flex;gap:16px}
+.sp-col{flex:1;min-width:0}
+.sp-head{font-size:.8rem;font-weight:700;padding:6px 0 6px;border-bottom:2px solid currentColor;margin-bottom:6px}
+.sp-row{padding:5px 6px;border-radius:6px;cursor:pointer;font-size:.78rem;line-height:1.4}
+.sp-row:hover{background:#f1f5f9}
+.sp-title{font-weight:500;color:#1e293b}
+.sp-vars{display:block;color:#64748b;font-size:.7rem;margin-top:1px}
+#sp-footer{display:flex;justify-content:flex-end}
+#sp-close{padding:7px 16px;border:1px solid #d1d5db;background:#fff;border-radius:7px;cursor:pointer;font-size:.85rem;color:#374151}
 #sync-box h3{font-size:1rem;font-weight:700;color:#dc2626;margin:0}
 #sync-list{flex:1;overflow-y:auto;font-size:.8rem;border:1px solid #e2e8f0;border-radius:8px;padding:8px;min-height:80px;max-height:320px;background:#f8fafc}
 .sync-row{padding:6px 8px;border-bottom:1px solid #f1f5f9;color:#1e293b;font-size:.78rem;cursor:pointer}
@@ -265,6 +280,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <button id="backup-btn">💾 Backup</button>
     <button id="restore-btn">📂 Herstel</button>
     <input type="file" id="restore-input" accept=".json" style="display:none">
+    <button id="shipping-panel-btn" title="Overzicht verzendprofielen">📦 Verzending</button>
     <button id="write-btn">✏️ Schrijf naar Shopify</button>
   </div>
 </div>
@@ -348,6 +364,16 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
       <div id="write-progress"></div>
       <button id="write-cancel" onclick="closeWriteModal()">Annuleren</button>
       <button id="write-confirm" disabled>Bevestigen</button>
+    </div>
+  </div>
+</div>
+
+<div id="sp-modal">
+  <div id="sp-box">
+    <h3>📦 Overzicht verzendprofielen</h3>
+    <div id="sp-content"></div>
+    <div id="sp-footer">
+      <button id="sp-close" onclick="closeShippingPanel()">Sluiten</button>
     </div>
   </div>
 </div>
@@ -540,6 +566,7 @@ function init() {
   document.getElementById('backup-btn').addEventListener('click', backupState);
   document.getElementById('restore-btn').addEventListener('click', () => document.getElementById('restore-input').click());
   document.getElementById('restore-input').addEventListener('change', e => { if (e.target.files[0]) restoreState(e.target.files[0]); e.target.value=''; });
+  document.getElementById('shipping-panel-btn').addEventListener('click', showShippingPanel);
   document.getElementById('write-btn').addEventListener('click', writeToShopify);
   document.getElementById('sync-btn').addEventListener('click', saveToGitHub);
   document.getElementById('refresh-btn').addEventListener('click', triggerRefreshWorkflow);
@@ -1889,6 +1916,77 @@ function writeToShopify() {
   }
 
   document.getElementById('write-modal').classList.add('open');
+}
+
+function closeShippingPanel() {
+  document.getElementById('sp-modal').classList.remove('open');
+}
+
+function showShippingPanel() {
+  const oversize = [], pickup = [];
+
+  for (const p of PRODUCTS) {
+    if (p.deletedFromShopify) continue;
+
+    const vps = variantProfiles[p.handle] || {};
+    const hasVPs = Object.keys(vps).length > 0;
+    const hasVariants = p.variants && p.variants.length > 0;
+
+    const allTags = new Set([
+      ...p.nonColTags.map(t => t.toLowerCase()),
+      ...computeNewTagsForProduct(p).map(t => t.toLowerCase()),
+    ]);
+    const productIsOversize = allTags.has('oversize');
+    const productIsPickup   = allTags.has('pickup-only');
+
+    if (hasVariants && hasVPs) {
+      const ovVars = [], puVars = [];
+      for (const v of p.variants) {
+        const vp = vps[v];
+        if      (vp === 'oversize') ovVars.push(v);
+        else if (vp === 'pickup')   puVars.push(v);
+        else if (vp === 'general')  { /* expliciet algemeen */ }
+        else {
+          if (productIsOversize) ovVars.push(v);
+          else if (productIsPickup) puVars.push(v);
+        }
+      }
+      if (ovVars.length) oversize.push({handle: p.handle, title: p.title, variants: ovVars, total: p.variants.length});
+      if (puVars.length) pickup.push  ({handle: p.handle, title: p.title, variants: puVars, total: p.variants.length});
+    } else {
+      if (productIsOversize) oversize.push({handle: p.handle, title: p.title, variants: null, total: hasVariants ? p.variants.length : 1});
+      if (productIsPickup)   pickup.push  ({handle: p.handle, title: p.title, variants: null, total: hasVariants ? p.variants.length : 1});
+    }
+  }
+
+  oversize.sort((a, b) => a.title.localeCompare(b.title));
+  pickup.sort  ((a, b) => a.title.localeCompare(b.title));
+
+  function renderItems(items) {
+    if (!items.length) return '<em style="color:#94a3b8;font-size:.78rem">Geen producten</em>';
+    return items.map(({handle, title, variants, total}) => {
+      let varText = '';
+      if (variants && variants.length < total)
+        varText = variants.join(', ');
+      else if (total > 1)
+        varText = 'alle ' + total + ' varianten';
+      return `<div class="sp-row" onclick="closeShippingPanel();selectedHandles.clear();selectedHandle=${j(handle)};selectedHandles.add(${j(handle)});renderList();renderDetail()" title="${h(handle)}">
+        <span class="sp-title">${h(title)}</span>${varText ? `<span class="sp-vars">${h(varText)}</span>` : ''}
+      </div>`;
+    }).join('');
+  }
+
+  document.getElementById('sp-content').innerHTML = `
+    <div class="sp-col">
+      <div class="sp-head" style="color:#9333ea">📦 Oversize (${oversize.length})</div>
+      ${renderItems(oversize)}
+    </div>
+    <div class="sp-col">
+      <div class="sp-head" style="color:#9333ea">🚫 Alleen afhalen (${pickup.length})</div>
+      ${renderItems(pickup)}
+    </div>`;
+
+  document.getElementById('sp-modal').classList.add('open');
 }
 
 function closeWriteModal() {
