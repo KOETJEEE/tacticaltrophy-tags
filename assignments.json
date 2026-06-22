@@ -2016,6 +2016,9 @@
   "lens-covers-arken-ep8": [
     "beschermkappen"
   ],
+  "beschermkappen-arken-flip-its-voor-ep-5-5-25x56": [
+    "beschermkappen"
+  ],
   "lens-covers-arken-flip-its-for-ep-5-gen-2-7-35x56": [
     "beschermkappen"
   ],
@@ -2359,9 +2362,6 @@
     "oogbescherming"
   ],
   "glasses-wiley-x-alfa-captivate-polarized-bronze-mirror-gloss-crystal-light-olive-grey-frame": [
-    "oogbescherming"
-  ],
-  "glasses-wiley-x-alfa-captivated-polarized-grey-gloss-black-frame": [
     "oogbescherming"
   ],
   "glasses-wiley-x-contend-grey-lenses-matte-black-frame": [
@@ -6654,9 +6654,6 @@
   "paddle-holster-imi-walther-ppq-p99": [
     "holsters-toebehoren"
   ],
-  "paddle-holster-laylax-socom-mk23-break-out": [
-    "holsters-toebehoren"
-  ],
   "patch-jtg-3d-pvc-hexagon-bloodtype-ab": [
     "patches"
   ],
@@ -8110,6 +8107,9 @@
     "airsoft-speedloaders"
   ],
   "speedloader-g-g-magazine-style-transparent-brown": [
+    "airsoft-speedloaders"
+  ],
+  "speedloader-laylax-automatic-bb-loader": [
     "airsoft-speedloaders"
   ],
   "speedloader-nuprol-3000r-bottle-camo": [
@@ -13186,21 +13186,9 @@
   "zip-pocket-organizer-set-elite-8979": [
     "admin-pouches"
   ],
-  "beschermkappen-arken-flip-its-voor-ep-5-5-25x56": [
-    "beschermkappen"
-  ],
-  "glasses-wiley-x-ovation-brown-lenses-matte-rootbeer-frame": [
-    "oogbescherming"
-  ],
-  "carson-verrekijker-wildcat-7x18-186459": [
-    "verrekijkers"
-  ],
   "frankonia-277057": [
     "fleece",
     "jacht-vesten"
-  ],
-  "speedloader-laylax-automatic-bb-loader": [
-    "airsoft-speedloaders"
   ],
   "admin-bag-large-elite-hex-with-velcro-8295": [
     "tassen-rugzakken"
@@ -18031,10 +18019,6 @@
       "tactical-gear"
     ],
     "paddle-holster-imi-walther-ppq-p99": [
-      "holsters",
-      "tactical-gear"
-    ],
-    "paddle-holster-laylax-socom-mk23-break-out": [
       "holsters",
       "tactical-gear"
     ],
@@ -26358,9 +26342,6 @@
       "Tactical gear > Pouches > Utility Pouches",
       "utility-pouches"
     ],
-    "carson-verrekijker-wildcat-7x18-186459": [
-      "carson"
-    ],
     "frankonia-277057": [
       "jassen"
     ],
@@ -27247,7 +27228,6 @@
     "rifle-scope-element-optics-helix-genii-6-24x50",
     "rifle-scope-element-optics-helix-genii-4-16x44",
     "agm-voyage-lrf-tb50-640-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121241",
-    "agm-pvs-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121066",
     "agm-pvs-14-ap-monoculaire-nachtkijker-gen2-green-phosphor-121070",
     "winter-tactical-boots-thinsulate-4226",
     "womens-vest-primaloft-8499",
