@@ -593,7 +593,13 @@
   "konus-oplaadbare-zaklamp-konuslight-rc-5-433928": [
     "zaklampen-hoofdlampen"
   ],
+  "konus-quick-release-montageringen-254-mm-hoog-437406": [
+    "2-delige-montages"
+  ],
   "konus-quick-release-montageringen-254-mm-medium-437407": [
+    "2-delige-montages"
+  ],
+  "konus-quick-release-montageringen-30-mm-hoog-437409": [
     "2-delige-montages"
   ],
   "konus-quick-release-montageringen-30-mm-laag-437411": [
@@ -4559,6 +4565,9 @@
   "ir-illuminator-dnt-m21-850-nm-for-zulus-hd-tnc225r": [
     "infraroodlampen"
   ],
+  "ir-illuminator-dnt-m24-940-nm-for-tnc335r-tnc635r": [
+    "infraroodlampen"
+  ],
   "ir-illuminator-hikmicro-habrok-pro-810-nm": [
     "infraroodlampen"
   ],
@@ -6996,9 +7005,6 @@
   "pistoolkoffer-megaline-49x27-met-slot": [
     "wapenkoffers"
   ],
-  "pistol-case-plano-tactical-44x26": [
-    "wapenkoffers"
-  ],
   "pistoolstandaard-lockdown-4-gun-222200": [
     "wapen-standaards"
   ],
@@ -9358,6 +9364,9 @@
     "zakmessen"
   ],
   "pocket-knife-sog-adventurer-nordic-blue": [
+    "zakmessen"
+  ],
+  "pocket-knife-sog-flare-satin": [
     "zakmessen"
   ],
   "pocket-knife-sog-salute-mini-bead-blast": [
@@ -13150,24 +13159,12 @@
   "flir-breach-ptq136-warmtebeeldcamera-13431913": [
     "warmtebeeld"
   ],
-  "geweerkoffer-plano-all-weather-series-109x36": [
-    "wapenkoffers"
-  ],
-  "konus-quick-release-montageringen-254-mm-hoog-437406": [
-    "2-delige-montages"
-  ],
-  "konus-quick-release-montageringen-30-mm-hoog-437409": [
-    "2-delige-montages"
-  ],
   "nest-monopod-wt-1003-h171-cm-295810": [
     "monopods",
     "statieven"
   ],
-  "organizer-insert-plano-sportsman-s-trunk-small": [
+  "pistol-case-plano-tactical-44x26": [
     "wapenkoffers"
-  ],
-  "range-bag-plano-x2-medium": [
-    "range-bags"
   ],
   "admin-bag-large-elite-hex-with-velcro-8295": [
     "tassen-rugzakken"
@@ -18393,7 +18390,8 @@
       "polijsttrommels"
     ],
     "shooting-target-caldwell-ar500-dueling-tree": [
-      "pickup-only"
+      "pickup-only",
+      "oversize"
     ],
     "shooting-rest-bog-deadshot-compact-sitting": [
       "monopods",
@@ -26286,9 +26284,6 @@
     ],
     "frankonia-277057": [
       "jassen"
-    ],
-    "geweerkoffer-plano-all-weather-series-109x36": [
-      "oversize"
     ],
     "nest-monopod-wt-1003-h171-cm-295810": [
       "optiek-accessoires",
