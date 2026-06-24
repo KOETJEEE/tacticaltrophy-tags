@@ -593,13 +593,7 @@
   "konus-oplaadbare-zaklamp-konuslight-rc-5-433928": [
     "zaklampen-hoofdlampen"
   ],
-  "konus-quick-release-montageringen-254-mm-hoog-437406": [
-    "2-delige-montages"
-  ],
   "konus-quick-release-montageringen-254-mm-medium-437407": [
-    "2-delige-montages"
-  ],
-  "konus-quick-release-montageringen-30-mm-hoog-437409": [
     "2-delige-montages"
   ],
   "konus-quick-release-montageringen-30-mm-laag-437411": [
@@ -4565,9 +4559,6 @@
   "ir-illuminator-dnt-m21-850-nm-for-zulus-hd-tnc225r": [
     "infraroodlampen"
   ],
-  "ir-illuminator-dnt-m24-940-nm-for-tnc335r-tnc635r": [
-    "infraroodlampen"
-  ],
   "ir-illuminator-hikmicro-habrok-pro-810-nm": [
     "infraroodlampen"
   ],
@@ -7005,6 +6996,9 @@
   "pistoolkoffer-megaline-49x27-met-slot": [
     "wapenkoffers"
   ],
+  "pistol-case-plano-tactical-44x26": [
+    "wapenkoffers"
+  ],
   "pistoolstandaard-lockdown-4-gun-222200": [
     "wapen-standaards"
   ],
@@ -9364,9 +9358,6 @@
     "zakmessen"
   ],
   "pocket-knife-sog-adventurer-nordic-blue": [
-    "zakmessen"
-  ],
-  "pocket-knife-sog-flare-satin": [
     "zakmessen"
   ],
   "pocket-knife-sog-salute-mini-bead-blast": [
@@ -13159,12 +13150,24 @@
   "flir-breach-ptq136-warmtebeeldcamera-13431913": [
     "warmtebeeld"
   ],
+  "geweerkoffer-plano-all-weather-series-109x36": [
+    "wapenkoffers"
+  ],
+  "konus-quick-release-montageringen-254-mm-hoog-437406": [
+    "2-delige-montages"
+  ],
+  "konus-quick-release-montageringen-30-mm-hoog-437409": [
+    "2-delige-montages"
+  ],
   "nest-monopod-wt-1003-h171-cm-295810": [
     "monopods",
     "statieven"
   ],
-  "pistol-case-plano-tactical-44x26": [
+  "organizer-insert-plano-sportsman-s-trunk-small": [
     "wapenkoffers"
+  ],
+  "range-bag-plano-x2-medium": [
+    "range-bags"
   ],
   "admin-bag-large-elite-hex-with-velcro-8295": [
     "tassen-rugzakken"
@@ -16338,6 +16341,57 @@
       "foudralen",
       "geweertassen"
     ],
+    "geweerkoffer-fx-impact-extended-120x32": [
+      "oversize"
+    ],
+    "geweerkoffer-fx-impact-m3-sniper-118x30": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-110x25": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-125x25": [
+      "oversize"
+    ],
+    "rifle-case-megaline-130x35": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-110x25": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-118x30": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-118x35": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-125x25": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-140x30": [
+      "oversize"
+    ],
+    "geweerkoffer-plano-all-weather-series-131x36": [
+      "oversize"
+    ],
+    "rifle-case-plano-pro-max-contoured-132x26": [
+      "oversize"
+    ],
+    "rifle-case-plano-pro-max-double-scoped-133x41": [
+      "oversize"
+    ],
+    "rifle-case-plano-pro-max-single-scoped-132x29": [
+      "oversize"
+    ],
+    "rifle-case-plano-rustrictor-all-weather-2-52-132x35": [
+      "oversize"
+    ],
+    "rifle-case-plano-se-single-scoped-121x26": [
+      "oversize"
+    ],
+    "rifle-case-plano-tactical-42-106x40": [
+      "oversize"
+    ],
     "granulaat-frankford-arsenal-walnut-media": [
       "herlaadkits",
       "polijsttrommels"
@@ -19275,26 +19329,32 @@
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
-      "wapenkluizen"
+      "wapenkluizen",
+      "oversize"
     ],
     "gun-safe-griffon-gg-700-e": [
-      "wapenkluizen"
+      "wapenkluizen",
+      "oversize"
     ],
     "gun-safe-griffon-glst-470-k": [
       "wapenkluizen",
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "gun-safe-griffon-glst-650-k": [
       "wapenkluizen",
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "gun-safe-griffon-glt-340-k": [
       "wapenkluizen",
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "gun-safe-griffon-gs-420-k": [
       "wapen-accessoires",
-      "wapenkluizen"
+      "wapenkluizen",
+      "oversize"
     ],
     "gun-safe-griffon-s-25-ep": [
       "wapen-accessoires"
@@ -19303,16 +19363,20 @@
       "wapen-accessoires"
     ],
     "wapenkluis-infac-sentinel-sd10": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "wapenkluis-infac-sentinel-sd14": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "wapenkluis-infac-sentinel-sd5": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "wapenkluis-infac-sentinel-sd7": [
-      "wapen-accessoires"
+      "wapen-accessoires",
+      "oversize"
     ],
     "thermal-imaging-camera-hikmicro-thunder-2-0-clip-on-tq35cr": [
       "voorzetkijkers"
@@ -26223,6 +26287,9 @@
     "frankonia-277057": [
       "jassen"
     ],
+    "geweerkoffer-plano-all-weather-series-109x36": [
+      "oversize"
+    ],
     "nest-monopod-wt-1003-h171-cm-295810": [
       "optiek-accessoires",
       "tripods"
@@ -26528,60 +26595,6 @@
     ]
   },
   "_added": {
-    "geweerkoffer-fx-impact-extended-120x32": [
-      "oversize"
-    ],
-    "geweerkoffer-fx-impact-m3-sniper-118x30": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-110x25": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-125x25": [
-      "oversize"
-    ],
-    "rifle-case-megaline-130x35": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-met-slot-110x25": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-met-slot-118x30": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-met-slot-118x35": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-met-slot-125x25": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-met-slot-140x30": [
-      "oversize"
-    ],
-    "geweerkoffer-plano-all-weather-series-131x36": [
-      "oversize"
-    ],
-    "rifle-case-plano-pro-max-contoured-132x26": [
-      "oversize"
-    ],
-    "rifle-case-plano-pro-max-double-scoped-133x41": [
-      "oversize"
-    ],
-    "rifle-case-plano-pro-max-single-scoped-132x29": [
-      "oversize"
-    ],
-    "rifle-case-plano-rustrictor-all-weather-2-52-132x35": [
-      "oversize"
-    ],
-    "rifle-case-plano-se-single-scoped-121x26": [
-      "oversize"
-    ],
-    "rifle-case-plano-tactical-42-106x40": [
-      "oversize"
-    ],
-    "poetsstok-bore-tech-bore-stix-22": [
-      "oversize"
-    ],
     "poetsstok-bore-tech-bore-stix-223": [
       "oversize"
     ],
@@ -26776,21 +26789,6 @@
     ],
     "smoke-grenade-enola-gaye-wp40-d-yellow": [
       "age-18"
-    ],
-    "shooting-target-caldwell-ar500-dueling-tree": [
-      "oversize"
-    ],
-    "tacstack-l-95x30-rifle-case-green": [
-      "oversize"
-    ],
-    "tacstack-l-95x30-rifle-case-black": [
-      "oversize"
-    ],
-    "tacstack-xl-131x34-rifle-case-green": [
-      "oversize"
-    ],
-    "tacstack-xl-131x34-rifle-case-black": [
-      "oversize"
     ],
     "magazijn-anschutz-1420-u13-22-lr-10-schots": [
       "permit-wwm"
