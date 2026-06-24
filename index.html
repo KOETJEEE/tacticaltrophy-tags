@@ -1996,8 +1996,8 @@ function showShippingPanel() {
     }).join('');
   }
 
-  const ovCount = oversize.reduce((s, x) => s + (x.total || 1), 0);
-  const puCount = pickup.reduce((s, x) => s + (x.total || 1), 0);
+  const ovCount = oversize.reduce((s, x) => s + (x.variants ? x.variants.length : (x.total || 1)), 0);
+  const puCount = pickup.reduce((s, x) => s + (x.variants ? x.variants.length : (x.total || 1)), 0);
 
   document.getElementById('sp-content').innerHTML = `
     <div class="sp-col">
