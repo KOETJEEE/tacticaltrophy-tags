@@ -1996,13 +1996,16 @@ function showShippingPanel() {
     }).join('');
   }
 
+  const ovCount = oversize.reduce((s, x) => s + (x.total || 1), 0);
+  const puCount = pickup.reduce((s, x) => s + (x.total || 1), 0);
+
   document.getElementById('sp-content').innerHTML = `
     <div class="sp-col">
-      <div class="sp-head" style="color:#9333ea">📦 Oversize (${oversize.length})</div>
+      <div class="sp-head" style="color:#9333ea">📦 Oversize (${ovCount} varianten, ${oversize.length} producten)</div>
       ${renderItems(oversize)}
     </div>
     <div class="sp-col">
-      <div class="sp-head" style="color:#9333ea">🚫 Alleen afhalen (${pickup.length})</div>
+      <div class="sp-head" style="color:#9333ea">🚫 Alleen afhalen (${puCount} varianten, ${pickup.length} producten)</div>
       ${renderItems(pickup)}
     </div>`;
 
