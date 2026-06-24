@@ -16341,57 +16341,6 @@
       "foudralen",
       "geweertassen"
     ],
-    "geweerkoffer-fx-impact-extended-120x32": [
-      "oversize"
-    ],
-    "geweerkoffer-fx-impact-m3-sniper-118x30": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-110x25": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-125x25": [
-      "oversize"
-    ],
-    "rifle-case-megaline-130x35": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-met-slot-110x25": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-met-slot-118x30": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-met-slot-118x35": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-met-slot-125x25": [
-      "oversize"
-    ],
-    "geweerkoffer-megaline-met-slot-140x30": [
-      "oversize"
-    ],
-    "geweerkoffer-plano-all-weather-series-131x36": [
-      "oversize"
-    ],
-    "rifle-case-plano-pro-max-contoured-132x26": [
-      "oversize"
-    ],
-    "rifle-case-plano-pro-max-double-scoped-133x41": [
-      "oversize"
-    ],
-    "rifle-case-plano-pro-max-single-scoped-132x29": [
-      "oversize"
-    ],
-    "rifle-case-plano-rustrictor-all-weather-2-52-132x35": [
-      "oversize"
-    ],
-    "rifle-case-plano-se-single-scoped-121x26": [
-      "oversize"
-    ],
-    "rifle-case-plano-tactical-42-106x40": [
-      "oversize"
-    ],
     "granulaat-frankford-arsenal-walnut-media": [
       "herlaadkits",
       "polijsttrommels"
@@ -19329,32 +19278,26 @@
     ],
     "gun-safe-griffon-ge-450k-l-black-cr": [
       "wapen-accessoires",
-      "wapenkluizen",
-      "oversize"
+      "wapenkluizen"
     ],
     "gun-safe-griffon-gg-700-e": [
-      "wapenkluizen",
-      "oversize"
+      "wapenkluizen"
     ],
     "gun-safe-griffon-glst-470-k": [
       "wapenkluizen",
-      "wapen-accessoires",
-      "oversize"
+      "wapen-accessoires"
     ],
     "gun-safe-griffon-glst-650-k": [
       "wapenkluizen",
-      "wapen-accessoires",
-      "oversize"
+      "wapen-accessoires"
     ],
     "gun-safe-griffon-glt-340-k": [
       "wapenkluizen",
-      "wapen-accessoires",
-      "oversize"
+      "wapen-accessoires"
     ],
     "gun-safe-griffon-gs-420-k": [
       "wapen-accessoires",
-      "wapenkluizen",
-      "oversize"
+      "wapenkluizen"
     ],
     "gun-safe-griffon-s-25-ep": [
       "wapen-accessoires"
@@ -19363,20 +19306,16 @@
       "wapen-accessoires"
     ],
     "wapenkluis-infac-sentinel-sd10": [
-      "wapen-accessoires",
-      "oversize"
+      "wapen-accessoires"
     ],
     "wapenkluis-infac-sentinel-sd14": [
-      "wapen-accessoires",
-      "oversize"
+      "wapen-accessoires"
     ],
     "wapenkluis-infac-sentinel-sd5": [
-      "wapen-accessoires",
-      "oversize"
+      "wapen-accessoires"
     ],
     "wapenkluis-infac-sentinel-sd7": [
-      "wapen-accessoires",
-      "oversize"
+      "wapen-accessoires"
     ],
     "thermal-imaging-camera-hikmicro-thunder-2-0-clip-on-tq35cr": [
       "voorzetkijkers"
@@ -26287,9 +26226,6 @@
     "frankonia-277057": [
       "jassen"
     ],
-    "geweerkoffer-plano-all-weather-series-109x36": [
-      "oversize"
-    ],
     "nest-monopod-wt-1003-h171-cm-295810": [
       "optiek-accessoires",
       "tripods"
@@ -26951,6 +26887,108 @@
     ],
     "umarex-t4e-tp50-gen2": [
       "permit-wwm"
+    ],
+    "wapenkluis-infac-sentinel-sd14": [
+      "oversize"
+    ],
+    "wapenkluis-infac-sentinel-sd10": [
+      "oversize"
+    ],
+    "tacstack-xl-131x34-rifle-case-black": [
+      "oversize"
+    ],
+    "tacstack-l-95x30-rifle-case-green": [
+      "oversize"
+    ],
+    "geweerkoffer-fx-impact-extended-120x32": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-125x25": [
+      "oversize"
+    ],
+    "gun-safe-griffon-gs-420-k": [
+      "oversize"
+    ],
+    "rifle-case-plano-pro-max-double-scoped-133x41": [
+      "oversize"
+    ],
+    "rifle-case-plano-se-single-scoped-121x26": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-125x25": [
+      "oversize"
+    ],
+    "wapenkluis-infac-sentinel-sd7": [
+      "oversize"
+    ],
+    "rifle-case-plano-rustrictor-all-weather-2-52-132x35": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-118x35": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-110x25": [
+      "oversize"
+    ],
+    "geweerkoffer-plano-all-weather-series-109x36": [
+      "oversize"
+    ],
+    "rifle-case-plano-pro-max-contoured-132x26": [
+      "oversize"
+    ],
+    "tacstack-l-95x30-rifle-case-black": [
+      "oversize"
+    ],
+    "gun-safe-griffon-ge-450k-l-black-cr": [
+      "oversize"
+    ],
+    "poetsstok-bore-tech-bore-stix-22": [
+      "oversize"
+    ],
+    "rifle-case-plano-pro-max-single-scoped-132x29": [
+      "oversize"
+    ],
+    "gun-safe-griffon-gg-700-e": [
+      "oversize"
+    ],
+    "geweerkoffer-plano-all-weather-series-131x36": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-110x25": [
+      "oversize"
+    ],
+    "gun-safe-griffon-glt-340-k": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-140x30": [
+      "oversize"
+    ],
+    "geweerkoffer-megaline-met-slot-118x30": [
+      "oversize"
+    ],
+    "gun-safe-griffon-glst-470-k": [
+      "oversize"
+    ],
+    "geweerkoffer-fx-impact-m3-sniper-118x30": [
+      "oversize"
+    ],
+    "gun-safe-griffon-glst-650-k": [
+      "oversize"
+    ],
+    "tacstack-xl-131x34-rifle-case-green": [
+      "oversize"
+    ],
+    "shooting-target-caldwell-ar500-dueling-tree": [
+      "oversize"
+    ],
+    "rifle-case-plano-tactical-42-106x40": [
+      "oversize"
+    ],
+    "rifle-case-megaline-130x35": [
+      "oversize"
+    ],
+    "wapenkluis-infac-sentinel-sd5": [
+      "oversize"
     ]
   },
   "_filtered": [
