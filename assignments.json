@@ -5175,10 +5175,10 @@
     "kolven"
   ],
   "stock-ctm-twinfold-fixed-4-2": [
-    "kolven"
+    "chassis"
   ],
   "stock-ctm-twinfold-fixed-6-6": [
-    "kolven"
+    "chassis"
   ],
   "stock-evanix-viper-adjustable": [
     "kolven"
@@ -8259,7 +8259,6 @@
   "quick-release-adapter-amomax": [
     "holsters-toebehoren"
   ],
-  "rail-weight-saber-tactical-fx-panthera-brass-bridge": [],
   "rail-weights-saber-tactical-m-lok-227-grams": [
     "loopgewichten"
   ],
@@ -10106,7 +10105,6 @@
   "trigger-timney-ar-pro-two-stage": [
     "trekkers"
   ],
-  "trigger-timney-ar-15-m4-competition-small-pin-curved": [],
   "trigger-timney-ar15-m4-competition-small-pin-straight": [
     "trekkers"
   ],
@@ -11717,9 +11715,7 @@
   "ecopybook-tactical-ruler-reconnaissance-btr-8634": [
     "veldnotitie"
   ],
-  "ecopybook-tactical-ruler-ts-nato-853": [
-    "tactical-bags"
-  ],
+  "ecopybook-tactical-ruler-ts-nato-853": [],
   "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
     "veldnotitie"
   ],
@@ -17659,10 +17655,37 @@
     "chassis-mdt-xrs-tikka-t3-t3x-sa-black": [
       "kolven"
     ],
+    "chassis-rome-lorica-bergara-b14r": [
+      "kolven"
+    ],
+    "chassis-rome-lorica-tikka-t1x": [
+      "kolven"
+    ],
+    "chassis-rome-lorica-e-tikka-t3": [
+      "kolven"
+    ],
+    "chassis-rome-lorica-r-remington-sa": [
+      "kolven"
+    ],
+    "chassis-rome-lorica-r-tikka-t3": [
+      "kolven"
+    ],
     "chassis-rome-motus-cz-457": [
       "kolven"
     ],
     "chassis-rome-motus-tikka-t1x": [
+      "kolven"
+    ],
+    "chassis-saber-tactical-fx-drs-bronze": [
+      "kolven"
+    ],
+    "chassis-saber-tactical-fx-drs-grey": [
+      "kolven"
+    ],
+    "chassis-saber-tactical-fx-panthera-dynamic-king-bronze": [
+      "kolven"
+    ],
+    "chassis-saber-tactical-fx-panthera-dynamic-king-grey": [
       "kolven"
     ],
     "cheek-rest-saber-tactical-trs-fx-impact-m4": [
@@ -18636,6 +18659,12 @@
     ],
     "pellet-catcher-krale-hammerite-23x23": [
       "luchtdrukmunitie-accessoires"
+    ],
+    "stock-ctm-twinfold-fixed-4-2": [
+      "kolven"
+    ],
+    "stock-ctm-twinfold-fixed-6-6": [
+      "kolven"
     ],
     "kolf-hogue-ar15-omc-mil-spec": [
       "kolven"
@@ -22079,7 +22108,8 @@
     ],
     "ecopybook-tactical-ruler-ts-nato-853": [
       "tactical-bags",
-      "tactical-gear"
+      "tactical-gear",
+      "m-tac"
     ],
     "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
       "m-tac",
@@ -33894,7 +33924,50 @@
     "montagerail-saber-tactical-fx-impact-trs",
     "montagerail-saber-tactical-trs-fx-impact-m4",
     "defence-spray-tw1000-tiw-paint-gel",
-    "defence-spray-tw1000-tiw-paint-gel-black-cap"
+    "defence-spray-tw1000-tiw-paint-gel-black-cap",
+    "zoutgeweer-bug-a-salt-bugbuster-black-fly-3-0",
+    "zoutgeweer-bugbuster-bug-a-salt-3-0-classic-yellow",
+    "zoutgeweer-bug-a-salt-bugbuster-3-0-gold-digger",
+    "salt-gun-bug-a-salt-3-0-lawn-garden",
+    "zoutgeweer-bugbuster-bug-a-salt-3-0-orange-crush",
+    "zoutgeweer-bug-a-salt-bugbuster-3-0-pink-passion-assassin-limited-edition",
+    "zoutgeweer-bug-a-salt-bugbuster-realtree-camo-3-0-limited-edition",
+    "jacket-berserk-polartec-primaloft-9657",
+    "m-tac-set-of-velcro-5-pcs-575",
+    "set-of-fixers-for-velcro-panel-10-pcs-8300",
+    "tacstack-xl-131x34-rifle-case-green",
+    "tacstack-xl-131x34-rifle-case-black",
+    "tripod-two-vets-qdt-v2-ls1",
+    "tripod-two-vets-recon-v2-ls1",
+    "tacstack-l-95x30-rifle-case-green",
+    "tacstack-l-95x30-rifle-case-black",
+    "tacstack-m-88x30-rifle-bag",
+    "chassis-rome-lorica-bergara-b14r",
+    "stock-ctm-twinfold-fixed-4-2",
+    "stock-ctm-twinfold-fixed-6-6",
+    "lens-eagle-vision-4k-m12x0-35-1-1-8-for-gopro-5-6-and-7",
+    "bipod-mdt-ckye-pod-gen3-double-pull",
+    "bipod-mdt-ckye-pod-gen3-triple-pull",
+    "sirui-sportich-b1042a-bk-verrekijker-10x42-610501",
+    "sirui-sportich-b1042a-gn-verrekijker-10x42-610502",
+    "kowa-neopreen-stay-on-tas-c-99a-n-voor-tsn-99a-440997",
+    "kowa-stay-on-tas-c-500b-voor-tsn-500-serie-zwart-440221",
+    "kowa-stay-on-tas-c-500g-voor-tsn-500-serie-groen-446499",
+    "kowa-stay-on-tas-c-662-voor-tsn-662664m-440696",
+    "kowa-stay-on-tas-c-771-voor-tsn-771773-440790",
+    "kowa-stay-on-tas-c-821-voor-tsn-82sv-440819",
+    "kowa-stay-on-tas-c-881-voor-tsn-881883-440888",
+    "kowa-stay-on-tas-voor-tsn601-440690",
+    "kowa-tsn-501-20-40x50-incl-neopreen-tas-440051",
+    "kowa-tsn-as125g-astroadapter-440224",
+    "kowa-tsn-as125k-astroadapter-440226",
+    "buteo-photo-gear-regenhoes-1-zwart-720004",
+    "buteo-photo-gear-regenhoes-2-zwart-720008",
+    "buteo-photo-gear-regenhoes-voor-falco-mark-iv-groen-720231",
+    "buteo-photo-gear-regenhoes-voor-falco-mark-iv-riet-720233",
+    "buteo-photo-gear-regenhoes-1-720001",
+    "buteo-photo-gear-regenhoes-1-sneeuw-720002",
+    "buteo-photo-gear-regenhoes-voor-falco-mark-iv-bruin-720235"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
