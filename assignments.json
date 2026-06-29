@@ -481,6 +481,18 @@
   "warmtebeeldkijker-hikmicro-lynx-lc06": [
     "warmtebeeld"
   ],
+  "clay-pigeons-caldwell-claycopter-stealth-drone-110-mm-50-pack": [
+    "kleiduiven"
+  ],
+  "clay-pigeons-caldwell-claycopter-ufo-glowing-target-110-mm-50-pack": [
+    "kleiduiven"
+  ],
+  "clay-pigeons-caldwell-claycopter-xv-110-mm-50-pack": [
+    "kleiduiven"
+  ],
+  "clay-pigeon-trap-caldwell-claycopter-rip-launcher": [
+    "kleiduifmachines"
+  ],
   "clay-pigeon-trap-caldwell-claycopter-surface-to-air": [
     "kleiduifmachines"
   ],
@@ -489,6 +501,336 @@
   ],
   "lens-cleaner-lenspen-original-black-series": [
     "gereedschap"
+  ],
+  "barrel-adaptor-donnyfl-qd": [
+    "loopkits-toebehoren"
+  ],
+  "barrel-kit-epic-airguns-two-700-mm": [
+    "loopkits-toebehoren"
+  ],
+  "barrel-kit-epic-airguns-two-lw-700-mm": [
+    "loopkits-toebehoren"
+  ],
+  "barrel-kit-fx-bull-700-mm": [
+    "loopkits-toebehoren"
+  ],
+  "barrel-kit-fx-crown-superlight": [
+    "loopkits-toebehoren"
+  ],
+  "loopkit-fx-dreamline-smooth-twist-x": [
+    "loopkits-toebehoren"
+  ],
+  "loopkit-fx-impact-smooth-twist-x": [
+    "loopkits-toebehoren"
+  ],
+  "barrel-kit-fx-solid": [
+    "loopkits-toebehoren"
+  ],
+  "loopkit-fx-wildcat-maverick-500-mm": [
+    "loopkits-toebehoren"
+  ],
+  "barrel-kit-fx-wildcat-maverick-600-mm": [
+    "loopkits-toebehoren"
+  ],
+  "loopkit-fx-wildcat-maverick-700-mm": [
+    "loopkits-toebehoren"
+  ],
+  "airgun-pellets-fx-4-52-mm-8-4-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-fx-5-52-mm-15-9-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-fx-5-52-mm-18-1-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-fx-5-52-mm-25-4-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-fx-6-35-mm-25-4-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-fx-6-35-mm-43-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-fx-7-62-mm-44-74-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-fx-7-62-mm-50-15-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-fx-9-mm-81-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-7-62-mm-44-75-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-9-mm-81-02-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-diabolo-4-5-mm-8-44-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-diabolo-5-05-mm-13-73-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-diabolo-express-4-52-mm-7-87-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "jsb-exact-diabolo-heavy-4-52-mm-10-34-grain-500": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-diabolo-jumbo-5-5-mm-15-89-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-diabolo-jumbo-bigbox-5-5-mm-15-89-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-diabolo-jumbo-express-5-52-mm-14-35-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-diabolo-jumbo-express-bigbox-5-52-mm-14-35-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-diabolo-jumbo-heavy-5-52-mm-18-13-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-diabolo-jumbo-heavy-bigbox-5-52-mm-18-13-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-heavy-7-62-mm-50-15-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-jumbo-beast-4-52-mm-16-2-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-jumbo-beast-5-5-mm-33-95-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-jumbo-heavy-5-05-mm-15-89-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-jumbo-monster-5-52-mm-25-4-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-exact-jumbo-monster-light-5-52-mm-20-83-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-jumbo-rs-5-52-mm-13-43-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-jumbo-rs-bigbox-5-52-mm-13-43-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-king-6-35-mm-25-4-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-king-heavy-6-35-mm-33-95-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-king-heavy-mkii-6-35-mm-33-95-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-monster-redesigned-4-52-mm-13-43-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-exact-premium-7-62-mm-44-75-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-exact-premium-7-62-mm-50-15-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-exact-rs-4-52-mm-7-33-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-hades-4-5-mm-10-34-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-hades-5-5-mm-15-89-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-hades-6-35-mm-26-54-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-hades-7-62-mm-44-75-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-hades-9-mm-77-16-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-hades-bigbox-5-5-mm-15-89-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-hades-monster-5-52-mm-25-39-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-jumbo-exact-monster-grand-5-52-mm-28-55-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-jumbo-exact-monster-redesigned-deep-5-52-mm-25-39-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-jumbo-exact-monster-redesigned-shallow-5-52-mm-25-39-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-match-diabolo-4-5-mm-8-02-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-match-diabolo-s100-4-5-mm-8-26-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-match-light-weight-4-5-mm-7-33-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jsb-simply-4-5-mm-8-26-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-straton-4-5-mm-8-26-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-jsb-straton-jumbo-5-5-mm-15-89-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-5-5-mm-16-08-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-5-5-mm-18-1-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-5-5-mm-18-80-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-5-5-mm-20-73-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-5-5-mm-21-53-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-5-5-mm-22-07-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-5-5-mm-25-39-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-6-35-mm-25-39-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-6-35-mm-29-32-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-6-35-mm-33-80-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-7-62-mm-45-06-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-domed-4-5-mm-10-4-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-domed-4-5-mm-8-7-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-domed-6-35-mm-29-63-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-flat-4-5-mm-7-87-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-jts-dead-center-precision-wadcutter-5-5-mm-14-89-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-predator-metalmag-4-5-mm-8-5-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-predator-metalmag-5-5-mm-17-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-predator-polymag-5-05-mm-13-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-predator-polymag-5-5-mm-16-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-predator-polymag-6-35-mm-26-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-predator-polymag-7-62-mm-44-75-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-predator-polymag-9-mm-81-01-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-predator-polymag-shorts-4-5-mm-8-02-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-predator-polymag-shorts-5-5-mm-15-89-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-accurate-heavy-4-5-mm-10-08-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-accurate-heavy-5-5-mm-21-30-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-accurate-heavy-6-35-mm-32-41-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-hollow-point-4-5-mm-8-8-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-hollow-point-5-5-mm-15-74-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-max-heavy-round-4-5-mm-13-27-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-pointed-4-5-mm-7-41-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-snowpeak-pointed-5-5-mm-13-89-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-pointed-5-5-mm-16-20-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-round-4-5-mm-8-33-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-round-5-5-mm-15-9-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-round-5-5-mm-15-90-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-round-6-35-mm-25-46-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-round-7-62-mm-45-68-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-round-9-mm-80-87-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-round-heavy-4-5-mm-10-34-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-round-heavy-7-62-mm-50-46-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-snowpeak-wadcutter-4-5-mm-7-72-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-snowpeak-wadcutter-5-5-mm-14-04-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "airgun-pellets-zan-projectiles-br100-7-62-mm-56-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-zan-projectiles-br50-7-62-mm-48-grain": [
+    "luchtdrukwapenmunitie"
+  ],
+  "luchtdrukkogeltjes-zan-projectiles-fat-boy-6-35-mm-29-grain": [
+    "luchtdrukwapenmunitie"
   ],
   "mount-walther-fixlock-rings": [
     "1-delige-montages"
