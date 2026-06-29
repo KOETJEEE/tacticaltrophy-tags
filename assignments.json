@@ -403,6 +403,27 @@
   "dry-training-buffer-walther-ssp-22-lr": [
     "trainingssystemen"
   ],
+  "dual-sidelever-kit-fx-impact": [
+    "grendelknoppen"
+  ],
+  "endcap-donnyfl-qd-fx-donnyfl": [
+    "geluiddemperadapters"
+  ],
+  "endcap-donnyfl-qd-koi-tanto": [
+    "geluiddemperadapters"
+  ],
+  "endcap-donnyfl-ronin-emperor": [
+    "geluiddemperadapters"
+  ],
+  "endcap-donnyfl-ronin-emperor-m14x1": [
+    "geluiddemperadapters"
+  ],
+  "endcap-donnyfl-sumo-tatsu-shogun": [
+    "geluiddemperadapters"
+  ],
+  "endcap-donnyfl-tanto-koi": [
+    "geluiddemperadapters"
+  ],
   "ear-defender-sordin-supreme-t2-leather-black": [
     "gehoorbescherming"
   ],
@@ -411,6 +432,54 @@
   ],
   "handschoenen-mechanix-the-original-multicam": [
     "tactical-handschoenen"
+  ],
+  "thermal-imaging-camera-hikmicro-condor-2-0-cq35l": [
+    "warmtebeeld"
+  ],
+  "warmtebeeldkijker-hikmicro-condor-2-0-ch35l": [
+    "warmtebeeld"
+  ],
+  "thermal-imaging-camera-hikmicro-falcon-2-0-fq35": [
+    "warmtebeeld"
+  ],
+  "thermal-imaging-camera-hikmicro-falcon-2-0-fq50": [
+    "warmtebeeld"
+  ],
+  "thermal-imaging-camera-hikmicro-falcon-2-0-fq50l": [
+    "warmtebeeld"
+  ],
+  "warmtebeeldkijker-hikmicro-lynx-pro-lh15": [
+    "warmtebeeld"
+  ],
+  "warmtebeeldkijker-hikmicro-lynx-pro-lh25": [
+    "warmtebeeld"
+  ],
+  "hikmicro-lynx-3-0-le10-thermal-imaging-camera": [
+    "warmtebeeld"
+  ],
+  "hikmicro-lynx-3-0-le15-thermal-imaging-camera": [
+    "warmtebeeld"
+  ],
+  "hikmicro-lynx-3-0-lh15-thermal-imaging-camera": [
+    "warmtebeeld"
+  ],
+  "hikmicro-lynx-3-0-lh19-thermal-imaging-camera": [
+    "warmtebeeld"
+  ],
+  "hikmicro-lynx-3-0-lh25-thermal-imaging-camera": [
+    "warmtebeeld"
+  ],
+  "hikmicro-lynx-3-0-lh35-thermal-imaging-camera": [
+    "warmtebeeld"
+  ],
+  "hikmicro-lynx-3-0-lq35-thermal-imaging-camera": [
+    "warmtebeeld"
+  ],
+  "hikmicro-lynx-3-0-lq35l-thermal-imaging-camera": [
+    "warmtebeeld"
+  ],
+  "warmtebeeldkijker-hikmicro-lynx-lc06": [
+    "warmtebeeld"
   ],
   "korrel-megaline-hagelgeweer-28-fluor-green-fiberglass": [
     "korrels"
@@ -31735,7 +31804,11 @@
     "verstelbare-vizierset-lpa-spf-fiberglass",
     "vector-optics-orion-pro-max-6-24x50-vor-4-mil-rifle-scope",
     "adapter-mdt-folding-stock-carbine-to-carbine",
-    "agm-pvs-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121066"
+    "agm-pvs-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121066",
+    "endcap-donnyfl-tanto-koi",
+    "endcap-donnyfl-sumo-tatsu-shogun",
+    "endcap-donnyfl-ronin-emperor-m14x1",
+    "endcap-donnyfl-qd-koi-tanto"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
