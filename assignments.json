@@ -143,7 +143,7 @@
     "camouflagenetten"
   ],
   "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-groen-15x3-m-720027": [
-    "jacht-truien"
+    "camouflagenetten"
   ],
   "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-groen-24x3-m-720028": [
     "camouflagenetten"
@@ -185,52 +185,52 @@
     "zandzakken"
   ],
   "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208": [
-    "tassen-rugzakken"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-draagtas-voor-aquila-mark-iii-groen-720210": [
-    "tassen-rugzakken"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-draagtas-voor-aquila-mark-iii-riet-720209": [
-    "tassen-rugzakken"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-draagtas-voor-aquila-mark-iii-sneeuw-720213": [
-    "tassen-rugzakken"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-draagtas-voor-buteo-mark-iii-bruin-720205": [
-    "tassen-rugzakken"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-draagtas-voor-buteo-mark-iii-groen-720207": [
-    "tassen-rugzakken"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-draagtas-voor-buteo-mark-iii-riet-720206": [
-    "tassen-rugzakken"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-draagtas-voor-buteo-mark-iii-sneeuw-720212": [
-    "tassen-rugzakken"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-bruin-720180": [
-    "schuiltenten"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-groen-720182": [
-    "schuiltenten"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-riet-720181": [
-    "schuiltenten"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-sneeuw-720183": [
-    "schuiltenten"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-bruin-720160": [
-    "schuiltenten"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-groen-720162": [
-    "schuiltenten"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-riet-720161": [
-    "schuiltenten"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-sneeuw-720163": [
-    "schuiltenten"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-grondzeil-voor-aquila-mark-ii-en-iii-720089": [
     "schuiltenten"
@@ -323,7 +323,7 @@
     "loepen"
   ],
   "byomic-omkeerprisma-erecting-eyepiece-15x-260402": [
-    "oculairs"
+    "overige-optiek"
   ],
   "carson-bol-loep-2x75mm-186111": [
     "loepen"
@@ -15310,6 +15310,9 @@
     "buteo-photo-gear-3d-blaadjes-handschoenen-720101": [
       "camouflage"
     ],
+    "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-groen-15x3-m-720027": [
+      "jacht-truien"
+    ],
     "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-woodland-24x3-m-720026": [
       "pickup-only"
     ],
@@ -15390,6 +15393,38 @@
       "rugzakken",
       "tassen",
       "transport"
+    ],
+    "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-bruin-720180": [
+      "schuiltenten",
+      "survival"
+    ],
+    "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-groen-720182": [
+      "schuiltenten",
+      "survival"
+    ],
+    "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-riet-720181": [
+      "schuiltenten",
+      "survival"
+    ],
+    "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-sneeuw-720183": [
+      "schuiltenten",
+      "survival"
+    ],
+    "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-bruin-720160": [
+      "schuiltenten",
+      "survival"
+    ],
+    "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-groen-720162": [
+      "schuiltenten",
+      "survival"
+    ],
+    "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-riet-720161": [
+      "schuiltenten",
+      "survival"
+    ],
+    "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-sneeuw-720163": [
+      "schuiltenten",
+      "survival"
     ],
     "buteo-photo-gear-grondzeil-voor-aquila-mark-ii-en-iii-720089": [
       "oversize"
@@ -33990,7 +34025,32 @@
     "outdoor-club-camouflagenet-green-forest-09x18-m-531005",
     "outdoor-club-camouflagenet-brown-forest-15x4-m-531001",
     "outdoor-club-camouflagenet-brown-forest-09x18-m-531000",
-    "konus-tafelloep-flexo-120-433625"
+    "konus-tafelloep-flexo-120-433625",
+    "byomic-omkeerprisma-erecting-eyepiece-15x-260402",
+    "buteo-photo-gear-messing-schroef-38-21-mm-720716",
+    "buteo-photo-gear-hybride-camouflagenet-natural-green-15x3-m-720720",
+    "buteo-photo-gear-hide-cover-sneeuw-voor-buteo-mark-ii-720076",
+    "buteo-photo-gear-grondzeil-voor-falco-mark-ii-720090",
+    "buteo-photo-gear-grondzeil-voor-buteo-mark-ii-en-iii-720088",
+    "buteo-photo-gear-grondzeil-voor-aquila-mark-ii-en-iii-720089",
+    "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-groen-720162",
+    "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-riet-720161",
+    "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-sneeuw-720163",
+    "buteo-photo-gear-extra-dak-voor-buteo-mark-iii-bruin-720160",
+    "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-sneeuw-720183",
+    "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-riet-720181",
+    "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-groen-720182",
+    "buteo-photo-gear-extra-dak-voor-aquila-mark-iii-bruin-720180",
+    "buteo-photo-gear-draagtas-voor-buteo-mark-iii-sneeuw-720212",
+    "buteo-photo-gear-draagtas-voor-buteo-mark-iii-riet-720206",
+    "buteo-photo-gear-draagtas-voor-buteo-mark-iii-groen-720207",
+    "buteo-photo-gear-draagtas-voor-aquila-mark-iii-sneeuw-720213",
+    "buteo-photo-gear-draagtas-voor-buteo-mark-iii-bruin-720205",
+    "buteo-photo-gear-draagtas-voor-aquila-mark-iii-riet-720209",
+    "buteo-photo-gear-draagtas-voor-aquila-mark-iii-groen-720210",
+    "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208",
+    "buteo-photo-gear-bean-bag-1-zadelmodel-zwart-met-draagriem-720010",
+    "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-groen-15x3-m-720027"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
