@@ -10,6 +10,45 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "flag-odin-night-vision-630x900-5792"
   ],
+  "agm-pvs-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121066": [
+    "nachtzicht-handheld"
+  ],
+  "accessory-set-fx-dynamic-fde": [
+    "accessoireset"
+  ],
+  "adapter-mdt-folding-stock-carbine-to-carbine": [
+    "buttstockadapters"
+  ],
+  "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
+    "vochtontrekkers"
+  ],
+  "ear-defender-sordin-supreme-t2-leather-black": [
+    "gehoorbescherming"
+  ],
+  "weight-reservoir-caldwell-lead-sled-4-dft-3-2-pack": [
+    "geweersteunen"
+  ],
+  "handschoenen-mechanix-the-original-multicam": [
+    "tactical-handschoenen"
+  ],
+  "korrel-megaline-hagelgeweer-28-fluor-green-fiberglass": [
+    "korrels"
+  ],
+  "mount-walther-fixlock-rings": [
+    "1-delige-montages"
+  ],
+  "tacstack-m-bag-organiser": [
+    "tactical-bags"
+  ],
+  "rifle-scope-vector-optics-grizzly-1-6x24i-hd": [
+    "richtkijkers"
+  ],
+  "vector-optics-orion-pro-max-6-24x50-vor-4-mil-rifle-scope": [
+    "richtkijkers"
+  ],
+  "verstelbare-vizierset-lpa-spf-fiberglass": [
+    "vizieren"
+  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -237,12 +276,12 @@
     "brillenkoorden"
   ],
   "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
-    "loepen",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "loepen"
   ],
   "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [
-    "loepen",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "loepen"
   ],
   "carson-magnigrip-mg-88-loep-met-pincet-186154": [
     "loepen"
@@ -592,9 +631,6 @@
   ],
   "konus-oplaadbare-zaklamp-konuslight-rc-5-433928": [
     "zaklampen-hoofdlampen"
-  ],
-  "konus-quick-release-montageringen-254-mm-hoog-437406": [
-    "2-delige-montages"
   ],
   "konus-quick-release-montageringen-254-mm-medium-437407": [
     "2-delige-montages"
@@ -1684,8 +1720,8 @@
     "revisiesetjes"
   ],
   "sealant-4uad-4uantum-seal": [
-    "borgmiddelen",
-    "onderhoudshulpmiddelen"
+    "onderhoudshulpmiddelen",
+    "borgmiddelen"
   ],
   "red-dot-aim-o-552-red-green": [
     "red-dots"
@@ -1742,8 +1778,8 @@
     "airsoft-diversen"
   ],
   "anti-fog-4uad-4uantum-fogg-off-eyewear-spray": [
-    "onderhoudshulpmiddelen",
-    "oogbescherming"
+    "oogbescherming",
+    "onderhoudshulpmiddelen"
   ],
   "anti-rol-kit-bf-voor-persluchtfles": [
     "persluchtfles-accessoires"
@@ -1758,8 +1794,8 @@
     "vochtontrekkers"
   ],
   "anti-odor-spray-scent-a-way-max-odorless": [
-    "onderhoudshulpmiddelen",
-    "insectenbescherming"
+    "insectenbescherming",
+    "onderhoudshulpmiddelen"
   ],
   "ar-combo-wrench-element-multifunctional": [
     "gereedschap"
@@ -2305,9 +2341,6 @@
   ],
   "blauwsel-roestverwijderaar-birchwood-blue-rust-remover": [
     "blauwsel"
-  ],
-  "body-pins-set-wolverine-mtw": [
-    "airsoft-accessoires"
   ],
   "bore-snake-snake-it": [
     "reinigingskoorden"
@@ -2952,8 +2985,8 @@
     "lokduiven"
   ],
   "pigeon-decoy-sillosocks-3d-head": [
-    "lokduiven",
-    "lokmiddel-toebehoren"
+    "lokmiddel-toebehoren",
+    "lokduiven"
   ],
   "pigeon-decoy-sillosocks-harvester-12-pack": [
     "lokduiven"
@@ -3178,9 +3211,6 @@
     "lokganzen"
   ],
   "decoy-sillosocks-2d-canada-goose-sentry-6-pack": [
-    "lokganzen"
-  ],
-  "decoy-sillosocks-3d-pink-foot-grey-lag-goose-sentry-6-pack": [
     "lokganzen"
   ],
   "decoy-sillosocks-2d-3d-canada-goose-harvester-6-pack": [
@@ -3965,9 +3995,6 @@
   "grip-walther-ssp-3d-walnut": [
     "grips"
   ],
-  "grip-panels-lok-grips-walther-q-series-sf-gridlok-brass": [
-    "grips"
-  ],
   "grip-plug-ergo-air-tactical-deluxe-zero-angle": [
     "grips"
   ],
@@ -4067,16 +4094,16 @@
     "grips"
   ],
   "headset-code-red-battle-zero-nx-bm-hybrid-bone-conduction": [
-    "headsets-toebehoren",
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-code-red-battle-zero-k": [
-    "headsets-toebehoren",
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-code-red-investigator-two-wire-with-microphone": [
-    "headsets-toebehoren",
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-code-red-silent-listen-only-3-5-mm-connector-with-replacement-pack": [
     "portofoons",
@@ -4086,12 +4113,12 @@
     "portofoons"
   ],
   "headset-z-tactical-bowman-evo-iii-green": [
-    "headsets-toebehoren",
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-z-tactical-comtac-ii-green": [
-    "headsets-toebehoren",
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "helmet-pts-mtek-flux-black": [
     "helmen"
@@ -4187,16 +4214,16 @@
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir": [
-    "nachtzicht-richtkijkers",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir": [
-    "nachtzicht-richtkijkers",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir-no-reticle": [
-    "nachtzicht-richtkijkers",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-850-nm-ir": [
     "nachtzicht-richtkijkers"
@@ -4248,9 +4275,6 @@
   ],
   "hikmicro-stellar-3-0-sx60ls-thermal-imaging-rifle-scope": [
     "warmtebeeld-richtkijkers"
-  ],
-  "thermal-imaging-camera-hikmicro-thunder-2-0-clip-on-te19cr": [
-    "voorzetkijkers"
   ],
   "thermal-imaging-camera-hikmicro-thunder-3-0-clip-on-th35c-no-reticle": [
     "voorzetkijkers"
@@ -5330,9 +5354,6 @@
   "magazine-g-g-smc-9-drum": [
     "magazijnen"
   ],
-  "magazine-g-g-sr25-mid-cap": [
-    "magazijnen"
-  ],
   "magazijn-g-g-sr25-hi-cap": [
     "magazijnen"
   ],
@@ -6311,8 +6332,8 @@
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir-no-reticle": [
-    "nachtzicht-handheld",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-handheld"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-940-nm-ir": [
     "nachtzicht-richtkijkers"
@@ -6445,8 +6466,8 @@
     "headsets-toebehoren"
   ],
   "service-kit-fx-crown-impact-regulator-s-n-183534": [
-    "revisiesetjes",
-    "regulators"
+    "regulators",
+    "revisiesetjes"
   ],
   "onderhoudsmat-tipton-handwapen": [
     "schoonmaakstations"
@@ -7631,8 +7652,8 @@
     "schoonmaakborstels"
   ],
   "schoonmaakborstelset-tipton": [
-    "onderhoudshulpmiddelen",
-    "schoonmaaksetjes"
+    "schoonmaaksetjes",
+    "onderhoudshulpmiddelen"
   ],
   "schoonmaakpatches-bore-tech-round-1-1-2-25-38": [
     "patches"
@@ -7861,10 +7882,6 @@
     "richtmiddel-accessoires",
     "beschermkappen"
   ],
-  "scope-protector-laylax-direct-mount-aegis-hg-hi-capa": [
-    "beschermkappen",
-    "richtmiddel-accessoires"
-  ],
   "scope-protector-laylax-direct-mount-aegis-hg-glock": [
     "beschermkappen",
     "richtmiddel-accessoires"
@@ -8082,8 +8099,8 @@
     "airsoft-speedloaders"
   ],
   "sporttas-walther-met-wielen": [
-    "range-bags",
-    "tassen-rugzakken"
+    "tassen-rugzakken",
+    "range-bags"
   ],
   "spray-birchwood-synthetic-stock-cleaner-protectant-60-ml": [
     "kolfolien"
@@ -10253,8 +10270,8 @@
     "hoodies"
   ],
   "hook-loop-low-profile-admin-panel-197": [
-    "admin-pouches",
-    "patch-panels"
+    "patch-panels",
+    "admin-pouches"
   ],
   "horizontal-medical-pouch-elite-483": [
     "ehbo",
@@ -10601,8 +10618,8 @@
     "tactical-riemen"
   ],
   "m-tac-collapsible-grappling-hook-7630": [
-    "karabijnhaken",
-    "velcro-strips"
+    "velcro-strips",
+    "karabijnhaken"
   ],
   "m-tac-cross-bag-slim-elite-hex-698": [
     "sling-bags"
@@ -10799,8 +10816,8 @@
     "paracord"
   ],
   "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
-    "paracord",
-    "kompassen"
+    "kompassen",
+    "paracord"
   ],
   "m-tac-paracord-survival-951": [
     "paracord"
@@ -12660,8 +12677,8 @@
   ],
   "sweat-wicking-t-shirt-genii-6561": [
     "shirts",
-    "thermokleding",
     "tactical-shirts",
+    "thermokleding",
     "thermoshirts"
   ],
   "sweater-nord-fleece-polartec-lady-3957": [
@@ -12918,8 +12935,8 @@
     "tactical-riemen"
   ],
   "tiger-belt-cobra-buckle-811": [
-    "riemen-bretels",
-    "tactical-riemen"
+    "tactical-riemen",
+    "riemen-bretels"
   ],
   "toiletry-bag-316": [
     "admin-pouches"
@@ -13149,23 +13166,6 @@
   "zip-pocket-organizer-set-elite-8979": [
     "admin-pouches"
   ],
-  "thermal-imaging-camera-dnt-hydra-hs225": [
-    "warmtebeeld-richtkijkers"
-  ],
-  "frankonia-277057": [
-    "fleece",
-    "jacht-vesten"
-  ],
-  "flir-breach-ptq136-warmtebeeldcamera-13431913": [
-    "warmtebeeld"
-  ],
-  "nest-monopod-wt-1003-h171-cm-295810": [
-    "monopods",
-    "statieven"
-  ],
-  "pistol-case-plano-tactical-44x26": [
-    "wapenkoffers"
-  ],
   "admin-bag-large-elite-hex-with-velcro-8295": [
     "tassen-rugzakken"
   ],
@@ -13344,9 +13344,9 @@
     "shirts"
   ],
   "t-shirt-ua-side-long-sleeve-6752": [
-    "shirts",
     "t-shirts-polos",
-    "tactical-shirts"
+    "tactical-shirts",
+    "shirts"
   ],
   "t-shirt-viking-2853": [
     "shirts"
@@ -16153,9 +16153,6 @@
     "decoy-sillosocks-2d-canada-goose-sentry-6-pack": [
       "lokmiddel-toebehoren"
     ],
-    "decoy-sillosocks-3d-pink-foot-grey-lag-goose-sentry-6-pack": [
-      "lokmiddel-toebehoren"
-    ],
     "decoy-sillosocks-2d-3d-canada-goose-harvester-6-pack": [
       "lokmiddel-toebehoren"
     ],
@@ -18642,10 +18639,6 @@
       "herladen"
     ],
     "scope-protector-aim-o-folding-protection": [
-      "richtkijkers"
-    ],
-    "scope-protector-laylax-direct-mount-aegis-hg-hi-capa": [
-      "montage-accessoires",
       "richtkijkers"
     ],
     "scope-protector-laylax-direct-mount-aegis-hg-glock": [
@@ -26293,13 +26286,6 @@
       "pouches",
       "Tactical gear > Pouches > Utility Pouches",
       "utility-pouches"
-    ],
-    "frankonia-277057": [
-      "jassen"
-    ],
-    "nest-monopod-wt-1003-h171-cm-295810": [
-      "optiek-accessoires",
-      "tripods"
     ],
     "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190": [
       "beschermkappen",
