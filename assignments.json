@@ -27696,7 +27696,6 @@
     "adapter-mdt-spuhr-to-v-mount",
     "adapter-mdt-m-lok-to-v-mount",
     "adapter-mdt-folding-stock-carbine-to-fixed",
-    "adapter-mdt-folding-stock-carbine-to-carbine",
     "adapter-mdt-carbine-to-fixed-stock",
     "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge",
     "anti-corrosion-silent-dry-vaportack-7-62-nato-308-win-cartridge",
@@ -30419,7 +30418,6 @@
     "vector-optics-orion-pro-max-3-18x50-vor-5-moa-rifle-scope",
     "vector-optics-orion-pro-max-4-16x44-vor-4-mil-rifle-scope",
     "vector-optics-orion-pro-max-4-16x44-vor-7-mil-rifle-scope",
-    "vector-optics-orion-pro-max-6-24x50-vor-4-mil-rifle-scope",
     "vector-optics-orion-pro-max-6-24x50-vor-6-mil-rifle-scope",
     "red-dot-vector-optics-scrapper-gen-ii",
     "red-dot-vector-optics-scrapper-ultra-compact-enclosed",
@@ -30445,7 +30443,6 @@
     "adjustable-rear-sight-lpa-tr-white-outline-black",
     "adjustable-sights-set-schmeisser-bus-foldable",
     "verstelbare-vizierset-lpa-luminova",
-    "verstelbare-vizierset-lpa-spf-fiberglass",
     "verstelbare-vizierset-lpa-spr-3-dots",
     "verstelbare-vizierset-lpa-spr-sport",
     "verstelbare-vizierset-lpa-sps-3-dots",
@@ -31315,7 +31312,11 @@
     "noblex-verrekijker-nf-8x56-advanced-460030",
     "noblex-verrekijker-nf-8x56-inception-460005",
     "noblex-verrekijker-nf-8x56-vector-460022",
-    "jacket-jarl-2806"
+    "jacket-jarl-2806",
+    "verstelbare-vizierset-lpa-spf-fiberglass",
+    "vector-optics-orion-pro-max-6-24x50-vor-4-mil-rifle-scope",
+    "adapter-mdt-folding-stock-carbine-to-carbine",
+    "agm-pvs-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121066"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
