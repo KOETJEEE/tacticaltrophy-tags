@@ -10,60 +10,6 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "flag-odin-night-vision-630x900-5792"
   ],
-  "buteo-photo-gear-regenhoes-1-720001": [
-    "regenhoezen"
-  ],
-  "buteo-photo-gear-regenhoes-1-sneeuw-720002": [
-    "regenhoezen"
-  ],
-  "buteo-photo-gear-regenhoes-1-zwart-720004": [
-    "regenhoezen"
-  ],
-  "buteo-photo-gear-regenhoes-2-zwart-720008": [
-    "regenhoezen"
-  ],
-  "buteo-photo-gear-regenhoes-voor-falco-mark-iv-bruin-720235": [
-    "regenhoezen"
-  ],
-  "buteo-photo-gear-regenhoes-voor-falco-mark-iv-groen-720231": [
-    "regenhoezen"
-  ],
-  "buteo-photo-gear-regenhoes-voor-falco-mark-iv-riet-720233": [
-    "regenhoezen"
-  ],
-  "kowa-neopreen-stay-on-tas-c-99a-n-voor-tsn-99a-440997": [
-    "beschermhoezen"
-  ],
-  "kowa-stay-on-tas-c-500b-voor-tsn-500-serie-zwart-440221": [
-    "beschermhoezen"
-  ],
-  "kowa-stay-on-tas-c-500g-voor-tsn-500-serie-groen-446499": [
-    "beschermhoezen"
-  ],
-  "kowa-stay-on-tas-c-662-voor-tsn-662664m-440696": [
-    "beschermhoezen"
-  ],
-  "kowa-stay-on-tas-c-771-voor-tsn-771773-440790": [
-    "beschermhoezen"
-  ],
-  "kowa-stay-on-tas-c-821-voor-tsn-82sv-440819": [
-    "beschermhoezen"
-  ],
-  "kowa-stay-on-tas-c-881-voor-tsn-881883-440888": [
-    "beschermhoezen"
-  ],
-  "kowa-stay-on-tas-voor-tsn601-440690": [
-    "beschermhoezen"
-  ],
-  "kowa-tsn-501-20-40x50-incl-neopreen-tas-440051": [
-    "beschermhoezen"
-  ],
-  "kowa-tsn-as125g-astroadapter-440224": [
-    "overige-optiek"
-  ],
-  "kowa-tsn-as125k-astroadapter-440226": [
-    "overige-optiek"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -303,6 +249,27 @@
   ],
   "buteo-photo-gear-messing-schroef-38-21-mm-720716": [
     "schuiltenten"
+  ],
+  "buteo-photo-gear-regenhoes-1-720001": [
+    "regenhoezen"
+  ],
+  "buteo-photo-gear-regenhoes-1-sneeuw-720002": [
+    "regenhoezen"
+  ],
+  "buteo-photo-gear-regenhoes-1-zwart-720004": [
+    "regenhoezen"
+  ],
+  "buteo-photo-gear-regenhoes-2-zwart-720008": [
+    "regenhoezen"
+  ],
+  "buteo-photo-gear-regenhoes-voor-falco-mark-iv-bruin-720235": [
+    "regenhoezen"
+  ],
+  "buteo-photo-gear-regenhoes-voor-falco-mark-iv-groen-720231": [
+    "regenhoezen"
+  ],
+  "buteo-photo-gear-regenhoes-voor-falco-mark-iv-riet-720233": [
+    "regenhoezen"
   ],
   "buteo-photo-gear-reserve-frame-voor-drijftent-grebe-ii-720296": [
     "schuiltenten"
@@ -1200,6 +1167,9 @@
   "kowa-neopreen-stay-on-tas-c-88s-n-voor-tsn-88s-440789": [
     "observatie-accessoires"
   ],
+  "kowa-neopreen-stay-on-tas-c-99a-n-voor-tsn-99a-440997": [
+    "beschermhoezen"
+  ],
   "kowa-objectiefbeschermkap-voor-de-tsn-600-series-440651": [
     "beschermkappen"
   ],
@@ -1266,14 +1236,44 @@
   "kowa-spotting-scope-tsn-99s-prominar-kit-met-te-11wz-ii-wa-oculair-440992": [
     "spotting-scopes"
   ],
+  "kowa-stay-on-tas-c-500b-voor-tsn-500-serie-zwart-440221": [
+    "beschermhoezen"
+  ],
+  "kowa-stay-on-tas-c-500g-voor-tsn-500-serie-groen-446499": [
+    "beschermhoezen"
+  ],
+  "kowa-stay-on-tas-c-662-voor-tsn-662664m-440696": [
+    "beschermhoezen"
+  ],
+  "kowa-stay-on-tas-c-771-voor-tsn-771773-440790": [
+    "beschermhoezen"
+  ],
+  "kowa-stay-on-tas-c-821-voor-tsn-82sv-440819": [
+    "beschermhoezen"
+  ],
+  "kowa-stay-on-tas-c-881-voor-tsn-881883-440888": [
+    "beschermhoezen"
+  ],
+  "kowa-stay-on-tas-voor-tsn601-440690": [
+    "beschermhoezen"
+  ],
   "kowa-tp-105ft-protect-filter-105mm-440558": [
     "beschermkappen"
   ],
   "kowa-tp-95ft-protect-filter-95mm-voor-tsn88880-440557": [
     "beschermkappen"
   ],
+  "kowa-tsn-501-20-40x50-incl-neopreen-tas-440051": [
+    "beschermhoezen"
+  ],
   "kowa-tsn-arzh-adapter-ring-voor-zeiss-harpia-440971": [
     "filmen-opnemen"
+  ],
+  "kowa-tsn-as125g-astroadapter-440224": [
+    "overige-optiek"
+  ],
+  "kowa-tsn-as125k-astroadapter-440226": [
+    "overige-optiek"
   ],
   "kowa-twist-up-voor-spotting-scope-oculair-te-10zte11wz-en-te17w-446600": [
     "beschermkappen",
@@ -1822,7 +1822,7 @@
     "picatinny-rails"
   ],
   "accessory-rail-saber-tactical-picatinny-to-arca-swiss-short": [
-    "picatinny-rails"
+    "montage-rails"
   ],
   "accessory-rail-ulfhednar-m-lok-arca-swiss-gen-ii-5-cm": [
     "montage-rails"
@@ -5523,7 +5523,8 @@
     "oogbescherming"
   ],
   "lens-cleaner-lenspen-original-black-series": [
-    "gereedschap"
+    "gereedschap",
+    "overige-optiek"
   ],
   "barrel-adaptor-donnyfl-qd": [
     "loopkits-toebehoren"
@@ -8259,6 +8260,9 @@
   "quick-release-adapter-amomax": [
     "holsters-toebehoren"
   ],
+  "rail-weight-saber-tactical-fx-panthera-brass-bridge": [
+    "loopgewichten"
+  ],
   "rail-weights-saber-tactical-m-lok-227-grams": [
     "loopgewichten"
   ],
@@ -10105,6 +10109,9 @@
   "trigger-timney-ar-pro-two-stage": [
     "trekkers"
   ],
+  "trigger-timney-ar-15-m4-competition-small-pin-curved": [
+    "trekkers"
+  ],
   "trigger-timney-ar15-m4-competition-small-pin-straight": [
     "trekkers"
   ],
@@ -11713,6 +11720,9 @@
     "veldnotitie"
   ],
   "ecopybook-tactical-ruler-reconnaissance-btr-8634": [
+    "veldnotitie"
+  ],
+  "ecopybook-tactical-ruler-ts-nato-853": [
     "veldnotitie"
   ],
   "ecopybook-tactical-ruler-vtl-ua-blue-border-9784": [
@@ -33966,7 +33976,21 @@
     "buteo-photo-gear-regenhoes-voor-falco-mark-iv-riet-720233",
     "buteo-photo-gear-regenhoes-1-720001",
     "buteo-photo-gear-regenhoes-1-sneeuw-720002",
-    "buteo-photo-gear-regenhoes-voor-falco-mark-iv-bruin-720235"
+    "buteo-photo-gear-regenhoes-voor-falco-mark-iv-bruin-720235",
+    "buteo-photo-gear-bean-bag-2-zadelmodel-720011",
+    "buteo-photo-gear-bean-bag-3-plat-720013",
+    "trigger-timney-ar-15-m4-competition-small-pin-curved",
+    "ecopybook-tactical-ruler-ts-nato-853",
+    "rail-weight-saber-tactical-fx-panthera-brass-bridge",
+    "lens-cleaner-lenspen-original-black-series",
+    "castle-nut-luth-ar-ar346",
+    "buffer-tube-utg-pro-ar-6-position-mil-spec-black",
+    "accessory-rail-saber-tactical-picatinny-to-arca-swiss-short",
+    "outdoor-club-camouflagenet-green-forest-15x4-m-531006",
+    "outdoor-club-camouflagenet-green-forest-09x18-m-531005",
+    "outdoor-club-camouflagenet-brown-forest-15x4-m-531001",
+    "outdoor-club-camouflagenet-brown-forest-09x18-m-531000",
+    "konus-tafelloep-flexo-120-433625"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
