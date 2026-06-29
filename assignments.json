@@ -9952,10 +9952,12 @@
     "geweertassen-foudralen"
   ],
   "tacstack-m-accessory-pouch": [
-    "die-accessoires"
+    "tassen-rugzakken",
+    "tactical-bags"
   ],
   "tacstack-m-bag-organiser": [
-    "tactical-bags"
+    "tactical-bags",
+    "tassen-rugzakken"
   ],
   "tacstack-molle-web-belt-clamp-3-pack": [
     "transport-accessoires"
@@ -20836,6 +20838,10 @@
     "tacstack-l-bag-organiser": [
       "tactical-bags",
       "tactical-gear"
+    ],
+    "tacstack-m-accessory-pouch": [
+      "die-accessoires",
+      "herladen"
     ],
     "tacstack-molle-web-belt-clamp-3-pack": [
       "belts",
@@ -34051,7 +34057,9 @@
     "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208",
     "buteo-photo-gear-bean-bag-1-zadelmodel-zwart-met-draagriem-720010",
     "buteo-photo-gear-3d-leafs-camouflagenet-forest-camo-groen-15x3-m-720027",
-    "aparo-rgbww-led-air-tube-ht-20c-291307"
+    "aparo-rgbww-led-air-tube-ht-20c-291307",
+    "tacstack-m-accessory-pouch",
+    "tacstack-m-bag-organiser"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
