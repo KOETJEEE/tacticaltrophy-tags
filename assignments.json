@@ -328,6 +328,9 @@
     "jacht-ondergoed",
     "thermokleding"
   ],
+  "accessory-rail-mdt-m-lok-arca": [
+    "montage-rails"
+  ],
   "accessory-rail-mdt-m-lok-to-weaver-picatinny": [
     "picatinny-rails"
   ],
@@ -337,8 +340,17 @@
   "adapter-mdt-folding-stock-carbine-to-carbine": [
     "buttstockadapters"
   ],
+  "air-stripper-donnyfl-fatboy-insert-kit": [
+    "airsoft-dempers"
+  ],
   "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge": [
     "vochtontrekkers"
+  ],
+  "bipod-mdt-ckye-pod-gen3-double-pull": [
+    "bipods"
+  ],
+  "bipod-mdt-ckye-pod-gen3-triple-pull": [
+    "bipods"
   ],
   "ear-defender-sordin-supreme-t2-leather-black": [
     "gehoorbescherming"
