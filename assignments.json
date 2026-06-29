@@ -272,7 +272,7 @@
     "regenhoezen"
   ],
   "buteo-photo-gear-reserve-frame-voor-drijftent-grebe-ii-720296": [
-    "schuiltenten"
+    "accessoires-schuiltenten"
   ],
   "buteo-photo-gear-schuiltent-aquila-mark-iii-bruin-720170": [
     "schuiltenten"
@@ -15435,7 +15435,9 @@
       "oversize"
     ],
     "buteo-photo-gear-reserve-frame-voor-drijftent-grebe-ii-720296": [
-      "pickup-only"
+      "pickup-only",
+      "schuiltenten",
+      "survival"
     ],
     "buteo-photo-gear-schuiltent-aquila-mark-iii-bruin-720170": [
       "oversize"
@@ -34060,7 +34062,8 @@
     "aparo-rgbww-led-air-tube-ht-20c-291307",
     "tacstack-m-accessory-pouch",
     "tacstack-m-bag-organiser",
-    "shoulder-damper-for-plate-carrier-cuirass-qrs-560"
+    "shoulder-damper-for-plate-carrier-cuirass-qrs-560",
+    "buteo-photo-gear-reserve-frame-voor-drijftent-grebe-ii-720296"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
