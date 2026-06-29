@@ -13,6 +13,25 @@
   "agm-pvs-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121066": [
     "nachtzicht-handheld"
   ],
+  "buteo-photo-gear-accessoire-tas-1-720039": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-accessoire-tas-2-720040": [
+    "tassen-rugzakken"
+  ],
+  "buteo-photo-gear-baghide-720067": [],
+  "buteo-photo-gear-bean-bag-1-zadelmodel-met-draagriem-720009": [
+    "zandzakken"
+  ],
+  "buteo-photo-gear-bean-bag-1-zadelmodel-zwart-met-draagriem-720010": [
+    "zandzakken"
+  ],
+  "buteo-photo-gear-bean-bag-2-zadelmodel-720011": [
+    "zandzakken"
+  ],
+  "buteo-photo-gear-bean-bag-3-plat-720013": [
+    "zandzakken"
+  ],
   "accessory-set-fx-dynamic-fde": [
     "accessoireset"
   ],
@@ -276,12 +295,12 @@
     "brillenkoorden"
   ],
   "carson-loepbril-15x-225-dioptrie-clip-on-en-flip-up-186180": [
-    "loepen",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "loepen"
   ],
   "carson-loepbril-2x-400-dioptrie-clip-on-en-flip-up-186178": [
-    "loepen",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "loepen"
   ],
   "carson-magnigrip-mg-88-loep-met-pincet-186154": [
     "loepen"
@@ -1720,8 +1739,8 @@
     "revisiesetjes"
   ],
   "sealant-4uad-4uantum-seal": [
-    "borgmiddelen",
-    "onderhoudshulpmiddelen"
+    "onderhoudshulpmiddelen",
+    "borgmiddelen"
   ],
   "red-dot-aim-o-552-red-green": [
     "red-dots"
@@ -1778,8 +1797,8 @@
     "airsoft-diversen"
   ],
   "anti-fog-4uad-4uantum-fogg-off-eyewear-spray": [
-    "onderhoudshulpmiddelen",
-    "oogbescherming"
+    "oogbescherming",
+    "onderhoudshulpmiddelen"
   ],
   "anti-rol-kit-bf-voor-persluchtfles": [
     "persluchtfles-accessoires"
@@ -1794,8 +1813,8 @@
     "vochtontrekkers"
   ],
   "anti-odor-spray-scent-a-way-max-odorless": [
-    "onderhoudshulpmiddelen",
-    "insectenbescherming"
+    "insectenbescherming",
+    "onderhoudshulpmiddelen"
   ],
   "ar-combo-wrench-element-multifunctional": [
     "gereedschap"
@@ -2985,8 +3004,8 @@
     "lokduiven"
   ],
   "pigeon-decoy-sillosocks-3d-head": [
-    "lokduiven",
-    "lokmiddel-toebehoren"
+    "lokmiddel-toebehoren",
+    "lokduiven"
   ],
   "pigeon-decoy-sillosocks-harvester-12-pack": [
     "lokduiven"
@@ -4094,16 +4113,16 @@
     "grips"
   ],
   "headset-code-red-battle-zero-nx-bm-hybrid-bone-conduction": [
-    "headsets-toebehoren",
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-code-red-battle-zero-k": [
-    "headsets-toebehoren",
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-code-red-investigator-two-wire-with-microphone": [
-    "headsets-toebehoren",
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-code-red-silent-listen-only-3-5-mm-connector-with-replacement-pack": [
     "portofoons",
@@ -4113,12 +4132,12 @@
     "portofoons"
   ],
   "headset-z-tactical-bowman-evo-iii-green": [
-    "headsets-toebehoren",
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "headset-z-tactical-comtac-ii-green": [
-    "headsets-toebehoren",
-    "portofoons"
+    "portofoons",
+    "headsets-toebehoren"
   ],
   "helmet-pts-mtek-flux-black": [
     "helmen"
@@ -4214,16 +4233,16 @@
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir": [
-    "nachtzicht-richtkijkers",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir": [
-    "nachtzicht-richtkijkers",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-940-nm-ir-no-reticle": [
-    "nachtzicht-richtkijkers",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-850-nm-ir": [
     "nachtzicht-richtkijkers"
@@ -6332,8 +6351,8 @@
     "nachtzicht-richtkijkers"
   ],
   "night-vision-scope-hikmicro-cheetah-clip-on-850-nm-ir-no-reticle": [
-    "nachtzicht-handheld",
-    "voorzetkijkers"
+    "voorzetkijkers",
+    "nachtzicht-handheld"
   ],
   "night-vision-scope-hikmicro-cheetah-lrf-940-nm-ir": [
     "nachtzicht-richtkijkers"
@@ -6466,8 +6485,8 @@
     "headsets-toebehoren"
   ],
   "service-kit-fx-crown-impact-regulator-s-n-183534": [
-    "revisiesetjes",
-    "regulators"
+    "regulators",
+    "revisiesetjes"
   ],
   "onderhoudsmat-tipton-handwapen": [
     "schoonmaakstations"
@@ -7652,8 +7671,8 @@
     "schoonmaakborstels"
   ],
   "schoonmaakborstelset-tipton": [
-    "onderhoudshulpmiddelen",
-    "schoonmaaksetjes"
+    "schoonmaaksetjes",
+    "onderhoudshulpmiddelen"
   ],
   "schoonmaakpatches-bore-tech-round-1-1-2-25-38": [
     "patches"
@@ -8099,8 +8118,8 @@
     "airsoft-speedloaders"
   ],
   "sporttas-walther-met-wielen": [
-    "range-bags",
-    "tassen-rugzakken"
+    "tassen-rugzakken",
+    "range-bags"
   ],
   "spray-birchwood-synthetic-stock-cleaner-protectant-60-ml": [
     "kolfolien"
@@ -10270,8 +10289,8 @@
     "hoodies"
   ],
   "hook-loop-low-profile-admin-panel-197": [
-    "admin-pouches",
-    "patch-panels"
+    "patch-panels",
+    "admin-pouches"
   ],
   "horizontal-medical-pouch-elite-483": [
     "ehbo",
@@ -10618,8 +10637,8 @@
     "tactical-riemen"
   ],
   "m-tac-collapsible-grappling-hook-7630": [
-    "karabijnhaken",
-    "velcro-strips"
+    "velcro-strips",
+    "karabijnhaken"
   ],
   "m-tac-cross-bag-slim-elite-hex-698": [
     "sling-bags"
@@ -10816,8 +10835,8 @@
     "paracord"
   ],
   "m-tac-paracord-bracelet-with-spark-cutter-compass-and-whistle-7419": [
-    "paracord",
-    "kompassen"
+    "kompassen",
+    "paracord"
   ],
   "m-tac-paracord-survival-951": [
     "paracord"
@@ -12677,8 +12696,8 @@
   ],
   "sweat-wicking-t-shirt-genii-6561": [
     "shirts",
-    "thermokleding",
     "tactical-shirts",
+    "thermokleding",
     "thermoshirts"
   ],
   "sweater-nord-fleece-polartec-lady-3957": [
@@ -12935,8 +12954,8 @@
     "tactical-riemen"
   ],
   "tiger-belt-cobra-buckle-811": [
-    "riemen-bretels",
-    "tactical-riemen"
+    "tactical-riemen",
+    "riemen-bretels"
   ],
   "toiletry-bag-316": [
     "admin-pouches"
@@ -13344,9 +13363,9 @@
     "shirts"
   ],
   "t-shirt-ua-side-long-sleeve-6752": [
-    "shirts",
     "t-shirts-polos",
-    "tactical-shirts"
+    "tactical-shirts",
+    "shirts"
   ],
   "t-shirt-viking-2853": [
     "shirts"
@@ -27106,7 +27125,12 @@
     "buteo-photo-gear-snoot-lens-cover-sneeuw-voor-mark-iii-720193",
     "umarex-t4e-tp50-gen2",
     "buteo-photo-gear-snoot-lens-cover-bruin-voor-mark-iii-720190",
-    "buteo-photo-gear-snoot-lens-cover-groen-voor-mark-iii-720192"
+    "buteo-photo-gear-snoot-lens-cover-groen-voor-mark-iii-720192",
+    "buteo-photo-gear-aluminium-tentstokken-voor-falco-mark-ii-en-iii-720091",
+    "buteo-photo-gear-baghide-720067",
+    "buteo-photo-gear-baghide-lichtgewicht-groen-720073",
+    "buteo-photo-gear-baghide-riet-720071",
+    "buteo-photo-gear-baghide-sneeuw-720068"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -27696,7 +27720,6 @@
     "adapter-mdt-spuhr-to-v-mount",
     "adapter-mdt-m-lok-to-v-mount",
     "adapter-mdt-folding-stock-carbine-to-fixed",
-    "adapter-mdt-folding-stock-carbine-to-carbine",
     "adapter-mdt-carbine-to-fixed-stock",
     "anti-corrosion-silent-dry-vaportack-5-56-nato-223-rem-cartridge",
     "anti-corrosion-silent-dry-vaportack-7-62-nato-308-win-cartridge",
@@ -30419,7 +30442,6 @@
     "vector-optics-orion-pro-max-3-18x50-vor-5-moa-rifle-scope",
     "vector-optics-orion-pro-max-4-16x44-vor-4-mil-rifle-scope",
     "vector-optics-orion-pro-max-4-16x44-vor-7-mil-rifle-scope",
-    "vector-optics-orion-pro-max-6-24x50-vor-4-mil-rifle-scope",
     "vector-optics-orion-pro-max-6-24x50-vor-6-mil-rifle-scope",
     "red-dot-vector-optics-scrapper-gen-ii",
     "red-dot-vector-optics-scrapper-ultra-compact-enclosed",
@@ -30445,7 +30467,6 @@
     "adjustable-rear-sight-lpa-tr-white-outline-black",
     "adjustable-sights-set-schmeisser-bus-foldable",
     "verstelbare-vizierset-lpa-luminova",
-    "verstelbare-vizierset-lpa-spf-fiberglass",
     "verstelbare-vizierset-lpa-spr-3-dots",
     "verstelbare-vizierset-lpa-spr-sport",
     "verstelbare-vizierset-lpa-sps-3-dots",
@@ -31315,7 +31336,11 @@
     "noblex-verrekijker-nf-8x56-advanced-460030",
     "noblex-verrekijker-nf-8x56-inception-460005",
     "noblex-verrekijker-nf-8x56-vector-460022",
-    "jacket-jarl-2806"
+    "jacket-jarl-2806",
+    "verstelbare-vizierset-lpa-spf-fiberglass",
+    "vector-optics-orion-pro-max-6-24x50-vor-4-mil-rifle-scope",
+    "adapter-mdt-folding-stock-carbine-to-carbine",
+    "agm-pvs-14-nw1-monoculaire-nachtkijker-gen2-white-phosphor-121066"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
