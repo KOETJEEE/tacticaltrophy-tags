@@ -27,6 +27,13 @@
       "aanzitstoelen"
     ]
   },
+  "accessoires-schuiltenten": {
+    "title": "Accessoires schuiltenten",
+    "disjunctive": false,
+    "tags": [
+      "accessoires-schuiltenten"
+    ]
+  },
   "accessoireset": {
     "title": "Accessoiresets",
     "disjunctive": false,
@@ -105,11 +112,32 @@
       "airsoft-gas"
     ]
   },
+  "airsoft-montages-toebehoren": {
+    "title": "Airsoft montages & toebehoren",
+    "disjunctive": false,
+    "tags": [
+      "airsoft-montages-toebehoren"
+    ]
+  },
   "airsoft-o-ringensets": {
     "title": "Airsoft O-ringensets",
     "disjunctive": false,
     "tags": [
       "airsoft-o-ringensets"
+    ]
+  },
+  "airsoft-red-dots": {
+    "title": "Airsoft red dots",
+    "disjunctive": false,
+    "tags": [
+      "airsoft-red-dots"
+    ]
+  },
+  "airsoft-richtkijkers": {
+    "title": "Airsoft richtkijkers",
+    "disjunctive": false,
+    "tags": [
+      "airsoft-richtkijkers"
     ]
   },
   "airsoft-speedloaders": {
@@ -145,6 +173,13 @@
     "disjunctive": false,
     "tags": [
       "bedrading-&-schakelaars"
+    ]
+  },
+  "beschermhoezen": {
+    "title": "Beschermhoezen",
+    "disjunctive": false,
+    "tags": [
+      "beschermhoezen"
     ]
   },
   "beschermkappen": {
@@ -1251,6 +1286,13 @@
       "messenslijpers"
     ]
   },
+  "miniaturen": {
+    "title": "Miniaturen",
+    "disjunctive": false,
+    "tags": [
+      "miniaturen"
+    ]
+  },
   "miragebanden": {
     "title": "Miragebanden",
     "disjunctive": false,
@@ -1503,6 +1545,13 @@
       "overige-gereedschappen"
     ]
   },
+  "overige-optiek": {
+    "title": "Overige optiek",
+    "disjunctive": false,
+    "tags": [
+      "overige-optiek"
+    ]
+  },
   "paracord": {
     "title": "Paracord",
     "disjunctive": false,
@@ -1683,6 +1732,13 @@
     "disjunctive": false,
     "tags": [
       "red-dots"
+    ]
+  },
+  "regenhoezen": {
+    "title": "Regenhoezen",
+    "disjunctive": false,
+    "tags": [
+      "regenhoezen"
     ]
   },
   "regulators": {
