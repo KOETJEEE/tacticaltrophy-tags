@@ -534,13 +534,14 @@
     "dames-jachtbroeken"
   ],
   "frankonia-354484": [
-    "jacht-broeken"
+    "dames-jachtbroeken"
   ],
   "frankonia-354791": [
-    "jacht-broeken"
+    "dames-jachtbroeken"
   ],
   "frankonia-216423": [
-    "drijfjacht-kleding"
+    "drijfjacht-kleding",
+    "jacht-jassen"
   ],
   "frankonia-318116": [
     "jacht-jassen"
@@ -34746,7 +34747,12 @@
     "frankonia-295308",
     "frankonia-294231",
     "frankonia-318115",
-    "frankonia-354056"
+    "frankonia-354056",
+    "frankonia-354484",
+    "frankonia-354791",
+    "frankonia-216423",
+    "frankonia-318116",
+    "frankonia-277757"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
