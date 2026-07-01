@@ -58,8 +58,24 @@
   "frankonia-167489": [
     "onderhoudshulpmiddelen"
   ],
+  "frankonia-2025140": [
+    "lokstoffen"
+  ],
+  "frankonia-2017490": [],
   "frankonia-294917": [
     "jacht-ondergoed"
+  ],
+  "frankonia-2022411": [
+    "messensetjes"
+  ],
+  "frankonia-119873": [
+    "lokstoffen"
+  ],
+  "frankonia-124708": [
+    "lokstoffen"
+  ],
+  "frankonia-119874": [
+    "lokstoffen"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -29059,6 +29075,9 @@
     "frankonia-2008111": [
       "age-18"
     ],
+    "frankonia-2017490": [
+      "age-18"
+    ],
     "poetsstok-bore-tech-bore-stix-223": [
       "oversize"
     ],
@@ -29632,7 +29651,23 @@
     "frankonia-332934",
     "frankonia-3702185",
     "frankonia-3701833",
-    "frankonia-3702665"
+    "frankonia-3702665",
+    "frankonia-2000193",
+    "frankonia-199971",
+    "frankonia-2000199",
+    "frankonia-2000175",
+    "frankonia-2000190",
+    "frankonia-2000191",
+    "frankonia-2000192",
+    "frankonia-2000194",
+    "frankonia-2000197",
+    "frankonia-2000174",
+    "frankonia-2000176",
+    "frankonia-2000177",
+    "frankonia-2000178",
+    "frankonia-2000179",
+    "frankonia-2000198",
+    "frankonia-2000196"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -34869,7 +34904,8 @@
     "frankonia-2016546",
     "frankonia-172351",
     "frankonia-197563",
-    "frankonia-167489"
+    "frankonia-167489",
+    "frankonia-2022412"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
