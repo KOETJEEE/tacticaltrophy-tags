@@ -10954,7 +10954,7 @@
     "red-dots"
   ],
   "red-dot-utg-op3-micro-adaptive-base": [
-    "airsoft-red-dots"
+    "red-dots"
   ],
   "utility-pouch-nuprol-medium-pmc-green": [
     "admin-pouches"
@@ -21510,6 +21510,10 @@
     ],
     "magnifier-utg-3x-flip-to-side-qd": [
       "voorzetkijkers"
+    ],
+    "red-dot-utg-op3-micro-adaptive-base": [
+      "airsoft",
+      "airsoft-red-dots"
     ],
     "utility-pouch-nuprol-medium-pmc-green": [
       "tactical-gear",
@@ -34764,7 +34768,8 @@
     "frankonia-253178",
     "frankonia-294229",
     "frankonia-275904",
-    "frankonia-197321"
+    "frankonia-197321",
+    "red-dot-utg-op3-micro-adaptive-base"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
