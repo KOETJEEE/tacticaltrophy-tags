@@ -364,14 +364,6 @@
       "dames-jachtjassen"
     ]
   },
-  "dames-jachtkleding": {
-    "title": "Dames-Jachtkleding",
-    "disjunctive": false,
-    "tags": [
-      "dames",
-      "jachtkleding"
-    ]
-  },
   "dames-jachtlaarzen": {
     "title": "Dames-Jachtlaarzen",
     "disjunctive": false,
@@ -384,6 +376,13 @@
     "disjunctive": false,
     "tags": [
       "dames-jachtondergoed"
+    ]
+  },
+  "dames-jachtschoenen": {
+    "title": "Dames-jachtschoenen",
+    "disjunctive": false,
+    "tags": [
+      "dames-jachtschoenen"
     ]
   },
   "dames-jachttruien": {
