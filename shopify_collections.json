@@ -907,6 +907,13 @@
       "jachtmessen"
     ]
   },
+  "jachtschoenen": {
+    "title": "Jachtschoenen",
+    "disjunctive": false,
+    "tags": [
+      "jachtschoenen"
+    ]
+  },
   "jassen": {
     "title": "Jassen",
     "disjunctive": false,
@@ -1538,6 +1545,13 @@
       "optiek-lasers"
     ]
   },
+  "overig-veldgereedschap": {
+    "title": "Overig veldgereedschap",
+    "disjunctive": false,
+    "tags": [
+      "overig-veldgereedschap"
+    ]
+  },
   "overige-gereedschappen": {
     "title": "Overige gereedschappen",
     "disjunctive": false,
@@ -1975,6 +1989,13 @@
       "slaapzakken-matten"
     ]
   },
+  "slachtmessen-toebehoren": {
+    "title": "Slachtmessen & toebehoren",
+    "disjunctive": false,
+    "tags": [
+      "slachtmessen-toebehoren"
+    ]
+  },
   "sleutelhangers": {
     "title": "Sleutelhangers",
     "disjunctive": false,
@@ -2001,6 +2022,13 @@
     "disjunctive": false,
     "tags": [
       "snelheidsmeters"
+    ]
+  },
+  "snoeischaren": {
+    "title": "Snoeischaren",
+    "disjunctive": false,
+    "tags": [
+      "snoeischaren"
     ]
   },
   "softshell-jassen": {
@@ -2279,6 +2307,13 @@
       "ultrasoonreinigers"
     ]
   },
+  "vaste-messen": {
+    "title": "Vaste messen",
+    "disjunctive": false,
+    "tags": [
+      "vaste-messen"
+    ]
+  },
   "velcro-strips": {
     "title": "Velcro / hook & loop strips",
     "disjunctive": false,
@@ -2355,6 +2390,13 @@
     "disjunctive": false,
     "tags": [
       "voorzetvergrotingen"
+    ]
+  },
+  "vouwmessen": {
+    "title": "Vouwmessen",
+    "disjunctive": false,
+    "tags": [
+      "vouwmessen"
     ]
   },
   "vrouwenbroeken": {
@@ -2510,13 +2552,6 @@
     "disjunctive": true,
     "tags": [
       "zaklampen-hoofdlampen"
-    ]
-  },
-  "zakmessen": {
-    "title": "Zakmessen",
-    "disjunctive": false,
-    "tags": [
-      "zakmessen"
     ]
   },
   "zandzakken": {
