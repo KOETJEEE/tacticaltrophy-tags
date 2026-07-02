@@ -9596,12 +9596,6 @@
   "fill-line-wolverine-remote-flex-line-standard-36": [
     "persluchtfles-accessoires"
   ],
-  "cap-donnyfl-fatboy-trucket-hat": [
-    "petten-mutsen"
-  ],
-  "cap-wiley-x-trucker-hat-dark-grey-signal-orange": [
-    "petten-mutsen"
-  ],
   "picatinny-mounting-rail-saber-tactical-for-air-venturi-avenger": [
     "picatinny-rails"
   ],
@@ -17434,7 +17428,10 @@
       "wapenkoffers",
       "explorer-cases",
       "hardcases",
-      "transport"
+      "transport",
+      "airsoft",
+      "koffers",
+      "wapensloten"
     ],
     "explorer-cases-div4820-divider-set-voor-4820-255107": [
       "airsoft",
@@ -36435,7 +36432,8 @@
     "frankonia-2003635",
     "frankonia-167905",
     "frankonia-168121",
-    "frankonia-182917"
+    "frankonia-182917",
+    "frankonia-2007664"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
