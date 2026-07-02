@@ -577,12 +577,10 @@
     "koffers"
   ],
   "explorer-cases-combinatieslot-255415": [
-    "wapensloten",
-    "koffers"
+    "geweer-koffersloten"
   ],
   "explorer-cases-combinatieslot-tsa-gekeurd-255420": [
-    "wapensloten",
-    "koffers"
+    "geweer-koffersloten"
   ],
   "explorer-cases-div4820-divider-set-voor-4820-255107": [
     "koffers"
@@ -3385,21 +3383,6 @@
   "frankonia-113642": [
     "hondenlijnen-leibanden"
   ],
-  "frankonia-2017935": [
-    "hondendummies"
-  ],
-  "frankonia-2017934": [
-    "hondendummies"
-  ],
-  "frankonia-2017936": [
-    "hondendummies"
-  ],
-  "frankonia-2017948": [
-    "hondendummies"
-  ],
-  "frankonia-2017963": [
-    "hondendummies"
-  ],
   "frankonia-136052": [
     "slachtmessen-toebehoren"
   ],
@@ -4776,9 +4759,6 @@
   ],
   "collets-set-frankford-arsenal-aluminium": [
     "gereedschap"
-  ],
-  "combination-lock-walther-rs3-3-pack": [
-    "wapensloten"
   ],
   "steyr-compensator-8-gaats": [
     "mondingsremmen"
@@ -11789,14 +11769,7 @@
     "trekkers"
   ],
   "trekkerslot-lockdown-met-cijfercombinatie": [
-    "trekkers",
-    "wapensloten"
-  ],
-  "trekkerslot-lockdown-met-sleutel": [
-    "wapensloten"
-  ],
-  "trekkerslot-lockdown-met-sleutel-3-pack": [
-    "wapensloten"
+    "trekkers"
   ],
   "trekkerunit-walther-lp500-x-change-electronic": [
     "trekkers"
@@ -16894,6 +16867,12 @@
     "buteo-photo-gear-3d-leafs-camouflagenet-sneeuw-24x3-m-720032": [
       "pickup-only"
     ],
+    "buteo-photo-gear-accessoire-tas-1-720039": [
+      "schietsport"
+    ],
+    "buteo-photo-gear-accessoire-tas-2-720040": [
+      "schietsport"
+    ],
     "buteo-photo-gear-draagtas-voor-aquila-mark-iii-bruin-720208": [
       "schietsport",
       "jacht",
@@ -17447,7 +17426,9 @@
       "wapenkoffers",
       "explorer-cases",
       "hardcases",
-      "transport"
+      "transport",
+      "wapensloten",
+      "airsoft"
     ],
     "explorer-cases-combinatieslot-tsa-gekeurd-255420": [
       "wapenkoffers",
@@ -23268,7 +23249,8 @@
     "backpack-recon-elite-10444": [
       "m-tac",
       "rugzakken",
-      "tassen"
+      "tassen",
+      "schietsport"
     ],
     "backpack-single-strap-agent-elite-hex-black-10199": [
       "Equipment and gear > Bags and backpacks",
