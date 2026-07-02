@@ -547,6 +547,13 @@
       "gereedschap"
     ]
   },
+  "geweer-koffersloten": {
+    "title": "Geweer- & koffersloten",
+    "disjunctive": false,
+    "tags": [
+      "geweer-koffersloten"
+    ]
+  },
   "geweerriemen": {
     "title": "Geweerriemen",
     "disjunctive": false,
@@ -2468,13 +2475,6 @@
     "disjunctive": false,
     "tags": [
       "wapenkoffers"
-    ]
-  },
-  "wapensloten": {
-    "title": "Geweersloten",
-    "disjunctive": false,
-    "tags": [
-      "wapensloten"
     ]
   },
   "warmtebeeld": {
