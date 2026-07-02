@@ -693,6 +693,13 @@
       "holsters-toebehoren"
     ]
   },
+  "honden-signaalkleding": {
+    "title": "Honden signaalkleding",
+    "disjunctive": false,
+    "tags": [
+      "honden-signaalkleding"
+    ]
+  },
   "hondenlijnen-leibanden": {
     "title": "Hondenlijnen & leibanden",
     "disjunctive": true,
@@ -1971,13 +1978,6 @@
     "disjunctive": false,
     "tags": [
       "shirts"
-    ]
-  },
-  "signaalvesten-honden": {
-    "title": "Signaalvesten honden",
-    "disjunctive": false,
-    "tags": [
-      "hondensignaalvesten"
     ]
   },
   "sjaal-nekwarmer": {
