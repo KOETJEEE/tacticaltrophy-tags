@@ -20342,11 +20342,19 @@
       "jacht",
       "lampen",
       "survival",
-      "zaklampen-hoofdlampen"
+      "zaklampen-hoofdlampen",
+      "schietsport"
+    ],
+    "laser-truglo-sight-line-green": [
+      "schietsport"
+    ],
+    "laser-truglo-sight-line-red": [
+      "schietsport"
     ],
     "flashlight-laser-utg-red-qd-lever-lock-weaver-picatinny": [
       "picatinny-rails",
-      "optiek"
+      "optiek",
+      "schietsport"
     ],
     "laser-cartridge-mantis-pink-rhino-training": [
       "jacht",
@@ -21779,6 +21787,12 @@
       "airsoft-diversen",
       "schietsport"
     ],
+    "rugzak-bergara-daypack-365": [
+      "schietsport"
+    ],
+    "backpack-walther-air-pistol": [
+      "schietsport"
+    ],
     "rvs-media-pinnen-frankford-arsenal": [
       "herlaadkits",
       "polijsttrommels"
@@ -22292,11 +22306,15 @@
     ],
     "tacstack-120l-trolley-bag": [
       "rugzakken",
-      "tassen"
+      "tassen",
+      "schietsport"
     ],
     "tacstack-22x9-outdoor-storage-box": [
       "airsoft",
       "wapenkoffers"
+    ],
+    "tacstack-24l-backpack": [
+      "schietsport"
     ],
     "tacstack-32x22-pistol-case-green": [
       "airsoft",
@@ -22338,16 +22356,24 @@
     ],
     "tacstack-l-bag-organiser": [
       "tactical-bags",
-      "tactical-gear"
+      "tactical-gear",
+      "schietsport"
     ],
     "tacstack-m-accessory-pouch": [
       "die-accessoires",
-      "herladen"
+      "herladen",
+      "schietsport"
+    ],
+    "tacstack-m-bag-organiser": [
+      "schietsport"
     ],
     "tacstack-molle-web-belt-clamp-3-pack": [
       "belts",
       "bretels",
       "kleding"
+    ],
+    "tacstack-nektas": [
+      "schietsport"
     ],
     "tacstack-organising-patches-general": [
       "patches",
@@ -22378,6 +22404,15 @@
     "tacstack-s-75x30-rifle-bag": [
       "foudralen",
       "geweertassen"
+    ],
+    "tacstack-s-accessory-pouch": [
+      "schietsport"
+    ],
+    "tacstack-s-bag-organiser": [
+      "schietsport"
+    ],
+    "tacstack-s-wave-foam-bag-organiser": [
+      "schietsport"
     ],
     "tacstack-xl-130x30-rifle-bag": [
       "foudralen",
@@ -23163,14 +23198,16 @@
       "Tactical Line",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "assault-pack-laser-cut-971": [
       "Equipment and gear > Bags and backpacks > Backpacks",
       "rugzakken",
       "tassen",
       "Military Line",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "assault-tactical-mk3-fingerless-gloves-7192": [
       "Clothing > Gloves > Fingerless",
@@ -23190,7 +23227,8 @@
       "Equipment and gear > Bags and backpacks",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "backpack-bag-for-fpv-10-lightweight-drones-without-shelves-8548": [
       "Equipment and gear > Bags and backpacks",
@@ -23205,43 +23243,50 @@
       "Equipment and gear > Bags and backpacks",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "backpack-genii-elite-large-239": [
       "Equipment and gear > Bags and backpacks > Backpacks",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "backpack-geniii-elite-small-233": [
       "Equipment and gear > Bags and backpacks > Backpacks",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "backpack-large-elite-hex-geniv-711": [
       "Equipment and gear > Bags and backpacks > Backpacks",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "backpack-large-geniii-elite-238": [
       "Equipment and gear > Bags and backpacks > Backpacks",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "backpack-large-geniv-elite-243": [
       "Equipment and gear > Bags and backpacks > Backpacks",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "backpack-mission-pack-elite-hex-692": [
       "Equipment and gear > Bags and backpacks > Backpacks",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "backpack-recon-elite-10444": [
       "m-tac",
@@ -23253,19 +23298,22 @@
       "Equipment and gear > Bags and backpacks",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "backpack-sturm-elite-777": [
       "Equipment and gear > Bags and backpacks > Backpacks",
       "tassen",
       "rugzakken",
-      "m-tac"
+      "m-tac",
+      "schietsport"
     ],
     "backpack-sturm-elite-genii-965": [
       "Equipment and gear > Bags and backpacks > Backpacks",
       "tassen",
       "m-tac",
-      "rugzakken"
+      "rugzakken",
+      "schietsport"
     ],
     "backpack-sturm-elite-genii-x-large-7756": [
       "Equipment and gear > Bags and backpacks > Backpacks",
