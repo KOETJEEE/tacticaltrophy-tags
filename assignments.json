@@ -11653,42 +11653,128 @@
     "handzagen"
   ],
   "pocket-knife-bul-axe-folding-black": [
-    "bijlen"
+    "vouwmessen"
   ],
   "pocket-knife-bul-axe-folding-silver": [
-    "bijlen"
+    "vouwmessen"
   ],
-  "pocket-knife-bul-mini-cleaver-carbon-gold": [],
-  "pocket-knife-cold-steel-double-safe-hunter-orange": [],
-  "pocket-knife-kershaw-aftereffect": [],
-  "pocket-knife-kershaw-camshaft": [],
-  "pocket-knife-kershaw-chill": [],
-  "pocket-knife-kershaw-cryo": [],
-  "pocket-knife-kershaw-fatback": [],
-  "pocket-knife-kershaw-ferrite": [],
-  "pocket-knife-kershaw-filter": [],
-  "pocket-knife-kershaw-fringe": [],
-  "pocket-knife-kershaw-leek-blackwash": [],
-  "pocket-knife-kershaw-lightyear": [],
-  "pocket-knife-kershaw-link-stonewashed-olive": [],
-  "pocket-knife-kershaw-misdirect": [],
-  "pocket-knife-kershaw-salvage": [],
-  "pocket-knife-kershaw-scallion": [],
-  "pocket-knife-kershaw-scallion-navy-blue": [],
-  "pocket-knife-kershaw-scallion-olive": [],
-  "pocket-knife-kershaw-scallion-purple": [],
-  "pocket-knife-kershaw-showtime": [],
-  "pocket-knife-kershaw-tremolo": [],
-  "pocket-knife-kershaw-valve": [],
-  "pocket-knife-sog-adventurer-lb-blackout": [],
-  "pocket-knife-sog-adventurer-lb-dusk-purple": [],
-  "pocket-knife-sog-adventurer-lb-orange": [],
-  "pocket-knife-sog-adventurer-nordic-blue": [],
-  "pocket-knife-sog-flare-satin": [],
-  "pocket-knife-sog-salute-mini-bead-blast": [],
-  "pocket-knife-sog-salute-mini-black-oxide": [],
-  "pocket-knife-sog-stout-flk-cleaver-black": [],
-  "pocket-knife-sog-stout-flk-cleaver-od-green": [],
+  "pocket-knife-bul-mini-cleaver-carbon-gold": [
+    "vouwmessen"
+  ],
+  "pocket-knife-cold-steel-double-safe-hunter-orange": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-aftereffect": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-camshaft": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-chill": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-cryo": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-fatback": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-ferrite": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-filter": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-fringe": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-leek-blackwash": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-lightyear": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-link-stonewashed-olive": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-misdirect": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-salvage": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-scallion": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-scallion-navy-blue": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-scallion-olive": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-scallion-purple": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-showtime": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-tremolo": [
+    "vouwmessen"
+  ],
+  "pocket-knife-kershaw-valve": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-adventurer-lb-blackout": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-adventurer-lb-dusk-purple": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-adventurer-lb-orange": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-adventurer-nordic-blue": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-flare-satin": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-salute-mini-bead-blast": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-salute-mini-black-oxide": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-stout-flk-cleaver-black": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-stout-flk-cleaver-od-green": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-tellus-atk-black-orange": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-tellus-atk-olive-drab-orange": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-tellus-atk-squid-ink-yellow": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-terminus-xr-g10-black": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-terminus-xr-g10-crimson": [
+    "vouwmessen"
+  ],
+  "pocket-knife-sog-traction": [
+    "vouwmessen"
+  ],
+  "pocket-knife-zero-tolerance-0357bw": [
+    "vouwmessen"
+  ],
+  "pocket-knife-zero-tolerance-hinderer-slicer-titanium": [
+    "vouwmessen"
+  ],
   "zandzak-caldwell-bench-gevuld": [
     "zandzakken"
   ],
@@ -12392,6 +12478,43 @@
   "folding-handle-mug-7343": [
     "kookgerei"
   ],
+  "folding-knife-type-11-9512": [
+    "vouwmessen"
+  ],
+  "folding-knife-type-12-9990": [
+    "vouwmessen"
+  ],
+  "folding-knife-type-12-9991": [
+    "vouwmessen"
+  ],
+  "folding-knife-type-12-scandinavian-10536": [
+    "vouwmessen"
+  ],
+  "folding-knife-type-12-scandinavian-stonewash-10542": [
+    "vouwmessen"
+  ],
+  "folding-knife-type-13-blacksteel-9979": [
+    "vouwmessen"
+  ],
+  "folding-knife-type-14-blackgrey-9977": [
+    "vouwmessen"
+  ],
+  "folding-knife-type-15-carbonblue-9963": [
+    "vouwmessen"
+  ],
+  "folding-knife-type-16-blacksteel-9978": [
+    "vouwmessen"
+  ],
+  "folding-knife-type-17-blacksteel-9976": [],
+  "folding-knife-type-18-9984": [],
+  "folding-knife-type-19-9985": [],
+  "folding-knife-type-3-5948": [],
+  "folding-knife-type-4-5949": [],
+  "folding-knife-type-5-5951": [],
+  "folding-knife-type-6-5953": [],
+  "folding-knife-type-7-5955": [],
+  "folding-knife-type-8-5956": [],
+  "folding-knife-type-9-6-tools-9530": [],
   "folding-shovel-with-case-5919": [
     "veldspaden"
   ],
@@ -21736,6 +21859,16 @@
     "wollen-kamerborstel-bore-tech-medium": [
       "schoonmaak-onderhoud"
     ],
+    "pocket-knife-bul-axe-folding-black": [
+      "bijlen",
+      "messen-bijlen",
+      "zakmessen"
+    ],
+    "pocket-knife-bul-axe-folding-silver": [
+      "zakmessen",
+      "bijlen",
+      "messen-bijlen"
+    ],
     "pocket-knife-bul-mini-cleaver-carbon-gold": [
       "messen-bijlen",
       "zakmessen"
@@ -21857,6 +21990,38 @@
       "zakmessen"
     ],
     "pocket-knife-sog-stout-flk-cleaver-od-green": [
+      "messen-bijlen",
+      "zakmessen"
+    ],
+    "pocket-knife-sog-tellus-atk-black-orange": [
+      "messen-bijlen",
+      "zakmessen"
+    ],
+    "pocket-knife-sog-tellus-atk-olive-drab-orange": [
+      "messen-bijlen",
+      "zakmessen"
+    ],
+    "pocket-knife-sog-tellus-atk-squid-ink-yellow": [
+      "messen-bijlen",
+      "zakmessen"
+    ],
+    "pocket-knife-sog-terminus-xr-g10-black": [
+      "messen-bijlen",
+      "zakmessen"
+    ],
+    "pocket-knife-sog-terminus-xr-g10-crimson": [
+      "messen-bijlen",
+      "zakmessen"
+    ],
+    "pocket-knife-sog-traction": [
+      "messen-bijlen",
+      "zakmessen"
+    ],
+    "pocket-knife-zero-tolerance-0357bw": [
+      "messen-bijlen",
+      "zakmessen"
+    ],
+    "pocket-knife-zero-tolerance-hinderer-slicer-titanium": [
       "messen-bijlen",
       "zakmessen"
     ],
@@ -23014,79 +23179,117 @@
     ],
     "folding-knife-type-11-9512": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-12-9990": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-12-9991": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-12-scandinavian-10536": [
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-12-scandinavian-stonewash-10542": [
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-13-blacksteel-9979": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-14-blackgrey-9977": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-15-carbonblue-9963": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-16-blacksteel-9978": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-17-blacksteel-9976": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-18-9984": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-19-9985": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-3-5948": [
       "Equipment and gear > Folding knives",
       "Tactical Line",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-4-5949": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-5-5951": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-6-5953": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-7-5955": [
       "Equipment and gear > Folding knives",
       "Tactical Line",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-8-5956": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-knife-type-9-6-tools-9530": [
       "Equipment and gear > Folding knives",
-      "m-tac"
+      "m-tac",
+      "messen-bijlen",
+      "zakmessen"
     ],
     "folding-shovel-with-case-5919": [
       "bushcraft",
