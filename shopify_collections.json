@@ -154,6 +154,13 @@
       "airsoft-trekkers"
     ]
   },
+  "apporteerblokken": {
+    "title": "Apporteerblokken",
+    "disjunctive": false,
+    "tags": [
+      "apporteerblokken"
+    ]
+  },
   "batterijen": {
     "title": "Batterijen",
     "disjunctive": false,
@@ -678,20 +685,6 @@
     "disjunctive": false,
     "tags": [
       "holsters-toebehoren"
-    ]
-  },
-  "hondendummies": {
-    "title": "Apporteerblokken & dummies",
-    "disjunctive": false,
-    "tags": [
-      "hondendummies"
-    ]
-  },
-  "hondenjassen": {
-    "title": "Hondenjassen",
-    "disjunctive": false,
-    "tags": [
-      "hondenjassen"
     ]
   },
   "hondenlijnen-leibanden": {
