@@ -900,6 +900,13 @@
       "jacht-vesten"
     ]
   },
+  "jachthoorns": {
+    "title": "Jachthoorns",
+    "disjunctive": false,
+    "tags": [
+      "jachthoorns"
+    ]
+  },
   "jachtmessen": {
     "title": "Jachtmessen",
     "disjunctive": false,
@@ -1066,6 +1073,13 @@
     "disjunctive": false,
     "tags": [
       "shorts"
+    ]
+  },
+  "kruisbogen": {
+    "title": "Kruisbogen",
+    "disjunctive": false,
+    "tags": [
+      "kruisbogen"
     ]
   },
   "kruisboogpijlen": {
@@ -2242,6 +2256,13 @@
       "tourniquets"
     ]
   },
+  "trainingsdummies": {
+    "title": "Trainingsdummies",
+    "disjunctive": false,
+    "tags": [
+      "trainingsdummies"
+    ]
+  },
   "trainingshalsbanden": {
     "title": "Trainingshalsbanden",
     "disjunctive": false,
@@ -2510,6 +2531,13 @@
     "disjunctive": false,
     "tags": [
       "wildvoer"
+    ]
+  },
+  "wildwegers": {
+    "title": "Wildwegers",
+    "disjunctive": false,
+    "tags": [
+      "wildwegers"
     ]
   },
   "windmeters": {
