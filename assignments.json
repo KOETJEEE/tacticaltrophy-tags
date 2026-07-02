@@ -331,6 +331,9 @@
   "frankonia-2016930": [
     "bipod-toebehoren"
   ],
+  "frankonia-2018454": [
+    "overig-veldgereedschap"
+  ],
   "frankonia-2018455": [
     "snoeischaren"
   ],
@@ -351,6 +354,18 @@
   ],
   "frankonia-2018406": [
     "handzagen"
+  ],
+  "frankonia-2018341": [
+    "veldspaden"
+  ],
+  "frankonia-2021590": [
+    "handzagen"
+  ],
+  "frankonia-2017818": [
+    "slachtmessen-toebehoren"
+  ],
+  "frankonia-2018337": [
+    "slachtmessen-toebehoren"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -30423,7 +30438,8 @@
     "frankonia-317893",
     "frankonia-3702253",
     "frankonia-317037",
-    "frankonia-316092"
+    "frankonia-316092",
+    "frankonia-2027540"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
