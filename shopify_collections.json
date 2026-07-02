@@ -1678,13 +1678,6 @@
       "petten"
     ]
   },
-  "petten-mutsen": {
-    "title": "Petten & mutsen",
-    "disjunctive": false,
-    "tags": [
-      "petten-mutsen"
-    ]
-  },
   "picatinny-rails": {
     "title": "Picatinny rails",
     "disjunctive": false,
@@ -2282,6 +2275,13 @@
     "disjunctive": false,
     "tags": [
       "transport-accessoires"
+    ]
+  },
+  "trekkerdrukmeters": {
+    "title": "Trekkerdrukmeters",
+    "disjunctive": false,
+    "tags": [
+      "trekkerdrukmeters"
     ]
   },
   "trekkers": {
