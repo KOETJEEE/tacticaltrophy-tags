@@ -2422,8 +2422,8 @@
     "lokganzen"
   ],
   "frankonia-294996": [
-    "jacht-petten",
-    "petten"
+    "petten",
+    "jacht-petten"
   ],
   "frankonia-2027004": [
     "jachtmessen"
@@ -3104,9 +3104,6 @@
   "frankonia-2007670": [
     "hondenmanden-voerbakken"
   ],
-  "frankonia-178213": [
-    "signaalvesten-honden"
-  ],
   "frankonia-2004713": [
     "hondenmanden-voerbakken"
   ],
@@ -3164,18 +3161,6 @@
   "frankonia-167902": [
     "hondenlijnen-leibanden"
   ],
-  "frankonia-178106": [
-    "signaalvesten-honden"
-  ],
-  "frankonia-196250": [
-    "signaalvesten-honden"
-  ],
-  "frankonia-168114": [
-    "signaalvesten-honden"
-  ],
-  "frankonia-168116": [
-    "signaalvesten-honden"
-  ],
   "frankonia-168080": [
     "hondenlijnen-leibanden"
   ],
@@ -3196,15 +3181,6 @@
   ],
   "frankonia-168040": [
     "hondenlijnen-leibanden"
-  ],
-  "frankonia-178133": [
-    "signaalvesten-honden"
-  ],
-  "frankonia-174372": [
-    "signaalvesten-honden"
-  ],
-  "frankonia-196252": [
-    "signaalvesten-honden"
   ],
   "frankonia-2028278": [
     "jachtmessen"
@@ -11763,7 +11739,7 @@
     "trekkers"
   ],
   "trekkerslot-lockdown-met-cijfercombinatie": [
-    "trekkers"
+    "geweer-koffersloten"
   ],
   "trekkerunit-walther-lp500-x-change-electronic": [
     "trekkers"
@@ -22495,6 +22471,14 @@
       "wapen-toebehoren"
     ],
     "trekkerdrukmeter-wheeler-digitaal": [
+      "trekkers",
+      "wapen-toebehoren"
+    ],
+    "trekkerslot-lockdown-met-cijfercombinatie": [
+      "airsoft",
+      "jacht",
+      "schietsport",
+      "wapensloten",
       "trekkers",
       "wapen-toebehoren"
     ],
@@ -36481,7 +36465,13 @@
     "frankonia-167905",
     "frankonia-168121",
     "frankonia-182917",
-    "frankonia-2007664"
+    "frankonia-2007664",
+    "frankonia-152748",
+    "frankonia-2004712",
+    "frankonia-2007667",
+    "frankonia-2007670",
+    "frankonia-2004713",
+    "frankonia-2004704"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
