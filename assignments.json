@@ -346,6 +346,27 @@
   "gutting-tool-hunters-specialties-butt-out-2": [
     "slachtmessen-toebehoren"
   ],
+  "duffel-bag-190l-elite-10493": [
+    "tassen-rugzakken"
+  ],
+  "ecopybook-tactical-prosecutor-round-ruler-130-mm-nato-8041": [
+    "veldnotitie"
+  ],
+  "helmet-cover-shroud-734": [
+    "helmen"
+  ],
+  "helmet-cover-with-shroud-cutout-9790": [
+    "helmen"
+  ],
+  "microfiber-towel-120x60cm-9724": [
+    "onderhoudshulpmiddelen"
+  ],
+  "microfiber-towel-150x75cm-9725": [
+    "onderhoudshulpmiddelen"
+  ],
+  "microfiber-towel-glory-150x75-10571": [
+    "onderhoudshulpmiddelen"
+  ],
   "ninja-balaclava-basic-microfleece-rip-stop-10533": [
     "bivakmuts"
   ],
@@ -1050,6 +1071,9 @@
     "inspectie-cameras"
   ],
   "flir-pouch-voor-flir-one-edge-pro-13431954": [
+    "inspectie-cameras"
+  ],
+  "flir-scout-pro-charging-station-13461484": [
     "inspectie-cameras"
   ],
   "flir-scout-pro-ii-warmtebeeldcamera-13461482": [
@@ -13190,6 +13214,9 @@
   "zoutgeweer-bug-a-salt-bugbuster-realtree-camo-3-0-limited-edition": [
     "speelgoed"
   ],
+  "abdomen-protection-for-ballistic-inserts-9044": [
+    "body-gear"
+  ],
   "admin-bag-10181": [
     "sling-bags"
   ],
@@ -13231,6 +13258,9 @@
   ],
   "anatomical-snood-adjustable-elite-fleece-320m2-4688": [
     "sjaal-nekwarmer"
+  ],
+  "anti-fragmentation-apron-for-ballistic-panel-inserts-laser-cut-xl-9052": [
+    "body-gear"
   ],
   "arctic-winter-pants-arctic-1866": [
     "broeken"
@@ -13342,6 +13372,9 @@
   "balaclava-elite-fleece-polartec-5887": [
     "bivakmuts"
   ],
+  "ballistic-groin-protection-for-ballistic-inserts-9056": [
+    "body-gear"
+  ],
   "baseball-cap-elite-flex-rip-stop-4603": [
     "petten"
   ],
@@ -13389,6 +13422,12 @@
     "tactical-bags",
     "veldnotitie"
   ],
+  "bottle-cover-with-strap-302": [
+    "drinkflessen-thermos"
+  ],
+  "bottle-pouch-molle-958": [
+    "drinkflessen-thermos"
+  ],
   "brief-active-level-i-6160": [
     "ondergoed"
   ],
@@ -13418,6 +13457,9 @@
   ],
   "cartographic-compass-with-mirror-small-7347": [
     "kompassen"
+  ],
+  "ccw-holster-modular-universal-holster-146": [
+    "holsters-toebehoren"
   ],
   "chain-for-tokens-8313": [
     "kleding-accessoires"
@@ -31370,7 +31412,14 @@
     "frankonia-367273",
     "frankonia-333311",
     "frankonia-341560",
-    "frankonia-200291"
+    "frankonia-200291",
+    "genii-microfleece-rip-stop-balaclava-10671",
+    "genii-microfleece-rip-stop-balaclava-10675",
+    "hardshell-jacket-multicam-10518",
+    "helmet-watch-cap-microfleece-rip-stop-10665",
+    "jacket-legatus-10611",
+    "jacket-stalker-geniii-3849",
+    "jacket-sturm-multicam-10634"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
@@ -37035,7 +37084,8 @@
     "gutting-tool-hunters-specialties-butt-out-2",
     "ninja-balaclava-basic-microfleece-rip-stop-10533",
     "frankonia-178213",
-    "frankonia-168116"
+    "frankonia-168116",
+    "frankonia-217002"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
