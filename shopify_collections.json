@@ -1726,6 +1726,13 @@
       "ponchos"
     ]
   },
+  "portioneerweegschalen": {
+    "title": "Portioneerweegschalen",
+    "disjunctive": false,
+    "tags": [
+      "portioneerweegschalen"
+    ]
+  },
   "portofoons": {
     "title": "Portofoons",
     "disjunctive": false,
@@ -2327,6 +2334,13 @@
       "vacumeermachines"
     ]
   },
+  "vacuumboxen": {
+    "title": "Vacuümboxen",
+    "disjunctive": false,
+    "tags": [
+      "vacuümboxen"
+    ]
+  },
   "vacuumzakken-rollen": {
     "title": "Vacuümzakken & rollen",
     "disjunctive": false,
@@ -2389,6 +2403,13 @@
     "disjunctive": false,
     "tags": [
       "vizierlijnverhogingen"
+    ]
+  },
+  "vleesmolens": {
+    "title": "Vleesmolens",
+    "disjunctive": false,
+    "tags": [
+      "vleesmolens"
     ]
   },
   "vochtontrekkers": {
@@ -2518,11 +2539,11 @@
       "wildcameras"
     ]
   },
-  "wilddragers": {
-    "title": "Wilddragers",
+  "wildhijsers-toebehoren": {
+    "title": "Wildhijsers & toebehoren",
     "disjunctive": false,
     "tags": [
-      "wilddragers"
+      "wildhijsers-toebehoren"
     ]
   },
   "wildvoer": {
