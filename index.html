@@ -1310,7 +1310,7 @@ function scheduleGitHubSave() {
   if (!GITHUB_TOKEN) return;
   _ghDirty = true;
   if (!_ghTimer) {
-    _ghTimer = setTimeout(() => { _ghTimer = null; saveToGitHub(); }, 3 * 60 * 1000);
+    _ghTimer = setTimeout(() => { _ghTimer = null; saveToGitHub(); }, 10 * 60 * 1000);
   }
 }
 
