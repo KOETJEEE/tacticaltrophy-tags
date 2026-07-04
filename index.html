@@ -2092,7 +2092,7 @@ async function confirmWriteToShopify() {
             progressEl.style.color = '#16a34a';
             // Wis pending variant profiles — zijn nu geschreven naar Shopify
             for (const h of Object.keys(pendingVariantProfiles)) delete pendingVariantProfiles[h];
-            saveToGitHub();
+            scheduleGitHubSave();
             // Update PRODUCTS in memory zodat de diff direct klopt (geen stale p.nonColTags meer)
             for (const p of PRODUCTS) {
               if (filtered.has(p.handle) || p.deletedFromShopify) continue;
