@@ -1200,13 +1200,6 @@
       "lokstoffen"
     ]
   },
-  "lokvoer": {
-    "title": "Lokvoer",
-    "disjunctive": false,
-    "tags": [
-      "lokvoer"
-    ]
-  },
   "loopgewichten": {
     "title": "Loopgewichten",
     "disjunctive": false,
@@ -2327,6 +2320,20 @@
       "ultrasoonreinigers"
     ]
   },
+  "vacumeermachines": {
+    "title": "Vacumeermachines",
+    "disjunctive": false,
+    "tags": [
+      "vacumeermachines"
+    ]
+  },
+  "vacuumzakken-rollen": {
+    "title": "Vacuümzakken & rollen",
+    "disjunctive": false,
+    "tags": [
+      "vacuümzakken-rollen"
+    ]
+  },
   "vaste-messen": {
     "title": "Vaste messen",
     "disjunctive": false,
@@ -2512,7 +2519,7 @@
     ]
   },
   "wilddragers": {
-    "title": "Wildtransport",
+    "title": "Wilddragers",
     "disjunctive": false,
     "tags": [
       "wilddragers"
@@ -2560,6 +2567,13 @@
       "winter-jassen"
     ]
   },
+  "zaadmengels": {
+    "title": "Zaadmengels",
+    "disjunctive": false,
+    "tags": [
+      "zaadmengels"
+    ]
+  },
   "zagen-toebehoren": {
     "title": "Zagen-toebehoren",
     "disjunctive": false,
@@ -2586,6 +2600,13 @@
     "disjunctive": false,
     "tags": [
       "zelfverdediging"
+    ]
+  },
+  "zitkussens": {
+    "title": "Zitkussens",
+    "disjunctive": false,
+    "tags": [
+      "zitkussens"
     ]
   }
 }
