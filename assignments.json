@@ -205,6 +205,9 @@
   "frankonia-14208": [
     "trofee-preparatie"
   ],
+  "frankonia-292351": [
+    "drijfjacht-kleding"
+  ],
   "frankonia-14253": [
     "trofee-preparatie"
   ],
@@ -237,12 +240,57 @@
     "slachtmessen-toebehoren",
     "messensetjes"
   ],
+  "frankonia-276645": [
+    "jacht-vesten",
+    "camouflage-kleding"
+  ],
+  "frankonia-265552": [
+    "jacht-overhemden"
+  ],
+  "frankonia-275220": [
+    "camouflage-kleding"
+  ],
+  "frankonia-215581": [
+    "jacht-jassen"
+  ],
   "frankonia-162802": [
     "jachthoorns"
   ],
   "frankonia-2009379": [
     "slachtmessen-toebehoren",
     "wildwegers"
+  ],
+  "frankonia-265760": [
+    "jacht-overhemden"
+  ],
+  "frankonia-277178": [
+    "drijfjacht-kleding",
+    "jacht-vesten"
+  ],
+  "frankonia-282035": [
+    "jachtschoenen"
+  ],
+  "frankonia-281098": [
+    "jachtschoenen"
+  ],
+  "frankonia-183266": [
+    "aanzitstoelen"
+  ],
+  "frankonia-14227": [
+    "trofee-preparatie"
+  ],
+  "frankonia-2016655": [
+    "trofee-preparatie"
+  ],
+  "frankonia-14233": [
+    "trofee-preparatie"
+  ],
+  "frankonia-14229": [
+    "trofee-preparatie"
+  ],
+  "frankonia-2008423": [
+    "slachtmessen-toebehoren",
+    "messensetjes"
   ],
   "frankonia-293075": [
     "jacht-ondergoed"
@@ -256,6 +304,12 @@
   "frankonia-2013531": [
     "messenslijpers"
   ],
+  "geluiddemper-vulcan-long": [
+    "geluiddempers"
+  ],
+  "geluiddemper-vulcan-short": [
+    "geluiddempers"
+  ],
   "moderator-eagle-vision-poseidon-60-interchangeable-1-2-unf": [
     "geluiddempers"
   ],
@@ -264,6 +318,66 @@
   ],
   "geluiddemper-eagle-vision-triton-50-interchangeable-1-2-unf": [
     "geluiddempers"
+  ],
+  "moderator-evanix-viper": [
+    "geluiddempers"
+  ],
+  "moderator-fox-silencer-100": [
+    "geluiddempers"
+  ],
+  "moderator-fox-silencer-300": [
+    "geluiddempers"
+  ],
+  "moderator-fox-silencer-600-on-barrel": [
+    "geluiddempers"
+  ],
+  "geluiddemper-fox-silencer-600-over-barrel": [
+    "geluiddempers"
+  ],
+  "moderator-fox-silencer-tune": [
+    "geluiddempers"
+  ],
+  "moderator-fx-1-2-unf": [
+    "geluiddempers"
+  ],
+  "geluiddemper-hogan-decimeater-1-2-unf": [
+    "geluiddempers"
+  ],
+  "geluiddemper-huggett-atom-1-2-unf": [
+    "geluiddempers"
+  ],
+  "geluiddemper-huggett-belita-compact-1-2-unf": [
+    "geluiddempers"
+  ],
+  "geluiddemper-huggett-magna-30-1-2-unf": [
+    "geluiddempers"
+  ],
+  "geluiddemper-huggett-mini-magna-1-2-unf": [
+    "geluiddempers"
+  ],
+  "geluiddemper-huggett-std-deluxe-1-2-unf": [
+    "geluiddempers"
+  ],
+  "moderator-cover-ulfhednar-miragecover-mk3": [
+    "geluiddempers"
+  ],
+  "baffle-donnyfl-ryu": [
+    "geluiddemperadapters"
+  ],
+  "baffle-donnyfl-yokozuna": [
+    "geluiddemperadapters"
+  ],
+  "geluiddemperverlengstuk-donnyfl-fatboy": [
+    "geluiddemperadapters"
+  ],
+  "geluiddemperverlengstuk-donnyfl-ronin-emperor": [
+    "geluiddemperadapters"
+  ],
+  "moderator-extender-donnyfl-yokozuna": [
+    "geluiddemperadapters"
+  ],
+  "moderator-extender-fox-silencer-tune": [
+    "geluiddemperadapters"
   ],
   "miniature-goatguns-ak12-black": [
     "miniaturen"
@@ -37265,7 +37379,28 @@
     "ninja-balaclava-basic-microfleece-rip-stop-10533",
     "frankonia-178213",
     "frankonia-168116",
-    "frankonia-217002"
+    "frankonia-217002",
+    "frankonia-292351",
+    "frankonia-197046",
+    "frankonia-276645",
+    "frankonia-265552",
+    "frankonia-275220",
+    "frankonia-215581",
+    "frankonia-265760",
+    "frankonia-277178",
+    "frankonia-282035",
+    "frankonia-281098",
+    "frankonia-183266",
+    "frankonia-14227",
+    "frankonia-2016655",
+    "frankonia-14233",
+    "frankonia-14229",
+    "frankonia-2008423",
+    "geluiddemper-vulcan-long",
+    "geluiddemper-vulcan-short",
+    "moderator-eagle-vision-poseidon-60-interchangeable-1-2-unf",
+    "moderator-eagle-vision-sigma-m4-interchangeable-1-2-unf-demper-6-35-mm-25",
+    "geluiddemper-eagle-vision-triton-50-interchangeable-1-2-unf"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
