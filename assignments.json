@@ -168,8 +168,111 @@
     "drijfjacht-kleding",
     "jacht-jassen"
   ],
+  "parforce-active-thermal-lange-mouw-super-soft": [
+    "jacht-ondergoed"
+  ],
   "parforce-active-thermoleggings-voor-dames-super-soft": [
     "dames-jachtondergoed"
+  ],
+  "parforce-active-winter-broek-cirrus-olijf-melange": [
+    "jacht-broeken"
+  ],
+  "parforce-active-winter-jagdparka-evo-hunt-2-0": [
+    "jacht-jassen"
+  ],
+  "parforce-active-winter-jas-cirrus-olijfgroen-mel": [
+    "jacht-jassen"
+  ],
+  "parforce-active-winterbroek-voor-dames-evo-huntex": [
+    "dames-jachtbroeken"
+  ],
+  "parforce-active-winterjachtlaarzen": [
+    "jachtschoenen"
+  ],
+  "parforce-active-winterjack-greensphere": [
+    "camouflage-kleding"
+  ],
+  "parforce-active-women-s-omkeerbare-fleecejacket-greensphere-signal": [
+    "dames-signaalkleding"
+  ],
+  "parforce-active-women-s-omkeerbare-winterjas-sphere": [
+    "dames-signaalkleding"
+  ],
+  "parforce-breaker-saw-parforce-olijf": [
+    "slachtmessen-toebehoren"
+  ],
+  "parforce-breekzaag": [
+    "slachtmessen-toebehoren"
+  ],
+  "parforce-cervus-jachtmes": [
+    "jachtmessen"
+  ],
+  "parforce-damascus-berkenhout-messenset": [
+    "jachtmessen"
+  ],
+  "parforce-damascus-mes-pecora": [
+    "jachtmessen"
+  ],
+  "parforce-damastmesser": [
+    "jachtmessen"
+  ],
+  "parforce-essential-hunting-knives-parforce-orange-wood": [
+    "slachtmessen-toebehoren"
+  ],
+  "parforce-essential-rubberlaarzen-met-neopreen-voering": [
+    "jacht-laarzen"
+  ],
+  "parforce-essential-rubberlaarzen-met-neopreen-voering-neo-2": [
+    "jacht-laarzen"
+  ],
+  "parforce-essential-rubberlaarzen-met-neopreenvoering-neo-2": [
+    "jacht-laarzen"
+  ],
+  "parforce-essential-rubberlaarzen-met-rits-en-neopreen-voering": [
+    "jacht-laarzen"
+  ],
+  "parforce-essential-signaalcap-met-zwijnembrodering": [
+    "jacht-petten",
+    "drijfjacht-kleding"
+  ],
+  "parforce-jachtmes-damascus-ingrata": [
+    "jachtmessen"
+  ],
+  "parforce-jachtmes-hunter-pro": [
+    "jachtmessen"
+  ],
+  "parforce-jachtmes-lupus-hertsehoorn": [
+    "jachtmessen"
+  ],
+  "parforce-jagdnicker-capreolus": [
+    "jachtmessen"
+  ],
+  "parforce-jagersmes-volgens-r-frie": [
+    "jachtmessen"
+  ],
+  "parforce-knife-hatz-watz-saut-ter-basse": [
+    "jachtmessen"
+  ],
+  "parforce-knife-sausage-hatz-watz-boar-hunter-g10ft": [
+    "jachtmessen"
+  ],
+  "parforce-protective-dames-jachtjack-hatz-watz-waterproof": [
+    "dames-signaalkleding"
+  ],
+  "parforce-protective-hondenf-hrer-pet-hatz-watz": [
+    "jacht-petten",
+    "drijfjacht-kleding"
+  ],
+  "parforce-protective-membran-cap-hatz-watz-evolution": [
+    "jacht-petten",
+    "drijfjacht-kleding"
+  ],
+  "parforce-protective-mesh-cap-hatz-watz-evolution": [
+    "jacht-petten",
+    "drijfjacht-kleding"
+  ],
+  "parforce-retriever-dummy": [
+    "apporteerblokken"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -33020,7 +33123,9 @@
     "kershaw-deschutes-skinner-zakmes-met-gut-hook",
     "metalk-safe-cicogna-gehard-glas",
     "mtm-reinigingskist",
-    "mtm-schietsteun-k-zone-ksr-30"
+    "mtm-schietsteun-k-zone-ksr-30",
+    "parforce-decoy-kraai",
+    "parforce-rifle-rest-pillow"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
