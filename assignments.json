@@ -45,6 +45,27 @@
   "fuchslocker-nordik-agony": [
     "lokfluiten"
   ],
+  "hiviz-hiviz-special-grain": [
+    "korrels"
+  ],
+  "hiviz-korrel-voor-cz75": [
+    "korrels"
+  ],
+  "hp-g-apportierdummy-krakeend": [
+    "apporteerblokken"
+  ],
+  "hp-g-apportierdummy-wilde-eend": [
+    "apporteerblokken"
+  ],
+  "hp-g-retriever-dummy-bumper": [
+    "apporteerblokken"
+  ],
+  "hp-g-retriever-dummy-fazant": [
+    "apporteerblokken"
+  ],
+  "hp-g-retrieving-dummy-balance-bumper-320g": [
+    "apporteerblokken"
+  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -32821,7 +32842,62 @@
     "format-wapenkast-corvino-4107-beveiligingsklasse-1",
     "format-wapenkast-corvino-4108-klasse-1",
     "format-wapenkluis-corvino-4008-klasse-0",
-    "format-wapenkluizen-corvino-4006-klasse-0"
+    "format-wapenkluizen-corvino-4006-klasse-0",
+    "gardigo-wildtier-vertreiber-360",
+    "gastrock-alpenstange-hazel-2-delig",
+    "gastrock-alpenstock-es-wenge-1-delig",
+    "gastrock-praktus-veiligheids-schietsstok",
+    "gastrock-praktus-zitsteen-hoogteverstelbaarheid",
+    "gastrock-target-stick-deer-horn-fork-2-delig",
+    "gastrock-target-stick-deer-horn-fork-3-delig",
+    "gastrock-wandelstok-wortelstok",
+    "gastrock-ziegenhainer-wandelstok",
+    "gastrock-zitsstok-praktus-edition-frankonia",
+    "haendler-natermann-4-5mm-diabolo-field-target-trophy-0-56g",
+    "haendler-natermann-4-40mm-looden-kogels-kopergeplateerd-0-5g",
+    "haendler-natermann-4-49mm-diabolo-match-heavy-0-53g",
+    "haendler-natermann-4-49mm-diabolo-match-light-0-51g",
+    "haendler-natermann-4-5-mm-diabolo-coppa-spitz-excite-0-49g",
+    "haendler-natermann-4-5-mm-diabolo-excite-econ-ii-0-48g",
+    "haendler-natermann-4-50-mm-ronde-kogel-excite-smart-shot",
+    "haendler-natermann-4-50mm-diabolo-match-heavy-0-53g",
+    "haendler-natermann-4-50mm-diabolo-match-light-0-51g",
+    "haendler-natermann-4-51mm-diabolo-baracuda-8-0-55g",
+    "haendler-natermann-4-5mm-diabolo-baracuda-0-69g",
+    "haendler-natermann-4-5mm-diabolo-baracuda-hunter-0-68g",
+    "haendler-natermann-4-5mm-diabolo-crow-magnum-0-57g",
+    "haendler-natermann-4-5mm-diabolo-hornet-0-65g",
+    "haendler-natermann-4-5mm-diabolo-hornet-pistol-0-5g",
+    "haendler-natermann-4-5mm-diabolo-match-green-0-34g",
+    "haendler-natermann-4-5mm-diabolo-silver-point-0-75g",
+    "haendler-natermann-4-5mm-diabolo-slug-hp-0-65g",
+    "haendler-natermann-4-5mm-diabolo-spitse-kogel-0-56g",
+    "haendler-natermann-4-5mm-diabolo-sport-0-53g",
+    "haendler-natermann-4-5mm-diabolo-terminator-0-47g",
+    "haendler-natermann-4-5mm-diabolos-hunter-6-testpakket",
+    "haendler-natermann-4-5mm-excite-plinking-0-47g",
+    "haendler-natermann-4-5mm-excite-spike-0-56g",
+    "haendler-natermann-5-53mm-diabolo-field-target-trophy-0-95g",
+    "haendler-natermann-5-5mm-diabolo-excite-econ-ii-0-85g",
+    "haendler-natermann-5-5mm-diabolo-excite-spike-1-02g",
+    "haendler-natermann-5-5mm-diabolo-hornet-1-05g",
+    "haendler-natermann-5-5mm-diabolo-hunter-5-testpakket",
+    "haendler-natermann-5-5mm-diabolo-sport-0-89g",
+    "haendler-natermann-5-5mm-excite-plinking-0-83g",
+    "haendler-natermann-6-35mm-diabolo-baracuda-2-00g",
+    "haendler-natermann-6-35mm-diabolo-baracuda-green-1-29g",
+    "haendler-natermann-6-35mm-diabolo-grizzly-2-02g",
+    "howard-leight-avatar-plus-otg-veiligheidsbril",
+    "howard-leight-avatar-plus-veiligheidsbril",
+    "howard-leight-schietbril-pulsafe-xc",
+    "howard-leight-svp-400-veiligheidsbril",
+    "iss-2-binnenkasten-voor-artikelnummer-157628",
+    "iss-handgun-cabinet-safe4gun-100x50-cm",
+    "iss-handgun-cabinet-safe4gun-115x50-cm",
+    "iss-handgun-cabinet-safe4gun-44x33-cm",
+    "iss-lucerne-wf-max-combi-stalen-wapenkast-voor-7-lange-geweren",
+    "iss-lucerne-wf-max-stalen-wapenkast-voor-16-lange-wapens",
+    "iss-mehrzweck-waffenschrank-klasse-1"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
