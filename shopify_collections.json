@@ -378,6 +378,13 @@
       "dames-jachtlaarzen"
     ]
   },
+  "dames-jachtmutsen": {
+    "title": "Dames-jachtmutsen",
+    "disjunctive": false,
+    "tags": [
+      "dames-jachtmutsen"
+    ]
+  },
   "dames-jachtondergoed": {
     "title": "Dames-Jachtondergoed",
     "disjunctive": false,
@@ -418,6 +425,13 @@
     "disjunctive": false,
     "tags": [
       "die-accessoires"
+    ]
+  },
+  "dierverzorging": {
+    "title": "Dierverzorging",
+    "disjunctive": false,
+    "tags": [
+      "dierverzorging"
     ]
   },
   "dies": {
@@ -927,6 +941,13 @@
       "jachtmessen"
     ]
   },
+  "jachtmusten": {
+    "title": "Jachtmusten",
+    "disjunctive": false,
+    "tags": [
+      "jachtmusten"
+    ]
+  },
   "jachtschoenen": {
     "title": "Jachtschoenen",
     "disjunctive": false,
@@ -1142,6 +1163,13 @@
     "disjunctive": true,
     "tags": [
       "lampen"
+    ]
+  },
+  "leerverzorging": {
+    "title": "Leerverzorging",
+    "disjunctive": false,
+    "tags": [
+      "leerverzorging"
     ]
   },
   "lichaamsverwarming": {
