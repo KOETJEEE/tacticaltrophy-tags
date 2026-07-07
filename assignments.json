@@ -205,16 +205,55 @@
   "knight-beschermingsvest": [
     "zelfverdediging"
   ],
+  "ledlenser-bag-leather-voor-ledlenser-zaklantaarns": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-bag-voor-riemtype-g": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-batterij-18650-lithium-ion-3000-mah": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-flashlight-ledlenser-t-25-jaar-jubileumeditie": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-flashlight-p18r-signature": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-flashlight-p3r": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-flashlight-p5": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-griffring-voor-zaklantaarns": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-kabelschakelaar-afstandsbediening": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-kleurenfilterset-voor-zaklantaarns": [
+    "zaklampen-hoofdlampen"
+  ],
   "ledlenser-koplampen-ledlenser-neo1r-meoling": [
     "zaklampen-hoofdlampen"
   ],
   "ledlenser-koplampl-kidled-2": [
     "zaklampen-hoofdlampen"
   ],
+  "ledlenser-laadstation-type-b": [
+    "zaklampen-hoofdlampen"
+  ],
   "ledlenser-lamp-ml6-warm-light": [
     "zaklampen-hoofdlampen"
   ],
   "ledlenser-lampe-h21r": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-magnetische-zaklantaarnhouder": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-ml4-warm-light-compacte-campinglantern": [
     "zaklampen-hoofdlampen"
   ],
   "ledlenser-p18r-zaklamp": [
@@ -232,7 +271,19 @@
   "ledlenser-p7r-pro-zaklamp": [
     "zaklampen-hoofdlampen"
   ],
+  "ledlenser-power-bank-flex5": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-powerbank-flex10": [
+    "zaklampen-hoofdlampen"
+  ],
   "ledlenser-r-ckstoffring-voor-zaklampen": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-universele-mount": [
+    "zaklampen-hoofdlampen"
+  ],
+  "ledlenser-zaklamp-kidbeam4": [
     "zaklampen-hoofdlampen"
   ],
   "ledlenser-zaklamp-mt10": [
@@ -33587,7 +33638,8 @@
     "kh-security-veiligheidsparaplu-met-knop",
     "knobloch-aluminium-schietscherm",
     "kamik-clog-nova-olijfgroen-kamik-maat-5-36",
-    "knobloch-draagbare-trechterhoogte"
+    "knobloch-draagbare-trechterhoogte",
+    "ledlenser-accu-26650-lithium-ion-5000-mah"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
