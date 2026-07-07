@@ -412,6 +412,21 @@
     "drijfjacht-kleding",
     "jacht-jassen"
   ],
+  "parforce-dames-omkeerbare-fleecejack-tecl-wood-signaalkleur": [
+    "dames-signaalkleding",
+    "dames-jachtjassen",
+    "camouflagekleding-dames"
+  ],
+  "parforce-essential-camo-cap-jager": [
+    "camouflage-kleding",
+    "jacht-petten"
+  ],
+  "parforce-essential-cap-meshback": [
+    "jacht-petten"
+  ],
+  "parforce-essential-vouwmes-albero-hirsch": [
+    "vouwmessen"
+  ],
   "parforce-loden-dubbel-foudraal": [
     "geweertassen-foudralen"
   ],
@@ -429,6 +444,42 @@
   ],
   "parforce-long-gun-case-polyamide": [
     "geweertassen-foudralen"
+  ],
+  "parforce-mes-bavarian-nicker": [
+    "jachtmessen"
+  ],
+  "parforce-mes-damascus-wortelburled-hout": [
+    "jachtmessen"
+  ],
+  "parforce-mes-furvus-cocobolo": [
+    "jachtmessen"
+  ],
+  "parforce-mes-sautoter-integral-eikenhout": [
+    "jachtmessen"
+  ],
+  "parforce-mes-wild-afmaker-hatz-watz": [
+    "jachtmessen"
+  ],
+  "parforce-oprijhaken": [
+    "slachtmessen-toebehoren"
+  ],
+  "parforce-patroonhouder": [
+    "patroonhouders"
+  ],
+  "parforce-patroonhouder-loden": [
+    "patroonhouders"
+  ],
+  "parforce-patroonhouder-medium": [
+    "patroonhouders"
+  ],
+  "parforce-patroonkoker-klein": [
+    "patroonhouders"
+  ],
+  "parforce-patroontas-vol-runderleerleer": [
+    "patroonhouders"
+  ],
+  "parforce-pig-killer-hatz-watz-evolution-black-wild": [
+    "jachtmessen"
   ],
   "parforce-protective-functional-lange-mouw-hatz-watz-evolution": [
     "drijfjacht-kleding"
@@ -34301,7 +34352,8 @@
     "parforce-active-jachtmes-damascus-legatum",
     "parforce-active-jagdmesser-ibex-olijfhout",
     "parforce-active-knife-badger",
-    "parforce-active-leren-riem"
+    "parforce-active-leren-riem",
+    "parforce-combination-foudraal"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
