@@ -437,6 +437,16 @@
   "parforce-action-flex-jachtlaarzen": [
     "jachtschoenen"
   ],
+  "parforce-active-greensphere-fleecejack": [
+    "camouflage-kleding"
+  ],
+  "parforce-active-greensphere-hybride-jas": [
+    "camouflage-kleding"
+  ],
+  "parforce-active-greensphere-jagershandschoen": [
+    "camouflage-kleding",
+    "jacht-handschoenen"
+  ],
   "parforce-headlamp-p7-led-stirnlamp": [
     "zaklampen-hoofdlampen"
   ],
