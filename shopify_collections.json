@@ -301,6 +301,13 @@
       "camouflage-kleding"
     ]
   },
+  "camouflagekleding-dames": {
+    "title": "Camouflagekleding dames",
+    "disjunctive": false,
+    "tags": [
+      "camouflagekleding-dames"
+    ]
+  },
   "camouflagenetten": {
     "title": "Camouflagenetten",
     "disjunctive": false,
@@ -1682,6 +1689,13 @@
     "disjunctive": false,
     "tags": [
       "pistons-piston-heads"
+    ]
+  },
+  "pistoolfoudralen": {
+    "title": "Pistoolfoudralen",
+    "disjunctive": false,
+    "tags": [
+      "pistoolfoudralen"
     ]
   },
   "plate-carriers": {
