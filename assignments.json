@@ -337,6 +337,9 @@
   "mtm-the-bull-rifle-rest-uitrichtingssteun": [
     "geweersteunen"
   ],
+  "napier-apex-auto-lift": [
+    "wildhijsers-toebehoren"
+  ],
   "nebo-davinci-1000-zaklamp": [
     "zaklampen-hoofdlampen"
   ],
@@ -33701,7 +33704,24 @@
     "mtm-munitiedoos-voor-10-verpakkingen-shotgunpatronen",
     "mtm-munitiedoos-voor-20-dozen-hagelpatronen",
     "mtm-muzzle-loader-box",
-    "mtm-universal-laadplaat"
+    "mtm-universal-laadplaat",
+    "nebo-flashlight-big-larry-2",
+    "nebo-flashlight-davinci-18000",
+    "nebo-flashlight-davinci-8000",
+    "nebo-flashlight-franklin-pivot-rc",
+    "nebo-flashlight-torchy-2k",
+    "nebo-headlight-luxtreme-sl75",
+    "nebo-lantern-galileo-1000",
+    "nextorch-18650-batterij-met-usb-c",
+    "nextorch-flashlight-holster-v5",
+    "nextorch-flashlight-p82",
+    "nextorch-flashlight-t53-met-kleurwisseling",
+    "nextorch-flashlight-t5g-v2-0-set",
+    "nextorch-flashlight-ta15-v2",
+    "nextorch-flashlight-ta30c-max",
+    "nextorch-guide-aid-fr2-voor-ta30-max",
+    "nextorch-handleiding-ring-voor-nextorch-ta30",
+    "nextorch-saint-torch-31"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
