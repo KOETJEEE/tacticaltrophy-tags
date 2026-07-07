@@ -21,6 +21,9 @@
   "ansmann-universele-lampholder-25-34mm": [
     "zaklampen-hoofdlampen"
   ],
+  "berger-schr-ter-aluminium-zithoogte-met-uitbreiding": [
+    "aanzitladders-hoogzitten"
+  ],
   "berger-schr-ter-aluminium-zitstoelhoogtrap-opvouwbaar": [
     "aanzitladders-hoogzitten"
   ],
@@ -32220,6 +32223,9 @@
     ]
   },
   "_added": {
+    "berger-schr-ter-aluminium-zithoogte-met-uitbreiding": [
+      "oversize"
+    ],
     "berger-schr-ter-aluminium-zitstoelhoogtrap-opvouwbaar": [
       "oversize"
     ],
@@ -33352,7 +33358,8 @@
     "beier-roestvrijstalen-thermosfles-met-jachtmotief-700-ml",
     "berger-schr-ter-battery-led-draaiend-zwaailicht",
     "berger-schr-ter-lichte-metalen-laadplank",
-    "berger-schr-ter-stormankers-voor-hooizolders-4-stuks"
+    "berger-schr-ter-stormankers-voor-hooizolders-4-stuks",
+    "berger-schr-ter-uitbreidingsset-voor-vrijstaande-luik-ladder"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
