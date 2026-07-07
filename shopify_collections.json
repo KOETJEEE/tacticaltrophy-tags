@@ -1537,13 +1537,6 @@
       "oogbescherming"
     ]
   },
-  "opklapzagen": {
-    "title": "Opklapzagen",
-    "disjunctive": false,
-    "tags": [
-      "opklapzagen"
-    ]
-  },
   "optiek": {
     "title": "Optiek",
     "disjunctive": false,
@@ -2593,13 +2586,6 @@
     "disjunctive": false,
     "tags": [
       "zaadmengels"
-    ]
-  },
-  "zagen-toebehoren": {
-    "title": "Zagen-toebehoren",
-    "disjunctive": false,
-    "tags": [
-      "zagen-toebehoren"
     ]
   },
   "zaklampen-hoofdlampen": {
