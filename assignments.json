@@ -47,6 +47,15 @@
     "dames-jachtjassen",
     "camouflagekleding-dames"
   ],
+  "collonil-high-tech-textile-wash": [
+    "leerverzorging"
+  ],
+  "collonil-reinigings-en-impregneerset": [
+    "leerverzorging"
+  ],
+  "collonil-rubberlaarzen-onderhoud": [
+    "leerverzorging"
+  ],
   "cz-nylon-koffer-voor-shadow-modellen": [
     "pistoolfoudralen"
   ],
@@ -58,6 +67,22 @@
   ],
   "davide-pedersoli-geweerriem-apocalypse": [
     "geweerriemen"
+  ],
+  "deerhunter-cumberland-omkeerbare-pet": [
+    "jachtmusten",
+    "dames-jachtmutsen"
+  ],
+  "deerhunter-dames-canopy-broek": [
+    "dames-jachtbroeken"
+  ],
+  "deerhunter-dames-haarband": [
+    "dames-jachtmutsen"
+  ],
+  "deerhunter-dames-leggings-lady-hunting": [
+    "dames-jachtondergoed"
+  ],
+  "deerhunter-dames-muts": [
+    "dames-jachtmutsen"
   ],
   "deerhunter-zitmat-opvouwbaar": [
     "zitkussens"
@@ -33913,7 +33938,9 @@
     "caso-rijpingskast-dryaged-master-model-63-125-380",
     "centra-sight-line-raiser-block-club",
     "chevalier-chevalite-3-0-pointer-broek",
-    "chevalier-dames-fleece-jack-mainstone"
+    "chevalier-dames-fleece-jack-mainstone",
+    "collonil-hygi-nespray-voor-wildkamer",
+    "craghoppers-cap-nosilife-desert-iii"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
