@@ -355,6 +355,12 @@
   "parforce-active-jagdtrui-arlberg": [
     "jacht-truien"
   ],
+  "parforce-active-knit-hoofdband": [
+    "jachtmusten"
+  ],
+  "parforce-active-lage-schoen-met-snelsluitsysteem": [
+    "jachtschoenen"
+  ],
   "parforce-loden-dubbel-foudraal": [
     "geweertassen-foudralen"
   ],
@@ -34242,7 +34248,9 @@
     "out-dog-beschermvest-standaard",
     "out-dog-ritssluiting-extensie",
     "parforce-active-jachtmes-damascus-legatum",
-    "parforce-active-jagdmesser-ibex-olijfhout"
+    "parforce-active-jagdmesser-ibex-olijfhout",
+    "parforce-active-knife-badger",
+    "parforce-active-leren-riem"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
