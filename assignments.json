@@ -43,6 +43,12 @@
   "wald-forst-hondenfluiten-van-buffelhoren": [
     "hondsfluitjes"
   ],
+  "wald-forst-oak-shield-buck": [
+    "trofee-preparatie"
+  ],
+  "wald-forst-retriever-dummy": [
+    "apporteerblokken"
+  ],
   "weisskirchen-eifel-hertgroepoproeper": [
     "lokfluiten"
   ],
@@ -96,6 +102,24 @@
   ],
   "thermal-imaging-camera-hikmicro-condor-ch35l": [
     "warmtebeeld"
+  ],
+  "thermal-imaging-camera-hikmicro-explorer-e20plus": [
+    "inspectie-cameras"
+  ],
+  "mount-schmeisser-sm34-34-mm-medium-weaver-picatinny": [
+    "1-delige-montages"
+  ],
+  "mounting-base-vector-optics-dovetail-to-universal-footprint": [
+    "montagebasissen"
+  ],
+  "mounting-base-vector-optics-weaver-picatinny-to-45-offset-universal-footprint": [
+    "montagebasissen"
+  ],
+  "mounting-base-walther-pdp-v1-04-leupold-deltapoint-pro": [
+    "montagebasissen"
+  ],
+  "montagebasis-walther-pdp-voor-leupold": [
+    "montagebasissen"
   ],
   "cleaning-kit-bore-tech-ar10-bolt-carrier": [
     "schoonmaaksetjes"
@@ -34630,7 +34654,21 @@
     "victorinox-zwarte-lederen-riemtas",
     "yeti-hondenbak-boomer-4",
     "yeti-hondenbak-boomer-8",
-    "yeti-lid-hotshot-cap-voor-rambler-fles"
+    "yeti-lid-hotshot-cap-voor-rambler-fles",
+    "umarex-4-5mm-diabolo-mosquito-gen2-0-50g-2-500-stuks",
+    "umarex-5-50-diabolo-mosquito-gen2-1250-stuks",
+    "umarex-5-50mm-diabolo-cobra-gen2-1-1g-1-000-stuks",
+    "utg-bipod-7-9-inches",
+    "utg-bipod-utg-big-bore-9-x-14-inch-alu-zwart",
+    "utg-bipod-utg-goliath-6-x-8-inch",
+    "vanguard-bipod-eq-precision-1a",
+    "vanguard-bipod-eq-precision-1qs",
+    "vanguard-bipod-eq-precision-2a",
+    "vanguard-bipod-eq-precision-2qs",
+    "vfg-firearm-pocket-reinigingsset",
+    "vfg-fun-line-sport-reinigingsstok",
+    "vfg-loopschoonmaker-voor-jachtgeweren-comfort",
+    "vfg-quick-cleaning-plug-comfort-kaliber-4-5-177"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
