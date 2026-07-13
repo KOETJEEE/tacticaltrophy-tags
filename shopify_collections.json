@@ -1761,6 +1761,13 @@
       "ponchos"
     ]
   },
+  "populaire-producten": {
+    "title": "Populaire producten",
+    "disjunctive": false,
+    "tags": [
+      "populaire-producten"
+    ]
+  },
   "portioneerweegschalen": {
     "title": "Portioneerweegschalen",
     "disjunctive": false,
