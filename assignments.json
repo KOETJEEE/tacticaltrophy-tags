@@ -449,6 +449,9 @@
   "vortex-pro-cantilever-montage-cvp-34-34-mm-144-inch-42210376": [
     "1-delige-montages"
   ],
+  "vortex-pro-geweerklem-met-statiefbevestiging-42000506": [
+    "statieven"
+  ],
   "vortex-pro-series-montageringen-pr1-l-254-mm-laag-42210496": [
     "2-delige-montages"
   ],
@@ -469,6 +472,17 @@
   ],
   "vortex-pro-series-montageringen-pr34-m-34-mm-medium-42210504": [
     "2-delige-montages"
+  ],
+  "vortex-pro-verrekijker-adapter-stud-only-42000528": [
+    "observatie-accessoires"
+  ],
+  "vortex-radian-balhoofd-42000531": [
+    "observatie-accessoires",
+    "statieven"
+  ],
+  "vortex-radian-leveling-head-42000532": [
+    "observatie-accessoires",
+    "statieven"
   ],
   "vortex-ranger-hd3000-10x42-verrekijker-met-afstandmeter-42081044": [
     "verrekijkers"
@@ -34145,6 +34159,9 @@
     "vortex-ridgeview-carbon-fiber-statief-panoramakop-42000534": [
       "populaire-producten"
     ],
+    "vortex-statief-pro-autoraam-montage-42000505": [
+      "populaire-producten"
+    ],
     "vortex-viper-hd-20-60x85-spotting-scope-recht-42110804": [
       "populaire-producten"
     ],
@@ -43586,7 +43603,11 @@
     "vortex-zonnebril-banshee-greenamber-42600305",
     "vortex-zonnebril-jackal-blackamber-42600300",
     "vortex-zonnebril-jackal-blacksmoke-42600301",
-    "vortex-zonnebril-jackal-bluesmoke-42600302"
+    "vortex-zonnebril-jackal-bluesmoke-42600302",
+    "vortex-radian-balhoofd-42000531",
+    "vortex-pro-verrekijker-adapter-stud-only-42000528",
+    "vortex-radian-leveling-head-42000532",
+    "vortex-pro-geweerklem-met-statiefbevestiging-42000506"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
