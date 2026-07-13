@@ -954,6 +954,62 @@
   "vortex-viper-hd-8x42-verrekijker-met-tas-42025016": [
     "verrekijkers"
   ],
+  "vortex-viper-hd-mrad-dradenkruis-oculair-42100846": [
+    "spotting-scopes",
+    "observatie-accessoires"
+  ],
+  "vortex-viper-hs-25-10x44-richtkijker-dead-hold-bdc-dradenkruis-moa-42212103": [
+    "richtkijkers"
+  ],
+  "vortex-viper-hs-4-16x50-richtkijker-dead-hold-bdc-dradenkruis-moa-42212107": [
+    "richtkijkers"
+  ],
+  "vortex-viper-hs-lr-4-16x50-richtkijker-dead-hold-bdc-dradenkruis-long-range-moa-42214161": [
+    "richtkijkers"
+  ],
+  "vortex-viper-hs-t-4-16x44-richtkijker-vmr-1-dradenkruis-moa-42211096": [
+    "richtkijkers"
+  ],
+  "vortex-viper-hs-t-4-16x44-richtkijker-vmr-1-dradenkruis-mrad-42211095": [
+    "richtkijkers"
+  ],
+  "vortex-viper-pst-gen-ii-2-10x32-ffp-richtkijker-ebr-4-moa-42206255": [
+    "richtkijkers"
+  ],
+  "vortex-viper-pst-gen-ii-2-10x32-ffp-richtkijker-ebr-4-mrad-42206256": [
+    "richtkijkers"
+  ],
+  "vortex-viper-pst-gen-ii-3-15x44-sfp-richtkijker-ebr-4-moa-42206252": [
+    "richtkijkers"
+  ],
+  "vortex-viper-pst-gen-ii-5-25x50-ffp-richtkijker-ebr-7c-moa-42205256": [
+    "richtkijkers"
+  ],
+  "vortex-viper-pst-gen-ii-5-25x50-sfp-richtkijker-ebr-4-moa-42206249": [
+    "richtkijkers"
+  ],
+  "vortex-vmx-3t-magnifier-42300050": [
+    "red-dots",
+    "voorzetvergrotingen"
+  ],
+  "vortex-zonnebril-banshee-blackamber-42600303": [
+    "oogbescherming"
+  ],
+  "vortex-zonnebril-banshee-blacksmoke-42600304": [
+    "oogbescherming"
+  ],
+  "vortex-zonnebril-banshee-greenamber-42600305": [
+    "oogbescherming"
+  ],
+  "vortex-zonnebril-jackal-blackamber-42600300": [
+    "oogbescherming"
+  ],
+  "vortex-zonnebril-jackal-blacksmoke-42600301": [
+    "oogbescherming"
+  ],
+  "vortex-zonnebril-jackal-bluesmoke-42600302": [
+    "oogbescherming"
+  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -43198,7 +43254,124 @@
     "mounting-base-vector-optics-weaver-picatinny-to-45-offset-universal-footprint",
     "mounting-base-walther-pdp-v1-04-leupold-deltapoint-pro",
     "montagebasis-walther-pdp-voor-leupold",
-    "schietdoel-caldwell-swinging-metal-target"
+    "schietdoel-caldwell-swinging-metal-target",
+    "vortex-cap-mossy-oak-original-bottomland-patch-42601202",
+    "vortex-cap-rank-and-file-42601200",
+    "vortex-cap-traditions-42601204",
+    "vortex-crossfire-hd-1-4x24-richtkijker-verlicht-dead-hold-2a-bdc-dradenkruis-moa-42246185",
+    "vortex-crossfire-hd-15-55x32-richtkijker-scout-verlicht-dead-hold-2a-bdc-dradenkruis-moa-42246186",
+    "vortex-crossfire-hd-10x42-verrekijker-42074312",
+    "vortex-crossfire-hd-10x42-verrekijker-mossy-oak-bottomland-42074315",
+    "vortex-crossfire-hd-10x50-verrekijker-42074313",
+    "vortex-crossfire-hd-12-36x50-spotting-scope-42120501",
+    "vortex-crossfire-hd-12-36x50-spotting-scope-recht-42120502",
+    "vortex-crossfire-hd-12x50-verrekijker-42074314",
+    "vortex-crossfire-hd-16-48x65-spotting-scope-42120503",
+    "vortex-crossfire-hd-16-48x65-spotting-scope-recht-42120504",
+    "vortex-crossfire-hd-2-7x32-richtkijker-rimfire-v-plex-dradenkruis-moa-42246188",
+    "vortex-crossfire-hd-2-7x32-richtkijker-v-plex-dradenkruis-moa-42246187",
+    "vortex-crossfire-hd-2-7x32-richtkijker-verlicht-dead-hold-2a-bdc-dradenkruis-moa-42246189",
+    "vortex-crossfire-hd-20-60x80-spotting-scope-42120505",
+    "vortex-crossfire-hd-20-60x80-spotting-scope-recht-42120506",
+    "vortex-crossfire-hd-3-9x40-richtkijker-dead-hold-bdc-dradenkruis-moa-42246190",
+    "vortex-crossfire-hd-3-9x40-richtkijker-muzzleloader-bdc-dradenkruis-moa-42246193",
+    "vortex-crossfire-hd-3-9x40-richtkijker-v-plex-dradenkruis-moa-42246191",
+    "vortex-crossfire-hd-3-9x40-richtkijker-verlicht-dead-hold-2a-bdc-dradenkruis-moa-42246194",
+    "vortex-crossfire-hd-4-12x44-richtkijker-widerange-plex-dradenkruis-moa-42246196",
+    "vortex-crossfire-hd-6-18x50-richtkijker-verlicht-dead-hold-2a-bdc-dradenkruis-moa-42246199",
+    "vortex-crossfire-hd-6-18x50-richtkijker-widerange-plex-dradenkruis-moa-42246198",
+    "vortex-crossfire-hd-8x42-verrekijker-42074311",
+    "vortex-crossfire-ii-1-4x24-ar-richtkijker-v-brite-dradenkruis-moa-42243890",
+    "vortex-crossfire-ii-3-9x50-richtkijker-dead-hold-bdc-dradenkruis-moa-42243905",
+    "vortex-crossfire-ii-4-12x44-richtkijker-dead-hold-bdc-dradenkruis-moa-42243910",
+    "vortex-crossfire-ii-4-12x44-richtkijker-v-plex-dradenkruis-moa-42243911",
+    "vortex-defender-flip-cap-eyepiece-40-46-mm-42000015",
+    "vortex-defender-flip-cap-objective-lens-44-48-53-mm-42000018",
+    "vortex-defender-flip-cap-objective-lens-50-55-59-mm-42000017",
+    "vortex-defender-flip-cap-objective-lens-56-62-66-mm-42000016",
+    "vortex-defender-flip-cap-objective-lens-24-28-31-mm-42000022",
+    "vortex-defender-flip-cap-objective-lens-24-large-42000026",
+    "vortex-defender-flip-cap-objective-lens-32-38-41-mm-42000023",
+    "vortex-defender-flip-cap-objective-lens-40-45-48-mm-42000024",
+    "vortex-diamondback-175-5x32-richtkijker-dead-hold-bdc-dradenkruis-moa-42231503",
+    "vortex-diamondback-2-7x35-rimfire-richtkijker-v-plex-dradenkruis-moa-42232736",
+    "vortex-diamondback-35-10x50-richtkijker-dead-hold-bdc-dradenkruis-moa-42232943",
+    "vortex-diamondback-3-9x40-richtkijker-dead-hold-bdc-dradenkruis-moa-42232940",
+    "vortex-diamondback-3-9x40-richtkijker-v-plex-dradenkruis-moa-42232941",
+    "vortex-diamondback-4-12x40-richtkijker-dead-hold-bdc-dradenkruis-moa-42224122",
+    "vortex-diamondback-hd-10x28-verrekijker-42056211",
+    "vortex-diamondback-hd-10x32-verrekijker-42056213",
+    "vortex-diamondback-hd-10x42-verrekijker-42056215",
+    "vortex-diamondback-hd-10x42-verrekijker-mossy-oak-bottomland-42056219",
+    "vortex-diamondback-hd-10x50-verrekijker-42056216",
+    "vortex-diamondback-hd-12x50-verrekijker-42056217",
+    "vortex-diamondback-hd-15x56-verrekijker-42056218",
+    "vortex-diamondback-hd-16-48x65-spotting-scope-42120603",
+    "vortex-diamondback-hd-16-48x65-spotting-scope-recht-42120604",
+    "vortex-diamondback-hd-20-60x85-spotting-scope-42120803",
+    "vortex-diamondback-hd-20-60x85-spotting-scope-recht-42120804",
+    "vortex-diamondback-hd-8x28-verrekijker-42056210",
+    "vortex-diamondback-hd-8x32-verrekijker-42056212",
+    "vortex-diamondback-hd-8x42-verrekijker-42056214",
+    "vortex-diamondback-tactical-4-12x40-richtkijker-42234244",
+    "vortex-diamondback-tactical-4-16x44-ffp-richtkijker-ebr-2c-dradenkruis-moa-42234245",
+    "vortex-diamondback-tactical-4-16x44-ffp-richtkijker-ebr-2c-dradenkruis-mrad-42234246",
+    "vortex-diamondback-tactical-6-24x50-ffp-richtkijker-ebr-2c-dradenkruis-moa-42234247",
+    "vortex-diamondback-tactical-6-24x50-ffp-richtkijker-ebr-2c-dradenkruis-mrad-42234248",
+    "vortex-diamondback-tactical-zonnekap-42000036",
+    "vortex-enclosed-solar-mico-red-dot-defender-ccw-3-moa-42299903",
+    "vortex-enclosed-solar-micro-red-dot-defender-st-3-moa-42299904",
+    "vortex-flip-cap-cover-voor-sparc-ii-42000037",
+    "vortex-flip-cap-objectief-voor-strikefire-42000008",
+    "vortex-flip-cap-oculair-cover-voor-strikefire-42000009",
+    "vortex-flip-cap-optic-cover-fc-3-30-35-mm-42000003",
+    "vortex-flip-cap-optic-cover-fc-6-46-55-mm-42000006",
+    "vortex-glasspak-pro-bear-spray-pouch-tan-42600281",
+    "vortex-glasspak-pro-comfort-neck-strap-tan-42600283",
+    "vortex-glasspak-pro-hand-muff-tan-42600277",
+    "vortex-glasspak-pro-holster-tan-42600278",
+    "vortex-glasspak-pro-large-zipper-pouch-tan-42600279",
+    "vortex-glasspak-pro-laser-rangefinder-pouch-tan-42600282",
+    "vortex-glasspak-pro-small-zipper-pouch-tan-42600280",
+    "vortex-glasspak-pro-verrekijker-harnas-large-42600275",
+    "vortex-glasspak-pro-verrekijker-harnas-small-42600276",
+    "vortex-glasspak-sport-verrekijker-harnas-large-42600284",
+    "vortex-glasspak-sport-verrekijker-harnas-small-42600285",
+    "vortex-glasspak-verrekijker-harnas-42079001",
+    "vortex-golf-laser-afstandmeter-anarch-42084010",
+    "vortex-golf-laser-afstandmeter-blade-42084012",
+    "vortex-green-dot-defender-ccw-3-moa-42300155",
+    "vortex-green-dot-defender-st-3-moa-42300154",
+    "vortex-green-dot-defender-xl-3-moa-42300152",
+    "vortex-green-dot-multi-reticle-viper-sg-enclosed-42299921",
+    "vortex-green-dot-viper-sg-enclosed-3-moa-42299920",
+    "vortex-hunter-montageringen-30-mm-hoog-42200302",
+    "vortex-hunter-montageringen-30-mm-laag-42200300",
+    "vortex-hunter-montageringen-30-mm-medium-42200301",
+    "vortex-impact-4000-ballistic-rail-mounted-laser-rangefinder-42084000",
+    "vortex-kaibab-hd-18x56-verrekijker-42002057",
+    "vortex-killflash-ard-voor-strikefire-42300049",
+    "vortex-laser-afstandmeter-triumph-hd-850-42081014",
+    "vortex-laser-afstandsmeter-crossfire-hd-1400-42081011",
+    "vortex-laser-afstandsmeter-diamondback-hd-2000-42081012",
+    "vortex-laser-afstandsmeter-viper-hd-3000-42081013",
+    "vortex-lens-cloth-42000031",
+    "vortex-lens-pen-42000030",
+    "vortex-lo-pro-bubble-level-voor-254-mm-richtkijkers-42000106",
+    "vortex-lo-pro-bubble-level-voor-30-mm-richtkijkers-42000105",
+    "vortex-lo-pro-bubble-level-voor-34-mm-richtkijkers-42000107",
+    "vortex-micro-3x-magnifier-42300150",
+    "vortex-micro-6x-magnifier-42300151",
+    "vortex-micro-red-dot-defender-ccw-3-moa-tan-42299900",
+    "vortex-micro-red-dot-defender-st-3-moa-tan-42299901",
+    "vortex-micro-red-dot-defender-xl-5-moa-tan-42299902",
+    "vortex-objectiefdoppen-sw58-voor-razor-en-viper-hd-50mm-42600104",
+    "vortex-objectiefdoppen-voor-crossfire-en-diamondback-42mm-42600115",
+    "vortex-objectiefdoppen-voor-diamondback-32mm-42600112",
+    "vortex-objectiefdoppen-voor-hurricane-42600101",
+    "vortex-objectiefdoppen-voor-raptor-42600108",
+    "vortex-objectiefdoppen-voor-razor-uhd-42mm-42600117",
+    "vortex-objectiefdoppen-voor-viper-hd-42mm-42900282"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
