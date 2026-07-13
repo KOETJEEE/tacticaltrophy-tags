@@ -452,6 +452,10 @@
   "vortex-pro-geweerklem-met-statiefbevestiging-42000506": [
     "statieven"
   ],
+  "vortex-pro-leveling-head-42000526": [
+    "statieven",
+    "observatie-accessoires"
+  ],
   "vortex-pro-series-montageringen-pr1-l-254-mm-laag-42210496": [
     "2-delige-montages"
   ],
@@ -43607,7 +43611,8 @@
     "vortex-radian-balhoofd-42000531",
     "vortex-pro-verrekijker-adapter-stud-only-42000528",
     "vortex-radian-leveling-head-42000532",
-    "vortex-pro-geweerklem-met-statiefbevestiging-42000506"
+    "vortex-pro-geweerklem-met-statiefbevestiging-42000506",
+    "vortex-pro-leveling-head-42000526"
   ],
   "_variant_profiles": {
     "poetsstok-bore-tech-bore-stix-22": {
