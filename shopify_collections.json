@@ -56,6 +56,13 @@
       "admin-pouches"
     ]
   },
+  "ads-included": {
+    "title": "Ads-included",
+    "disjunctive": false,
+    "tags": [
+      "ads-included"
+    ]
+  },
   "afstandsmeters": {
     "title": "Afstandsmeters",
     "disjunctive": false,
