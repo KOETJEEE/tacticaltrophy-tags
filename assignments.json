@@ -10,30 +10,6 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "flag-odin-night-vision-630x900-5792"
   ],
-  "byomic-bekerloep-byo-bk0245-2x45mm-184005": [
-    "loepen"
-  ],
-  "carson-opzetloep-10x30mm-186200": [
-    "loepen"
-  ],
-  "carson-steelloep-2x85mm-186020": [
-    "loepen"
-  ],
-  "konus-spotting-scope-konuspot-70b-20-60x70-437336": [
-    "spotting-scopes"
-  ],
-  "kowa-digiscoping-adapter-tsn-da10-440898": [
-    "filmen-opnemen"
-  ],
-  "kowa-digiscoping-adapter-tsn-pa8-440208": [
-    "filmen-opnemen"
-  ],
-  "kowa-tp-105ft-protect-filter-105mm-440558": [
-    "beschermkappen"
-  ],
-  "bipod-steyr-airforce-carbon-fiber-dovetail": [
-    "bipod-toebehoren"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -343,6 +319,9 @@
   "buteo-photo-gear-tentharing-30-cm-10-stuks-720240": [
     "accessoires-schuiltenten"
   ],
+  "byomic-bekerloep-byo-bk0245-2x45mm-184005": [
+    "loepen"
+  ],
   "byomic-inslagloep-doublet-byo-id1023-10x23mm-181040": [
     "loepen"
   ],
@@ -417,6 +396,9 @@
   "carson-omhangloep-2x130mm-hf-66-met-led-186118": [
     "loepen"
   ],
+  "carson-opzetloep-10x30mm-186200": [
+    "loepen"
+  ],
   "carson-opzetloep-45x75mm-186201": [
     "loepen"
   ],
@@ -427,6 +409,9 @@
     "loepen"
   ],
   "carson-steelloep-2x130mm-186021": [
+    "loepen"
+  ],
+  "carson-steelloep-2x85mm-186020": [
     "loepen"
   ],
   "carson-steelloep-2x90mm-186023": [
@@ -947,6 +932,9 @@
   "konus-richtkijker-wild-4-12x40-437334": [
     "richtkijkers"
   ],
+  "konus-spotting-scope-konuspot-70b-20-60x70-437336": [
+    "spotting-scopes"
+  ],
   "konus-spotting-scope-konuspot-80c-20-60x80-437126": [
     "spotting-scopes"
   ],
@@ -1092,10 +1080,16 @@
   "kowa-compact-spotting-scope-tsn-502-20-40x50-446502": [
     "spotting-scopes"
   ],
+  "kowa-digiscoping-adapter-tsn-da10-440898": [
+    "filmen-opnemen"
+  ],
   "kowa-digiscoping-adapter-tsn-da20-440217": [
     "filmen-opnemen"
   ],
   "kowa-digiscoping-adapter-tsn-pa7a-440207": [
+    "filmen-opnemen"
+  ],
+  "kowa-digiscoping-adapter-tsn-pa8-440208": [
     "filmen-opnemen"
   ],
   "kowa-digiscoping-adapter-voor-iphone-11-pro-max-440934": [
@@ -1295,6 +1289,9 @@
   ],
   "kowa-stay-on-tas-voor-tsn601-440690": [
     "beschermhoezen"
+  ],
+  "kowa-tp-105ft-protect-filter-105mm-440558": [
+    "beschermkappen"
   ],
   "kowa-tsn-501-20-40x50-incl-neopreen-tas-440051": [
     "beschermhoezen"
@@ -14671,6 +14668,9 @@
     "buttstocks",
     "gereedschap"
   ],
+  "bipod-steyr-airforce-carbon-fiber-dovetail": [
+    "bipod-toebehoren"
+  ],
   "marker-birchwood-sight-touch-up-super-bright-pen-kit": [
     "korrels"
   ],
@@ -19429,11 +19429,6 @@
     "shirts"
   ],
   "_removed": {
-    "konus-spotting-scope-konuspot-70b-20-60x70-437336": [
-      "monoculairs",
-      "richtkijkers",
-      "konus"
-    ],
     "cap-donnyfl-fatboy-trucket-hat": [
       "kleding",
       "petten",
@@ -19443,12 +19438,6 @@
       "headwear",
       "petten",
       "kleding"
-    ],
-    "bipod-steyr-airforce-carbon-fiber-dovetail": [
-      "airsoft",
-      "bipods",
-      "jacht",
-      "schietsport"
     ],
     "trekkerslot-lockdown-met-sleutel": [
       "trekkers",
@@ -20446,6 +20435,11 @@
     ],
     "konus-red-dot-richtkijker-sight-pro-pts2-437203": [
       "richtkijkers"
+    ],
+    "konus-spotting-scope-konuspot-70b-20-60x70-437336": [
+      "monoculairs",
+      "richtkijkers",
+      "konus"
     ],
     "konus-spotting-scope-konuspot-80c-20-60x80-437126": [
       "monoculairs",
@@ -24809,6 +24803,12 @@
     ],
     "steeksleutel-element-delta-ring-butt-stock": [
       "kolven"
+    ],
+    "bipod-steyr-airforce-carbon-fiber-dovetail": [
+      "airsoft",
+      "bipods",
+      "jacht",
+      "schietsport"
     ],
     "marker-birchwood-sight-touch-up-super-bright-pen-kit": [
       "optiek",
