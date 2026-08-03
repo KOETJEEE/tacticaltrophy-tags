@@ -20,11 +20,74 @@
     "nextorch-universele-beugel-rm87",
     "hornady-custom-grade-steekset-voor-lange-geweren-2-delig"
   ],
+  "agm-taipan-v2-10-256-warmtebeeldcamera-121312": [
+    "warmtebeeld"
+  ],
+  "agm-taipan-v2-15-256-warmtebeeldcamera-121313": [
+    "warmtebeeld"
+  ],
+  "agm-taipan-v2-15-384-warmtebeeldcamera-121315": [
+    "warmtebeeld"
+  ],
+  "agm-taipan-v2-19-320-warmtebeeldcamera-121314": [
+    "warmtebeeld"
+  ],
+  "agm-taipan-v2-19-384-warmtebeeldcamera-121316": [
+    "warmtebeeld"
+  ],
+  "agm-taipan-v2-25-384-warmtebeeldcamera-121317": [
+    "warmtebeeld"
+  ],
   "konus-spotting-scope-konuspot-65c-15-45x65-437128": [
     "spotting-scopes"
   ],
+  "kowa-adapterring-tsn-ar52-440252": [
+    "filmen-opnemen"
+  ],
+  "kowa-neoprene-stay-on-case-c-55a-n-for-tsn-55a-441557": [
+    "spotting-scopes",
+    "observatie-accessoires"
+  ],
+  "kowa-tsn-ex16-16x-extender-440209": [
+    "oculairs"
+  ],
+  "kowa-verrekijker-sviii-10x32-441916": [
+    "verrekijkers"
+  ],
+  "kowa-verrekijker-sviii-10x42-441918": [
+    "verrekijkers"
+  ],
+  "kowa-verrekijker-sviii-8x32-441915": [
+    "verrekijkers"
+  ],
+  "kowa-verrekijker-sviii-8x42-441917": [
+    "verrekijkers"
+  ],
+  "kowa-zoom-oculair-20x-60x-tse-z9b-voor-tsn600660-445060": [
+    "oculairs"
+  ],
+  "stealth-gear-schuiltent-one-man-chair-hide-m2-groen-710106": [
+    "schuiltenten"
+  ],
   "vortex-44-mm-throw-lever-tl-44-42000097": [
     "richtkijkers"
+  ],
+  "vortex-ace-ballistisch-weerstation-42064225": [
+    "richtmiddel-accessoires",
+    "observatie-accessoires"
+  ],
+  "vortex-amg-uh-1-gen-ii-holographic-sight-42300036": [
+    "red-dots"
+  ],
+  "vortex-arca-swiss-quick-release-plate-tra-arcp-42000503": [
+    "montage-accessoires",
+    "statieven"
+  ],
+  "vortex-bantam-hd-65x32-verrekijker-42066532": [
+    "verrekijkers"
+  ],
+  "vortex-batterij-houder-cr2032-42000085": [
+    "montage-accessoires"
   ],
   "vortex-bubble-level-voor-254-mm-richtkijkers-42000101": [
     "waterpassen"
@@ -35,17 +98,53 @@
   "vortex-bubble-level-voor-34-mm-richtkijkers-42000099": [
     "waterpassen"
   ],
+  "vortex-cantilever-30-mm-montage-ring-40-mm-42210404": [
+    "1-delige-montages"
+  ],
+  "vortex-cantilever-montage-254-mm-2-inch-offset-159-inch4039mm-42210102": [
+    "1-delige-montages"
+  ],
+  "vortex-crossfire-hd-3-9x40-richtkijker-straight-wall-bdc-dradenkruis-moa-42246192": [
+    "richtkijkers"
+  ],
+  "vortex-crossfire-hd-4-12x44-richtkijker-verlicht-dead-hold-2a-bdc-dradenkruis-moa-42246197": [
+    "richtkijkers"
+  ],
+  "vortex-golf-laser-afstandmeter-blade-slope-42084011": [
+    "afstandsmeters"
+  ],
+  "vortex-green-dot-crossfire-2-moa-42300007": [
+    "red-dots"
+  ],
   "vortex-razor-hd-moa-dradenkruis-oculair-42100855": [
     "oculairs"
   ],
   "vortex-razor-hd-mrad-dradenkruis-oculair-42100858": [
     "oculairs"
   ],
+  "vortex-red-dot-pro-45-graden-offset-mount-42300062": [
+    "montagebasissen"
+  ],
+  "vortex-richtkijker-amg-1-10x24-ffp-ebr-9-mrad-42263610": [
+    "richtkijkers"
+  ],
+  "vortex-richtkijker-venom-1-6x24-moa-bundel-met-sport-mount-42252505": [
+    "richtkijkers"
+  ],
   "vortex-richtkijker-venom-3-15x44-ffp-ebr-7c-mrad-42252500": [
     "richtkijkers"
   ],
+  "vortex-sport-montageringen-30-mm-extra-hoog-42200310": [
+    "2-delige-montages"
+  ],
   "gerber-knife-paraframe-i-fe": [
     "jachtmessen"
+  ],
+  "iss-pistoolkast-safe4gun-50x50-cm": [
+    "wapenkluizen"
+  ],
+  "iss-sonthofen-wapenkast-5-plaatsen": [
+    "wapenkluizen"
   ],
   "wildlutscher-lick-stone-spezial-zout-ma-s": [
     "lokstoffen"
@@ -35306,7 +35405,10 @@
     "knobloch-geweerhouder-voor-terreinvoertuigen",
     "lenz-lithium-pack-rcb-1200-voor-verwarmde-inlegzolen",
     "lenz-lithium-pack-rcb-2000-usb-set-van-2",
-    "lenz-sole-heating-1-0-lithium-pack-rcb-1200"
+    "lenz-sole-heating-1-0-lithium-pack-rcb-1200",
+    "iss-saarbr-cken-burbach-munitiekast-37x37x35-cm",
+    "iss-saarbr-cken-burbach-munitiekast-50x37x35-cm",
+    "iss-saarbr-cken-burbach-munitiekast-90x37x42-cm"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
