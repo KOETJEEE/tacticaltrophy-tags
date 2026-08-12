@@ -165,8 +165,40 @@
   "deerhunter-blouse-canopy-lady": [
     "dames-jachtvesten"
   ],
+  "deerhunter-eagle-fleece-vest": [
+    "jacht-vesten"
+  ],
+  "deerhunter-escape-gezichtsmasker": [
+    "camouflage-kleding",
+    "camouflagekleding-dames",
+    "jacht-petten"
+  ],
   "gerber-knife-paraframe-i-fe": [
     "jachtmessen"
+  ],
+  "hart-reversible-jacket-taunus-3r-j": [
+    "jacht-jassen"
+  ],
+  "hart-reversible-jacket-tulsa-s": [
+    "jacht-jassen"
+  ],
+  "hart-rhon-s-reversible-jacket": [
+    "jacht-jassen"
+  ],
+  "hart-seebuck-jacket": [
+    "jacht-jassen"
+  ],
+  "hart-seebuck-trousers": [
+    "jacht-broeken"
+  ],
+  "highmoor-leren-jasje-met-kraag": [
+    "dames-jachtjassen"
+  ],
+  "highmoor-leren-shirt": [
+    "jacht-jassen"
+  ],
+  "highmoor-leren-veldjas": [
+    "jacht-jassen"
   ],
   "iss-pistoolkast-safe4gun-50x50-cm": [
     "wapenkluizen"
@@ -32170,7 +32202,101 @@
     "craghoppers-nosilife-spry-fleece-jack",
     "craghoppers-shirt-kiwi-ii",
     "craghoppers-shorts-nosilife-kadin",
-    "craghoppers-troyer-nosilife-solarshield"
+    "craghoppers-troyer-nosilife-solarshield",
+    "hart-sweatshirt-branded-h-wild-hea",
+    "hart-t-shirt-ground",
+    "hart-taunus-3-t-trousers",
+    "heim-autostoelhoes",
+    "heim-classic-hondenbed",
+    "heim-fleecedeken-kookbestendig",
+    "heim-halster-edelweiss",
+    "heim-hondenmat",
+    "herbertz-damascus-belt-knife",
+    "herbertz-olive-pocket-saw",
+    "herbertz-outdoor-knife-olive-wood",
+    "highmoor-2-button-herringbone-jasje",
+    "highmoor-2-knoops-jasje",
+    "highmoor-argyle-cardigan",
+    "highmoor-argyle-trui",
+    "highmoor-argyle-vest",
+    "highmoor-blackwatch-blazer",
+    "highmoor-blazer",
+    "highmoor-blouse-met-lange-mouwen",
+    "highmoor-blouse-top-madeira-kant",
+    "highmoor-blouses-in-a-double-pack",
+    "highmoor-blouses-3-pack",
+    "highmoor-braid-troyer",
+    "highmoor-cardigan-met-bladborduursel",
+    "highmoor-cardigan-met-leren-details",
+    "highmoor-casual-blouse-met-strik",
+    "highmoor-check-blazer",
+    "highmoor-check-rok",
+    "highmoor-check-jasje",
+    "highmoor-chunky-knit-cardigan",
+    "highmoor-collarless-leren-jas",
+    "highmoor-coltrui",
+    "highmoor-dubbelpack-v-hals-truien",
+    "highmoor-flared-tweed-rok",
+    "highmoor-floral-rok",
+    "highmoor-gebreid-jurk-met-ronde-hals",
+    "highmoor-gebreide-cardigan-met-borduurwerk",
+    "highmoor-gebreide-poncho-met-col",
+    "highmoor-gehrock",
+    "highmoor-geruite-blazer-royal-blue",
+    "highmoor-gestreepte-blouse",
+    "highmoor-herringbone-blazer",
+    "highmoor-herringbone-jas",
+    "highmoor-herringbone-jasje",
+    "highmoor-herringbone-jasje-met-fluweelen-details",
+    "highmoor-herringbone-outdoorjas",
+    "highmoor-herringbone-tweed-blazer",
+    "highmoor-hm-argyle-cardigan-grijs-blauw",
+    "highmoor-hm-argyle-gebreide-jurk-grijs",
+    "highmoor-hm-argyle-pullover-grijs-blauw",
+    "highmoor-hm-blackwatch-broek-marineblauw",
+    "highmoor-hm-blackwatch-jurk-marine",
+    "highmoor-hm-blazer-jas-dennegroen",
+    "highmoor-hm-blazer-geruit-donkerblauw",
+    "highmoor-hm-essentials-jasje-met-patches",
+    "highmoor-hm-geruite-standhals-jas-geruit-blauw-beige",
+    "highmoor-hm-herringbone-tweed-blazer-bra",
+    "highmoor-hm-long-corduroy-skirt-walnoot",
+    "highmoor-hm-shirt-checkered-black-and-green",
+    "highmoor-hm-shirt-geruit-donkerblauw-en-groen",
+    "highmoor-hm-tweed-frock-coat-donkerblauw",
+    "highmoor-hm-tweed-sweater-with-patches-ol",
+    "highmoor-houndstooth-jasje",
+    "highmoor-jacquard-trui",
+    "highmoor-jasje",
+    "highmoor-jurk-korte-mouwen-met-borstzakken",
+    "highmoor-jurk-met-bloemrijke-rok",
+    "highmoor-jurk-met-halflange-mouwen-en-riem",
+    "highmoor-jurk-met-madeliefjesmotief",
+    "highmoor-kort-wollen-rok",
+    "highmoor-korte-rok-met-plooien",
+    "highmoor-lambswool-cardigan",
+    "highmoor-lange-blouse-met-bloemenpatroon",
+    "highmoor-lange-linnen-blouse-met-bloemenpatroon",
+    "highmoor-lederen-jack-met-zakken",
+    "highmoor-lederen-jas",
+    "highmoor-leren-blouson",
+    "highmoor-lightweight-wollen-blazer",
+    "highmoor-linen-skirt",
+    "highmoor-linnen-blouse",
+    "highmoor-linnen-blouse-met-plooien",
+    "highmoor-linnen-blouse-top",
+    "highmoor-linnen-broek",
+    "highmoor-linnen-jasje-met-bloemenprint",
+    "highmoor-linnen-jurk",
+    "highmoor-long-blazer",
+    "highmoor-long-lederen-jas",
+    "highmoor-overhemd-met-lange-mouwen-in-vichy-ruitdessin",
+    "highmoor-overhemd-met-lange-mouwen-tattersall-ruitpatroon",
+    "highmoor-oxford-blouse",
+    "highmoor-oxford-gestreepte-blouse",
+    "highmoor-oxford-shirt",
+    "highmoor-paisley-jurk",
+    "highmoor-parka"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
