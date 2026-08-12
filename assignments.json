@@ -200,6 +200,13 @@
   "highmoor-leren-veldjas": [
     "jacht-jassen"
   ],
+  "hubertus-canvas-broek": [
+    "jacht-broeken"
+  ],
+  "hubertus-omkeerbare-fleece-jas": [
+    "jacht-jassen",
+    "drijfjacht-kleding"
+  ],
   "iss-pistoolkast-safe4gun-50x50-cm": [
     "wapenkluizen"
   ],
@@ -32306,7 +32313,31 @@
     "highmoor-ronde-hals-trui",
     "highmoor-ruitcape-met-franje",
     "highmoor-set-ritsjack-shirt-in-vichy-ruit",
-    "highmoor-set-troyer-geruit-hemd"
+    "highmoor-set-troyer-geruit-hemd",
+    "highmoor-shepherd-s-loden-parka",
+    "highmoor-shirt-dress",
+    "highmoor-shirt-duopack",
+    "highmoor-shirtjurk-met-bloemenpatroon",
+    "highmoor-short-geboilde-wollen-jas",
+    "highmoor-short-lederen-jas",
+    "highmoor-short-round-neck-jacket",
+    "highmoor-short-tweed-jacket",
+    "highmoor-t-shirt-met-ronde-hals",
+    "highmoor-t-shirt-2-pack",
+    "highmoor-troyer",
+    "highmoor-troyer-met-contrasterende-kraag",
+    "highmoor-trui-met-argyle-patroon",
+    "highmoor-tweed-blazer",
+    "highmoor-tweed-blazer-met-loden-contrast",
+    "highmoor-tweed-frock-coat",
+    "highmoor-tweed-jasje",
+    "highmoor-tweed-schede-jurk",
+    "highmoor-v-hals-cardigan",
+    "highmoor-v-hals-trui",
+    "highmoor-v-neck-trui",
+    "highmoor-v-neck-trui-van-lamswolle",
+    "iss-saarbr-cken-burbach-munitiekast-90x37x42-cm",
+    "iss-saarbr-cken-burbach-munitiekast-50x37x35-cm"
   ],
   "_done": [
     "agm-nvg-40-nl1-binoculaire-nachtkijker-goggles-gen2-green-phosphor-121080",
