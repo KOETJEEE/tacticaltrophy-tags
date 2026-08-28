@@ -10,14 +10,14 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "flag-odin-night-vision-630x900-5792"
   ],
-  "heim-lederen-riem": [
-    "hondenlijnen-leibanden"
+  "agm-taipan-v2-19-320-warmtebeeldcamera-121314": [
+    "warmtebeeld"
   ],
-  "meindl-dames-laarzen-trento-gtx": [
-    "dames-jachtschoenen"
+  "caso-keukenweegschaal-eco-master": [
+    "portioneerweegschalen"
   ],
-  "herbertz-g-rtelmes-sandelwood": [
-    "jachtmessen"
+  "ledlenser-bag-leather-voor-ledlenser-zaklantaarns": [
+    "zaklampen-hoofdlampen"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
@@ -2876,9 +2876,6 @@
   "allen-cascade-neopreen-geweerdrager": [
     "geweerriemen"
   ],
-  "allen-citadel-qd-sling-swivel": [
-    "riembeugels"
-  ],
   "allen-combat-tactical-foudraal-voor-lange-wapens": [
     "geweertassen-foudralen"
   ],
@@ -3936,9 +3933,6 @@
   "deerhunter-rogaland-softshell-jas": [
     "drijfjacht-kleding"
   ],
-  "deerhunter-rusky-silent-handschoenen": [
-    "jacht-handschoenen"
-  ],
   "deerhunter-softshell-broek-escape-voor-dames": [
     "dames-jachtbroeken"
   ],
@@ -4730,6 +4724,9 @@
   "heim-leather-schouderriem": [
     "hondenlijnen-leibanden"
   ],
+  "heim-lederen-riem": [
+    "hondenlijnen-leibanden"
+  ],
   "heim-leren-riem-rond": [
     "hondenlijnen-leibanden"
   ],
@@ -4920,6 +4917,9 @@
     "jachtmessen"
   ],
   "herbertz-zakmes-herbertz-2-delig-oranje": [
+    "jachtmessen"
+  ],
+  "herbertz-zakmes-herbertz-selection-g10-zwart": [
     "jachtmessen"
   ],
   "herbertz-zakmes-liner-lock-zwart": [
@@ -5286,9 +5286,6 @@
   "ledlenser-r-ckstoffring-voor-zaklampen": [
     "zaklampen-hoofdlampen"
   ],
-  "ledlenser-universele-mount": [
-    "zaklampen-hoofdlampen"
-  ],
   "ledlenser-zaklamp-kidbeam4": [
     "zaklampen-hoofdlampen"
   ],
@@ -5590,6 +5587,9 @@
   "meindl-da-wi-stiefel-novara-gtx-bruin": [
     "jachtschoenen"
   ],
+  "meindl-dames-laarzen-trento-gtx": [
+    "dames-jachtschoenen"
+  ],
   "meindl-dames-laarzen-vacuum-gtx": [
     "dames-jachtschoenen"
   ],
@@ -5824,9 +5824,6 @@
     "slachtmessen-toebehoren"
   ],
   "morakniv-knife-companion-spark": [
-    "slachtmessen-toebehoren"
-  ],
-  "morakniv-knife-kansbol-multi-mount": [
     "slachtmessen-toebehoren"
   ],
   "morakniv-mora-2000": [
@@ -6126,9 +6123,6 @@
   "parforce-active-greensphere-jagershandschoen": [
     "camouflage-kleding",
     "jacht-handschoenen"
-  ],
-  "parforce-active-hoofdband-ruitbreien": [
-    "jachtmusten"
   ],
   "parforce-active-jachtlaarzen": [
     "jachtschoenen"
@@ -13865,9 +13859,6 @@
   "handpomp-snowpeak-30e": [
     "pcp-handpompen"
   ],
-  "magazine-snowpeak-m25w": [
-    "magazijnen"
-  ],
   "magazijn-snowpeak-m40-m50": [
     "magazijnen"
   ],
@@ -20064,6 +20055,9 @@
   "zip-pocket-organizer-set-elite-8979": [
     "admin-pouches"
   ],
+  "allen-citadel-qd-sling-swivel": [
+    "riembeugels"
+  ],
   "ballistol-adapter-voor-1-vilten-17": [
     "schoonmaakborstels"
   ],
@@ -20163,55 +20157,17 @@
   "ballistol-weapon-tow-sucol-hennep-voor-hagelgeweerlopens": [
     "onderhoudshulpmiddelen"
   ],
-  "deerhunter-excape-regenjack": [
-    "jacht-jassen"
+  "deerhunter-rusky-silent-handschoenen": [
+    "jacht-handschoenen"
   ],
-  "geluiddemperadapter-bf-16-4-mm": [
-    "geluiddemperadapters"
+  "ledlenser-universele-mount": [
+    "zaklampen-hoofdlampen"
   ],
-  "grip-ergo-ar10-ar15-o-grip": [
-    "grips"
+  "morakniv-knife-kansbol-multi-mount": [
+    "slachtmessen-toebehoren"
   ],
-  "grip-ergo-air-flat-top": [
-    "grips"
-  ],
-  "grip-ergo-air-tactical-deluxe-flat-top": [
-    "grips"
-  ],
-  "grip-ergo-air-tactical-deluxe-zero-angle-flat-top": [
-    "grips"
-  ],
-  "grip-ergo-air-tactical-deluxe-suregrip-zero-angle": [
-    "grips"
-  ],
-  "grip-plug-ergo-air-tactical-deluxe-zero-angle": [
-    "grips"
-  ],
-  "herbertz-zakmes-herbertz-selection-g10-zwart": [
-    "jachtmessen"
-  ],
-  "herbertz-zakmes-met-wortelhouten-schalen": [
-    "jachtmessen"
-  ],
-  "lens-eagle-vision-4k-m12x0-35-1-1-8-for-gopro-5-6-and-7": [
-    "filmen-opnemen"
-  ],
-  "loose-nordik-barrborn-pro-crow": [
-    "lokfluiten"
-  ],
-  "lpa-sights-visor-tpu-for-cz-75": [
-    "vizieren"
-  ],
-  "mount-wheeler-msr-cantilever-25-4-mm-picatinny": [
-    "1-delige-montages"
-  ],
-  "parforce-active-nature-trekker-lage-schoen": [
-    "jachtschoenen"
-  ],
-  "parforce-dames-omkeerbare-fleecejack-tecl-wood-signaalkleur": [
-    "camouflagekleding-dames",
-    "dames-jachtjassen",
-    "dames-signaalkleding"
+  "parforce-active-hoofdband-ruitbreien": [
+    "jachtmusten"
   ],
   "thermtec-cyclone-315": [
     "warmtebeeld"
@@ -20470,6 +20426,12 @@
     "shirts"
   ],
   "_removed": {
+    "agm-taipan-v2-19-320-warmtebeeldcamera-121314": [
+      "ads-excluded"
+    ],
+    "caso-keukenweegschaal-eco-master": [
+      "ads-excluded"
+    ],
     "cap-donnyfl-fatboy-trucket-hat": [
       "kleding",
       "petten",
