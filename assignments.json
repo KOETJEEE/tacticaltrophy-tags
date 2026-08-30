@@ -10,6 +10,12 @@
     "eva-knee-pad-inserts-pair-genii-grey-517",
     "flag-odin-night-vision-630x900-5792"
   ],
+  "thermtec-h-m52-hunt-eyepiece": [],
+  "thermtec-oryx-l-635": [],
+  "thermtec-oryx-l-650": [],
+  "thermtec-oryx-lr-635": [],
+  "thermtec-oryx-lr-650": [],
+  "thermtec-pbc-4-4v-3200": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "voorzetvergrotingen",
     "nachtzicht-warmtebeeld-accessoires"
@@ -3775,9 +3781,6 @@
   "deerhunter-dames-leggings-lady-hunting": [
     "dames-jachtondergoed"
   ],
-  "deerhunter-dames-muts": [
-    "dames-jachtmutsen"
-  ],
   "deerhunter-dames-winterjacke-eagle": [
     "dames-jachtjassen"
   ],
@@ -3880,9 +3883,6 @@
     "dames-jachtbroeken"
   ],
   "deerhunter-ladies-eagle-damesbroek": [
-    "dames-jachtbroeken"
-  ],
-  "deerhunter-ladies-gabby-anorak": [
     "dames-jachtbroeken"
   ],
   "deerhunter-ladies-jacket-lady-eagle": [
@@ -5665,9 +5665,6 @@
   "meindl-winter-boots-telfs-gtx": [
     "jachtschoenen"
   ],
-  "meindl-winterlaarzen-toblach-gtx": [
-    "jachtschoenen"
-  ],
   "meindl-women-s-winter-boots-toblach-gtx": [
     "jachtschoenen"
   ],
@@ -5821,6 +5818,9 @@
     "slachtmessen-toebehoren"
   ],
   "morakniv-knife-companion-spark": [
+    "slachtmessen-toebehoren"
+  ],
+  "morakniv-knife-kansbol-multi-mount": [
     "slachtmessen-toebehoren"
   ],
   "morakniv-mora-2000": [
@@ -8276,9 +8276,6 @@
   "chassis-rome-motus-tikka-t1x": [
     "chassis"
   ],
-  "chassis-saber-tactical-fx-drs-grey": [
-    "chassis"
-  ],
   "chassis-saber-tactical-fx-panthera-dynamic-king-bronze": [
     "chassis"
   ],
@@ -8946,9 +8943,6 @@
   "rookgranaat-enola-gaye-tp40-green": [
     "rookgranaten"
   ],
-  "rookgranaat-enola-gaye-tp40-orange": [
-    "rookgranaten"
-  ],
   "rookgranaat-enola-gaye-tp40-pink": [
     "rookgranaten"
   ],
@@ -9436,9 +9430,6 @@
     "magazijn-toebehoren"
   ],
   "montage-fx-no-limit-25-4-mm-high-dovetail": [
-    "2-delige-montages"
-  ],
-  "mount-fx-no-limit-25-4-mm-high-picatinny": [
     "2-delige-montages"
   ],
   "mount-fx-no-limit-34-mm-high-dovetail": [
@@ -10799,9 +10790,6 @@
   "airgun-slugs-jsb-knock-out-4-5-mm-hp-13-43-grain-178": [
     "luchtdrukwapenmunitie"
   ],
-  "airgun-slugs-jsb-knock-out-5-5-mm-hp-20-83-grain-216": [
-    "luchtdrukwapenmunitie"
-  ],
   "slugs-jsb-knock-out-5-5-mm-25-39-grain": [
     "luchtdrukwapenmunitie"
   ],
@@ -11553,9 +11541,6 @@
   "poetsset-megaline-pistool-1-delig": [
     "schoonmaaksetjes"
   ],
-  "adapter-megaline-1-8-bsw-female-for-cleaning-pellets": [
-    "stokadapters"
-  ],
   "geweerkoffer-megaline-110x25": [
     "wapenkoffers"
   ],
@@ -11577,10 +11562,10 @@
   "poetsset-megaline-geweer-3-delig-4-5-mm-177": [
     "schoonmaaksetjes"
   ],
-  "poetsset-megaline-geweer-3-delig-cal-12-16-20": [
+  "poetsset-megaline-geweer-3-delig": [
     "schoonmaaksetjes"
   ],
-  "poetsset-megaline-geweer-3-delig": [
+  "poetsset-megaline-geweer-3-delig-cal-12-16-20": [
     "schoonmaaksetjes"
   ],
   "pistoolkoffer-megaline-49x27": [
@@ -13470,9 +13455,6 @@
   "pocket-knife-sog-tellus-atk-olive-drab-orange": [
     "vouwmessen"
   ],
-  "pocket-knife-sog-tellus-atk-squid-ink-yellow": [
-    "vouwmessen"
-  ],
   "pocket-knife-sog-terminus-xr-g10-black": [
     "vouwmessen"
   ],
@@ -14663,9 +14645,6 @@
   "spring-prometheus-ms90-aeg": [
     "springs"
   ],
-  "wiring-extension-wolverine-spartan": [
-    "bedrading-schakelaars"
-  ],
   "verstelbaar-vizier-lpa-tpu-black": [
     "vizieren"
   ],
@@ -15431,9 +15410,6 @@
     "oogbescherming"
   ],
   "glasses-wiley-x-recon-captivate-grey-lenses-matte-black-frame": [
-    "oogbescherming"
-  ],
-  "glasses-wiley-x-recon-captivate-polarized-black-mirror-lenses-matte-black-frame": [
     "oogbescherming"
   ],
   "bril-wiley-x-rogue-comm-grey-clear-rust": [
@@ -19462,496 +19438,17 @@
   "zip-pocket-organizer-set-elite-8979": [
     "admin-pouches"
   ],
-  "hunting-stool-wood-3-legged-60-cm-with-steel-feet": [
-    "aanzitstoelen"
-  ],
-  "hunting-stool-wood-4-legged-55-cm": [
-    "aanzitstoelen"
-  ],
-  "accessory-rail-air-marksman-loki-compact-black": [
-    "picatinny-rails"
-  ],
-  "accessory-rails-rome-h10-l55-weaver-picatinny": [
-    "montage-rails"
-  ],
-  "accessory-rail-saber-tactical-arca-swiss-2": [
-    "montage-rails"
-  ],
-  "accessoirerail-saber-tactical-arca-swiss": [
-    "montage-rails"
-  ],
-  "accessoirerail-saber-tactical-fx-impact-extended-picatinny": [
-    "montage-rails"
-  ],
-  "bipod-accu-tac-br-4-g2-arca-swiss": [
-    "bipods"
-  ],
-  "bipod-accu-tac-fc-4-g2-arca-swiss": [
-    "bipods"
-  ],
-  "bipod-accu-tac-fc-5-g2-arca-swiss": [
-    "bipods"
-  ],
-  "bipod-accu-tac-sr-5-g2-arca-swiss": [
-    "bipods"
-  ],
-  "bipod-accu-tac-wb-4-arca-swiss": [
-    "bipods"
-  ],
-  "adaptor-accu-tac-arca-swiss-mount-qd": [
-    "bipod-toebehoren"
-  ],
-  "adapter-nine-reloaded-alpha": [
-    "laadhulpen"
-  ],
-  "adapter-nine-reloaded-echo": [
-    "laadhulpen"
-  ],
-  "adapter-plate-g-g-rmr-for-stp45": [
-    "airsoft-diversen"
-  ],
-  "adapter-plate-walther-fixlock-aimpoint-coa": [
-    "montagebasissen"
-  ],
-  "slugs-aea-exact-cnc-11-4-mm-196-grain-457": [
-    "luchtdrukwapenmunitie"
-  ],
-  "slugs-aea-exact-cnc-12-7-mm-225-grain-495": [
-    "luchtdrukwapenmunitie"
-  ],
-  "slugs-aea-exact-cnc-14-73-mm-398-grain-58": [
-    "luchtdrukwapenmunitie"
-  ],
-  "slugs-aea-exact-cnc-18-3-mm-500-grain-727": [
-    "luchtdrukwapenmunitie"
-  ],
-  "slugs-aea-exact-cnc-18-3-mm-850-grain-727": [
-    "luchtdrukwapenmunitie"
-  ],
-  "cleaning-cord-airmarksman": [
-    "reinigingskoorden"
-  ],
-  "allen-citadel-qd-sling-swivel": [
-    "riembeugels"
-  ],
-  "anti-odor-spray-scent-a-way-max-odorless": [
-    "onderhoudshulpmiddelen",
-    "insectenbescherming"
-  ],
-  "geluiddemper-artemis-pp700s-a-m16": [
-    "geluiddempers"
-  ],
-  "bipod-atlas-v8-bt46-lw17-psr": [
-    "bipods"
-  ],
-  "mount-audere-adversus-34-mm-high-weaver-picatinny": [
-    "1-delige-montages"
-  ],
-  "montage-audere-psr-30-mm-medium-weaver-picatinny": [
-    "2-delige-montages"
-  ],
-  "mount-audere-psr-34-mm-low-weaver-picatinny": [
-    "2-delige-montages"
-  ],
-  "bag-rider-saber-tactical-fx-impact-maverick": [
-    "schoudersteunen"
-  ],
-  "beenholster-platform-amomax-drop-leg": [
-    "holsters-toebehoren"
-  ],
-  "leg-holser-platform-amomax-drop-leg-fde": [
-    "holsters-toebehoren"
-  ],
-  "belt-clip-amomax-fde": [
-    "riemen-bretels"
-  ],
-  "protective-cover-jsb-pellet-box-small": [
-    "beschermkappen"
-  ],
-  "protective-cover-sekhmet-carbon-fiber-for-pressure-gauge-28-mm": [
-    "beschermkappen"
-  ],
-  "bipod-adapter-saber-tactical-34-mm": [
-    "bipod-toebehoren"
-  ],
-  "bipod-spikes-accu-tac-g2": [
-    "bipod-toebehoren"
-  ],
-  "bore-light-birchwood-flexible": [
-    "gereedschap"
-  ],
-  "bluing-birchwood-presto-mag": [
-    "blauwsel"
-  ],
-  "carrying-bag-bog-tripod": [
-    "statieven"
-  ],
-  "schoonmaakborstel-bore-tech-bronze": [
-    "schoonmaakborstels"
-  ],
-  "wollen-kamerborstel-bore-tech-medium": [
-    "schoonmaakborstels"
-  ],
-  "schoonmaakborstel-bore-tech-nylon": [
-    "schoonmaakborstels"
-  ],
-  "schoonmaakborstel-bore-tech-stainless": [
-    "schoonmaakborstels"
-  ],
-  "poetsstok-bore-tech-v-stix-17-20-91-cm": [
-    "schoonmaakstokken"
-  ],
-  "burst-disk-dominator-7-5k": [
-    "persluchtfles-accessoires"
-  ],
-  "geweersteun-caldwell-fire-control-front-rest": [
-    "geweersteunen"
-  ],
-  "schietbril-caldwell-pro-range-glasses": [
-    "oogbescherming"
-  ],
-  "zandzak-caldwell-universal-front-bag-narrow-sporter-gevuld": [
-    "zandzakken"
-  ],
-  "chassis-mdt-xrs-remington-700-sa-black": [
+  "chassis-saber-tactical-fx-drs-grey": [
     "chassis"
   ],
-  "chassis-rome-lorica-r-remington-sa": [
-    "chassis"
+  "deerhunter-dames-muts": [
+    "dames-jachtmutsen"
   ],
-  "chassis-saber-tactical-fx-drs-bronze": [
-    "chassis"
+  "deerhunter-ladies-gabby-anorak": [
+    "dames-jachtbroeken"
   ],
-  "compressor-aea-480-bar": [
-    "compressors"
-  ],
-  "deerhunter-rusky-silent-handschoenen": [
-    "jacht-handschoenen"
-  ],
-  "digitale-manometer-sekhmet-1-8-bsp-black-25-mm-basic": [
-    "manometers"
-  ],
-  "digital-pressure-gauge-sekhmet-pro-gen2-1-8-bsp-28-mm-500-bar": [
-    "manometers"
-  ],
-  "diopter-feinwerkbau-for-air-rifles": [
-    "diopters"
-  ],
-  "geluiddemperverlengstuk-donnyfl-fatboy": [
-    "geluiddemperadapters"
-  ],
-  "mount-eagle-vision-backward-infinity-elevation-adjustable-34-mm-picatinny": [
-    "2-delige-montages"
-  ],
-  "moderator-eagle-vision-sigma-m4-interchangeable-1-2-unf-demper-6-35-mm-25": [
-    "geluiddempers"
-  ],
-  "binocular-element-optics-helix-hd-10x42": [
-    "verrekijkers"
-  ],
-  "element-optics-seeker-laser-rangefinder-module": [
-    "afstandsmeters"
-  ],
-  "rookgranaat-enola-gaye-eg25-blue": [
-    "rookgranaten"
-  ],
-  "rookgranaat-enola-gaye-eg25-green": [
-    "rookgranaten"
-  ],
-  "collets-set-frankford-arsenal-aluminium": [
-    "gereedschap"
-  ],
-  "powder-funnel-kit-frankford-arsenal-aluminium": [
-    "kruittrechters"
-  ],
-  "dielocker-lock-rings-frankford-with-wrench": [
-    "dies"
-  ],
-  "munitiedoos-frankford-arsenal-hinge-top-1005-222-223": [
-    "munitieboxen"
-  ],
-  "herlaadblok-frankford-arsenal-perfect-fit-8-7-62x54": [
-    "herlaadblokken"
-  ],
-  "hand-priming-tool-frankford-arsenal-perfect-seat": [
-    "hand-priming-tools"
-  ],
-  "polijsttrommel-frankford-arsenal-platinum-series-220v": [
-    "polijsttrommels"
-  ],
-  "hulzentrimmer-frankford-arsenal-universal": [
-    "hulzentrimmers"
-  ],
-  "hulzencentrifuge-frankford-arsenal-wet-dry": [
-    "hulzencentrifuges"
-  ],
-  "swage-support-die-frankford-x-10": [
-    "dies"
-  ],
-  "montage-fx-no-limit-30-mm-high-dovetail": [
-    "2-delige-montages"
-  ],
-  "montage-fx-no-limit-30-mm-high-picatinny": [
-    "2-delige-montages"
-  ],
-  "magazine-g-g-arp9-170-rounds-black": [
-    "magazijnen"
-  ],
-  "magazine-g-g-gr16-arp-556-black": [
-    "magazijnen"
-  ],
-  "magazine-g-g-gr16-black": [
-    "magazijnen"
-  ],
-  "magazine-g-g-m4-m16-drum-manual-winding": [
-    "magazijnen"
-  ],
-  "magazijn-g-g-sr25-hi-cap": [
-    "magazijnen"
-  ],
-  "memory-card-hikmicro-sd-32gb": [
-    "geheugenkaarten",
-    "nachtzicht-warmtebeeld-accessoires"
-  ],
-  "moderator-adapter-donnyfl-aea-challenger-m18x1": [
-    "geluiddemperadapters"
-  ],
-  "geluiddemperadapter-donnyfl-artemis-pp700s-a": [
-    "geluiddemperadapters"
-  ],
-  "geluiddemperadapter-donnyfl-jts-airacuda-max": [
-    "geluiddemperadapters"
-  ],
-  "geweersteun-caldwell-lead-sled-3": [
-    "geweersteunen"
-  ],
-  "shooting-rest-caldwell-rock-br-2-rear-rest": [
-    "geweersteunen"
-  ],
-  "gun-safe-griffon-gg-700-e": [
-    "wapenkluizen"
-  ],
-  "gun-safe-griffon-glst-650-k": [
-    "wapenkluizen"
-  ],
-  "gun-safe-griffon-glt-340-k": [
-    "wapenkluizen"
-  ],
-  "gun-safe-griffon-s-25-ep": [
-    "wapenkluizen"
-  ],
-  "grip-pts-compact-aeg-black": [
-    "grips"
-  ],
-  "hand-wipes-birchwood-lead-scrubber": [
-    "onderhoudshulpmiddelen"
-  ],
-  "carry-handle-rome-detachable-picatinny": [
-    "grips"
-  ],
-  "night-vision-scope-hikmicro-cheetah-850-nm-ir": [
-    "nachtzicht-richtkijkers"
-  ],
-  "night-vision-scope-hikmicro-cheetah-lrf-850-nm-ir": [
-    "nachtzicht-richtkijkers"
-  ],
-  "night-vision-scope-hikmicro-cheetah-lrf-clip-on-850-nm-ir-no-reticle": [
-    "voorzetkijkers"
-  ],
-  "hikmicro-habrok-pro-hx60ls-multispectral-binoculars": [
-    "multispectral"
-  ],
-  "hop-up-bucking-g-g-cold-resistant": [
-    "hop-ups"
-  ],
-  "hpa-tank-dominator-68-4500-carbon-1-liter-310-bar-with-pressure-gauge": [
-    "hpa-tanks"
-  ],
-  "luchtdrukkogeltjes-jsb-exact-7-62-mm-44-75-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "luchtdrukkogeltjes-jsb-exact-heavy-7-62-mm-50-15-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "luchtdrukkogeltjes-jsb-hades-6-35-mm-26-54-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "luchtdrukkogeltjes-jsb-hades-bigbox-5-5-mm-15-89-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-pellets-jsb-jumbo-exact-monster-redesigned-shallow-5-52-mm-25-39-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-pellets-jts-dead-center-precision-5-5-mm-20-73-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "klapkolf-artemis-pp700": [
-    "kolven"
-  ],
-  "clay-pigeons-caldwell-claycopter-ufo-glowing-target-110-mm-50-pack": [
-    "kleiduiven"
-  ],
-  "clay-pigeon-trap-caldwell-claycopter-surface-to-air": [
-    "kleiduifmachines"
-  ],
-  "magwell-laugo-arms-alien-aluminium": [
-    "magazijnen"
-  ],
-  "led-kit-caldwell-ballistic-precision-chronograph": [
-    "snelheidsmeters"
-  ],
-  "ledlenser-universele-mount": [
-    "zaklampen-hoofdlampen"
-  ],
-  "barrel-weight-walther-lg400-300-grams": [
-    "loopgewichten"
-  ],
-  "persluchtfles-krale-7-liter-300-bar-met-mde-manometer-en-slang": [
-    "persluchtflessen"
-  ],
-  "magazine-mec-gar-kmr-9x19-mm-19-rounds": [
-    "magazijn-toebehoren"
-  ],
-  "geweerkoffer-megaline-125x25": [
-    "wapenkoffers"
-  ],
-  "pistoolkoffer-megaline-34x24": [
-    "wapenkoffers"
-  ],
-  "mounting-rail-audere-remington-700-sa-30-moa": [
-    "picatinny-rails"
-  ],
-  "mounting-rail-rome-tikka-t3x-20-moa-weaver-picatinny": [
-    "picatinny-rails"
-  ],
-  "morakniv-knife-kansbol-multi-mount": [
-    "slachtmessen-toebehoren"
-  ],
-  "muzzle-brake-audere-imperium-5-8x24": [
-    "mondingsremmen"
-  ],
-  "muzzle-brake-audere-imperium-m15x1": [
-    "mondingsremmen"
-  ],
-  "muzzle-brake-audere-quarter-stroke-1-2x28": [
-    "mondingsremmen"
-  ],
-  "muzzle-brake-walther-qca-rs3": [
-    "mondingsremmen"
-  ],
-  "slugs-nielsen-5-5-mm-hpdb-17-5-grain-217": [
-    "luchtdrukwapenmunitie"
-  ],
-  "eyepiece-hikmicro-thunder-2-0": [
-    "oculairs"
-  ],
-  "rifle-scope-optisan-cp-10x32p-mh10": [
-    "richtkijkers"
-  ],
-  "paddle-holster-amomax-beretta-92-black-right": [
-    "holsters-toebehoren"
-  ],
-  "paddle-holster-amomax-hi-capa-2011-fde-right": [
-    "holsters-toebehoren"
-  ],
-  "paddle-holster-amomax-per-fit-universal-left": [
-    "holsters-toebehoren"
-  ],
-  "paddle-holster-amomax-per-fit-universal-fde-right": [
-    "holsters-toebehoren"
-  ],
-  "paddle-holster-amomax-glock-17-19-red-dot": [
-    "holsters-toebehoren"
-  ],
-  "parforce-active-hoofdband-ruitbreien": [
-    "jachtmusten"
-  ],
-  "patch-jtg-3d-pvc-what-can-i-do-to-piss-you-off-today": [
-    "patches"
-  ],
-  "persluchtcilinder-feinwerkbau-lg": [
-    "persluchtcilinders"
-  ],
-  "persluchtcilinder-steyr-lg1-lg10p": [
-    "persluchtcilinders"
-  ],
-  "persluchtcilinder-walther-lp500-carbon": [
-    "persluchtcilinders"
-  ],
-  "picatinny-rail-pts-m-lok-9-slots-black": [
-    "picatinny-rails"
-  ],
-  "luchtdrukkogeltjes-predator-polymag-5-5-mm-16-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "magazine-pts-epm-mid-cap-fde": [
-    "magazijnen"
-  ],
-  "recreatiefschijf-artemis-met-1-visueel": [
-    "schietkaarten"
-  ],
-  "recreatiefschijf-artemis-met-5-visuelen": [
-    "schietkaarten"
-  ],
-  "bipod-rokstad-carbon-fiber-swivel-spring-6-9-inch": [
-    "bipods"
-  ],
-  "mount-rome-decumanus-m1-34-mm-high-weaver-picatinny": [
-    "1-delige-montages"
-  ],
-  "mount-rome-decumanus-m1-qd-34-mm-high-weaver-picatinny": [
-    "1-delige-montages"
-  ],
-  "schietdoel-caldwell-resetting-airgun": [
-    "schietdoelen"
-  ],
-  "schietdoel-snowpeak-met-5-doelen": [
-    "schietdoelen"
-  ],
-  "luchtdrukkogeltjes-hunters-supply-7-62-mm-hp-111-grain-308": [
-    "luchtdrukwapenmunitie"
-  ],
-  "snelkoppeling-foster-female-zwart": [
-    "vulbenodigdheden"
-  ],
-  "snelkoppeling-foster-male": [
-    "vulbenodigdheden"
-  ],
-  "magazine-snowpeak-cp300": [
-    "magazijnen"
-  ],
-  "airgun-pellets-snowpeak-hollow-point-5-5-mm-15-74-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "luchtdrukkogeltjes-snowpeak-pointed-5-5-mm-13-89-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "rubber-balls-snowpeak-rb100-50-19-1-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-pellets-snowpeak-round-4-5-mm-8-33-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-pellets-snowpeak-round-5-5-mm-15-9-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-pellets-snowpeak-round-5-5-mm-15-90-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-pellets-snowpeak-round-9-mm-80-87-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "luchtdrukkogeltjes-snowpeak-wadcutter-4-5-mm-7-72-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "speedloader-pts-odin-m12-sidewinder-black": [
-    "airsoft-speedloaders"
-  ],
-  "speedloader-pts-odin-m12-sidewinder-od-green": [
-    "airsoft-speedloaders"
-  ],
-  "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-m-710026": [
-    "camouflage-kleding"
+  "meindl-winterlaarzen-toblach-gtx": [
+    "jachtschoenen"
   ],
   "thermtec-cyclone-315": [
     "warmtebeeld"
@@ -20001,128 +19498,17 @@
   "thermtec-wild-650l-pro": [
     "warmtebeeld"
   ],
-  "reinigingshaakjes-tipton-gun-cleaning-picks-rvs": [
-    "gereedschap"
-  ],
-  "magazine-tokyo-marui-m4a1-mws": [
-    "magazijnen"
-  ],
-  "training-system-mantis-black-beard-ar15-red": [
-    "trainingssystemen"
-  ],
-  "trigger-lock-pin-laylax-tokyo-marui-sopmod-m4": [
-    "airsoft-diversen"
-  ],
   "tripod-two-vets-qdt-v2-ls1": [
     "statieven"
   ],
   "tripod-two-vets-recon-v2-ls1": [
     "statieven"
   ],
-  "tripod-ulfhednar-with-ballhead-arca-style-20-kg": [
-    "statieven"
+  "wiring-extension-wolverine-spartan": [
+    "bedrading-schakelaars"
   ],
-  "rubberballs-umarex-t4e-practice-rub-50-19-grain": [
-    "luchtdrukwapenmunitie"
-  ],
-  "montage-utg-quick-detach-lock-25-4mm-high-weaver": [
-    "2-delige-montages"
-  ],
-  "rifle-scope-vector-optics-continental-2-12x50": [
-    "richtkijkers"
-  ],
-  "red-dot-vector-optics-frenzy-1x24x29-genii": [
-    "red-dots"
-  ],
-  "vet-feinwerkbau-4-gr": [
-    "olien-vetten"
-  ],
-  "grease-gun-butter-trigger-locking-lug": [
-    "olien-vetten"
-  ],
-  "victoptics-c1-4x32-etched-glass-prism-rifle-scope": [
-    "richtkijkers"
-  ],
-  "rifle-scope-victoptics-soi-4-12x40-vnm-1-mil": [
-    "richtkijkers"
-  ],
-  "persluchtfles-10-liter-300-bar-met-standaard-kraan": [
-    "persluchtflessen"
-  ],
-  "persluchtfles-7-liter-300-bar-met-standaard-kraan": [
-    "persluchtflessen"
-  ],
-  "vulnippel-artemis-snowpeak-m11-m22-m25-m40-m50-pp700-pp750": [
-    "vulbenodigdheden"
-  ],
-  "walkie-talkie-attachment-walker-s-razor-electronic": [
-    "portofoons"
-  ],
-  "detergent-scent-a-way-max-odorless": [
-    "onderhoudshulpmiddelen"
-  ],
-  "sight-tool-wheeler-digital-alignment-system-reti-level": [
-    "gereedschap"
-  ],
-  "torque-wrench-set-wheeler-fat-professional-100-piece": [
-    "gereedschap"
-  ],
-  "schroevendraaierset-wheeler-professional-gunsmith-hex-torx-metric-inch-p-handle-set-30-delig": [
-    "gereedschap"
-  ],
-  "mount-wheeler-sporter-bi-weaver-30-mm-medium-picatinny": [
-    "2-delige-montages"
-  ],
-  "bril-wiley-x-saber-adv-smoke-rust-vermillion": [
+  "glasses-wiley-x-recon-captivate-polarized-black-mirror-lenses-matte-black-frame": [
     "oogbescherming"
-  ],
-  "wind-meter-tempest-weatherflow-weathermeter-precision-shooting": [
-    "windmeters"
-  ],
-  "magazine-wolverine-mtw-epm-pts-m4": [
-    "magazijn-pouches"
-  ],
-  "airgun-slugs-zan-projectiles-elr-hp-5-5-mm-33-grain-22": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-4-5-mm-hp-10-grain-177": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-4-5-mm-hp-sample-pack-10-13-16-20-grain-177": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-4-5-mm-hp-22-grain-177": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-4-5-mm-hp-24-grain-177": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-6-41-mm-hp-38-grain-253": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-7-62-mm-hp-54-grain-300": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-7-62-mm-hp-51-grain-303": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-hp-hyper-line-4-5-mm-10-grain-177": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-hp-hyper-line-4-5-mm-13-grain-177": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-hp-hyper-line-4-5-mm-16-grain-177": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-hp-hyper-line-5-5-mm-30-5-grain-218": [
-    "luchtdrukwapenmunitie"
-  ],
-  "airgun-slugs-zan-projectiles-hp-hyper-line-5-5-mm-33-grain-218": [
-    "vizieren"
-  ],
-  "airgun-slugs-zan-projectiles-hp-hyper-line-6-35-mm-33-grain-25": [
-    "luchtdrukwapenmunitie"
   ],
   "admin-bag-large-elite-hex-with-velcro-8295": [
     "tassen-rugzakken"
@@ -20879,6 +20265,21 @@
     "deerhunter-thermos-trump-rusky": [
       "ads-excluded"
     ],
+    "hagopur-wild-boar-stop-blauw": [
+      "ads-excluded"
+    ],
+    "highmoor-blouses-in-dubbelset": [
+      "ads-excluded"
+    ],
+    "highmoor-linen-blouse-top": [
+      "ads-excluded"
+    ],
+    "luis-steindl-left-left-cardigan": [
+      "ads-excluded"
+    ],
+    "reitmayer-stand-up-collar-jacket-with-contrast": [
+      "ads-excluded"
+    ],
     "aea-center-punch-diabolo-8-6-mm-338-66-grain-airgun-pellets": [
       "ads-excluded"
     ],
@@ -21224,9 +20625,6 @@
     "service-box-tipton-gun-vise-gen2": [
       "ads-excluded"
     ],
-    "maintenance-stand-tipton-gunvise-universal": [
-      "ads-excluded"
-    ],
     "laser-training-pistol-mantis-titanx": [
       "ads-excluded"
     ],
@@ -21509,88 +20907,10 @@
     "ballhead-two-vets-55mm-dual-tension-w-area-419-arcalock-clamp": [
       "ads-excluded"
     ],
-    "craghoppers-hut-nosilife-outback-ii": [
+    "craghoppers-cap-nosilife-desert-iii": [
       "ads-excluded"
     ],
     "deerhunter-eagle-winterjas": [
-      "ads-excluded"
-    ],
-    "deerhunter-winterjas-excape": [
-      "ads-excluded"
-    ],
-    "front-support-fx-impact-m3-m4": [
-      "ads-excluded"
-    ],
-    "hagopur-wild-boar-stop-blauw": [
-      "ads-excluded"
-    ],
-    "harmonic-barrel-tuner-eagle-vision-universal-black": [
-      "ads-excluded"
-    ],
-    "herbertz-pocket-knife-herbertz-selection-g10-sw": [
-      "ads-excluded"
-    ],
-    "highmoor-blouses-in-dubbelset": [
-      "ads-excluded"
-    ],
-    "highmoor-linen-blouse-top": [
-      "ads-excluded"
-    ],
-    "hikmicro-a7e-action-camera": [
-      "ads-excluded"
-    ],
-    "luis-steindl-left-left-cardigan": [
-      "ads-excluded"
-    ],
-    "charging-cylinder-krale-5-liter-300-bar-with-mde-jubilee-valve": [
-      "ads-excluded"
-    ],
-    "merkel-gear-keiler-tool-vouwmes-hunt-to-survive-editie": [
-      "ads-excluded"
-    ],
-    "metalk-safe-cicogna-gehard-glas": [
-      "ads-excluded"
-    ],
-    "morakniv-eldris-fire-kit-burnt": [
-      "ads-excluded"
-    ],
-    "morakniv-eldris-mes": [
-      "ads-excluded"
-    ],
-    "morakniv-messetas": [
-      "ads-excluded"
-    ],
-    "morakniv-retrofit-kit-voor-survival-kit-garberg-kansbol": [
-      "ads-excluded"
-    ],
-    "mtm-ammo-can-munitietransportdoos": [
-      "ads-excluded"
-    ],
-    "mtm-ammunition-transport-box-can-in-a-can-2-delen": [
-      "ads-excluded"
-    ],
-    "mtm-care-center-schietbaankoffer": [
-      "ads-excluded"
-    ],
-    "mtm-kogeldoos-h50-rm": [
-      "ads-excluded"
-    ],
-    "mtm-munitiedoos-voor-10-verpakkingen-shotgunpatronen": [
-      "ads-excluded"
-    ],
-    "mtm-munitiedoos-voor-20-dozen-hagelpatronen": [
-      "ads-excluded"
-    ],
-    "mtm-muzzle-loader-box": [
-      "ads-excluded"
-    ],
-    "mtm-reinigingskist": [
-      "ads-excluded"
-    ],
-    "mtm-schietsteun-k-zone-ksr-30": [
-      "ads-excluded"
-    ],
-    "mtm-universal-laadplaat": [
       "ads-excluded"
     ],
     "nebo-flashlight-big-larry-2": [
@@ -21599,217 +20919,28 @@
     "nebo-flashlight-franklin-pivot-rc": [
       "ads-excluded"
     ],
-    "nextorch-18650-batterij-met-usb-c": [
-      "ads-excluded"
-    ],
-    "nextorch-clip-lamp-ul10uv-met-uv-licht": [
-      "ads-excluded"
-    ],
     "nextorch-flashlight-holster-v5": [
-      "ads-excluded"
-    ],
-    "nextorch-flashlight-t53-met-kleurwisseling": [
-      "ads-excluded"
-    ],
-    "nextorch-guide-aid-fr2-voor-ta30-max": [
-      "ads-excluded"
-    ],
-    "nextorch-handleiding-ring-voor-nextorch-ta30": [
-      "ads-excluded"
-    ],
-    "nextorch-saint-torch-31": [
-      "ads-excluded"
-    ],
-    "batterij-nuprol-lipo-11-1v-2200mah-triplet-t-plug-deans": [
       "ads-excluded"
     ],
     "opinel-kindermesser-no-07": [
       "ads-excluded"
     ],
-    "opinel-lederetui-collection-france": [
-      "ads-excluded"
-    ],
-    "opinel-mes-no-08-animalia": [
-      "ads-excluded"
-    ],
-    "opinel-mes-no-08-black-oak": [
-      "ads-excluded"
-    ],
-    "opinel-mes-no-08-chaperon": [
-      "ads-excluded"
-    ],
-    "opinel-mes-no-6": [
-      "ads-excluded"
-    ],
-    "opinel-mes-no-7": [
-      "ads-excluded"
-    ],
-    "opinel-mes-no-8": [
-      "ads-excluded"
-    ],
-    "opinel-mes-no-8-met-etui": [
-      "ads-excluded"
-    ],
-    "opinel-mes-nr-10-met-kurkentrekker": [
-      "ads-excluded"
-    ],
-    "opinel-neo7-alpine-donkerbruin": [
-      "ads-excluded"
-    ],
-    "opinel-paddestoel-mes-no-08": [
-      "ads-excluded"
-    ],
-    "opinel-picnic-plus-set-4-delig": [
-      "ads-excluded"
-    ],
-    "opinel-vouwzaag-no-12": [
-      "ads-excluded"
-    ],
-    "opinel-vouwzaag-no-18": [
-      "ads-excluded"
-    ],
-    "opinel-zakmes-opinel-no8-horizon-mosterd-zwart": [
-      "ads-excluded"
-    ],
-    "parforce-active-jachtmes-damascus-legatum": [
-      "ads-excluded"
-    ],
-    "parforce-active-jagdmesser-ibex-olijfhout": [
-      "ads-excluded"
-    ],
     "parforce-active-knife-badger": [
-      "ads-excluded"
-    ],
-    "parforce-active-leren-riem": [
-      "ads-excluded"
-    ],
-    "parforce-combination-foudraal": [
-      "ads-excluded"
-    ],
-    "parforce-decoy-kraai": [
-      "ads-excluded"
-    ],
-    "parforce-essential-signal-regenponcho": [
-      "ads-excluded"
-    ],
-    "parforce-essential-sokken-met-herten-motief": [
-      "ads-excluded"
-    ],
-    "parforce-lokvogel-set-eend-woerd": [
       "ads-excluded"
     ],
     "parforce-rifle-rest-pillow": [
       "ads-excluded"
     ],
-    "parforce-schoonmaakset-voor-lang-en-handvuurwapens": [
-      "ads-excluded"
-    ],
     "parforce-tradition-bashlik-cap": [
-      "ads-excluded"
-    ],
-    "parforce-ultimate-verwarmde-zitplaats": [
-      "ads-excluded"
-    ],
-    "parforce-universal-foudraal": [
       "ads-excluded"
     ],
     "plano-field-box": [
       "ads-excluded"
     ],
-    "plano-foudraal-afsluitbaar": [
-      "ads-excluded"
-    ],
-    "plano-wapenonthoudingsbox": [
-      "ads-excluded"
-    ],
     "polyver-of-sweden-chelsea-boot-sl25": [
       "ads-excluded"
     ],
-    "power-plenum-kit-fx-drs-shp": [
-      "ads-excluded"
-    ],
-    "puma-tec-eenhandsmes-met-clip": [
-      "ads-excluded"
-    ],
-    "qteck-aanvullende-steunpoten-voor-boomzitels": [
-      "ads-excluded"
-    ],
-    "qteck-hochsitz-mst-250": [
-      "ads-excluded"
-    ],
-    "rcbs-automatic-primer-feed": [
-      "ads-excluded"
-    ],
-    "reitmayer-stand-up-collar-jacket-with-contrast": [
-      "ads-excluded"
-    ],
     "rws-4-50mm-diabolo-training-0-53g": [
-      "ads-excluded"
-    ],
-    "spypoint-lithium-accu-spypoint-lit-22-twin-pack": [
-      "ads-excluded"
-    ],
-    "spypoint-lithium-accu-lit-10": [
-      "ads-excluded"
-    ],
-    "spypoint-solar-power-bank-10": [
-      "ads-excluded"
-    ],
-    "stabo-headset-oorkop-vox-microfoon-voor-fc850-fc400-ii": [
-      "ads-excluded"
-    ],
-    "stabo-tafellader-voor-freecomm-850-16": [
-      "ads-excluded"
-    ],
-    "steyr-sport-aanvullingewicht-voor-steyr-luchtgeweer-2-stuks": [
-      "ads-excluded"
-    ],
-    "steyr-sport-vulstuk-voor-steyr-luchtpistolen": [
-      "ads-excluded"
-    ],
-    "stil-crin-brass-brush-shot-pak-van-2": [
-      "ads-excluded"
-    ],
-    "stil-crin-brass-brush-verpakking-van-2": [
-      "ads-excluded"
-    ],
-    "stil-crin-bristle-brush-set-van-2": [
-      "ads-excluded"
-    ],
-    "stil-crin-demper": [
-      "ads-excluded"
-    ],
-    "stil-crin-laphouder": [
-      "ads-excluded"
-    ],
-    "stil-crin-reinigingsset": [
-      "ads-excluded"
-    ],
-    "stil-crin-reinigingsset-voor-geweren-en-kleine-kaliber-geweren": [
-      "ads-excluded"
-    ],
-    "stil-crin-reinigingsset-voor-handvuurwapens": [
-      "ads-excluded"
-    ],
-    "stil-crin-reinigingsset-voor-jachthagelgeweren": [
-      "ads-excluded"
-    ],
-    "stil-crin-reinigingsset-voor-luchtbuks": [
-      "ads-excluded"
-    ],
-    "stil-crin-reinigingsset-voor-o-u-shotguns-en-drillingen": [
-      "ads-excluded"
-    ],
-    "stil-crin-reinigingsstok-voor-jachtgeweren": [
-      "ads-excluded"
-    ],
-    "stil-crin-reinigingsstok-voor-karabijnen": [
-      "ads-excluded"
-    ],
-    "stil-crin-wool-wipers-set-van-2": [
-      "ads-excluded"
-    ],
-    "tatonka-fastening-straps-2-stuks": [
       "ads-excluded"
     ],
     "thermtec-h-m52-hunt-eyepiece": [
@@ -21830,22 +20961,7 @@
     "thermtec-pbc-4-4v-3200": [
       "ads-excluded"
     ],
-    "umarex-4-5mm-diabolo-mosquito-gen2-0-50g-2-500-stuks": [
-      "ads-excluded"
-    ],
-    "umarex-5-50-diabolo-mosquito-gen2-1250-stuks": [
-      "ads-excluded"
-    ],
-    "umarex-5-50mm-diabolo-cobra-gen2-1-1g-1-000-stuks": [
-      "ads-excluded"
-    ],
     "utg-bipod-7-9-inches": [
-      "ads-excluded"
-    ],
-    "utg-bipod-utg-big-bore-9-x-14-inch-alu-zwart": [
-      "ads-excluded"
-    ],
-    "utg-bipod-utg-goliath-6-x-8-inch": [
       "ads-excluded"
     ],
     "vanguard-bipod-eq-precision-1a": [
@@ -21860,18 +20976,6 @@
     "vanguard-bipod-eq-precision-2qs": [
       "ads-excluded"
     ],
-    "vfg-firearm-pocket-reinigingsset": [
-      "ads-excluded"
-    ],
-    "vfg-fun-line-sport-reinigingsstok": [
-      "ads-excluded"
-    ],
-    "vfg-loopschoonmaker-voor-jachtgeweren-comfort": [
-      "ads-excluded"
-    ],
-    "vfg-quick-cleaning-plug-comfort-kaliber-4-5-177": [
-      "ads-excluded"
-    ],
     "vfg-running-cleaner-comfort": [
       "ads-excluded"
     ],
@@ -21884,40 +20988,16 @@
     "vfg-running-cleaner-intensive-lg": [
       "ads-excluded"
     ],
-    "vfg-schoonmaakstok-power-line-profi": [
-      "ads-excluded"
-    ],
     "vfg-shotgun-cleaner-comfort": [
       "ads-excluded"
     ],
     "vfg-shotgun-cleaner-super-intensive": [
       "ads-excluded"
     ],
-    "vfg-shotgun-reinigingsstok": [
-      "ads-excluded"
-    ],
-    "victorinox-classic-sd-precious-alox": [
-      "ads-excluded"
-    ],
-    "victorinox-forester-zakmes": [
-      "ads-excluded"
-    ],
-    "victorinox-huntsman-officierszakmes-15-functies": [
-      "ads-excluded"
-    ],
-    "victorinox-multitool-swiss-tool": [
-      "ads-excluded"
-    ],
     "victorinox-pocket-knife-waiter": [
       "ads-excluded"
     ],
-    "victorinox-pocket-knives-hunter-12-functies": [
-      "ads-excluded"
-    ],
     "victorinox-spartan-pocket-knife-12-functions": [
-      "ads-excluded"
-    ],
-    "slugs-zan-projectiles-hp-hyper-line-7-62-mm-59-grain-30": [
       "ads-excluded"
     ],
     "agm-3x-afocal-vergrootlens-61023xa1-121104": [
@@ -25530,6 +24610,9 @@
     "deerhunter-cap-eagle": [
       "ads-excluded"
     ],
+    "morakniv-knife-kansbol-multi-mount": [
+      "ads-excluded"
+    ],
     "anti-fog-4uad-4uantum-fogg-off-eyewear-spray": [
       "ads-excluded"
     ],
@@ -27447,10 +26530,6 @@
       "kolven",
       "ads-excluded"
     ],
-    "chassis-saber-tactical-fx-drs-grey": [
-      "kolven",
-      "ads-excluded"
-    ],
     "chassis-saber-tactical-fx-panthera-dynamic-king-bronze": [
       "kolven",
       "ads-excluded"
@@ -28323,12 +27402,6 @@
       "schietsport",
       "ads-excluded"
     ],
-    "rookgranaat-enola-gaye-tp40-orange": [
-      "rookgranaten",
-      "airsoft",
-      "schietsport",
-      "ads-excluded"
-    ],
     "rookgranaat-enola-gaye-tp40-pink": [
       "rookgranaten",
       "schietsport",
@@ -28901,10 +27974,6 @@
       "ads-excluded"
     ],
     "montage-fx-no-limit-25-4-mm-high-dovetail": [
-      "montage-accessoires",
-      "ads-excluded"
-    ],
-    "mount-fx-no-limit-25-4-mm-high-picatinny": [
       "montage-accessoires",
       "ads-excluded"
     ],
@@ -30467,9 +29536,6 @@
     "airgun-slugs-jsb-knock-out-4-5-mm-hp-13-43-grain-178": [
       "ads-excluded"
     ],
-    "airgun-slugs-jsb-knock-out-5-5-mm-hp-20-83-grain-216": [
-      "ads-excluded"
-    ],
     "slugs-jsb-knock-out-5-5-mm-25-39-grain": [
       "ads-excluded"
     ],
@@ -31331,10 +30397,6 @@
       "schoonmaak-onderhoud",
       "ads-excluded"
     ],
-    "adapter-megaline-1-8-bsw-female-for-cleaning-pellets": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
     "geweerkoffer-megaline-110x25": [
       "oversize",
       "ads-excluded"
@@ -31363,11 +30425,11 @@
       "schoonmaak-onderhoud",
       "ads-excluded"
     ],
-    "poetsset-megaline-geweer-3-delig-cal-12-16-20": [
+    "poetsset-megaline-geweer-3-delig": [
       "schoonmaak-onderhoud",
       "ads-excluded"
     ],
-    "poetsset-megaline-geweer-3-delig": [
+    "poetsset-megaline-geweer-3-delig-cal-12-16-20": [
       "schoonmaak-onderhoud",
       "ads-excluded"
     ],
@@ -33628,9 +32690,6 @@
     "pocket-knife-sog-tellus-atk-olive-drab-orange": [
       "ads-excluded"
     ],
-    "pocket-knife-sog-tellus-atk-squid-ink-yellow": [
-      "ads-excluded"
-    ],
     "pocket-knife-sog-terminus-xr-g10-black": [
       "ads-excluded"
     ],
@@ -35025,9 +34084,6 @@
     "spring-prometheus-ms90-aeg": [
       "ads-excluded"
     ],
-    "wiring-extension-wolverine-spartan": [
-      "ads-excluded"
-    ],
     "verstelbaar-vizier-lpa-tpu-black": [
       "ads-excluded"
     ],
@@ -35934,9 +34990,6 @@
       "ads-excluded"
     ],
     "glasses-wiley-x-recon-captivate-grey-lenses-matte-black-frame": [
-      "ads-excluded"
-    ],
-    "glasses-wiley-x-recon-captivate-polarized-black-mirror-lenses-matte-black-frame": [
       "ads-excluded"
     ],
     "bril-wiley-x-rogue-comm-grey-clear-rust": [
@@ -42935,615 +41988,8 @@
       "utility-pouches",
       "ads-excluded"
     ],
-    "hunting-stool-wood-3-legged-60-cm-with-steel-feet": [
-      "ads-excluded"
-    ],
-    "hunting-stool-wood-4-legged-55-cm": [
-      "ads-excluded"
-    ],
-    "accessory-rail-air-marksman-loki-compact-black": [
-      "wapen-accessoires",
-      "ads-excluded"
-    ],
-    "accessory-rails-rome-h10-l55-weaver-picatinny": [
-      "picatinny-rails",
-      "ads-excluded"
-    ],
-    "accessory-rail-saber-tactical-arca-swiss-2": [
-      "picatinny-rails",
-      "ads-excluded"
-    ],
-    "accessoirerail-saber-tactical-arca-swiss": [
-      "picatinny-rails",
-      "ads-excluded"
-    ],
-    "accessoirerail-saber-tactical-fx-impact-extended-picatinny": [
-      "picatinny-rails",
-      "ads-excluded"
-    ],
-    "bipod-accu-tac-br-4-g2-arca-swiss": [
-      "ads-excluded"
-    ],
-    "bipod-accu-tac-fc-4-g2-arca-swiss": [
-      "ads-excluded"
-    ],
-    "bipod-accu-tac-fc-5-g2-arca-swiss": [
-      "ads-excluded"
-    ],
-    "bipod-accu-tac-sr-5-g2-arca-swiss": [
-      "ads-excluded"
-    ],
-    "bipod-accu-tac-wb-4-arca-swiss": [
-      "ads-excluded"
-    ],
-    "adaptor-accu-tac-arca-swiss-mount-qd": [
-      "montage-accessoires",
-      "onderhoud",
-      "optiek",
-      "stokadapters",
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "adapter-nine-reloaded-alpha": [
-      "onderhoud",
-      "stokadapters",
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "adapter-nine-reloaded-echo": [
-      "schoonmaak-onderhoud",
-      "stokadapters",
-      "onderhoud",
-      "ads-excluded"
-    ],
-    "adapter-plate-g-g-rmr-for-stp45": [
-      "ads-excluded"
-    ],
-    "adapter-plate-walther-fixlock-aimpoint-coa": [
-      "richtmiddel-accessoires",
-      "ads-excluded"
-    ],
-    "slugs-aea-exact-cnc-11-4-mm-196-grain-457": [
-      "ads-excluded"
-    ],
-    "slugs-aea-exact-cnc-12-7-mm-225-grain-495": [
-      "ads-excluded"
-    ],
-    "slugs-aea-exact-cnc-14-73-mm-398-grain-58": [
-      "ads-excluded"
-    ],
-    "slugs-aea-exact-cnc-18-3-mm-500-grain-727": [
-      "ads-excluded"
-    ],
-    "slugs-aea-exact-cnc-18-3-mm-850-grain-727": [
-      "ads-excluded"
-    ],
-    "cleaning-cord-airmarksman": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "allen-citadel-qd-sling-swivel": [
-      "ads-excluded"
-    ],
-    "anti-odor-spray-scent-a-way-max-odorless": [
-      "insectenwerend",
-      "jacht",
-      "schietsport",
-      "ads-excluded"
-    ],
-    "geluiddemper-artemis-pp700s-a-m16": [
-      "luchtbuks",
-      "luchtbuks-dempers",
-      "ads-excluded"
-    ],
-    "bipod-atlas-v8-bt46-lw17-psr": [
-      "ads-excluded"
-    ],
-    "mount-audere-adversus-34-mm-high-weaver-picatinny": [
-      "montage-accessoires",
-      "ads-excluded"
-    ],
-    "montage-audere-psr-30-mm-medium-weaver-picatinny": [
-      "montage-accessoires",
-      "ads-excluded"
-    ],
-    "mount-audere-psr-34-mm-low-weaver-picatinny": [
-      "montage-accessoires",
-      "ads-excluded"
-    ],
-    "bag-rider-saber-tactical-fx-impact-maverick": [
-      "ads-excluded"
-    ],
-    "beenholster-platform-amomax-drop-leg": [
-      "holsters",
-      "tactical-gear",
-      "ads-excluded"
-    ],
-    "leg-holser-platform-amomax-drop-leg-fde": [
-      "holsters",
-      "tactical-gear",
-      "ads-excluded"
-    ],
-    "belt-clip-amomax-fde": [
-      "belts",
-      "bretels",
-      "kleding",
-      "ads-excluded"
-    ],
-    "protective-cover-jsb-pellet-box-small": [
-      "beschermkappen",
-      "optiek",
-      "ads-excluded"
-    ],
-    "protective-cover-sekhmet-carbon-fiber-for-pressure-gauge-28-mm": [
-      "ads-excluded"
-    ],
-    "bipod-adapter-saber-tactical-34-mm": [
-      "airsoft",
-      "bipods",
-      "jacht",
-      "schietsport",
-      "ads-excluded"
-    ],
-    "bipod-spikes-accu-tac-g2": [
-      "airsoft",
-      "bipods",
-      "jacht",
-      "schietsport",
-      "ads-excluded"
-    ],
-    "bore-light-birchwood-flexible": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "bluing-birchwood-presto-mag": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "carrying-bag-bog-tripod": [
-      "tassen-rugzakken",
-      "rugzakken",
-      "tassen",
-      "ads-excluded"
-    ],
-    "schoonmaakborstel-bore-tech-bronze": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "wollen-kamerborstel-bore-tech-medium": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "schoonmaakborstel-bore-tech-nylon": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "schoonmaakborstel-bore-tech-stainless": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "poetsstok-bore-tech-v-stix-17-20-91-cm": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "burst-disk-dominator-7-5k": [
-      "revisiesets",
-      "wapen-toebehoren",
-      "ads-excluded"
-    ],
-    "geweersteun-caldwell-fire-control-front-rest": [
-      "ads-excluded"
-    ],
-    "schietbril-caldwell-pro-range-glasses": [
-      "ads-excluded"
-    ],
-    "zandzak-caldwell-universal-front-bag-narrow-sporter-gevuld": [
-      "ads-excluded"
-    ],
-    "chassis-mdt-xrs-remington-700-sa-black": [
+    "chassis-saber-tactical-fx-drs-grey": [
       "kolven",
-      "ads-excluded"
-    ],
-    "chassis-rome-lorica-r-remington-sa": [
-      "kolven",
-      "ads-excluded"
-    ],
-    "chassis-saber-tactical-fx-drs-bronze": [
-      "kolven",
-      "ads-excluded"
-    ],
-    "compressor-aea-480-bar": [
-      "ads-excluded"
-    ],
-    "deerhunter-rusky-silent-handschoenen": [
-      "ads-excluded"
-    ],
-    "digitale-manometer-sekhmet-1-8-bsp-black-25-mm-basic": [
-      "ads-excluded"
-    ],
-    "digital-pressure-gauge-sekhmet-pro-gen2-1-8-bsp-28-mm-500-bar": [
-      "ads-excluded"
-    ],
-    "diopter-feinwerkbau-for-air-rifles": [
-      "diopter-toebehoren",
-      "ads-excluded"
-    ],
-    "geluiddemperverlengstuk-donnyfl-fatboy": [
-      "ads-excluded"
-    ],
-    "mount-eagle-vision-backward-infinity-elevation-adjustable-34-mm-picatinny": [
-      "montage-accessoires",
-      "ads-excluded"
-    ],
-    "moderator-eagle-vision-sigma-m4-interchangeable-1-2-unf-demper-6-35-mm-25": [
-      "ads-excluded"
-    ],
-    "binocular-element-optics-helix-hd-10x42": [
-      "ads-excluded"
-    ],
-    "element-optics-seeker-laser-rangefinder-module": [
-      "ads-excluded"
-    ],
-    "rookgranaat-enola-gaye-eg25-blue": [
-      "rookgranaten",
-      "schietsport",
-      "airsoft",
-      "ads-excluded"
-    ],
-    "rookgranaat-enola-gaye-eg25-green": [
-      "rookgranaten",
-      "airsoft",
-      "schietsport",
-      "ads-excluded"
-    ],
-    "collets-set-frankford-arsenal-aluminium": [
-      "herladen",
-      "persen-onderdelen",
-      "ads-excluded"
-    ],
-    "powder-funnel-kit-frankford-arsenal-aluminium": [
-      "ads-excluded"
-    ],
-    "dielocker-lock-rings-frankford-with-wrench": [
-      "herlaadkits",
-      "ads-excluded"
-    ],
-    "munitiedoos-frankford-arsenal-hinge-top-1005-222-223": [
-      "herlaadkits",
-      "ads-excluded"
-    ],
-    "herlaadblok-frankford-arsenal-perfect-fit-8-7-62x54": [
-      "herlaadkits",
-      "ads-excluded"
-    ],
-    "hand-priming-tool-frankford-arsenal-perfect-seat": [
-      "herlaadkits",
-      "ads-excluded"
-    ],
-    "polijsttrommel-frankford-arsenal-platinum-series-220v": [
-      "herlaadkits",
-      "ads-excluded"
-    ],
-    "hulzentrimmer-frankford-arsenal-universal": [
-      "herlaadkits",
-      "ads-excluded"
-    ],
-    "hulzencentrifuge-frankford-arsenal-wet-dry": [
-      "herlaadkits",
-      "ads-excluded"
-    ],
-    "swage-support-die-frankford-x-10": [
-      "persen-onderdelen",
-      "ads-excluded"
-    ],
-    "montage-fx-no-limit-30-mm-high-dovetail": [
-      "montage-accessoires",
-      "ads-excluded"
-    ],
-    "montage-fx-no-limit-30-mm-high-picatinny": [
-      "montage-accessoires",
-      "ads-excluded"
-    ],
-    "magazine-g-g-arp9-170-rounds-black": [
-      "ads-excluded"
-    ],
-    "magazine-g-g-gr16-arp-556-black": [
-      "ads-excluded"
-    ],
-    "magazine-g-g-gr16-black": [
-      "ads-excluded"
-    ],
-    "magazine-g-g-m4-m16-drum-manual-winding": [
-      "ads-excluded"
-    ],
-    "magazijn-g-g-sr25-hi-cap": [
-      "ads-excluded"
-    ],
-    "memory-card-hikmicro-sd-32gb": [
-      "observatie-accessoires",
-      "richtmiddel-accessoires",
-      "optiek",
-      "ads-excluded"
-    ],
-    "moderator-adapter-donnyfl-aea-challenger-m18x1": [
-      "ads-excluded"
-    ],
-    "geluiddemperadapter-donnyfl-artemis-pp700s-a": [
-      "ads-excluded"
-    ],
-    "geluiddemperadapter-donnyfl-jts-airacuda-max": [
-      "ads-excluded"
-    ],
-    "geweersteun-caldwell-lead-sled-3": [
-      "ads-excluded"
-    ],
-    "shooting-rest-caldwell-rock-br-2-rear-rest": [
-      "ads-excluded"
-    ],
-    "gun-safe-griffon-gg-700-e": [
-      "wapenkluizen",
-      "oversize",
-      "ads-excluded"
-    ],
-    "gun-safe-griffon-glst-650-k": [
-      "wapenkluizen",
-      "wapen-accessoires",
-      "oversize",
-      "ads-excluded"
-    ],
-    "gun-safe-griffon-glt-340-k": [
-      "wapenkluizen",
-      "wapen-accessoires",
-      "oversize",
-      "ads-excluded"
-    ],
-    "gun-safe-griffon-s-25-ep": [
-      "wapen-accessoires",
-      "ads-excluded"
-    ],
-    "grip-pts-compact-aeg-black": [
-      "ads-excluded"
-    ],
-    "hand-wipes-birchwood-lead-scrubber": [
-      "doeken",
-      "schoonmaak-onderhoud",
-      "wattenstaafjes",
-      "werkbankmatten",
-      "ads-excluded"
-    ],
-    "carry-handle-rome-detachable-picatinny": [
-      "picatinny-rails",
-      "optiek",
-      "ads-excluded"
-    ],
-    "night-vision-scope-hikmicro-cheetah-850-nm-ir": [
-      "nachtzicht",
-      "ads-excluded"
-    ],
-    "night-vision-scope-hikmicro-cheetah-lrf-850-nm-ir": [
-      "nachtzicht",
-      "ads-excluded"
-    ],
-    "night-vision-scope-hikmicro-cheetah-lrf-clip-on-850-nm-ir-no-reticle": [
-      "ads-excluded"
-    ],
-    "hikmicro-habrok-pro-hx60ls-multispectral-binoculars": [
-      "ads-excluded"
-    ],
-    "hop-up-bucking-g-g-cold-resistant": [
-      "ads-excluded"
-    ],
-    "hpa-tank-dominator-68-4500-carbon-1-liter-310-bar-with-pressure-gauge": [
-      "manometers",
-      "schietsport",
-      "wapen-toebehoren",
-      "ads-excluded"
-    ],
-    "luchtdrukkogeltjes-jsb-exact-7-62-mm-44-75-grain": [
-      "ads-excluded"
-    ],
-    "luchtdrukkogeltjes-jsb-exact-heavy-7-62-mm-50-15-grain": [
-      "ads-excluded"
-    ],
-    "luchtdrukkogeltjes-jsb-hades-6-35-mm-26-54-grain": [
-      "ads-excluded"
-    ],
-    "luchtdrukkogeltjes-jsb-hades-bigbox-5-5-mm-15-89-grain": [
-      "ads-excluded"
-    ],
-    "airgun-pellets-jsb-jumbo-exact-monster-redesigned-shallow-5-52-mm-25-39-grain": [
-      "ads-excluded"
-    ],
-    "airgun-pellets-jts-dead-center-precision-5-5-mm-20-73-grain": [
-      "ads-excluded"
-    ],
-    "klapkolf-artemis-pp700": [
-      "ads-excluded"
-    ],
-    "clay-pigeons-caldwell-claycopter-ufo-glowing-target-110-mm-50-pack": [
-      "ads-excluded"
-    ],
-    "clay-pigeon-trap-caldwell-claycopter-surface-to-air": [
-      "ads-excluded"
-    ],
-    "magwell-laugo-arms-alien-aluminium": [
-      "ads-excluded"
-    ],
-    "led-kit-caldwell-ballistic-precision-chronograph": [
-      "ads-excluded"
-    ],
-    "ledlenser-universele-mount": [
-      "ads-excluded"
-    ],
-    "barrel-weight-walther-lg400-300-grams": [
-      "ads-excluded"
-    ],
-    "persluchtfles-krale-7-liter-300-bar-met-mde-manometer-en-slang": [
-      "ads-excluded"
-    ],
-    "magazine-mec-gar-kmr-9x19-mm-19-rounds": [
-      "ads-excluded"
-    ],
-    "geweerkoffer-megaline-125x25": [
-      "oversize",
-      "ads-excluded"
-    ],
-    "pistoolkoffer-megaline-34x24": [
-      "ads-excluded"
-    ],
-    "mounting-rail-audere-remington-700-sa-30-moa": [
-      "ads-excluded"
-    ],
-    "mounting-rail-rome-tikka-t3x-20-moa-weaver-picatinny": [
-      "ads-excluded"
-    ],
-    "morakniv-knife-kansbol-multi-mount": [
-      "ads-excluded"
-    ],
-    "muzzle-brake-audere-imperium-5-8x24": [
-      "ads-excluded"
-    ],
-    "muzzle-brake-audere-imperium-m15x1": [
-      "ads-excluded"
-    ],
-    "muzzle-brake-audere-quarter-stroke-1-2x28": [
-      "ads-excluded"
-    ],
-    "muzzle-brake-walther-qca-rs3": [
-      "ads-excluded"
-    ],
-    "slugs-nielsen-5-5-mm-hpdb-17-5-grain-217": [
-      "ads-excluded"
-    ],
-    "eyepiece-hikmicro-thunder-2-0": [
-      "ads-excluded"
-    ],
-    "rifle-scope-optisan-cp-10x32p-mh10": [
-      "ads-excluded"
-    ],
-    "paddle-holster-amomax-beretta-92-black-right": [
-      "holsters",
-      "tactical-gear",
-      "ads-excluded"
-    ],
-    "paddle-holster-amomax-hi-capa-2011-fde-right": [
-      "holsters",
-      "tactical-gear",
-      "ads-excluded"
-    ],
-    "paddle-holster-amomax-per-fit-universal-left": [
-      "holsters",
-      "tactical-gear",
-      "ads-excluded"
-    ],
-    "paddle-holster-amomax-per-fit-universal-fde-right": [
-      "holsters",
-      "tactical-gear",
-      "ads-excluded"
-    ],
-    "paddle-holster-amomax-glock-17-19-red-dot": [
-      "holsters",
-      "tactical-gear",
-      "ads-excluded"
-    ],
-    "parforce-active-hoofdband-ruitbreien": [
-      "ads-excluded"
-    ],
-    "patch-jtg-3d-pvc-what-can-i-do-to-piss-you-off-today": [
-      "ads-excluded"
-    ],
-    "persluchtcilinder-feinwerkbau-lg": [
-      "ads-excluded"
-    ],
-    "persluchtcilinder-steyr-lg1-lg10p": [
-      "ads-excluded"
-    ],
-    "persluchtcilinder-walther-lp500-carbon": [
-      "ads-excluded"
-    ],
-    "picatinny-rail-pts-m-lok-9-slots-black": [
-      "ads-excluded"
-    ],
-    "luchtdrukkogeltjes-predator-polymag-5-5-mm-16-grain": [
-      "ads-excluded"
-    ],
-    "magazine-pts-epm-mid-cap-fde": [
-      "ads-excluded"
-    ],
-    "recreatiefschijf-artemis-met-1-visueel": [
-      "ads-excluded"
-    ],
-    "recreatiefschijf-artemis-met-5-visuelen": [
-      "ads-excluded"
-    ],
-    "bipod-rokstad-carbon-fiber-swivel-spring-6-9-inch": [
-      "ads-excluded"
-    ],
-    "mount-rome-decumanus-m1-34-mm-high-weaver-picatinny": [
-      "montage-accessoires",
-      "ads-excluded"
-    ],
-    "mount-rome-decumanus-m1-qd-34-mm-high-weaver-picatinny": [
-      "ads-excluded"
-    ],
-    "schietdoel-caldwell-resetting-airgun": [
-      "ads-excluded"
-    ],
-    "schietdoel-snowpeak-met-5-doelen": [
-      "ads-excluded"
-    ],
-    "luchtdrukkogeltjes-hunters-supply-7-62-mm-hp-111-grain-308": [
-      "ads-excluded"
-    ],
-    "snelkoppeling-foster-female-zwart": [
-      "persluchtfles-accessoires",
-      "ads-excluded"
-    ],
-    "snelkoppeling-foster-male": [
-      "persluchtfles-accessoires",
-      "ads-excluded"
-    ],
-    "magazine-snowpeak-cp300": [
-      "ads-excluded"
-    ],
-    "airgun-pellets-snowpeak-hollow-point-5-5-mm-15-74-grain": [
-      "ads-excluded"
-    ],
-    "luchtdrukkogeltjes-snowpeak-pointed-5-5-mm-13-89-grain": [
-      "ads-excluded"
-    ],
-    "rubber-balls-snowpeak-rb100-50-19-1-grain": [
-      "airsoft",
-      "airsoft-diversen",
-      "schietsport",
-      "ads-excluded"
-    ],
-    "airgun-pellets-snowpeak-round-4-5-mm-8-33-grain": [
-      "ads-excluded"
-    ],
-    "airgun-pellets-snowpeak-round-5-5-mm-15-9-grain": [
-      "ads-excluded"
-    ],
-    "airgun-pellets-snowpeak-round-5-5-mm-15-90-grain": [
-      "ads-excluded"
-    ],
-    "airgun-pellets-snowpeak-round-9-mm-80-87-grain": [
-      "ads-excluded"
-    ],
-    "luchtdrukkogeltjes-snowpeak-wadcutter-4-5-mm-7-72-grain": [
-      "ads-excluded"
-    ],
-    "speedloader-pts-odin-m12-sidewinder-black": [
-      "ads-excluded"
-    ],
-    "speedloader-pts-odin-m12-sidewinder-od-green": [
-      "ads-excluded"
-    ],
-    "stealth-gear-t-shirt-korte-mouw-camo-bosprint-maat-m-710026": [
-      "outdoor-kleding",
-      "stealth-gear",
-      "shirts",
-      "kleding",
       "ads-excluded"
     ],
     "thermtec-cyclone-315": [
@@ -43594,150 +42040,16 @@
     "thermtec-wild-650l-pro": [
       "ads-excluded"
     ],
-    "reinigingshaakjes-tipton-gun-cleaning-picks-rvs": [
-      "ads-excluded"
-    ],
-    "magazine-tokyo-marui-m4a1-mws": [
-      "ads-excluded"
-    ],
-    "training-system-mantis-black-beard-ar15-red": [
-      "jacht",
-      "trainingshalsbanden",
-      "ads-excluded"
-    ],
-    "trigger-lock-pin-laylax-tokyo-marui-sopmod-m4": [
-      "jacht",
-      "schietsport",
-      "wapensloten",
-      "ads-excluded"
-    ],
     "tripod-two-vets-qdt-v2-ls1": [
       "ads-excluded"
     ],
     "tripod-two-vets-recon-v2-ls1": [
       "ads-included"
     ],
-    "tripod-ulfhednar-with-ballhead-arca-style-20-kg": [
+    "wiring-extension-wolverine-spartan": [
       "ads-excluded"
     ],
-    "rubberballs-umarex-t4e-practice-rub-50-19-grain": [
-      "airsoft",
-      "airsoft-diversen",
-      "schietsport",
-      "ads-excluded"
-    ],
-    "montage-utg-quick-detach-lock-25-4mm-high-weaver": [
-      "montage-accessoires",
-      "ads-excluded"
-    ],
-    "rifle-scope-vector-optics-continental-2-12x50": [
-      "ads-excluded"
-    ],
-    "red-dot-vector-optics-frenzy-1x24x29-genii": [
-      "ads-excluded"
-    ],
-    "vet-feinwerkbau-4-gr": [
-      "schoonmaak-onderhoud",
-      "wapenolie",
-      "wapenvet",
-      "ads-excluded"
-    ],
-    "grease-gun-butter-trigger-locking-lug": [
-      "schoonmaak-onderhoud",
-      "wapenolie",
-      "wapenvet",
-      "ads-excluded"
-    ],
-    "victoptics-c1-4x32-etched-glass-prism-rifle-scope": [
-      "ads-excluded"
-    ],
-    "rifle-scope-victoptics-soi-4-12x40-vnm-1-mil": [
-      "ads-excluded"
-    ],
-    "persluchtfles-10-liter-300-bar-met-standaard-kraan": [
-      "ads-excluded"
-    ],
-    "persluchtfles-7-liter-300-bar-met-standaard-kraan": [
-      "ads-excluded"
-    ],
-    "vulnippel-artemis-snowpeak-m11-m22-m25-m40-m50-pp700-pp750": [
-      "persluchtfles-accessoires",
-      "ads-excluded"
-    ],
-    "walkie-talkie-attachment-walker-s-razor-electronic": [
-      "ads-excluded"
-    ],
-    "detergent-scent-a-way-max-odorless": [
-      "ads-excluded"
-    ],
-    "sight-tool-wheeler-digital-alignment-system-reti-level": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "torque-wrench-set-wheeler-fat-professional-100-piece": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "schroevendraaierset-wheeler-professional-gunsmith-hex-torx-metric-inch-p-handle-set-30-delig": [
-      "schoonmaak-onderhoud",
-      "ads-excluded"
-    ],
-    "mount-wheeler-sporter-bi-weaver-30-mm-medium-picatinny": [
-      "montage-accessoires",
-      "ads-excluded"
-    ],
-    "bril-wiley-x-saber-adv-smoke-rust-vermillion": [
-      "ads-excluded"
-    ],
-    "wind-meter-tempest-weatherflow-weathermeter-precision-shooting": [
-      "ads-excluded"
-    ],
-    "magazine-wolverine-mtw-epm-pts-m4": [
-      "airsoft",
-      "magazijnen",
-      "wapen-toebehoren",
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-elr-hp-5-5-mm-33-grain-22": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-4-5-mm-hp-10-grain-177": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-4-5-mm-hp-sample-pack-10-13-16-20-grain-177": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-4-5-mm-hp-22-grain-177": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-4-5-mm-hp-24-grain-177": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-6-41-mm-hp-38-grain-253": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-7-62-mm-hp-54-grain-300": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-7-62-mm-hp-51-grain-303": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-hp-hyper-line-4-5-mm-10-grain-177": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-hp-hyper-line-4-5-mm-13-grain-177": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-hp-hyper-line-4-5-mm-16-grain-177": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-hp-hyper-line-5-5-mm-30-5-grain-218": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-hp-hyper-line-5-5-mm-33-grain-218": [
-      "ads-excluded"
-    ],
-    "airgun-slugs-zan-projectiles-hp-hyper-line-6-35-mm-33-grain-25": [
+    "glasses-wiley-x-recon-captivate-polarized-black-mirror-lenses-matte-black-frame": [
       "ads-excluded"
     ],
     "3m-peltor-veiligheidsbril-securefit-sf-200": [
@@ -44261,9 +42573,6 @@
       "ads-excluded"
     ],
     "collonil-hygi-nespray-voor-wildkamer": [
-      "ads-excluded"
-    ],
-    "craghoppers-cap-nosilife-desert-iii": [
       "ads-excluded"
     ],
     "craghoppers-dames-shorts-nosilife-medina": [
@@ -45541,8 +43850,167 @@
     "mechanix-precision-pro-high-dexterity-grip-handschoenen-bruin-maat-s": [
       "ads-excluded"
     ],
+    "merkel-gear-keiler-tool-vouwmes-hunt-to-survive-editie": [
+      "ads-excluded"
+    ],
+    "metalk-safe-cicogna-gehard-glas": [
+      "ads-excluded"
+    ],
+    "morakniv-eldris-fire-kit-burnt": [
+      "ads-excluded"
+    ],
+    "morakniv-eldris-mes": [
+      "ads-excluded"
+    ],
+    "morakniv-messetas": [
+      "ads-excluded"
+    ],
+    "morakniv-retrofit-kit-voor-survival-kit-garberg-kansbol": [
+      "ads-excluded"
+    ],
+    "mtm-ammo-can-munitietransportdoos": [
+      "ads-excluded"
+    ],
+    "mtm-ammunition-transport-box-can-in-a-can-2-delen": [
+      "ads-excluded"
+    ],
+    "mtm-care-center-schietbaankoffer": [
+      "ads-excluded"
+    ],
+    "mtm-kogeldoos-h50-rm": [
+      "ads-excluded"
+    ],
+    "mtm-munitiedoos-voor-10-verpakkingen-shotgunpatronen": [
+      "ads-excluded"
+    ],
+    "mtm-munitiedoos-voor-20-dozen-hagelpatronen": [
+      "ads-excluded"
+    ],
+    "mtm-muzzle-loader-box": [
+      "ads-excluded"
+    ],
+    "mtm-reinigingskist": [
+      "ads-excluded"
+    ],
+    "mtm-schietsteun-k-zone-ksr-30": [
+      "ads-excluded"
+    ],
+    "mtm-universal-laadplaat": [
+      "ads-excluded"
+    ],
+    "nextorch-18650-batterij-met-usb-c": [
+      "ads-excluded"
+    ],
+    "nextorch-clip-lamp-ul10uv-met-uv-licht": [
+      "ads-excluded"
+    ],
+    "nextorch-flashlight-t53-met-kleurwisseling": [
+      "ads-excluded"
+    ],
+    "nextorch-guide-aid-fr2-voor-ta30-max": [
+      "ads-excluded"
+    ],
+    "nextorch-handleiding-ring-voor-nextorch-ta30": [
+      "ads-excluded"
+    ],
+    "nextorch-saint-torch-31": [
+      "ads-excluded"
+    ],
+    "opinel-lederetui-collection-france": [
+      "ads-excluded"
+    ],
+    "opinel-mes-no-08-animalia": [
+      "ads-excluded"
+    ],
+    "opinel-mes-no-08-black-oak": [
+      "ads-excluded"
+    ],
+    "opinel-mes-no-08-chaperon": [
+      "ads-excluded"
+    ],
+    "opinel-mes-no-6": [
+      "ads-excluded"
+    ],
+    "opinel-mes-no-7": [
+      "ads-excluded"
+    ],
+    "opinel-mes-no-8": [
+      "ads-excluded"
+    ],
+    "opinel-mes-no-8-met-etui": [
+      "ads-excluded"
+    ],
+    "opinel-mes-nr-10-met-kurkentrekker": [
+      "ads-excluded"
+    ],
+    "opinel-neo7-alpine-donkerbruin": [
+      "ads-excluded"
+    ],
+    "opinel-paddestoel-mes-no-08": [
+      "ads-excluded"
+    ],
+    "opinel-picnic-plus-set-4-delig": [
+      "ads-excluded"
+    ],
+    "opinel-vouwzaag-no-12": [
+      "ads-excluded"
+    ],
+    "opinel-vouwzaag-no-18": [
+      "ads-excluded"
+    ],
+    "opinel-zakmes-opinel-no8-horizon-mosterd-zwart": [
+      "ads-excluded"
+    ],
+    "parforce-active-jachtmes-damascus-legatum": [
+      "ads-excluded"
+    ],
+    "parforce-active-jagdmesser-ibex-olijfhout": [
+      "ads-excluded"
+    ],
+    "parforce-active-leren-riem": [
+      "ads-excluded"
+    ],
+    "parforce-combination-foudraal": [
+      "ads-excluded"
+    ],
+    "parforce-decoy-kraai": [
+      "ads-excluded"
+    ],
+    "parforce-essential-signal-regenponcho": [
+      "ads-excluded"
+    ],
+    "parforce-essential-sokken-met-herten-motief": [
+      "ads-excluded"
+    ],
+    "parforce-lokvogel-set-eend-woerd": [
+      "ads-excluded"
+    ],
+    "parforce-schoonmaakset-voor-lang-en-handvuurwapens": [
+      "ads-excluded"
+    ],
+    "parforce-ultimate-verwarmde-zitplaats": [
+      "ads-excluded"
+    ],
+    "parforce-universal-foudraal": [
+      "ads-excluded"
+    ],
     "patch-tiger-blue-tape-pvc-5187": [
       "Equipment and gear > Patches"
+    ],
+    "plano-foudraal-afsluitbaar": [
+      "ads-excluded"
+    ],
+    "plano-wapenonthoudingsbox": [
+      "ads-excluded"
+    ],
+    "puma-tec-eenhandsmes-met-clip": [
+      "ads-excluded"
+    ],
+    "qteck-aanvullende-steunpoten-voor-boomzitels": [
+      "ads-excluded"
+    ],
+    "qteck-hochsitz-mst-250": [
+      "ads-excluded"
     ],
     "reitmayer-bloemenprint-jurk": [
       "ads-excluded"
@@ -45683,8 +44151,29 @@
       "paracord-accessoires",
       "m-tac"
     ],
+    "spypoint-lithium-accu-lit-10": [
+      "ads-excluded"
+    ],
+    "spypoint-lithium-accu-spypoint-lit-22-twin-pack": [
+      "ads-excluded"
+    ],
+    "spypoint-solar-power-bank-10": [
+      "ads-excluded"
+    ],
+    "stabo-headset-oorkop-vox-microfoon-voor-fc850-fc400-ii": [
+      "ads-excluded"
+    ],
+    "stabo-tafellader-voor-freecomm-850-16": [
+      "ads-excluded"
+    ],
     "stealth-gear-bag-hide-710115": [
       "pickup-only"
+    ],
+    "steyr-sport-aanvullingewicht-voor-steyr-luchtgeweer-2-stuks": [
+      "ads-excluded"
+    ],
+    "steyr-sport-vulstuk-voor-steyr-luchtpistolen": [
+      "ads-excluded"
     ],
     "sticker-tactical-girl-3-water-play-5796": [
       "tactical-bags",
@@ -45705,6 +44194,48 @@
       "tactical-bags",
       "m-tac",
       "stickers"
+    ],
+    "stil-crin-brass-brush-shot-pak-van-2": [
+      "ads-excluded"
+    ],
+    "stil-crin-brass-brush-verpakking-van-2": [
+      "ads-excluded"
+    ],
+    "stil-crin-bristle-brush-set-van-2": [
+      "ads-excluded"
+    ],
+    "stil-crin-demper": [
+      "ads-excluded"
+    ],
+    "stil-crin-laphouder": [
+      "ads-excluded"
+    ],
+    "stil-crin-reinigingsset": [
+      "ads-excluded"
+    ],
+    "stil-crin-reinigingsset-voor-geweren-en-kleine-kaliber-geweren": [
+      "ads-excluded"
+    ],
+    "stil-crin-reinigingsset-voor-handvuurwapens": [
+      "ads-excluded"
+    ],
+    "stil-crin-reinigingsset-voor-jachthagelgeweren": [
+      "ads-excluded"
+    ],
+    "stil-crin-reinigingsset-voor-luchtbuks": [
+      "ads-excluded"
+    ],
+    "stil-crin-reinigingsset-voor-o-u-shotguns-en-drillingen": [
+      "ads-excluded"
+    ],
+    "stil-crin-reinigingsstok-voor-jachtgeweren": [
+      "ads-excluded"
+    ],
+    "stil-crin-reinigingsstok-voor-karabijnen": [
+      "ads-excluded"
+    ],
+    "stil-crin-wool-wipers-set-van-2": [
+      "ads-excluded"
     ],
     "t-shirt-937-summer-5720": [
       "Clothing > T-shirts",
@@ -45794,6 +44325,57 @@
       "maattabel-mtac",
       "Polo"
     ],
+    "tatonka-fastening-straps-2-stuks": [
+      "ads-excluded"
+    ],
+    "umarex-4-5mm-diabolo-mosquito-gen2-0-50g-2-500-stuks": [
+      "ads-excluded"
+    ],
+    "umarex-5-50-diabolo-mosquito-gen2-1250-stuks": [
+      "ads-excluded"
+    ],
+    "umarex-5-50mm-diabolo-cobra-gen2-1-1g-1-000-stuks": [
+      "ads-excluded"
+    ],
+    "utg-bipod-utg-big-bore-9-x-14-inch-alu-zwart": [
+      "ads-excluded"
+    ],
+    "utg-bipod-utg-goliath-6-x-8-inch": [
+      "ads-excluded"
+    ],
+    "vfg-firearm-pocket-reinigingsset": [
+      "ads-excluded"
+    ],
+    "vfg-fun-line-sport-reinigingsstok": [
+      "ads-excluded"
+    ],
+    "vfg-loopschoonmaker-voor-jachtgeweren-comfort": [
+      "ads-excluded"
+    ],
+    "vfg-quick-cleaning-plug-comfort-kaliber-4-5-177": [
+      "ads-excluded"
+    ],
+    "vfg-schoonmaakstok-power-line-profi": [
+      "ads-excluded"
+    ],
+    "vfg-shotgun-reinigingsstok": [
+      "ads-excluded"
+    ],
+    "victorinox-classic-sd-precious-alox": [
+      "ads-excluded"
+    ],
+    "victorinox-forester-zakmes": [
+      "ads-excluded"
+    ],
+    "victorinox-huntsman-officierszakmes-15-functies": [
+      "ads-excluded"
+    ],
+    "victorinox-multitool-swiss-tool": [
+      "ads-excluded"
+    ],
+    "victorinox-pocket-knives-hunter-12-functies": [
+      "ads-excluded"
+    ],
     "victorinox-spartan-zakmes-in-noten-hout-10-functies": [
       "ads-excluded"
     ],
@@ -45820,6 +44402,30 @@
     ]
   },
   "_added": {
+    "thermtec-h-m52-hunt-eyepiece": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-oryx-l-635": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-oryx-l-650": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-oryx-lr-635": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-oryx-lr-650": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-pbc-4-4v-3200": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
     "poetsstok-bore-tech-bore-stix-223": [
       "oversize"
     ],
@@ -45951,9 +44557,6 @@
     "rookgranaat-enola-gaye-tp40-green": [
       "age-18"
     ],
-    "rookgranaat-enola-gaye-tp40-orange": [
-      "age-18"
-    ],
     "rookgranaat-enola-gaye-tp40-pink": [
       "age-18"
     ],
@@ -46020,11 +44623,69 @@
     "defence-spray-tw1000-tiw-paint-gel": [
       "populaire-producten"
     ],
-    "rookgranaat-enola-gaye-eg25-blue": [
-      "age-18"
+    "thermtec-cyclone-315": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
     ],
-    "rookgranaat-enola-gaye-eg25-green": [
-      "age-18"
+    "thermtec-cyclone-325": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-cyclone-625": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-cyclops-335l-3-0": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-hunt-335-pro": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-hunt-635-pro": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-hunt-650-pro": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-hunt-650l": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-ibex-335l": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-ventus-635l": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-ventus-650l": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-wild-350d": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-wild-635l-pro": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-wild-650d": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-wild-650dl-pro": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
+    ],
+    "thermtec-wild-650l-pro": [
+      "ads-excluded-google",
+      "ads-excluded-facebook"
     ],
     "magazijn-anschutz-1420-u13-22-lr-10-schots": [
       "permit-wwm"
